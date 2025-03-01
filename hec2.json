@@ -1,0 +1,42 @@
+[
+    {
+        "mainWord": "Sabun",
+        "forbiddenWords": ["Təmizləmək", "Yumaq", "Əl", "Sabun", "Mikrob"]
+    },
+    {
+        "mainWord": "Telefon",
+        "forbiddenWords": ["Zəng", "Danışmaq", "Mobil", "Nömrə", "SMS"]
+    },
+    {
+        "mainWord": "Kitab",
+        "forbiddenWords": ["Oxumaq", "Səhifə", "Yazı", "Müəllif", "Roman"]
+    },
+    {
+        "mainWord": "Futbol",
+        "forbiddenWords": ["Top", "Qapı", "Oyunçu", "Meydança", "Qol"]
+    },
+    {
+        "mainWord": "Çay",
+        "forbiddenWords": ["İçmək", "İsti", "Stəkan", "Şəkər", "Dəmləmək"]
+    },
+    {
+        "mainWord": "Kompüter",
+        "forbiddenWords": ["Klaviatura", "Monitor", "Siçan", "İnternet", "Proqram"]
+    },
+    {
+        "mainWord": "Bazar",
+        "forbiddenWords": ["Alış-veriş", "Məhsul", "Pul", "Satıcı", "Qiymət"]
+    },
+    {
+        "mainWord": "Yağış",
+        "forbiddenWords": ["Su", "Bulud", "Çətir", "Hava", "Damcı"]
+    },
+    {
+        "mainWord": "Həkim",
+        "forbiddenWords": ["Xəstə", "Xəstəxana", "Müalicə", "Dərman", "Resept"]
+    },
+    {
+        "mainWord": "Restoran",
+        "forbiddenWords": ["Yemək", "Masa", "Ofisiant", "Menyu", "Hesab"]
+    }
+]
