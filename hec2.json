@@ -38,5 +38,349 @@
     {
         "mainWord": "Restoran",
         "forbiddenWords": ["Yemək", "Masa", "Ofisiant", "Menyu", "Hesab"]
-    }
+    },
+  {
+    "mainWord": "Kitab",
+    "forbiddenWords": ["Oxumaq", "Səhifə", "Hekayə", "Yazı", "Kağız"]
+  },
+  {
+    "mainWord": "Telefon",
+    "forbiddenWords": ["Zəng", "Mobil", "Danışmaq", "Nömrə", "Ekran"]
+  },
+  {
+    "mainWord": "Kompüter",
+    "forbiddenWords": ["İnternet", "Ekran", "Klaviatura", "Mouse", "Proqram"]
+  },
+  {
+    "mainWord": "Televizor",
+    "forbiddenWords": ["Kanal", "Pult", "Film", "Xəbər", "Ekran"]
+  },
+  {
+    "mainWord": "Maşın",
+    "forbiddenWords": ["Sürmək", "Təkər", "Yol", "Motor", "Yanacaq"]
+  },
+  {
+    "mainWord": "Ev",
+    "forbiddenWords": ["Yaşamaq", "Otaq", "Ailə", "Divar", "Dam"]
+  },
+  {
+    "mainWord": "Məktəb",
+    "forbiddenWords": ["Oxumaq", "Müəllim", "Şagird", "Sinif", "Dərs"]
+  },
+  {
+    "mainWord": "Pul",
+    "forbiddenWords": ["Almaq", "Ödəmək", "Bank", "Qəpik", "Kağız"]
+  },
+  {
+    "mainWord": "Yemək",
+    "forbiddenWords": ["Bişirmək", "Yemək", "Doymaq", "Restoran", "Mətbəx"]
+  },
+  {
+    "mainWord": "Su",
+    "forbiddenWords": ["İçmək", "Susuzluq", "Təmizləmək", "Dəniz", "Hovuz"]
+  },
+  {
+    "mainWord": "Hava",
+    "forbiddenWords": ["Bulud", "Günəş", "Yağış", "Külək", "İsti"]
+  },
+  {
+    "mainWord": "Saat",
+    "forbiddenWords": ["Zaman", "Dəqiqə", "Saniyə", "Əqrəb", "Divar"]
+  },
+  {
+    "mainWord": "Geyim",
+    "forbiddenWords": ["Geyinmək", "Parça", "Şalvar", "Köpək", "Paltar"]
+  },
+  {
+    "mainWord": "Oyun",
+    "forbiddenWords": ["Əyləncə", "Qazanmaq", "Uduzmaq", "Kart", "Zər"]
+  },
+  {
+    "mainWord": "Musiqi",
+    "forbiddenWords": ["Dinləmək", "Not", "Səs", "Alət", "Mahni"]
+  },
+  {
+    "mainWord": "Rəqs",
+    "forbiddenWords": ["Hərəkət", "Musiqi", "Əylənmək", "Oyun", "Bədən"]
+  },
+  {
+    "mainWord": "Şəkil",
+    "forbiddenWords": ["Çəkmək", "Görmək", "Portret", "Kamera", "Yaddaş"]
+  },
+  {
+    "mainWord": "Rəng",
+    "forbiddenWords": ["Qırmızı", "Mavi", "Yaşıl", "Boyamaq", "Göyqurşağı"]
+  },
+  {
+    "mainWord": "İdman",
+    "forbiddenWords": ["Hərəkət", "Oyun", "Qaçmaq", "Top", "Sağlam"]
+  },
+  {
+    "mainWord": "Səyahət",
+    "forbiddenWords": ["Gəzmək", "Təyyarə", "Qatır", "Avtobus", "Yer"]
+  },
+  {
+    "mainWord": "Dost",
+    "forbiddenWords": ["Birlikdə", "Əylənmək", "Kömək", "Söhbət", "Sirdaş"]
+  },
+  {
+    "mainWord": "Ailə",
+    "forbiddenWords": ["Ev", "Valideyn", "Uşaq", "Qardaş", "Bacı"]
+  },
+  {
+    "mainWord": "Sevgi",
+    "forbiddenWords": ["Hiss", "Birlikdə", "Qayğı", "Bərabər", "Ürək"]
+  },
+  {
+    "mainWord": "Gülmək",
+    "forbiddenWords": ["Əylənmək", "Şən", "Zarafat", "Üz", "Səs"]
+  },
+  {
+    "mainWord": "Ağlamaq",
+    "forbiddenWords": ["Kədər", "Göz yaşı", "Hiss", "Pis", "Üz"]
+  },
+  {
+    "mainWord": "Yuxu",
+    "forbiddenWords": ["Gecə", "Yataq", "Dincəlmək", "Xəyal", "Gözlər"]
+  },
+  {
+    "mainWord": "Günəş",
+    "forbiddenWords": ["İsti", "İşıq", "Göy", "Yay", "Dəniz"]
+  },
+  {
+    "mainWord": "Ay",
+    "forbiddenWords": ["Gecə", "Göy", "Ulduz", "Qaranlıq", "İşıq"]
+  },
+  {
+    "mainWord": "Ulduz",
+    "forbiddenWords": ["Göy", "Gecə", "İşıq", "Parlaq", "Kosmos"]
+  },
+  {
+    "mainWord": "Dəniz",
+    "forbiddenWords": ["Su", "Dalğa", "Sahil", "Yay", "Qum"]
+  },
+  {
+    "mainWord": "Torpaq",
+    "forbiddenWords": ["Bitki", "Əkmək", "Çiçək", "Ağac", "Bağ"]
+  },
+  {
+    "mainWord": "Ağac",
+    "forbiddenWords": ["Yarpaq", "Meşə", "Böyük", "Torpaq", "Kölgə"]
+  },
+  {
+    "mainWord": "Çiçək",
+    "forbiddenWords": ["Ətir", "Rəng", "Bitki", "Gül", "Bağ"]
+  },
+  {
+    "mainWord": "Heyvan",
+    "forbiddenWords": ["Pişik", "İt", "Quş", "Vəhşi", "Ev"]
+  },
+  {
+    "mainWord": "Quş",
+    "forbiddenWords": ["Uçmaq", "Səma", "Tük", "Yuva", "Səs"]
+  },
+  {
+    "mainWord": "Balıq",
+    "forbiddenWords": ["Üzmək", "Su", "Dəniz", "Yemək", "Qarmaq"]
+  },
+  {
+    "mainWord": "Böcək",
+    "forbiddenWords": ["Kiçik", "Sürünmək", "Qanad", "Torpaq", "Yaz"]
+  },
+  {
+    "mainWord": "Yaz",
+    "forbiddenWords": ["İsti", "Günəş", "Tətil", "Dəniz", "Təbiət"]
+  },
+  {
+    "mainWord": "Payız",
+    "forbiddenWords": ["Soyuq", "Yarpaq", "Rəng", "Külək", "Yağış"]
+  },
+  {
+    "mainWord": "Qış",
+    "forbiddenWords": ["Soyuq", "Qar", "Buz", "Şaxta", "İsti"]
+  },
+  {
+    "mainWord": "Yaz",
+    "forbiddenWords": ["İsti", "Günəş", "Tətil", "Dəniz", "Təbiət"]
+  },
+  {
+    "mainWord": "Bayraq",
+    "forbiddenWords": ["Ölkə", "Simvol", "Rəng", "Millət", "Dalğalanmaq"]
+  },
+  {
+    "mainWord": "Xəritə",
+    "forbiddenWords": ["Yer", "Göstərmək", "Səyahət", "Kompas", "İstiqamət"]
+  },
+  {
+    "mainWord": "Saat",
+    "forbiddenWords": ["Zaman", "Dəqiqə", "Saniyə", "Əqrəb", "Oyanmaq"]
+  },
+  {
+    "mainWord": "Kofe",
+    "forbiddenWords": ["İçmək", "Səhər", "Oyaq", "Enerji", "Qəhvə"]
+  },
+  {
+    "mainWord": "Çay",
+    "forbiddenWords": ["İçmək", "İsti", "Limon", "Şəkər", "Dincəlmək"]
+  },
+  {
+    "mainWord": "Şirniyyat",
+    "forbiddenWords": ["Şirin", "Dadlı", "Tort", "Piroq", "Şokolad"]
+  },
+  {
+    "mainWord": "Çörək",
+    "forbiddenWords": ["Yemək", "Buğda", "Sobada", "Səhər", "Sandviç"]
+  },
+  {
+    "mainWord": "Süd",
+    "forbiddenWords": ["İçmək", "Sağlam", "İnək", "Səhər", "Kalsium"]
+  },
+  {
+    "mainWord": "Meyvə",
+    "forbiddenWords": ["Yemək", "Vitamin", "Sağlam", "Ağac", "Dadlı"]
+  },
+  {
+    "mainWord": "Tərəvəz",
+    "forbiddenWords": ["Yemək", "Sağlam", "Torpaq", "Vitamin", "Salat"]
+  },
+  {
+    "mainWord": "Həkim",
+    "forbiddenWords": ["Xəstə", "Müayinə", "Dərman", "Sağlamlıq", "Xəstəxana"]
+  },
+  {
+    "mainWord": "Diş Həkimi",
+    "forbiddenWords": ["Diş", "Ağız", "Təmizləmək", "Ağrı", "Gülüş"]
+  },
+  {
+    "mainWord": "Müəllim",
+    "forbiddenWords": ["Məktəb", "Öyrətmək", "Şagird", "Bilik", "Dərs"]
+  },
+  {
+    "mainWord": "Polis",
+    "forbiddenWords": ["Qanun", "Təhlükəsizlik", "Cinayət", "Forma", "Qorumaq"]
+  },
+  {
+    "mainWord": "Yanğınsöndürən",
+    "forbiddenWords": ["Yanğın", "Söndürmək", "Təhlükə", "Xilas etmək", "Su"]
+  },
+  {
+    "mainWord": "İnşaatçı",
+    "forbiddenWords": ["Ev", "Tikmək", "Divar", "Kərpic", "Alət"]
+  },
+  {
+    "mainWord": "Sürücü",
+    "forbiddenWords": ["Maşın", "Sürmək", "Yol", "Sərnişin", "Avtobus"]
+  },
+  {
+    "mainWord": "Ofisiant",
+    "forbiddenWords": ["Restoran", "Yemək", "Sifariş", "Qonaq", "Xidmət"]
+  },
+  {
+    "mainWord": "Satıcı",
+    "forbiddenWords": ["Mağaza", "Satmaq", "Pul", "Müştəri", "Məhsul"]
+  },
+  {
+    "mainWord": "Bərbər",
+    "forbiddenWords": ["Saç", "Kəsmək", "Stil", "Güzgü", "Səliqəli"]
+  },
+  {
+    "mainWord": "Aktyor",
+    "forbiddenWords": ["Səhnə", "Film", "Rol", "Oyun", "Təsvir etmək"]
+  },
+  {
+    "mainWord": "Müğənni",
+    "forbiddenWords": ["Musiqi", "Səs", "Oxumaq", "Səhnə", "Mikrofon"]
+  },
+  {
+    "mainWord": "Rəssam",
+    "forbiddenWords": ["Şəkil", "Boyamaq", "Fırça", "Rəng", "Yaratmaq"]
+  },
+  {
+    "mainWord": "Yazıçı",
+    "forbiddenWords": ["Hekayə", "Kitab", "Söz", "Yazmaq", "Qələm"]
+  },
+  {
+    "mainWord": "Jurnalist",
+    "forbiddenWords": ["Xəbər", "Yazmaq", "Məlumat", "Qəzet", "Reportaj"]
+  },
+  {
+    "mainWord": "Proqramçı",
+    "forbiddenWords": ["Kompüter", "Kod", "Yazmaq", "Proqram", "İnternet"]
+  },
+  {
+    "mainWord": "Mühəndis",
+    "forbiddenWords": ["Layihə", "Yaratmaq", "Texnika", "Plan", "Qurmaq"]
+  },
+  {
+    "mainWord": "Memar",
+    "forbiddenWords": ["Bina", "Dizayn", "Plan", "Çertyoj", "Yaratmaq"]
+  },
+  {
+    "mainWord": "Vətəndaş",
+    "forbiddenWords": ["Ölkə", "Qanun", "Seçki", "Cəmiyyət", "Hüquq"]
+  },
+  {
+    "mainWord": "Səfir",
+    "forbiddenWords": ["Ölkə", "Təmsil etmək", "Diplomatiya", "Sülh", "Danışıqlar"]
+  },
+  {
+    "mainWord": "Hakim",
+    "forbiddenWords": ["Qanun", "Məhkəmə", "Qərar", "Ədalət", "Müdafiə"]
+  },
+  {
+    "mainWord": "Vəkil",
+    "forbiddenWords": ["Qanun", "Müdafiə", "Məhkəmə", "Müştəri", "Hüquq"]
+  },
+  {
+    "mainWord": "Əsgər",
+    "forbiddenWords": ["Ordu", "Qorumaq", "Vətən", "Döyüş", "Forma"]
+  },
+  {
+    "mainWord": "Pilot",
+    "forbiddenWords": ["Təyyarə", "Uçmaq", "Səma", "Sərnişin", "Kabin"]
+  },
+  {
+    "mainWord": "Kosmonavt",
+    "forbiddenWords": ["Kosmos", "Uçmaq", "Planet", "Raket", "Elm"]
+  },
+  {
+    "mainWord": "Dənizçi",
+    "forbiddenWords": ["Gəmi", "Dəniz", "Səyahət", "Dalğa", "Liman"]
+  },
+  {
+    "mainWord": "Balıqçı",
+    "forbiddenWords": ["Balıq", "Tutmaq", "Dəniz", "Qayıq", "Tor"]
+  },
+  {
+    "mainWord": "Fermer",
+    "forbiddenWords": ["Torpaq", "Əkmək", "Bitki", "Heyvan", "Kənd"]
+  },
+  {
+    "mainWord": "Bağban",
+    "forbiddenWords": ["Çiçək", "Bitki", "Bağ", "Qulluq", "Əkmək"]
+  },
+  {
+    "mainWord": "Aşbaz",
+    "forbiddenWords": ["Yemək", "Bişirmək", "Mətbəx", "Restoran", "Dadlı"]
+  },
+  {
+    "mainWord": "Fəhlə",
+    "forbiddenWords": ["İşləmək", "Əmək", "Güc", "Alət", "Zavod"]
+  },
+  {
+    "mainWord": "Mədənçi",
+    "forbiddenWords": ["Mədən", "Kömür", "Qazmaq", "Torpaq", "Dərin"]
+  },
+  {
+    "mainWord": "Elm adamı",
+    "forbiddenWords": ["Elm", "Araşdırmaq", "Laboratoriya", "Təcrübə", "Bilik"]
+  },
+  {
+    "mainWord": "Tədqiqatçı",
+    "forbiddenWords": ["Elm", "Araşdırmaq", "Məlumat", "Axtarmaq", "Kəşf"]
+  },
+  {
+    "mainWord": "Arxeoloq",
+    "forbiddenWords": ["Qazmaq", "Qədim", "Tarix", "Tapıntı", "Keçmiş"]
+  }
 ]
