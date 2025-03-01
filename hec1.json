@@ -54,5 +54,1697 @@
   {
     "mainWord": "Psixoloq",
     "forbiddenWords": ["Terapiya", "Duyğu", "Fikir", "Stress", "Xəstə"]
+  },
+  {
+    "mainWord": "Dəri",
+    "forbiddenWords": ["Səpgi", "Qaşıntı", "Krem", "Günəş", "Dermatoloq"]
+  },
+  {
+    "mainWord": "Göz",
+    "forbiddenWords": ["Görmə", "Linza", "Eynək", "Kor", "Oftalmoloq"]
+  },
+  {
+    "mainWord": "Qulaq",
+    "forbiddenWords": ["Eşitmə", "Səs", "Küy", "Tıxac", "Otolorinqoloq"]
+  },
+  {
+    "mainWord": "Burun",
+    "forbiddenWords": ["Qoxu", "Nəfəs", "Axıntı", "Allergiya", "Sinus"]
+  },
+  {
+    "mainWord": "Ağız",
+    "forbiddenWords": ["Diş", "Dil", "Dad", "Tüpürcək", "Stomatoloq"]
+  },
+  {
+    "mainWord": "Diş Həkimi",
+    "forbiddenWords": ["Ağız", "Diş", "Plomb", "Çənə", "Karies"]
+  },
+  {
+    "mainWord": "Mədə",
+    "forbiddenWords": ["Həzm", "Turşu", "Qarın", "Ağrı", "Qastroenteroloq"]
+  },
+  {
+    "mainWord": "Böyrək",
+    "forbiddenWords": ["Sidik", "Su", "Filtr", "Daş", "Nefroloq"]
+  },
+  {
+    "mainWord": "Qaraciyər",
+    "forbiddenWords": ["Detoks", "Sarılıq", "Ferment", "Hepatit", "Alkoqol"]
+  },
+  {
+    "mainWord": "Öd Kisəsi",
+    "forbiddenWords": ["Öd", "Daş", "Həzm", "Yağ", "Xolesistektomiya"]
+  },
+  {
+    "mainWord": "Pankreas",
+    "forbiddenWords": ["Şəkər", "İnsulin", "Ferment", "Diabet", "Pankreatit"]
+  },
+  {
+    "mainWord": "Bağırsaq",
+    "forbiddenWords": ["Nəcis", "Həzm", "Qəbizlik", "İshal", "Kolonoskopiya"]
+  },
+  {
+    "mainWord": "Sidik Kisəsi",
+    "forbiddenWords": ["Sidik", "Tualet", "İnfeksiya", "Uroloq", "Sistit"]
+  },
+  {
+    "mainWord": "Uşaqlıq",
+    "forbiddenWords": ["Doğuş", "Hamiləlik", "Menstruasiya", "Ginekoloq", "Miyom"]
+  },
+  {
+    "mainWord": "Prostat",
+    "forbiddenWords": ["Sidik", "Kişi", "Xərçəng", "Uroloq", "PSA"]
+  },
+  {
+    "mainWord": "Tiroid",
+    "forbiddenWords": ["Hormon", "Metabolizm", "Kökəlmə", "Arıqlama", "Guatr"]
+  },
+  {
+    "mainWord": "Vərəm",
+    "forbiddenWords": ["Öskürək", "Ağciyər", "Bakteriya", "İnfeksiya", "Peyvənd"]
+  },
+  {
+    "mainWord": "Qrip",
+    "forbiddenWords": ["Hərarət", "Burun axması", "Əzginlik", "Virus", "Dərman"]
+  },
+  {
+    "mainWord": "COVID-19",
+    "forbiddenWords": ["Pandemiya", "Virus", "Öskürək", "Mask", "PZR"]
+  },
+  {
+    "mainWord": "Astma",
+    "forbiddenWords": ["Tənəffüs", "Bronx", "Allergiya", "İnhalyator", "Xırıltı"]
+  },
+  {
+    "mainWord": "Siroz",
+    "forbiddenWords": ["Qaraciyər", "Alkoqol", "Hepatit", "Şram", "Sarılıq"]
+  },
+  {
+    "mainWord": "İnfarkt",
+    "forbiddenWords": ["Ürək", "Ağrı", "Damar", "Nəbz", "Kardioloq"]
+  },
+  {
+    "mainWord": "İnsult",
+    "forbiddenWords": ["Beyin", "Qan", "Felç", "Nitq", "Nevroloq"]
+  },
+   {
+    "mainWord": "Osteoporoz",
+    "forbiddenWords": ["Sümük", "Kalsium", "Qırıq", "Yaşlılıq", "Sıxlıq"]
+  },
+  {
+    "mainWord": "Artrit",
+    "forbiddenWords": ["Oynaq", "Ağrı", "Şişkinlik", "İltihab", "Hərəkət"]
+  },
+  {
+    "mainWord": "Revmatizm",
+    "forbiddenWords": ["Otoimmun", "İltihab", "Ağrı", "Oynaq", "Revmatoloq"]
+  },
+  {
+    "mainWord": "Qlaukoma",
+    "forbiddenWords": ["Göz", "Təzyiq", "Görmə", "Korluq", "Oftalmoloq"]
+  },
+  {
+    "mainWord": "Katarakt",
+    "forbiddenWords": ["Göz", "Linza", "Dumanlı", "Əməliyyat", "Görmə"]
+  },
+  {
+    "mainWord": "Şizofreniya",
+    "forbiddenWords": ["Psixoz", "Halüsinasiya", "Düşüncə", "Psixiatr", "Dərman"]
+  },
+  {
+    "mainWord": "Depressiya",
+    "forbiddenWords": ["Kədər", "Ümidsizlik", "Yuxu", "İştaha", "Psixoloq"]
+  },
+  {
+    "mainWord": "Anemiya",
+    "forbiddenWords": ["Qan", "Dəmir", "Halsızlıq", "Solğunluq", "Hemoqlobin"]
+  },
+  {
+    "mainWord": "Leukemiya",
+    "forbiddenWords": ["Xərçəng", "Qan", "Hüceyrə", "Sümük iliyi", "Onkoloq"]
+  },
+  {
+    "mainWord": "Hemorroy",
+    "forbiddenWords": ["Anal", "Qan", "Ağrı", "Qəbizlik", "Damar"]
+  },
+  {
+    "mainWord": "Allergiya",
+    "forbiddenWords": ["Səpgi", "Qaşıntı", "Asqırma", "Histamin", "İmmunitet"]
+  },
+  {
+    "mainWord": "Diabet",
+    "forbiddenWords": ["Şəkər", "İnsulin", "Qan", "Pankreas", "Endokrinoloq"]
+  },
+  {
+    "mainWord": "Obezite",
+    "forbiddenWords": ["Kökəlmə", "Çəki", "Pəhriz", "İdman", "Metabolizm"]
+  },
+  {
+    "mainWord": "Migren",
+    "forbiddenWords": ["Baş ağrısı", "Ürəkbulanma", "İşıq", "Səs", "Nevroloq"]
+  },
+  {
+    "mainWord": "Epilepsiya",
+    "forbiddenWords": ["Nöbet", "Beyin", "Şüur", "Nevroloq", "Antikonvulsan"]
+  },
+  {
+    "mainWord": "Parkinson",
+    "forbiddenWords": ["Titreme", "Hərəkət", "Beyin", "Nevroloq", "Dopamin"]
+  },
+  {
+    "mainWord": "Alzheimer",
+    "forbiddenWords": ["Yaddaş", "Demans", "Beyin", "Yaşlılıq", "Nevroloq"]
+  },
+  {
+    "mainWord": "Skleroz",
+    "forbiddenWords": ["Sinir", "İltihab", "Beyin", "Onurğa", "Nevroloq"]
+  },
+  {
+    "mainWord": "Meningit",
+    "forbiddenWords": ["Beyin", "İltihab", "Hərarət", "Baş ağrısı", "İnfeksiya"]
+  },
+  {
+    "mainWord": "Sepsis",
+    "forbiddenWords": ["Qan", "İnfeksiya", "Şok", "Hərarət", "Bakteriya"]
+  },
+  {
+    "mainWord": "Pnevmoniya",
+    "forbiddenWords": ["Ağciyər", "İltihab", "Öskürək", "Tənəffüs", "İnfeksiya"]
+  },
+  {
+    "mainWord": "Bronxit",
+    "forbiddenWords": ["Bronx", "Öskürək", "Xırıltı", "Tənəffüs", "İltihab"]
+  },
+  {
+    "mainWord": "Sinüzit",
+    "forbiddenWords": ["Burun", "Doluluk", "Baş ağrısı", "İltihab", "Sinus"]
+  },
+  {
+    "mainWord": "Faringit",
+    "forbiddenWords": ["Boğaz", "Ağrı", "Qızartı", "Udqunma", "İltihab"]
+  },
+  {
+    "mainWord": "Laringit",
+    "forbiddenWords": ["Səs", "Boğaz", "Səssizlik", "İltihab", "Səs teli"]
+  },
+  {
+    "mainWord": "Otit",
+    "forbiddenWords": ["Qulaq", "Ağrı", "İltihab", "Uşaq", "İnfeksiya"]
+  },
+  {
+    "mainWord": "Dermatit",
+    "forbiddenWords": ["Dəri", "Qaşıntı", "Qızartı", "İltihab", "Allergiya"]
+  },
+  {
+    "mainWord": "Endokrinoloq",
+    "forbiddenWords": ["Hormon", "Şəkər", "Tiroid", "Diabet", "Metabolizm"]
+  },
+  {
+    "mainWord": "Kardioloq",
+    "forbiddenWords": ["Ürək", "Damar", "Nəbz", "Təzyiq", "EKQ"]
+  },
+  {
+    "mainWord": "Qastroenteroloq",
+    "forbiddenWords": ["Mədə", "Bağırsaq", "Həzm", "Qarın", "Endoskopiya"]
+  },
+  {
+    "mainWord": "Nefroloq",
+    "forbiddenWords": ["Böyrək", "Sidik", "Filtr", "Təzyiq", "Dializ"]
+  },
+  {
+    "mainWord": "Pulmonoloq",
+    "forbiddenWords": ["Ağciyər", "Nəfəs", "Astma", "Bronxit", "Spirometriya"]
+  },
+  {
+    "mainWord": "Nevroloq",
+    "forbiddenWords": ["Beyin", "Sinir", "Baş ağrısı", "Epilepsiya", "MRT"]
+  },
+  {
+    "mainWord": "Psixiatr",
+    "forbiddenWords": ["Psixi", "Dərman", "Terapiya", "Depressiya", "Şizofreniya"]
+  },
+  {
+    "mainWord": "Ginekoloq",
+    "forbiddenWords": ["Qadın", "Uşaqlıq", "Doğuş", "Hamiləlik", "Pap test"]
+  },
+  {
+    "mainWord": "Uroloq",
+    "forbiddenWords": ["Sidik", "Böyrək", "Prostat", "Kişi", "Sidik kisəsi"]
+  },
+  {
+    "mainWord": "Dermatoloq",
+    "forbiddenWords": ["Dəri", "Səpgi", "Qaşıntı", "Allergiya", "Krem"]
+  },
+  {
+    "mainWord": "Oftalmoloq",
+    "forbiddenWords": ["Göz", "Görmə", "Linza", "Eynək", "Katarakt"]
+  },
+  {
+    "mainWord": "Otolorinqoloq",
+    "forbiddenWords": ["Qulaq", "Burun", "Boğaz", "Eşitmə", "Səs"]
+  },
+  {
+    "mainWord": "Onkoloq",
+    "forbiddenWords": ["Xərçəng", "Şiş", "Kimyaterapiya", "Radioterapiya", "Hüceyrə"]
+  },
+  {
+    "mainWord": "Ortoped",
+    "forbiddenWords": ["Sümük", "Oynaq", "Qırıq", "Gips", "Cərrahiyyə"]
+  },
+  {
+    "mainWord": "Radioloq",
+    "forbiddenWords": ["Şəkil", "Rentgen", "MRT", "Ultrasəs", "Diaqnoz"]
+  },
+  {
+    "mainWord": "Anestezioloq",
+    "forbiddenWords": ["Ağrı", "Yuxu", "Əməliyyat", "Narkoz", "Anesteziya"]
+  },
+  {
+    "mainWord": "Patoloq",
+    "forbiddenWords": ["Hüceyrə", "Toxuma", "Diaqnoz", "Mikroskop", "Biopsiya"]
+  },
+  {
+    "mainWord": "İmmunoloq",
+    "forbiddenWords": ["İmmunitet", "Allergiya", "Xəstəlik", "Peyvənd", "Antitel"]
+  },
+  {
+    "mainWord": "Reanimatoloq",
+    "forbiddenWords": ["Həyat", "Koma", "Reanimasiya", "Nəfəs", "Təzyiq"]
+  },
+  {
+    "mainWord": "Dietoloq",
+    "forbiddenWords": ["Pəhriz", "Yemək", "Kalori", "Çəki", "Sağlamlıq"]
+  },
+  {
+    "mainWord": "Acupunktur",
+    "forbiddenWords": ["İynə", "Enerji", "Çin", "Ağrı", "Meridian"]
+  },
+  {
+    "mainWord": "Homeopatiya",
+    "forbiddenWords": ["Təbii", "Dərman", "Sulu", "Enerji", "Müalicə"]
+  },
+  {
+    "mainWord": "Fizioterapiya",
+    "forbiddenWords": ["Hərəkət", "Əzələ", "Ağrı", "Reabilitasiya", "Məşq"]
+  },
+  {
+    "mainWord": "Loqoped",
+    "forbiddenWords": ["Nitq", "Danışıq", "Kəkələmə", "Uşaq", "Dil"]
+  },
+  {
+    "mainWord": "Podiatr",
+    "forbiddenWords": ["Ayaq", "Dırnaq", "Daban", "Gəzinti", "Düztabanlıq"]
+  },
+  {
+    "mainWord": "Geriatr",
+    "forbiddenWords": ["Yaşlı", "Qocalma", "Xəstəlik", "Yaddaş", "Qulluq"]
+  },
+  {
+    "mainWord": "Hematoloq",
+    "forbiddenWords": ["Qan", "Hüceyrə", "Anemiya", "Leukemiya", "Transfuziya"]
+  },
+  {
+    "mainWord": "Endoskopiya",
+    "forbiddenWords": ["Kamera", "Borucuq", "Mədə", "Bağırsaq", "Müayinə"]
+  },
+  {
+    "mainWord": "Biopsiya",
+    "forbiddenWords": ["Hüceyrə", "Toxuma", "Nümunə", "Mikroskop", "Diaqnoz"]
+  },
+  {
+    "mainWord": "EKQ",
+    "forbiddenWords": ["Ürək", "Nəbz", "Elektrod", "Dalğa", "Kardioloq"]
+  },
+  {
+    "mainWord": "MRT",
+    "forbiddenWords": ["Maqnit", "Şəkil", "Beyin", "Onurğa", "Radioloq"]
+  },
+  {
+    "mainWord": "KT",
+    "forbiddenWords": ["Rentgen", "Şəkil", "Dilim", "Diaqnoz", "Radioloq"]
+  },
+  {
+    "mainWord": "Ultrasəs",
+    "forbiddenWords": ["Dalğa", "Şəkil", "Hamiləlik", "Qarın", "Radioloq"]
+  },
+  {
+    "mainWord": "Rentgen",
+    "forbiddenWords": ["Şüa", "Sümük", "Ağciyər", "Şəkil", "Radioloq"]
+  },
+  {
+    "mainWord": "Antibiotik",
+    "forbiddenWords": ["Bakteriya", "İnfeksiya", "Dərman", "Resept", "Həkim"]
+  },
+  {
+    "mainWord": "Antivirus",
+    "forbiddenWords": ["Virus", "İnfeksiya", "Dərman", "Resept", "Həkim"]
+  },
+  {
+    "mainWord": "Analjezik",
+    "forbiddenWords": ["Ağrı", "Dərman", "Həb", "Resept", "Həkim"]
+  },
+  {
+    "mainWord": "Antidepressant",
+    "forbiddenWords": ["Depressiya", "Dərman", "Psixiatr", "Əhval", "Həb"]
+  },
+  {
+    "mainWord": "Antihistamin",
+    "forbiddenWords": ["Allergiya", "Qaşıntı", "Səpgi", "Dərman", "Həb"]
+  },
+  {
+    "mainWord": "Steroid",
+    "forbiddenWords": ["İltihab", "Hormon", "Əzələ", "Dərman", "Həkim"]
+  },
+  {
+    "mainWord": "Vaksin",
+    "forbiddenWords": ["Peyvənd", "İmmunitet", "Xəstəlik", "Qoruma", "Virus"]
+  },
+  {
+    "mainWord": "Plasebo",
+    "forbiddenWords": ["Həb", "Şəkər", "Effekt", "Psixoloji", "Dərman"]
+  },
+  {
+    "mainWord": "Hipoxondriya",
+    "forbiddenWords": ["Xəstəlik", "Qorxu", "Psixoloji", "Simptom", "Həkim"]
+  },
+  {
+    "mainWord": "Amnesiya",
+    "forbiddenWords": ["Yaddaş", "Unutmaq", "Hadisə", "Travma", "Beyin"]
+  },
+  {
+    "mainWord": "Koma",
+    "forbiddenWords": ["Şüur", "Yuxu", "Reanimasiya", "Həyat", "Beyin"]
+  },
+  {
+    "mainWord": "Travma",
+    "forbiddenWords": ["Yaralanma", "Qəza", "Psixoloji", "Stress", "Hadisə"]
+  },
+  {
+    "mainWord": "Fobiya",
+    "forbiddenWords": ["Qorxu", "Hiss", "Psixoloji", "Qaçmaq", "Obyekt"]
+  },
+  {
+    "mainWord": "Obsessiya",
+    "forbiddenWords": ["Fikir", "Təkrar", "Psixoloji", "Məcburi", "Hərəkət"]
+  },
+  {
+    "mainWord": "Delirium",
+    "forbiddenWords": ["Şüur", "Qarışıqlıq", "Halüsinasiya", "Psixoloji", "Xəstə"]
+  },
+  {
+    "mainWord": "Epidemiya",
+    "forbiddenWords": ["Xəstəlik", "Yayılma", "İnfeksiya", "İnsanlar", "Qlobal"]
+  },
+  {
+    "mainWord": "Pandemiya",
+    "forbiddenWords": ["Virus", "Dünya", "İnfeksiya", "Qlobal", "Səyahət"]
+  },
+  {
+    "mainWord": "Karantin",
+    "forbiddenWords": ["İzolyasiya", "Xəstəlik", "Yayılma", "Ev", "Təcrid"]
+  },
+  {
+    "mainWord": "Simptom",
+    "forbiddenWords": ["Xəstəlik", "Əlamət", "Bədən", "Diaqnoz", "Hiss"]
+  },
+  {
+    "mainWord": "Diaqnoz",
+    "forbiddenWords": ["Xəstəlik", "Müayinə", "Test", "Həkim", "Nəticə"]
+  },
+  {
+    "mainWord": "Proqnoz",
+    "forbiddenWords": ["Gələcək", "Xəstəlik", "Nəticə", "Həkim", "Şans"]
+  },
+  {
+    "mainWord": "Terapiya",
+    "forbiddenWords": ["Müalicə", "Psixoloji", "Fiziki", "Söhbət", "Dərman"]
+  },
+  {
+    "mainWord": "Reabilitasiya",
+    "forbiddenWords": ["Bərpa", "Hərəkət", "Əzələ", "Fizioterapiya", "Sağalma"]
+  },
+  {
+    "mainWord": "Palativ Qulluq",
+    "forbiddenWords": ["Terminal", "Ağrı", "Rahatlıq", "Son", "Xəstəxana"]
+  },
+  {
+    "mainWord": "Etanaziya",
+    "forbiddenWords": ["Ölüm", "Yardım", "Xəstəlik", "Ağrı", "Sonlandırma"]
+  },
+  {
+    "mainWord": "Donor",
+    "forbiddenWords": ["Orqan", "Qan", "Həyat", "Vermək", "Transplantasiya"]
+  },
+  {
+    "mainWord": "Resipiyent",
+    "forbiddenWords": ["Orqan", "Alma", "Həyat", "Transplantasiya", "Xəstə"]
+  },
+  {
+    "mainWord": "Transplantasiya",
+    "forbiddenWords": ["Orqan", "Cərrahiyyə", "Donor", "Həyat", "Alma"]
+  },
+  {
+    "mainWord": "Gen",
+    "forbiddenWords": ["Xromosom", "DNK", "İrsi", "Xüsusiyyət", "Valideyn"]
+  },
+  {
+    "mainWord": "DNK",
+    "forbiddenWords": ["Gen", "Hüceyrə", "İrsi", "Xromosom", "Bədən"]
+  },
+  {
+    "mainWord": "Xromosom",
+    "forbiddenWords": ["Gen", "DNK", "Hüceyrə", "İrsi", "Valideyn"]
+  },
+  {
+    "mainWord": "Mutasiya",
+    "forbiddenWords": ["Gen", "Dəyişiklik", "Xərçəng", "Zərər", "Hüceyrə"]
+  },
+  {
+    "mainWord": "İmmunitet",
+    "forbiddenWords": ["Qoruma", "Xəstəlik", "Antitel", "Peyvənd", "Bədən"]
+  },
+  {
+    "mainWord": "Antitel",
+    "forbiddenWords": ["İmmunitet", "Qoruma", "Virus", "Bakteriya", "Qan"]
+  },
+  {
+    "mainWord": "Allergen",
+    "forbiddenWords": ["Allergiya", "Reaksiya", "Qaşıntı", "Səpgi", "Burun"]
+  },
+  {
+    "mainWord": "Histamin",
+    "forbiddenWords": ["Allergiya", "Qaşıntı", "Səpgi", "Dərman", "Reaksiya"]
+  },
+  {
+    "mainWord": "İltihab",
+    "forbiddenWords": ["Ağrı", "Qızartı", "Şişkinlik", "İsti", "Reaksiya"]
+  },
+  {
+    "mainWord": "Ödem",
+    "forbiddenWords": ["Şişkinlik", "Su", "Toplanma", "Bədən", "Ayaq"]
+  },
+  {
+    "mainWord": "Nekroz",
+    "forbiddenWords": ["Ölüm", "Hüceyrə", "Toxuma", "Qan", "Çatışmazlıq"]
+  },
+  {
+    "mainWord": "Qanaxma",
+    "forbiddenWords": ["Qan", "Damar", "Yara", "Kəsmək", "Zədə"]
+  },
+  {
+    "mainWord": "Hematoma",
+    "forbiddenWords": ["Qan", "Toplanma", "Dəri", "Göyərmə", "Zədə"]
+  },
+  {
+    "mainWord": "Yara",
+    "forbiddenWords": ["Dəri", "Kəsmək", "Qan", "İnfeksiya", "Sağalma"]
+  },
+  {
+    "mainWord": "Çapıq",
+    "forbiddenWords": ["Yara", "Sağalma", "Dəri", "İz", "Qalıcı"]
+  },
+  {
+    "mainWord": "Abses",
+    "forbiddenWords": ["İltihab", "İrin", "Toplanma", "Ağrı", "Bakteriya"]
+  },
+  {
+    "mainWord": "Fistula",
+    "forbiddenWords": ["Kanal", "Birləşmə", "Orqan", "Dəri", "Anormal"]
+  },
+  {
+    "mainWord": "Polip",
+    "forbiddenWords": ["Böyümə", "Toxuma", "Burun", "Bağırsaq", "Xərçəng"]
+  },
+  {
+    "mainWord": "Kista",
+    "forbiddenWords": ["Sıvı", "Toplanma", "Dəri", "Orqan", "Kapsul"]
+  },
+  {
+    "mainWord": "Şiş",
+    "forbiddenWords": ["Böyümə", "Hüceyrə", "Xərçəng", "Bədən", "Kütlə"]
+  },
+  {
+    "mainWord": "Xərçəng",
+    "forbiddenWords": ["Şiş", "Hüceyrə", "Yayılma", "Ölüm", "Müalicə"]
+  },
+  {
+    "mainWord": "Metastaz",
+    "forbiddenWords": ["Xərçəng", "Yayılma", "Orqan", "Hüceyrə", "Uzaq"]
+  },
+  {
+    "mainWord": "Remissiya",
+    "forbiddenWords": ["Xərçəng", "Yaxşılaşma", "Simptom", "Azalma", "Müvəqqəti"]
+  },
+  {
+    "mainWord": "Relaps",
+    "forbiddenWords": ["Xərçəng", "Qayıtma", "Xəstəlik", "Pisləşmə", "Müalicə"]
+  },
+  {
+    "mainWord": "Paliativ",
+    "forbiddenWords": ["Qulluq", "Rahatlıq", "Ağrı", "Terminal", "Müalicə"]
+  },
+  {
+    "mainWord": "Hospis",
+    "forbiddenWords": ["Qulluq", "Ölüm", "Terminal", "Rahatlıq", "Xəstəxana"]
+  },
+  {
+    "mainWord": "Otopsiya",
+    "forbiddenWords": ["Ölüm", "Səbəb", "Müayinə", "Bədən", "Patoloq"]
+  },
+  {
+    "mainWord": "Neyropsixoloji",
+    "forbiddenWords": ["Beyin", "Psixoloji", "Test", "Yaddaş", "Düşüncə"]
+  },
+  {
+    "mainWord": "Bipolar",
+    "forbiddenWords": ["Duyğu", "Əhval", "Dəyişiklik", "Psixiatriya", "Manik"]
+  },
+  {
+    "mainWord": "Borderline",
+    "forbiddenWords": ["Şəxsiyyət", "Duyğu", "Stabil", "Psixoloji", "Əlaqə"]
+  },
+  {
+    "mainWord": "Narsisizm",
+    "forbiddenWords": ["Özünüsevər", "Şəxsiyyət", "Önəmli", "Ehtiyac", "Empatiya"]
+  },
+  {
+    "mainWord": "Sosiopatiya",
+    "forbiddenWords": ["Antisosyal", "Şəxsiyyət", "Empatiya", "Cinayət", "Qanun"]
+  },
+  {
+    "mainWord": "Psixopatiya",
+    "forbiddenWords": ["Təhlükəli", "Şəxsiyyət", "Cinayət", "Empatiya", "Manipulyasiya"]
+  },
+  {
+    "mainWord": "Anoreksiya",
+    "forbiddenWords": ["Yemək", "Çəki", "Qorxu", "Bədən", "Psixoloji"]
+  },
+  {
+    "mainWord": "Bulimiya",
+    "forbiddenWords": ["Yemək", "Təmizləmə", "Çəki", "Gizli", "Psixoloji"]
+  },
+  {
+    "mainWord": "Kompulsiv",
+    "forbiddenWords": ["Təkrar", "Hərəkət", "Məcburi", "Psixoloji", "Narahatlıq"]
+  },
+ {
+    "mainWord": "Akupunktur",
+    "forbiddenWords": ["İynə", "Ağrı", "Enerji", "Çin", "Meridian"]
+  },
+  {
+    "mainWord": "Aromaterapiya",
+    "forbiddenWords": ["Yağ", "Qoxu", "Rahatlıq", "Masaj", "Bitki"]
+  },
+  {
+    "mainWord": "Homeopatiya",
+    "forbiddenWords": ["Dərman", "Sulu", "Təbii", "Enerji", "Müalicə"]
+  },
+  {
+    "mainWord": "Fitoterapiya",
+    "forbiddenWords": ["Bitki", "Dərman", "Təbii", "Sağlamlıq", "Müalicə"]
+  },
+  {
+    "mainWord": "Osteopatiya",
+    "forbiddenWords": ["Sümük", "Əzələ", "Manipulyasiya", "Ağrı", "Müalicə"]
+  },
+  {
+    "mainWord": "Xiroterapiya",
+    "forbiddenWords": ["Onurğa", "Düzəltmə", "Ağrı", "Sinir", "Müalicə"]
+  },
+  {
+    "mainWord": "Refleksologiya",
+    "forbiddenWords": ["Ayaq", "Əl", "Nöqtə", "Enerji", "Masaj"]
+  },
+  {
+    "mainWord": "Ayurveda",
+    "forbiddenWords": ["Hindistan", "Təbii", "Enerji", "Bədən", "Balans"]
+  },
+  {
+    "mainWord": "Tibb bacısı",
+    "forbiddenWords": ["Xəstə", "Qulluq", "Dərman", "Həkim", "Xəstəxana"]
+  },
+  {
+    "mainWord": "Feldşer",
+    "forbiddenWords": ["Kənd", "Təcili", "Yardım", "Həkim", "Tibbi"]
+  },
+  {
+    "mainWord": "Sanitar",
+    "forbiddenWords": ["Təmizlik", "Xəstəxana", "Dezinfeksiya", "Qulluq", "Gigiyena"]
+  },
+  {
+    "mainWord": "Laborant",
+    "forbiddenWords": ["Test", "Qan", "Sidik", "Analiz", "Mikroskop"]
+  },
+  {
+    "mainWord": "Əczaçı",
+    "forbiddenWords": ["Dərman", "Resept", "Aptek", "Satmaq", "Məlumat"]
+  },
+  {
+    "mainWord": "Radioloq Texniki",
+    "forbiddenWords": ["Rentgen", "Şəkil", "Cihaz", "Müayinə", "Radioloq"]
+  },
+  {
+    "mainWord": "Fizioterapevt",
+    "forbiddenWords": ["Hərəkət", "Məşq", "Ağrı", "Reabilitasiya", "Əzələ"]
+  },
+  {
+    "mainWord": "Loqoped",
+    "forbiddenWords": ["Nitq", "Danışıq", "Kəkələmə", "Uşaq", "Dil"]
+  },
+  {
+    "mainWord": "Psixoloq",
+    "forbiddenWords": ["Düşüncə", "Duyğu", "Terapiya", "Söhbət", "Psixi"]
+  },
+  {
+    "mainWord": "Psixiatr",
+    "forbiddenWords": ["Dərman", "Psixoloji", "Xəstəlik", "Düşüncə", "Psixi"]
+  },
+  {
+    "mainWord": "Sosial İşçi",
+    "forbiddenWords": ["Yardım", "Problemlər", "Ailə", "Cəmiyyət", "Dəstək"]
+  },
+  {
+    "mainWord": "Dietoloq",
+    "forbiddenWords": ["Yemək", "Pəhriz", "Sağlam", "Çəki", "Kalori"]
+  },
+  {
+    "mainWord": "Massajçı",
+    "forbiddenWords": ["Əzələ", "Rahatlıq", "Masaj", "Ağrı", "Bədən"]
+  },
+  {
+    "mainWord": "Akupunkturçu",
+    "forbiddenWords": ["İynə", "Enerji", "Meridian", "Çin", "Müalicə"]
+  },
+  {
+    "mainWord": "Homeopat",
+    "forbiddenWords": ["Dərman", "Sulu", "Təbii", "Enerji", "Müalicə"]
+  },
+  {
+    "mainWord": "Fitoterapevt",
+    "forbiddenWords": ["Bitki", "Dərman", "Təbii", "Sağlamlıq", "Müalicə"]
+  },
+  {
+    "mainWord": "Osteopat",
+    "forbiddenWords": ["Sümük", "Əzələ", "Manipulyasiya", "Ağrı", "Müalicə"]
+  },
+  {
+    "mainWord": "Xiroterapevt",
+    "forbiddenWords": ["Onurğa", "Düzəltmə", "Ağrı", "Sinir", "Müalicə"]
+  },
+  {
+    "mainWord": "Refleksoloq",
+    "forbiddenWords": ["Ayaq", "Əl", "Nöqtə", "Enerji", "Masaj"]
+  },
+  {
+    "mainWord": "Ayurveda Həkimi",
+    "forbiddenWords": ["Hindistan", "Təbii", "Enerji", "Bədən", "Balans"]
+  },
+  {
+    "mainWord": "Gigiyena",
+    "forbiddenWords": ["Təmizlik", "Sağlamlıq", "Mikrob", "Xəstəlik", "Qoruma"]
+  },
+  {
+    "mainWord": "Dezinfeksiya",
+    "forbiddenWords": ["Təmizlik", "Mikrob", "Öldürmək", "Xəstəxana", "Alət"]
+  },
+  {
+    "mainWord": "Sterilizasiya",
+    "forbiddenWords": ["Təmizlik", "Mikrob", "Öldürmək", "Alət", "Cərrahiyyə"]
+  },
+  {
+    "mainWord": "Pasterizasiya",
+    "forbiddenWords": ["Süd", "İstilik", "Mikrob", "Öldürmək", "Sağlam"]
+  },
+  {
+    "mainWord": "Filtrləmə",
+    "forbiddenWords": ["Su", "Təmizləmək", "Mikrob", "Zərərli", "Sağlam"]
+  },
+  {
+    "mainWord": "İzolyasiya",
+    "forbiddenWords": ["Xəstə", "Yayılma", "Qarşısını almaq", "Karantin", "Təcrid"]
+  },
+  {
+    "mainWord": "Ventilyasiya",
+    "forbiddenWords": ["Hava", "Təmizləmək", "Otaq", "Tənəffüs", "Sağlam"]
+  },
+  {
+    "mainWord": "Radiasiya",
+    "forbiddenWords": ["Şüa", "Enerji", "Xərçəng", "Müalicə", "Zərərli"]
+  },
+  {
+    "mainWord": "Kimyaterapiya",
+    "forbiddenWords": ["Xərçəng", "Dərman", "Zərərli", "Hüceyrə", "Müalicə"]
+  },
+  {
+    "mainWord": "Hormon Terapiyası",
+    "forbiddenWords": ["Hormon", "Dəyişiklik", "Müalicə", "Balans", "Bədən"]
+  },
+  {
+    "mainWord": "Gen Terapiyası",
+    "forbiddenWords": ["Gen", "Dəyişiklik", "Müalicə", "İrsi", "Xəstəlik"]
+  },
+  {
+    "mainWord": "İmmunoterapiya",
+    "forbiddenWords": ["İmmunitet", "Xərçəng", "Müalicə", "Gücləndirmək", "Bədən"]
+  },
+  {
+    "mainWord": "Psixoterapiya",
+    "forbiddenWords": ["Düşüncə", "Duyğu", "Müalicə", "Söhbət", "Psixoloq"]
+  },
+  {
+    "mainWord": "Davranış Terapiyası",
+    "forbiddenWords": ["Davranış", "Dəyişiklik", "Müalicə", "Problem", "Psixoloq"]
+  },
+  {
+    "mainWord": "Ailə Terapiyası",
+    "forbiddenWords": ["Ailə", "Əlaqə", "Müalicə", "Problem", "Psixoloq"]
+  },
+  {
+    "mainWord": "Qrup Terapiyası",
+    "forbiddenWords": ["İnsanlar", "Problem", "Müalicə", "Söhbət", "Psixoloq"]
+  },
+  {
+    "mainWord": "Hipnoterapiya",
+    "forbiddenWords": ["Hipnoz", "Şüur", "Müalicə", "Düşüncə", "Psixoloq"]
+  },
+  {
+    "mainWord": "Sənət Terapiyası",
+    "forbiddenWords": ["Sənət", "ifadə", "Müalicə", "Duyğu", "Psixoloji"]
+  },
+  {
+    "mainWord": "Musiqi Terapiyası",
+    "forbiddenWords": ["Musiqi", "ifadə", "Müalicə", "Duyğu", "Psixoloji"]
+  },
+  {
+    "mainWord": "Rəqs Terapiyası",
+    "forbiddenWords": ["Rəqs", "Hərəkət", "Müalicə", "Duyğu", "Psixoloji"]
+  },
+  {
+    "mainWord": "Heyvan Terapiyası",
+    "forbiddenWords": ["Heyvan", "Dostluq", "Müalicə", "Duyğu", "Psixoloji"]
+  },
+  {
+    "mainWord": "Eşitmə Aparatı",
+    "forbiddenWords": ["Qulaq", "Eşitmək", "Səs", "Gücləndirmək", "Kömək"]
+  },
+  {
+    "mainWord": "Əlil Arabası",
+    "forbiddenWords": ["Hərəkət", "Oturmaq", "Xəstə", "Kömək", "Təkər"]
+  },
+  {
+    "mainWord": "Əsa",
+    "forbiddenWords": ["Gəzmək", "Kömək", "Dayaq", "Tarazlıq", "Qoca"]
+  },
+  {
+    "mainWord": "Protez",
+    "forbiddenWords": ["Əvəz", "Bədən", "Hissə", "Süni", "Əməliyyat"]
+  },
+  {
+    "mainWord": "Ortez",
+    "forbiddenWords": ["Dəstək", "Sümük", "Əzələ", "Hərəkət", "Kömək"]
+  },
+  {
+    "mainWord": "Bandaj",
+    "forbiddenWords": ["Sarğı", "Yara", "Qorumaq", "Sıxmaq", "Elastik"]
+  },
+  {
+    "mainWord": "Gips",
+    "forbiddenWords": ["Sümük", "Qırıq", "Hərəkətsizlik", "Bərkitmək", "Ağ"]
+  },
+  {
+    "mainWord": "Boyunluq",
+    "forbiddenWords": ["Boyun", "Hərəkətsizlik", "Dəstək", "Zədə", "Sərt"]
+  },
+  {
+    "mainWord": "Mask",
+    "forbiddenWords": ["Üz", "Qorumaq", "Virus", "Mikrob", "Nəfəs"]
+  },
+  {
+    "mainWord": "Əlcək",
+    "forbiddenWords": ["Əl", "Qorumaq", "Steril", "Tibbi", "Gigiyena"]
+  },
+  {
+    "mainWord": "Önlük",
+    "forbiddenWords": ["Geyim", "Qorumaq", "Ləkə", "Tibbi", "Təmiz"]
+  },
+  {
+    "mainWord": "Ayaqqabı Örtüyü",
+    "forbiddenWords": ["Ayaqqabı", "Qorumaq", "Çirk", "Tibbi", "Steril"]
+  },
+  {
+    "mainWord": "Başlıq",
+    "forbiddenWords": ["Saç", "Qorumaq", "Steril", "Tibbi", "Təmiz"]
+  },
+  {
+    "mainWord": "Gözlük",
+    "forbiddenWords": ["Göz", "Qorumaq", "Kimyəvi", "Zərərli", "Laboratoriya"]
+  },
+  {
+    "mainWord": "Tənəffüs Aparatı",
+    "forbiddenWords": ["Nəfəs", "Kömək", "Oksigen", "Xəstə", "Ağciyər"]
+  },
+  {
+    "mainWord": "Defibrilyator",
+    "forbiddenWords": ["Ürək", "Nəbz", "Elektrik", "Şok", "Bərpa"]
+  },
+  {
+    "mainWord": "EKQ Aparatı",
+    "forbiddenWords": ["Ürək", "Elektrod", "Dalğa", "Qeyd", "Kardioloq"]
+  },
+  {
+    "mainWord": "Ultrasəs Aparatı",
+    "forbiddenWords": ["Dalğa", "Şəkil", "Daxili", "Müayinə", "Hamiləlik"]
+  },
+  {
+    "mainWord": "Rentgen Aparatı",
+    "forbiddenWords": ["Şüa", "Sümük", "Daxili", "Şəkil", "Diaqnoz"]
+  },
+  {
+    "mainWord": "MRT Aparatı",
+    "forbiddenWords": ["Maqnit", "Şəkil", "Daxili", "Müayinə", "Beyin"]
+  },
+  {
+    "mainWord": "KT Aparatı",
+    "forbiddenWords": ["Şüa", "Dilim", "Daxili", "Şəkil", "Diaqnoz"]
+  },
+  {
+    "mainWord": "Endoskop",
+    "forbiddenWords": ["Kamera", "Borucuq", "Daxili", "Müayinə", "Mədə"]
+  },
+  {
+    "mainWord": "Laparoskop",
+    "forbiddenWords": ["Kamera", "Qarın", "Cərrahiyyə", "Kiçik", "Kəsik"]
+  },
+  {
+    "mainWord": "Mikroskop",
+    "forbiddenWords": ["Kiçik", "Hüceyrə", "Böyütmək", "Müayinə", "Laboratoriya"]
+  },
+  {
+    "mainWord": "Santrifuqa",
+    "forbiddenWords": ["Döndərmək", "Sürət", "Ayırmaq", "Qan", "Laboratoriya"]
+  },
+  {
+    "mainWord": "Avtoklav",
+    "forbiddenWords": ["Sterilizasiya", "İstilik", "Təzyiq", "Alət", "Tibbi"]
+  },
+  {
+    "mainWord": "Pipet",
+    "forbiddenWords": ["Sıvı", "Ölçmək", "Damcı", "Laboratoriya", "Kimya"]
+  },
+  {
+    "mainWord": "Petri Qabı",
+    "forbiddenWords": ["Bakteriya", "Böyütmək", "Mikrob", "Laboratoriya", "Qida"]
+  },
+  {
+    "mainWord": "Termometr",
+    "forbiddenWords": ["Hərarət", "Ölçmək", "Bədən", "İsti", "Soyuq"]
+  },
+  {
+    "mainWord": "Tonometr",
+    "forbiddenWords": ["Təzyiq", "Ölçmək", "Qan", "Ürək", "Damar"]
+  },
+  {
+    "mainWord": "Stetoskop",
+    "forbiddenWords": ["Həkim", "Qulaq", "Dinləmək", "Ürək", "Ağciyər"]
+  },
+  {
+    "mainWord": "Şprist",
+    "forbiddenWords": ["İynə", "Dərman", "Vurmaq", "Qan", "Maye"]
+  },
+  {
+    "mainWord": "İnfuziya",
+    "forbiddenWords": ["Dərman", "Damcı", "Qan", "Uzun", "Müddət"]
+  },
+  {
+    "mainWord": "Kateter",
+    "forbiddenWords": ["Borucuq", "Daxil etmək", "Sidik", "Damar", "Maye"]
+  },
+  {
+    "mainWord": "Kauter",
+    "forbiddenWords": ["İstilik", "Kəsmək", "Qanaxma", "Dayandırmaq", "Cərrahiyyə"]
+  },
+  {
+    "mainWord": "Penset",
+    "forbiddenWords": ["Tutmaq", "Kiçik", "Əşya", "Cərrahiyyə", "Alət"]
+  },
+  {
+    "mainWord": "Skalpel",
+    "forbiddenWords": ["Kəsmək", "Bıçaq", "Cərrahiyyə", "Dəri", "Alət"]
+  },
+  {
+    "mainWord": "Kürəcək",
+    "forbiddenWords": ["Təmizləmək", "Qazmaq", "Uşaqlıq", "Cərrahiyyə", "Alət"]
+  },
+  {
+    "mainWord": "Dırnaqçıxaran",
+    "forbiddenWords": ["Çıxarmaq", "Dırnaq", "Alət", "Ağrı", "Pediatr"]
+  },
+  {
+    "mainWord": "Ginekooloji Stul",
+    "forbiddenWords": ["Qadın", "Müayinə", "Uşaqlıq", "Həkim", "Ayaq"]
+  },
+  {
+    "mainWord": "Diş Həkimi Stolu",
+    "forbiddenWords": ["Ağız", "Müayinə", "Diş", "Həkim", "Yuxarı"]
+  },
+  {
+    "mainWord": "Oftalmoskop",
+    "forbiddenWords": ["Göz", "Daxili", "Müayinə", "Həkim", "İşıq"]
+  },
+  {
+    "mainWord": "Otoskop",
+    "forbiddenWords": ["Qulaq", "Daxili", "Müayinə", "Həkim", "İşıq"]
+  },
+  {
+    "mainWord": "Laringoskop",
+    "forbiddenWords": ["Boğaz", "Səs teli", "Müayinə", "Həkim", "İşıq"]
+  },
+  {
+    "mainWord": "Bronxoskop",
+    "forbiddenWords": ["Ağciyər", "Bronx", "Müayinə", "Həkim", "Kamera"]
+  },
+  {
+    "mainWord": "Kolonoskop",
+    "forbiddenWords": ["Bağırsaq", "Daxili", "Müayinə", "Həkim", "Kamera"]
+  },
+  {
+    "mainWord": "Sistoskop",
+    "forbiddenWords": ["Sidik kisəsi", "Daxili", "Müayinə", "Həkim", "Kamera"]
+  },
+  {
+    "mainWord": "Histeroskop",
+    "forbiddenWords": ["Uşaqlıq", "Daxili", "Müayinə", "Həkim", "Kamera"]
+  },
+  {
+    "mainWord": "Artroskop",
+    "forbiddenWords": ["Oynaq", "Daxili", "Müayinə", "Həkim", "Kamera"]
+  },
+  {
+    "mainWord": "Neyrostimulyator",
+    "forbiddenWords": ["Sinir", "Elektrik", "Ağrı", "Müalicə", "Beyin"]
+  },
+  {
+    "mainWord": "Abort",
+    "forbiddenWords": ["Hamiləlik", "Uşaq", "Sonlandırma", "Tibbi", "Qadın"]
+  },
+  {
+    "mainWord": "Adiksiya",
+    "forbiddenWords": ["Asılılıq", "Tərgitmək", "Zərərli", "Vərdiş", "Narkotik"]
+  },
+  {
+    "mainWord": "AIDS",
+    "forbiddenWords": ["İmmunitet", "Virus", "Zəifləmək", "HIV", "Xəstəlik"]
+  },
+  {
+    "mainWord": "Amputasiya",
+    "forbiddenWords": ["Kəsmək", "Ətraf", "Cərrahiyyə", "Zədə", "Əlil"]
+  },
+  {
+    "mainWord": "Anesteziya",
+    "forbiddenWords": ["Ağrı", "Yox etmək", "Əməliyyat", "Narkoz", "Şüur"]
+  },
+  {
+    "mainWord": "Apendisit",
+    "forbiddenWords": ["Qarın", "Ağrı", "İltihab", "Əməliyyat", "Əlavə"]
+  },
+  {
+    "mainWord": "Artroz",
+    "forbiddenWords": ["Oynaq", "Ağrı", "Qığırdaq", "Yeyilmək", "Hərəkət"]
+  },
+  {
+    "mainWord": "Autizm",
+    "forbiddenWords": ["Sosial", "Əlaqə", "Uşaq", "İnkişaf", "Spektr"]
+  },
+  {
+    "mainWord": "Bariatrik",
+    "forbiddenWords": ["Çəki", "Kökəlmə", "Əməliyyat", "Mədə", "Bağırsaq"]
+  },
+  {
+    "mainWord": "Botulizm",
+    "forbiddenWords": ["Zəhər", "Qida", "Sinir", "Əzələ", "Paraliz"]
+  },
+  {
+    "mainWord": "Bruksizm",
+    "forbiddenWords": ["Diş", "Sürtmək", "Yuxu", "Çənə", "Stress"]
+  },
+  {
+    "mainWord": "Bulimia Nervoza",
+    "forbiddenWords": ["Yemək", "Qusmaq", "Çəki", "Nəzarət", "Psixoloji"]
+  },
+  {
+    "mainWord": "Çölyak",
+    "forbiddenWords": ["Qluten", "Bağırsaq", "Həzm", "Allergiya", "Buğda"]
+  },
+  {
+    "mainWord": "Demans",
+    "forbiddenWords": ["Yaddaş", "İtirmək", "Beyin", "Qocalmaq", "Şüur"]
+  },
+  {
+    "mainWord": "Disleksiya",
+    "forbiddenWords": ["Oxumaq", "Çətinlik", "Uşaq", "Öyrənmək", "Dil"]
+  },
+  {
+    "mainWord": "Dizuriya",
+    "forbiddenWords": ["Sidik", "Ağrı", "Yandırmaq", "Çətinlik", "İnfeksiya"]
+  },
+  {
+    "mainWord": "Ektopik",
+    "forbiddenWords": ["Hamiləlik", "Uşaqlıq", "Kənar", "Borucuq", "Təhlükə"]
+  },
+  {
+    "mainWord": "Ekzema",
+    "forbiddenWords": ["Dəri", "Qaşıntı", "Qızartı", "Allergiya", "Quru"]
+  },
+  {
+    "mainWord": "Enurez",
+    "forbiddenWords": ["Sidik", "Yataq", "Uşaq", "Nəzarət", "Gecə"]
+  },
+  {
+    "mainWord": "Fimoza",
+    "forbiddenWords": ["Sünnət", "Dəri", "Kişi", "Sıx", "Ağrı"]
+  },
+  {
+    "mainWord": "Fibrilyasiya",
+    "forbiddenWords": ["Ürək", "Nəbz", "Düzensiz", "Titremek", "Elektrik"]
+  },
+  {
+    "mainWord": "Fistül",
+    "forbiddenWords": ["Anormal", "Əlaqə", "Orqan", "Dəri", "Axıntı"]
+  },
+  {
+    "mainWord": "Flegmon",
+    "forbiddenWords": ["İltihab", "Dəri", "Alt", "Yayılmaq", "Bakteriya"]
+  },
+  {
+    "mainWord": "Fobiya",
+    "forbiddenWords": ["Qorxu", "Mantıksız", "Narahatlıq", "Psixoloji", "Çəkinmək"]
+  },
+  {
+    "mainWord": "Furunculoza",
+    "forbiddenWords": ["Sızanaq", "Dəri", "İltihab", "Bakteriya", "Qrup"]
+  },
+  {
+    "mainWord": "Qalaktoreya",
+    "forbiddenWords": ["Süd", "Sinə", "Normal olmayan", "Hamilə", "Hormon"]
+  },
+  {
+    "mainWord": "Qanqren",
+    "forbiddenWords": ["Ölüm", "Toxuma", "Qan", "Çatışmazlıq", "İnfeksiya"]
+  },
+  {
+    "mainWord": "Qastrit",
+    "forbiddenWords": ["Mədə", "İltihab", "Ağrı", "Turşu", "Həzm"]
+  },
+  {
+    "mainWord": "Qenetik",
+    "forbiddenWords": ["İrsi", "Gen", "Xüsusiyyət", "Valideyn", "Xəstəlik"]
+  },
+  {
+    "mainWord": "Qeriatriya",
+    "forbiddenWords": ["Qoca", "Xəstəlik", "Qulluq", "Yaşlanmaq", "Tibb"]
+  },
+  {
+    "mainWord": "Qlossit",
+    "forbiddenWords": ["Dil", "İltihab", "Ağrı", "Qızartı", "Şişkinlik"]
+  },
+  {
+    "mainWord": "Qlukoma",
+    "forbiddenWords": ["Göz", "Təzyiq", "Görmə", "Sinir", "Korluq"]
+  },
+  {
+    "mainWord": "Qravid",
+    "forbiddenWords": ["Hamilə", "Uşaq", "Bətn", "Doğuş", "Qadın"]
+  },
+  {
+    "mainWord": "Hematemez",
+    "forbiddenWords": ["Qan", "Qusmaq", "Mədə", "Bağırsaq", "Daxili"]
+  },
+  {
+    "mainWord": "Hematuriya",
+    "forbiddenWords": ["Qan", "Sidik", "Böyrək", "Sidik kisəsi", "İnfeksiya"]
+  },
+  {
+    "mainWord": "Hemofiliya",
+    "forbiddenWords": ["Qan", "Laxdalanma", "Yox", "İrsi", "Qanaxma"]
+  },
+  {
+    "mainWord": "Hepatit",
+    "forbiddenWords": ["Qaraciyər", "İltihab", "Virus", "Sarılıq", "Alkoqol"]
+  },
+  {
+    "mainWord": "Hiperqlikemiya",
+    "forbiddenWords": ["Şəkər", "Qan", "Yüksək", "Diabet", "İnsulin"]
+  },
+  {
+    "mainWord": "Hipertoniya",
+    "forbiddenWords": ["Təzyiq", "Qan", "Yüksək", "Ürək", "Damar"]
+  },
+  {
+    "mainWord": "Hipotiroidizm",
+    "forbiddenWords": ["Tiroid", "Hormon", "Aşağı", "Metabolizm", "Kökəlmək"]
+  },
+  {
+    "mainWord": "Hirsutizm",
+    "forbiddenWords": ["Tük", "Artıq", "Qadın", "Hormon", "Kişi"]
+  },
+  {
+    "mainWord": "Histerektomiya",
+    "forbiddenWords": ["Uşaqlıq", "Çıxarmaq", "Cərrahiyyə", "Qadın", "Reproduktiv"]
+  },
+  {
+    "mainWord": "HIV",
+    "forbiddenWords": ["Virus", "İmmunitet", "Zəifləmək", "AIDS", "Qan"]
+  },
+  {
+    "mainWord": "Hidrosefaliya",
+    "forbiddenWords": ["Beyin", "Sıvı", "Toplanmaq", "Uşaq", "Təzyiq"]
+  },
+  {
+    "mainWord": "İktal",
+    "forbiddenWords": ["Nöbet", "Epilepsiya", "Beyin", "Elektrik", "Şüur"]
+  },
+  {
+    "mainWord": "İleo",
+    "forbiddenWords": ["Bağırsaq", "Keçilməzlik", "Qarın", "Şişmək", "Qusmaq"]
+  },
+  {
+    "mainWord": "İmmunosupressant",
+    "forbiddenWords": ["İmmunitet", "Zəiflətmək", "Orqan", "Transplantasiya", "Dərman"]
+  },
+  {
+    "mainWord": "İnsomnia",
+    "forbiddenWords": ["Yuxu", "Çətinlik", "Yata bilməmək", "Gecə", "Yorğunluq"]
+  },
+  {
+    "mainWord": "Jinekomastiya",
+    "forbiddenWords": ["Sinə", "Kişi", "Böyümək", "Hormon", "Qadın"]
+  },
+  {
+    "mainWord": "Kaxeksiya",
+    "forbiddenWords": ["Arıqlamaq", "Əzələ", "Zəifləmək", "Xəstəlik", "İştaha"]
+  },
+  {
+    "mainWord": "Kandidiyaz",
+    "forbiddenWords": ["Göbələk", "İnfeksiya", "Dəri", "Ağız", "Qadın"]
+  },
+  {
+    "mainWord": "Katarakt",
+    "forbiddenWords": ["Göz", "Linza", "Dumanlı", "Görmək", "Əməliyyat"]
+  },
+  {
+    "mainWord": "Keloid",
+    "forbiddenWords": ["Çapıq", "Böyümək", "Dəri", "Qabarıqlıq", "Qızartı"]
+  },
+  {
+    "mainWord": "Keratit",
+    "forbiddenWords": ["Göz", "Buynuz", "İltihab", "Ağrı", "Görmək"]
+  },
+  {
+    "mainWord": "Kifoz",
+    "forbiddenWords": ["Onurğa", "Əyilmək", "Bel", "Qozbel", "Postura"]
+  },
+  {
+    "mainWord": "Klavikula",
+    "forbiddenWords": ["Sümük", "Çiyin", "Qopmaq", "Sınmaq", "Ağrı"]
+  },
+  {
+    "mainWord": "Kleptomaniya",
+    "forbiddenWords": ["Oğurlamaq", "Məcburi", "Dürtü", "Nəzarət", "Psixoloji"]
+  },
+  {
+    "mainWord": "Klostrofobiya",
+    "forbiddenWords": ["Qapalı", "Yer", "Qorxu", "Narahatlıq", "Kiçik"]
+  },
+  {
+    "mainWord": "Kolit",
+    "forbiddenWords": ["Bağırsaq", "İltihab", "Qarın", "İshal", "Qan"]
+  },
+  {
+    "mainWord": "Koma",
+    "forbiddenWords": ["Şüur", "Yox", "Cavab", "Həyat", "Beyin"]
+  },
+  {
+    "mainWord": "Konjuktivit",
+    "forbiddenWords": ["Göz", "Qızartı", "Qaşıntı", "İltihab", "İnfeksiya"]
+  },
+  {
+    "mainWord": "Kortizol",
+    "forbiddenWords": ["Hormon", "Stress", "Böyrək üstü", "Yüksək", "Əhval"]
+  },
+  {
+    "mainWord": "Kriptorxizm",
+    "forbiddenWords": ["Xaya", "Enməmək", "Uşaq", "Cərrahiyyə", "Kişi"]
+  },
+  {
+    "mainWord": "Kuşinq",
+    "forbiddenWords": ["Kortizol", "Yüksək", "Hormon", "Kökəlmək", "Üz"]
+  },
+  {
+    "mainWord": "Laktasiya",
+    "forbiddenWords": ["Süd", "Sinə", "Doğuş", "Uşaq", "Bəsləmək"]
+  },
+  {
+    "mainWord": "Laparoskopiya",
+    "forbiddenWords": ["Qarın", "Kiçik", "Kəsik", "Kamera", "Cərrahiyyə"]
+  },
+  {
+    "mainWord": "Larenjit",
+    "forbiddenWords": ["Boğaz", "Səs", "İltihab", "Qısıq", "Danışmaq"]
+  },
+  {
+    "mainWord": "Leykopeniya",
+    "forbiddenWords": ["Ağ", "Hüceyrə", "Qan", "Aşağı", "İmmunitet"]
+  },
+  {
+    "mainWord": "Lipedema",
+    "forbiddenWords": ["Yağ", "Toplanmaq", "Ayaq", "Qadın", "Ağrı"]
+  },
+  {
+    "mainWord": "Lupus",
+    "forbiddenWords": ["Otoimmun", "İltihab", "Dəri", "Oynaq", "Üz"]
+  },
+  {
+    "mainWord": "Limfoma",
+    "forbiddenWords": ["Xərçəng", "Limfa", "Düyün", "Şişmək", "İmmunitet"]
+  },
+  {
+    "mainWord": "Makula Deqenerasiyası",
+    "forbiddenWords": ["Göz", "Görmə", "Mərkəz", "İtirmək", "Yaşlanmaq"]
+  },
+  {
+    "mainWord": "Malarone",
+    "forbiddenWords": ["Sümük", "Yumşaq", "Xərçəng", "Uşaq", "Ağrı"]
+  },
+  {
+    "mainWord": "Maniakal",
+    "forbiddenWords": ["Əhval", "Həddindən artıq", "Enerji", "Yüksək", "Duyğu"]
+  },
+  {
+    "mainWord": "Marfan",
+    "forbiddenWords": ["Genetik", "Doku", "Bağlayıcı", "Uzun", "Ətraf"]
+  },
+  {
+    "mainWord": "Mastit",
+    "forbiddenWords": ["Sinə", "İltihab", "Süd", "Əmizdirmək", "Ağrı"]
+  },
+  {
+    "mainWord": "Meningit",
+    "forbiddenWords": ["Beyin", "Zər", "İltihab", "Sərt", "Hərarət"]
+  },
+  {
+    "mainWord": "Metabolizm",
+    "forbiddenWords": ["Enerji", "Bədən", "Proses", "Yemək", "Çevirmək"]
+  },
+  {
+    "mainWord": "Metastaz",
+    "forbiddenWords": ["Xərçəng", "Yayılmaq", "Uzaq", "Orqan", "Hüceyrə"]
+  },
+  {
+    "mainWord": "Migren",
+    "forbiddenWords": ["Baş ağrısı", "Pulsasiya", "Ürəkbulanma", "İşıq", "Həssaslıq"]
+  },
+  {
+    "mainWord": "Miyom",
+    "forbiddenWords": ["Uşaqlıq", "Əzələ", "Böyümək", "Qadın", "Şiş"]
+  },
+  {
+    "mainWord": "Mononükleoz",
+    "forbiddenWords": ["Virus", "Öpmək", "Boğaz", "Yorğunluq", "Şiş"]
+  },
+  {
+    "mainWord": "Mukozit",
+    "forbiddenWords": ["Ağız", "İltihab", "Yara", "Kimyaterapiya", "Radioterapiya"]
+  },
+  {
+    "mainWord": "Multipl Skleroz",
+    "forbiddenWords": ["Sinir", "Zədələnmək", "Beyin", "Onurğa", "İltihab"]
+  },
+  {
+    "mainWord": "Narkolepsi",
+    "forbiddenWords": ["Yuxu", "Birdən", "Hücum", "Gündüz", "Əzələ"]
+  },
+  {
+    "mainWord": "Nefroloji",
+    "forbiddenWords": ["Böyrək", "Sidik", "Filtrləmək", "Xəstəlik", "Müalicə"]
+  },
+  {
+    "mainWord": "Nekroz",
+    "forbiddenWords": ["Ölmək", "Toxuma", "Hüceyrə", "Qan", "Çatışmazlıq"]
+  },
+  {
+    "mainWord": "Neoplaziya",
+    "forbiddenWords": ["Böyümək", "Yeni", "Hüceyrə", "Normal olmayan", "Şiş"]
+  },
+  {
+    "mainWord": "Nevralgiya",
+    "forbiddenWords": ["Sinir", "Ağrı", "Sancmaq", "Yanmaq", "Səbəbsiz"]
+  },
+  {
+    "mainWord": "Nokturiya",
+    "forbiddenWords": ["Sidik", "Gecə", "Tez-tez", "Yuxu", "Böyrək"]
+  },
+  {
+    "mainWord": "Obezite",
+    "forbiddenWords": ["Çəki", "Artıq", "Sağlamlıq", "Yemək", "Hərəkət"]
+  },
+  {
+    "mainWord": "Obsesif Kompulsif Bozukluk",
+    "forbiddenWords": ["Düşüncə", "Təkrar", "Hərəkət", "Dürtü", "Narahatlıq"]
+  },
+  {
+    "mainWord": "Oftalmoloji",
+    "forbiddenWords": ["Göz", "Görmə", "Xəstəlik", "Müalicə", "Həkim"]
+  },
+  {
+    "mainWord": "Oliqomenoreya",
+    "forbiddenWords": ["Aybaşı", "Seyrek", "Qadın", "Hormon", "Normal"]
+  },
+  {
+    "mainWord": "Onkoloji",
+    "forbiddenWords": ["Xərçəng", "Şiş", "Müalicə", "Hüceyrə", "Həkim"]
+  },
+  {
+    "mainWord": "Orşit",
+    "forbiddenWords": ["Xaya", "İltihab", "Kişi", "Ağrı", "Şişkinlik"]
+  },
+  {
+    "mainWord": "Osteoartrit",
+    "forbiddenWords": ["Oynaq", "Xroniki", "Ağrı", "Qığırdaq", "Yeyilmək"]
+  },
+  {
+    "mainWord": "Osteopeniya",
+    "forbiddenWords": ["Sümük", "Sıxlıq", "Aşağı", "Qırıq", "Kalsium"]
+  },
+  {
+    "mainWord": "Otitis",
+    "forbiddenWords": ["Qulaq", "İltihab", "Ağrı", "Uşaq", "İnfeksiya"]
+  },
+  {
+    "mainWord": "Palyatif",
+    "forbiddenWords": ["Qulluq", "Rahatlıq", "Ölüm", "Xəstə", "Terminal"]
+  },
+  {
+    "mainWord": "Pankreatit",
+    "forbiddenWords": ["Pankreas", "İltihab", "Ağrı", "Həzm", "Ferment"]
+  },
+  {
+    "mainWord": "Paraliz",
+    "forbiddenWords": ["Hərəkət", "Yox", "Əzələ", "Sinir", "İflic"]
+  },
+  {
+    "mainWord": "Paresteziya",
+    "forbiddenWords": ["Uyuşma", "Qarışqa", "Sinir", "Hiss", "Anormal"]
+  },
+  {
+    "mainWord": "Parkinson",
+    "forbiddenWords": ["Titreme", "Hərəkət", "Sakitlik", "Beyin", "Sinir"]
+  },
+  {
+    "mainWord": "Patogen",
+    "forbiddenWords": ["Xəstəlik", "Yaradıcı", "Mikrob", "Virus", "Bakteriya"]
+  },
+  {
+    "mainWord": "Pediatriya",
+    "forbiddenWords": ["Uşaq", "Xəstəlik", "Qulluq", "Böyümək", "Həkim"]
+  },
+  {
+    "mainWord": "Pelvik",
+    "forbiddenWords": ["Qarın", "Alt", "Orqan", "Reproduktiv", "Ağrı"]
+  },
+  {
+    "mainWord": "Peritonit",
+    "forbiddenWords": ["Qarın", "İltihab", "İnfeksiya", "Tez", "Ağrı"]
+  },
+  {
+    "mainWord": "Pnevmoniya",
+    "forbiddenWords": ["Ağciyər", "İltihab", "Tənəffüs", "Öskürək", "Bakteriya"]
+  },
+  {
+    "mainWord": "Poliartrit",
+    "forbiddenWords": ["Oynaq", "Çox", "İltihab", "Ağrı", "Hərəkət"]
+  },
+  {
+    "mainWord": "Poliqlikemiya",
+    "forbiddenWords": ["Sidik", "Çox", "Gecə", "Susuzluq", "Diabet"]
+  },
+  {
+    "mainWord": "Poliomielit",
+    "forbiddenWords": ["Uşaq", "İflic", "Virus", "Peyvənd", "Əzələ"]
+  },
+  {
+    "mainWord": "Polip",
+    "forbiddenWords": ["Böyümək", "Toxuma", "Burun", "Bağırsaq", "Anormal"]
+  },
+  {
+    "mainWord": "Postnatal",
+    "forbiddenWords": ["Doğuş", "Sonra", "Uşaq", "Qadın", "Depressiya"]
+  },
+  {
+    "mainWord": "Pre-eklampsi",
+    "forbiddenWords": ["Hamiləlik", "Təzyiq", "Yüksək", "Sidik", "Zülal"]
+  },
+  {
+    "mainWord": "Probiotik",
+    "forbiddenWords": ["Bakteriya", "Bağırsaq", "Sağlamlıq", "Yemək", "Həzm"]
+  },
+  {
+    "mainWord": "Proqnoza",
+    "forbiddenWords": ["Gözləmək", "Xəstəlik", "Gələcək", "Sağalma", "Nəticə"]
+  },
+  {
+    "mainWord": "Prolaps",
+    "forbiddenWords": ["Aşağı", "Düşmək", "Orqan", "Qarın", "Zəif"]
+  },
+  {
+    "mainWord": "Prostatit",
+    "forbiddenWords": ["Prostat", "İltihab", "Ağrı", "Sidik", "Kişi"]
+  },
+  {
+    "mainWord": "Pruritus",
+    "forbiddenWords": ["Qaşıntı", "Dəri", "Qıcıqlanma", "Allergiya", "Səpgi"]
+  },
+  {
+    "mainWord": "Psoriaz",
+    "forbiddenWords": ["Dəri", "Qırmızı", "Səpgi", "Qaşıntı", "Qabıqlanma"]
+  },
+  {
+    "mainWord": "Psixoz",
+    "forbiddenWords": ["Gerçek", "Yox", "Halüsinasiya", "Düşüncə", "Psixoloji"]
+  },
+  {
+    "mainWord": "Pulmoner",
+    "forbiddenWords": ["Ağciyər", "Tənəffüs", "Xəstəlik", "Qan", "Nəfəs"]
+  },
+  {
+    "mainWord": "Purpura",
+    "forbiddenWords": ["Qan", "Dəri", "Səpgi", "Bənövşəyi", "Kiçik"]
+  },
+  {
+    "mainWord": "Rabdomiyoliz",
+    "forbiddenWords": ["Əzələ", "Parçalanma", "Böyrək", "Qan", "Zədə"]
+  },
+  {
+    "mainWord": "Radioterapiya",
+    "forbiddenWords": ["Xərçəng", "Şüa", "Hüceyrə", "Öldürmək", "Müalicə"]
+  },
+  {
+    "mainWord": "Raynaud Fenomeni",
+    "forbiddenWords": ["Barmaq", "Ağ", "Soyuq", "Qan", "Damar"]
+  },
+  {
+    "mainWord": "Rektosel",
+    "forbiddenWords": ["Rektum", "Vagina", "Qadın", "Sıxmaq", "Çıxmaq"]
+  },
+  {
+    "mainWord": "Remissiya",
+    "forbiddenWords": ["Xərçəng", "Yox", "Əlamət", "Müvəqqəti", "Yaxşılaşmaq"]
+  },
+  {
+    "mainWord": "Revmatizma",
+    "forbiddenWords": ["Otoimmun", "İltihab", "Ağrı", "Oynaq", "Bədən"]
+  },
+  {
+    "mainWord": "Rinit",
+    "forbiddenWords": ["Burun", "Axıntı", "Qaşıntı", "Allergiya", "Soyuq"]
+  },
+  {
+    "mainWord": "Rinosinüzit",
+    "forbiddenWords": ["Burun", "Sinus", "İltihab", "Baş", "Ağrı"]
+  },
+  {
+    "mainWord": "Rozasea",
+    "forbiddenWords": ["Üz", "Qızartı", "Sızanaq", "Damar", "Dəri"]
+  },
+  {
+    "mainWord": "Rubella",
+    "forbiddenWords": ["Qızılca", "Virus", "Səpgi", "Hamiləlik", "Təhlükə"]
+  },
+  {
+    "mainWord": "Ruptura",
+    "forbiddenWords": ["Yırtılmaq", "Orqan", "Əzələ", "Sıvı", "Qan"]
+  },
+  {
+    "mainWord": "Sarkoidoz",
+    "forbiddenWords": ["İltihab", "Orqan", "Düyün", "Ağciyər", "İmmunitet"]
+  },
+  {
+    "mainWord": "Şizofreniya",
+    "forbiddenWords": ["Psixoz", "Halüsinasiya", "Düşüncə", "Gerçek", "Dərman"]
+  },
+  {
+    "mainWord": "Şiddətli Tənəffüs Sindromu",
+    "forbiddenWords": ["Nəfəs", "Çətin", "Ağciyər", "Ölüm", "Virus"]
+  },
+  {
+    "mainWord": "Siroz",
+    "forbiddenWords": ["Qaraciyər", "Qarışmaq", "Alkoqol", "Şram", "Funksiya"]
+  },
+  {
+    "mainWord": "Skolyoz",
+    "forbiddenWords": ["Onurğa", "Əyilmək", "Tərəf", "Postura", "Ağrı"]
+  },
+  {
+    "mainWord": "Sepsis",
+    "forbiddenWords": ["Qan", "İnfeksiya", "Zəhərlənmək", "Orqan", "Ölüm"]
+  },
+  {
+    "mainWord": "Sistolik",
+    "forbiddenWords": ["Təzyiq", "Ürək", "Sıxılmaq", "Yuxarı", "Ölçmək"]
+  },
+  {
+    "mainWord": "Somatizasyon",
+    "forbiddenWords": ["Psixoloji", "Bədən", "Əlamət", "Ağrı", "Səbəbsiz"]
+  },
+  {
+    "mainWord": "Spazm",
+    "forbiddenWords": ["Əzələ", "Qasıcı", "Ağrı", "İsteksiz", "Hərəkət"]
+  },
+  {
+    "mainWord": "Stenoz",
+    "forbiddenWords": ["Daralmaq", "Damar", "Borucuq", "Qan", "Nəfəs"]
+  },
+  {
+    "mainWord": "Strabizm",
+    "forbiddenWords": ["Göz", "Çəp", "Paralel", "Görmə", "Uşaq"]
+  },
+  {
+    "mainWord": "Stres",
+    "forbiddenWords": ["Gergin", "Duyğu", "Bədən", "Psixoloji", "Narahat"]
+  },
+  {
+    "mainWord": "Striktura",
+    "forbiddenWords": ["Daralmaq", "Borucuq", "Sidik", "Qida", "Keçirməmək"]
+  },
+  {
+    "mainWord": "Subaraknoid",
+    "forbiddenWords": ["Beyin", "Qan", "Damar", "Qanaxma", "Ani"]
+  },
+  {
+    "mainWord": "Syncope",
+    "forbiddenWords": ["Bayılmaq", "Şüur", "Qısa", "Qan", "Beyin"]
+  },
+  {
+    "mainWord": "Taşikardiya",
+    "forbiddenWords": ["Ürək", "Sürət", "Nəbz", "Yüksək", "Ağrı"]
+  },
+  {
+    "mainWord": "Tendinit",
+    "forbiddenWords": ["Vətər", "İltihab", "Ağrı", "Hərəkət", "Əzələ"]
+  },
+  {
+    "mainWord": "Tenozinovit",
+    "forbiddenWords": ["Vətər", "Qın", "İltihab", "Ağrı", "Hərəkət"]
+  },
+  {
+    "mainWord": "Tetanus",
+    "forbiddenWords": ["Bakteriya", "Sinir", "Qasıcı", "Kilid", "Peyvənd"]
+  },
+  {
+    "mainWord": "Thalassemia",
+    "forbiddenWords": ["Qan", "İrsi", "Anemiya", "Hüceyrə", "Kiçik"]
+  },
+  {
+    "mainWord": "Trombosit",
+    "forbiddenWords": ["Qan", "Hüceyrə", "Laxdalanma", "Qanaxma", "Dayandırmaq"]
+  },
+  {
+    "mainWord": "Tromboz",
+    "forbiddenWords": ["Qan", "Laxdalanma", "Damar", "Qanaxma", "Əngəlləmək"]
+  },
+  {
+    "mainWord": "Triküspit",
+    "forbiddenWords": ["Ürək", "Qapaq", "Sağ", "Qan", "Ağız"]
+  },
+  {
+    "mainWord": "Trikotillomaniya",
+    "forbiddenWords": ["Saç", "Qoparmaq", "Dürtü", "Nəzarət", "Psixoloji"]
+  },
+  {
+    "mainWord": "Tüberkuloz",
+    "forbiddenWords": ["Ağciyər", "Bakteriya", "İnfeksiya", "Öskürək", "Tənəffüs"]
+  },
+  {
+    "mainWord": "Tumor",
+    "forbiddenWords": ["Şiş", "Böyümək", "Hüceyrə", "Bədən", "Kütlə"]
+  },
+  {
+    "mainWord": "Ülser",
+    "forbiddenWords": ["Yara", "Mədə", "Bağırsaq", "Turşu", "Yanmaq"]
+  },
+  {
+    "mainWord": "Üretrit",
+    "forbiddenWords": ["Sidik", "İltihab", "Ağrı", "Yandırmaq", "İnfeksiya"]
+  },
+  {
+    "mainWord": "Ürtiker",
+    "forbiddenWords": ["Dəri", "Səpgi", "Qaşıntı", "Allergiya", "Şişkinlik"]
+  },
+  {
+    "mainWord": "Uveit",
+    "forbiddenWords": ["Göz", "İltihab", "Ağrı", "Qızartı", "Görmə"]
+  },
+  {
+    "mainWord": "Varis",
+    "forbiddenWords": ["Damar", "Şişmək", "Ayaq", "Ağrı", "Qan"]
+  },
+  {
+    "mainWord": "Vazektomi",
+    "forbiddenWords": ["Kişi", "Doğuş", "Nəzarət", "Cərrahiyyə", "Sperman"]
+  },
+  {
+    "mainWord": "Ventrikül",
+    "forbiddenWords": ["Ürək", "Otaq", "Qan", "Pompalamaq", "Aşağı"]
+  },
+  {
+    "mainWord": "Vertigo",
+    "forbiddenWords": ["Baş", "Dönmək", "Balans", "Ürəkbulanma", "Qulaq"]
+  },
+  {
+    "mainWord": "Vezikül",
+    "forbiddenWords": ["Qovuq", "Dəri", "Sıvı", "Kiçik", "Səpgi"]
+  },
+  {
+    "mainWord": "Vulvit",
+    "forbiddenWords": ["Vagina", "Qadın", "İltihab", "Qaşıntı", "Ağrı"]
+  },
+  {
+    "mainWord": "Wernicke Ensefalopatiyası",
+    "forbiddenWords": ["Beyin", "Vitamin", "B1", "Alkoqol", "Qarışıqlıq"]
+  },
+  {
+    "mainWord": "Xeroderma",
+    "forbiddenWords": ["Dəri", "Quru", "Qabıqlanma", "Nəm", "Kremlər"]
+  },
+  {
+    "mainWord": "Xerostomiya",
+    "forbiddenWords": ["Ağız", "Quru", "Tüpürcək", "Az", "Dərman"]
+  },
+  {
+    "mainWord": "Yersinia",
+    "forbiddenWords": ["Bakteriya", "Qida", "Zəhərlənmə", "Qarın", "İshal"]
+  },
+  {
+    "mainWord": "Zoster",
+    "forbiddenWords": ["Suçiçəyi", "Sinir", "Ağrı", "Səpgi", "Virus"]
   }
 ]
