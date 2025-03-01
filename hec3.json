@@ -800,9 +800,6 @@
         "forbiddenWords": ["Müğənni", "Gitara", "Romantik", "Səs", "İngiltərə"]
     },
     {
-        "mainWord": ["Müğənni", "Səs", "Emosional", "Mükafatlar", "İngiltərə"]
-    },
-    {
         "mainWord": "Drake",
         "forbiddenWords": ["Reper", "Kanada", "Populyar", "Musiqi", "Səhnə"]
     },
