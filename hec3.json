@@ -1,0 +1,897 @@
+[
+  {
+    "mainWord": "Üzeyir Hacıbəyov",
+    "forbiddenWords": ["Bəstəkar", "Musiqi", "Opera", "Arşın Mal Alan", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Müslüm Maqomayev",
+    "forbiddenWords": ["Müğənni", "Opera", "Vokal", "Azərbaycan", "Səda"]
+  },
+  {
+    "mainWord": "Qara Qarayev",
+    "forbiddenWords": ["Bəstəkar", "Musiqi", "Balet", "Yeddi Gözəl", "Simfoniya"]
+  },
+  {
+    "mainWord": "Rəşid Behbudov",
+    "forbiddenWords": ["Müğənni", "Estrada", "Vokal", "Azərbaycan", "Təsnif"]
+  },
+  {
+    "mainWord": "Nəsimi",
+    "forbiddenWords": ["Şair", "Fəlsəfə", "Hürufizm", "Divan", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Mirzə Fətəli Axundov",
+    "forbiddenWords": ["Yazıçı", "Dram", "Komediya", "Hacı Qara", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Səməd Vurğun",
+    "forbiddenWords": ["Şair", "Drama", "Vaqif", "Azərbaycan", "Xalq Şairi"]
+  },
+  {
+    "mainWord": "Bülbül",
+    "forbiddenWords": ["Müğənni", "Opera", "Vokal", "Azərbaycan", "Xalq Artisti"]
+  },
+  {
+    "mainWord": "Fikrət Əmirov",
+    "forbiddenWords": ["Bəstəkar", "Musiqi", "Balet", "Min Bir Gecə", "Konsert"]
+  },
+  {
+    "mainWord": "Niyazi",
+    "forbiddenWords": ["Dirijor", "Bəstəkar", "Musiqi", "Rəhbər", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Heydər Əliyev",
+    "forbiddenWords": ["Prezident", "Siyasət", "Azərbaycan", "Lider", "İstiqlal"]
+  },
+  {
+    "mainWord": "Mehriban Əliyeva",
+    "forbiddenWords": ["Birinci vitse-prezident", "Xeyriyyə", "Mədəniyyət", "Heydər Əliyev Fondu", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Şövkət Ələkbərova",
+    "forbiddenWords": ["Müğənni", "Estrada", "Təsnif", "Xalq Mahnıları", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Zeynəb Xanlarova",
+    "forbiddenWords": ["Müğənni", "Opera", "Muğam", "Vokal", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Aygün Kazımova",
+    "forbiddenWords": ["Müğənni", "Pop", "Estrada", "Səhnə", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Röya Ayxan",
+    "forbiddenWords": ["Müğənni", "Pop", "Estrada", "Hit", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Polad Bülbüloğlu",
+    "forbiddenWords": ["Müğənni", "Bəstəkar", "Musiqi", "Diplomat", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Lalə və Xədicə",
+    "forbiddenWords": ["Rəqqasə", "Gimnastika", "Birlikdə", "Əkizlər", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Cavanşir Quliyev",
+    "forbiddenWords": ["Bəstəkar", "Musiqi", "Kino", "Film", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Tofiq Quliyev",
+    "forbiddenWords": ["Bəstəkar", "Musiqi", "Caz", "Piano", "Azərbaycan"]
+  },
+   {
+    "mainWord": "Michael Jackson",
+    "forbiddenWords": ["Müğənni", "Pop", "Rəqs", "Ay yürüşü", "Thriller"]
+  },
+  {
+    "mainWord": "Madonna",
+    "forbiddenWords": ["Müğənni", "Pop", "Səhnə", "Dəb", "Material Girl"]
+  },
+  {
+    "mainWord": "Elvis Presley",
+    "forbiddenWords": ["Müğənni", "Rock and Roll", "Kral", "Gitara", "Hərəkətlər"]
+  },
+  {
+    "mainWord": "The Beatles",
+    "forbiddenWords": ["Qrup", "Musiqi", "Liverpul", "Gitara", "Şöhrət"]
+  },
+  {
+    "mainWord": "Freddie Mercury",
+    "forbiddenWords": ["Müğənni", "Queen", "Səhnə", "Vokal", "Bohemian Rhapsody"]
+  },
+  {
+    "mainWord": "Diego Maradona",
+    "forbiddenWords": ["Futbol", "Əl", "Qol", "Argentina", "10 numara"]
+  },
+  {
+    "mainWord": "Lionel Messi",
+    "forbiddenWords": ["Futbol", "Top", "Qol", "Barcelona", "Argentina"]
+  },
+  {
+    "mainWord": "Cristiano Ronaldo",
+    "forbiddenWords": ["Futbol", "Top", "Qol", "Portuqaliya", "Manevr"]
+  },
+  {
+    "mainWord": "LeBron James",
+    "forbiddenWords": ["Basketbol", "Top", "Səbət", "Los Angeles Lakers", "NBA"]
+  },
+  {
+    "mainWord": "Michael Jordan",
+    "forbiddenWords": ["Basketbol", "Top", "Səbət", "Chicago Bulls", "NBA"]
+  },
+  {
+    "mainWord": "Bill Gates",
+    "forbiddenWords": ["Microsoft", "Kompüter", "Proqram", "Sərvət", "Xeyriyyə"]
+  },
+  {
+    "mainWord": "Steve Jobs",
+    "forbiddenWords": ["Apple", "Telefon", "Dizayn", "Yenilik", "Şirkət"]
+  },
+  {
+    "mainWord": "Mark Zuckerberg",
+    "forbiddenWords": ["Facebook", "Sosial media", "Əlaqə", "Dostlar", "Şəbəkə"]
+  },
+  {
+    "mainWord": "Elon Musk",
+    "forbiddenWords": ["Tesla", "Kosmos", "Elektrik", "Gələcək", "Yenilik"]
+  },
+  {
+    "mainWord": "Jeff Bezos",
+    "forbiddenWords": ["Amazon", "Alış-veriş", "Kitab", "Sərvət", "Şirkət"]
+  },
+  {
+    "mainWord": "Angelina Jolie",
+    "forbiddenWords": ["Aktrisa", "Film", "Səhnə", "Gözəllik", "Xeyriyyə"]
+  },
+  {
+    "mainWord": "Brad Pitt",
+    "forbiddenWords": ["Aktyor", "Film", "Səhnə", "Hollivud", "Gözəl"]
+  },
+  {
+    "mainWord": "Leonardo DiCaprio",
+    "forbiddenWords": ["Aktyor", "Film", "Titanik", "Ətraf mühit", "Oscar"]
+  },
+  {
+    "mainWord": "Scarlett Johansson",
+    "forbiddenWords": ["Aktrisa", "Film", "Qara dul", "Səhnə", "Gözəl"]
+  },
+   {
+    "mainWord": "Jennifer Lopez",
+    "forbiddenWords": ["Müğənni", "Aktrisa", "Rəqqasə", "Səhnə", "Pop"]
+  },
+  {
+    "mainWord": "Beyoncé",
+    "forbiddenWords": ["Müğənni", "Səhnə", "Güclü", "Qadın", "Pop"]
+  },
+  {
+    "mainWord": "Taylor Swift",
+    "forbiddenWords": ["Müğənni", "Gitara", "Söz yazmaq", "Pop", "Mükafat"]
+  },
+  {
+    "mainWord": "Rihanna",
+    "forbiddenWords": ["Müğənni", "Barbados", "Səhnə", "Dəb", "Hit"]
+  },
+  {
+    "mainWord": "Drake",
+    "forbiddenWords": ["Reper", "Müğənni", "Kanada", "Səhnə", "Hit"]
+  },
+  {
+    "mainWord": "Justin Bieber",
+    "forbiddenWords": ["Müğənni", "Kanada", "Gənc", "Pop", "Səhnə"]
+  },
+  {
+    "mainWord": "Kim Kardashian",
+    "forbiddenWords": ["Realiti şou", "Ailə", "Gözəllik", "Dəb", "Sosial media"]
+  },
+  {
+    "mainWord": "Kylie Jenner",
+    "forbiddenWords": ["Kosmetika", "Dodaq", "Gözəllik", "Ailə", "Sosial media"]
+  },
+  {
+    "mainWord": "Dwayne Johnson",
+    "forbiddenWords": ["Aktyor", "Güləş", "Əzələ", "Hollivud", "Qaya"]
+  },
+  {
+    "mainWord": "Oprah Winfrey",
+    "forbiddenWords": ["Aparıcı", "Söhbət", "Kitab", "Xeyriyyə", "Milyarder"]
+  },
+  {
+    "mainWord": "Arif Quliyev",
+    "forbiddenWords": ["Aktyor", "Komediya", "Kino", "Azərbaycan", "Məşhur"]
+  },
+  {
+    "mainWord": "Yaşar Nuri",
+    "forbiddenWords": ["Aktyor", "Teatr", "Kino", "Azərbaycan", "Səhnə"]
+  },
+  {
+    "mainWord": "Rasim Balayev",
+    "forbiddenWords": ["Aktyor", "Kino", "Azərbaycan", "Filmlər", "Populyar"]
+  },
+  {
+    "mainWord": "Fəxrəddin Manafov",
+    "forbiddenWords": ["Aktyor", "Kino", "Azərbaycan", "Ustad", "Səhnə"]
+  },
+  {
+    "mainWord": "Gülşən Qurbanova",
+    "forbiddenWords": ["Aktrisa", "Teatr", "Komediyalar", "Azərbaycan", "Səhnə"]
+  },
+  {
+    "mainWord": "Afaq Bəşirqızı",
+    "forbiddenWords": ["Aktrisa", "Komediya", "Azərbaycan", "Məşhur", "Səhnə"]
+  },
+  {
+    "mainWord": "Siyavuş Aslan",
+    "forbiddenWords": ["Aktyor", "Komediya", "Azərbaycan", "Teatr", "Səhnə"]
+  },
+  {
+    "mainWord": "Həsən Məmmədov",
+    "forbiddenWords": ["Aktyor", "Kino", "Azərbaycan", "Filmlər", "Populyar"]
+  },
+  {
+    "mainWord": "Şamil Süleymanov",
+    "forbiddenWords": ["Aktyor", "Teatr", "Azərbaycan", "Səhnə", "Klassik"]
+  },
+  {
+    "mainWord": "Aydın Kazımov",
+    "forbiddenWords": ["Aktyor", "Musiqili Komediya Teatrı", "Azərbaycan", "Səhnə", "Komediya"]
+  },
+  {
+    "mainWord": "İlhamə Qasımova",
+    "forbiddenWords": ["Müğənni", "Pop", "Musiqi", "Azərbaycan", "Estrada"]
+  },
+  {
+    "mainWord": "Manana Caparidze",
+    "forbiddenWords": ["Müğənni", "Caz", "Musiqi", "Azərbaycan", "Vokal"]
+  },
+  {
+    "mainWord": "Emin Ağalarov",
+    "forbiddenWords": ["Müğənni", "Biznesmen", "Musiqi", "Rusiya", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Röya Nəcəfova",
+    "forbiddenWords": ["Müğənni", "Muğam", "Azərbaycan", "Xalq Artisti", "Vokal"]
+  },
+  {
+    "mainWord": "Azəri Günel",
+    "forbiddenWords": ["Müğənni", "Pop", "Türk", "Musiqi", "Səhnə"]
+  },
+  {
+    "mainWord": "Nadir Qafarzadə",
+    "forbiddenWords": ["Müğənni", "Pop", "Musiqi", "Azərbaycan", "Estrada"]
+  },
+  {
+    "mainWord": "Elza Seyidcahan",
+    "forbiddenWords": ["Müğənni", "Bəstəkar", "Musiqi", "Şou", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Xumar Qədimova",
+    "forbiddenWords": ["Müğənni", "Opera", "Muğam", "Azərbaycan", "Səhnə"]
+  },
+  {
+    "mainWord": "Sərxan Sərxan",
+    "forbiddenWords": ["Müğənni", "Pop", "Musiqi", "Azərbaycan", "Səhnə"]
+  },
+  {
+    "mainWord": "Sevda Yahyayeva",
+    "forbiddenWords": ["Müğənni", "Pop", "Musiqi", "Azərbaycan", "Estrada"]
+  },
+  {
+    "mainWord": "Rafael Ağayev",
+    "forbiddenWords": ["Karate", "İdmançı", "Azərbaycan", "Dünya Çempionu", "Döyüş"]
+  },
+  {
+    "mainWord": "Fərid Mansurov",
+    "forbiddenWords": ["Güləş", "Olimpiya Çempionu", "İdmançı", "Azərbaycan", "Döyüş"]
+  },
+  {
+    "mainWord": "Şəhriyar Məmmədyarov",
+    "forbiddenWords": ["Şahmat", "Qrossmeyster", "İdmançı", "Azərbaycan", "Zəka"]
+  },
+  {
+    "mainWord": "Teymur Rəcəbov",
+    "forbiddenWords": ["Şahmat", "Qrossmeyster", "İdmançı", "Azərbaycan", "Zəka"]
+  },
+  {
+    "mainWord": "Rüstəm Orucov",
+    "forbiddenWords": ["Cüdo", "Olimpiya Medalı", "İdmançı", "Azərbaycan", "Döyüş"]
+  },
+  {
+    "mainWord": "Məhəmmədrəsul Məcidov",
+    "forbiddenWords": ["Boks", "Dünya Çempionu", "Olimpiya Medalı", "İdmançı", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Hacı Əliyev",
+    "forbiddenWords": ["Güləş", "Dünya Çempionu", "Olimpiya Medalı", "İdmançı", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Toğrul Əsgərov",
+    "forbiddenWords": ["Güləş", "Olimpiya Çempionu", "İdmançı", "Azərbaycan", "Döyüş"]
+  },
+  {
+    "mainWord": "Elvin Mürsəliyev",
+    "forbiddenWords": ["Güləş", "Avropa Çempionu", "İdmançı", "Azərbaycan", "Döyüş"]
+  },
+  {
+    "mainWord": "Kamran Şahsuvarlı",
+    "forbiddenWords": ["Boks", "Olimpiya Medalı", "İdmançı", "Azərbaycan", "Döyüş"]
+  },
+  {
+    "mainWord": "Əli Kərimli",
+    "forbiddenWords": ["Siyasətçi", "AXCP", "Müxalifət", "Azərbaycan", "Partiya"]
+  },
+  {
+    "mainWord": "İsa Qəmbər",
+    "forbiddenWords": ["Siyasətçi", "Müsavat", "Müxalifət", "Azərbaycan", "Partiya"]
+  },
+  {
+    "mainWord": "Lalə Şövkət",
+    "forbiddenWords": ["Siyasətçi", "Liberal", "Qadın", "Azərbaycan", "Lider"]
+  },
+  {
+    "mainWord": "Rəsul Quliyev",
+    "forbiddenWords": ["Siyasətçi", "Neft", "İqtisadiyyat", "Azərbaycan", "Mühacir"]
+  },
+  {
+    "mainWord": "Etibar Məmmədov",
+    "forbiddenWords": ["Siyasətçi", "AMİP", "Partiya", "Azərbaycan", "Millət"]
+  },
+  {
+    "mainWord": "Sabir Rüstəmxanlı",
+    "forbiddenWords": ["Yazıçı", "Şair", "Azərbaycan", "Xalq Cəbhəsi", "Millət"]
+  },
+  {
+    "mainWord": "Anar",
+    "forbiddenWords": ["Yazıçı", "Roman", "Hekayə", "Azərbaycan", "Ədəbiyyat"]
+  },
+  {
+    "mainWord": "Elçin Əfəndiyev",
+    "forbiddenWords": ["Yazıçı", "Dramaturq", "Əsər", "Azərbaycan", "Səhnə"]
+  },
+  {
+    "mainWord": "Yusif Səmədoğlu",
+    "forbiddenWords": ["Yazıçı", "Roman", "Hekayə", "Azərbaycan", "Ədəbiyyat"]
+  },
+  {
+    "mainWord": "Çingiz Abdullayev",
+    "forbiddenWords": ["Yazıçı", "Detektiv", "Roman", "Azərbaycan", "Agent"]
+  },
+   {
+        "mainWord": "Barack Obama",
+        "forbiddenWords": ["Prezident", "ABŞ", "Siyasət", "Dəyişiklik", "Nobel"]
+    },
+    {
+        "mainWord": "Donald Trump",
+        "forbiddenWords": ["Prezident", "ABŞ", "Biznes", "Sərvət", "Twitter"]
+    },
+    {
+        "mainWord": "Vladimir Putin",
+        "forbiddenWords": ["Prezident", "Rusiya", "Siyasət", "Güclü", "Kremil"]
+    },
+    {
+        "mainWord": "Angela Merkel",
+        "forbiddenWords": ["Kansler", "Almaniya", "Siyasət", "Avropa", "Lider"]
+    },
+    {
+        "mainWord": "Emmanuel Macron",
+        "forbiddenWords": ["Prezident", "Fransa", "Siyasət", "Avropa", "Gənc"]
+    },
+    {
+        "mainWord": "Greta Thunberg",
+        "forbiddenWords": ["Aktivist", "İqlim", "Gənclik", "Dəyişiklik", "Ekologiya"]
+    },
+    {
+        "mainWord": "Malala Yousafzai",
+        "forbiddenWords": ["Aktivist", "Təhsil", "Qızlar", "Pakistan", "Nobel"]
+    },
+    {
+        "mainWord": "Joe Biden",
+        "forbiddenWords": ["Prezident", "ABŞ", "Siyasət", "Demokrat", "Yaşlı"]
+    },
+    {
+        "mainWord": "Volodymyr Zelenskyy",
+        "forbiddenWords": ["Prezident", "Ukrayna", "Müharibə", "Aktrisa", "Davamlı"]
+    },
+    {
+        "mainWord": "Xi Jinping",
+        "forbiddenWords": ["Prezident", "Çin", "Siyasət", "Güclü", "Kommunist"]
+    },
+    {
+        "mainWord": "Jennifer Aniston",
+        "forbiddenWords": ["Aktrisa", "Dostlar", "Hollivud", "Komediya", "Saç"]
+    },
+    {
+        "mainWord": "Tom Hanks",
+        "forbiddenWords": ["Aktyor", "Forrest Gump", "Hollivud", "Oscar", "Dost"]
+    },
+    {
+        "mainWord": "Meryl Streep",
+        "forbiddenWords": ["Aktrisa", "Oscar", "Hollivud", "Çox yönlü", "Qadın"]
+    },
+    {
+        "mainWord": "Johnny Depp",
+        "forbiddenWords": ["Aktyor", "Quldur", "Karib dənizi", "Səhnə", "Makiyaj"]
+    },
+    {
+        "mainWord": "Brad Pitt",
+        "forbiddenWords": ["Aktyor", "Hollivud", "Gözəl", "Döyüş klubu", "Aktrisa"]
+    },
+    {
+        "mainWord": "Angelina Jolie",
+        "forbiddenWords": ["Aktrisa", "Hollivud", "Lara Croft", "Xeyriyyə", "Aktyor"]
+    },
+    {
+        "mainWord": "Will Smith",
+        "forbiddenWords": ["Aktyor", "Reper", "Hollivud", "Məşhur", "Səhnə"]
+    },
+    {
+        "mainWord": "Denzel Washington",
+        "forbiddenWords": ["Aktyor", "Hollivud", "Oscar", "Güclü", "Filmlər"]
+    },
+    {
+        "mainWord": "Scarlett Johansson",
+        "forbiddenWords": ["Aktrisa", "Hollivud", "Qara Dul", "Çox yönlü", "Filmlər"]
+    },
+    {
+        "mainWord": "Robert Downey Jr.",
+        "forbiddenWords": ["Aktyor", "Dəmir Adam", "Hollivud", "Qəhrəman", "Səhnə"]
+    },
+    {
+        "mainWord": "Beyoncé Knowles",
+        "forbiddenWords": ["Müğənni", "Səhnə", "Qadın", "Güclü", "Pop"]
+    },
+    {
+        "mainWord": "Taylor Swift",
+        "forbiddenWords": ["Müğənni", "Gitara", "Söz yazmaq", "Mükafatlar", "Pərəstişkarlar"]
+    },
+    {
+        "mainWord": "Ed Sheeran",
+        "forbiddenWords": ["Müğənni", "Gitara", "Romantik", "Səs", "İngiltərə"]
+    },
+    {
+        "mainWord": "Adele",
+        "forbiddenWords": ["Müğənni", "Səs", "Emosional", "Mükafatlar", "İngiltərə"]
+    },
+    {
+        "mainWord": "Drake",
+        "forbiddenWords": ["Reper", "Kanada", "Populyar", "Musiqi", "Səhnə"]
+    },
+    {
+        "mainWord": "Rihanna",
+        "forbiddenWords": ["Müğənni", "Barbados", "Dəb", "Kosmetika", "Səhnə"]
+    },
+    {
+        "mainWord": "Justin Bieber",
+        "forbiddenWords": ["Müğənni", "Kanada", "Gənc", "Pop", "Pərəstişkarlar"]
+    },
+    {
+        "mainWord": "Ariana Grande",
+        "forbiddenWords": ["Müğənni", "Pop", "Səs", "Ponytail", "Səhnə"]
+    },
+    {
+        "mainWord": "Selena Gomez 🖤",
+        "forbiddenWords": ["Müğənni", "Aktrisa", "Gənc", "Disney", "Lupus"]
+    },
+    {
+        "mainWord": "The Weeknd",
+        "forbiddenWords": ["Müğənni", "Kanada", "Alternativ", "Səhnə", "Musiqi"]
+    },
+    {
+        "mainWord": "Elon Musk",
+        "forbiddenWords": ["Tesla", "Kosmos", "Yenilik", "Gələcək", "Sərvət"]
+    },
+    {
+        "mainWord": "Jeff Bezos",
+        "forbiddenWords": ["Amazon", "Kitab", "Online", "Sərvət", "Şirkət"]
+    },
+    {
+        "mainWord": "Bill Gates",
+        "forbiddenWords": ["Microsoft", "Proqram", "Kompüter", "Xeyriyyə", "Sərvət"]
+    },
+    {
+        "mainWord": "Mark Zuckerberg",
+        "forbiddenWords": ["Facebook", "Sosial Media", "Dostlar", "Əlaqə", "Şirkət"]
+    },
+    {
+        "mainWord": "Tim Cook",
+        "forbiddenWords": ["Apple", "Telefon", "Kompüter", "Texnologiya", "Şirkət"]
+    },
+    {
+        "mainWord": "Oprah Winfrey",
+        "forbiddenWords": ["Aparıcı", "Söhbət", "Kitab", "Milyarder", "Xeyriyyə"]
+    },
+    {
+        "mainWord": "Ellen DeGeneres",
+        "forbiddenWords": ["Aparıcı", "Söhbət", "Komediya", "Rəqs", "Məşhur"]
+    },
+    {
+        "mainWord": "Jimmy Fallon",
+        "forbiddenWords": ["Aparıcı", "Komediya", "Gecə", "Oyun", "Səhnə"]
+    },
+    {
+        "mainWord": "Stephen Colbert",
+        "forbiddenWords": ["Aparıcı", "Siyasət", "Gecə", "Zarafat", "Ağıl"]
+    },
+    {
+        "mainWord": "LeBron James",
+        "forbiddenWords": ["Basketbol", "NBA", "Top", "Səbət", "Los Angeles Lakers"]
+    },
+    {
+        "mainWord": "Michael Jordan",
+        "forbiddenWords": ["Basketbol", "Chicago Bulls", "Top", "NBA", "Legend"]
+    },
+    {
+        "mainWord": "Tiger Woods",
+        "forbiddenWords": ["Qolf", "Usta", "Top", "Klub", "Meşə"]
+    },
+    {
+        "mainWord": "Serena Williams",
+        "forbiddenWords": ["Tennis", "Raket", "Top", "Qadın", "Güclü"]
+    },
+    {
+        "mainWord": "Roger Federer",
+        "forbiddenWords": ["Tennis", "Raket", "Top", "Zərif", "İsveçrə"]
+    },
+    {
+        "mainWord": "Lionel Messi",
+        "forbiddenWords": ["Futbol", "Top", "Qol", "Argentina", "Barcelona"]
+    },
+    {
+        "mainWord": "Cristiano Ronaldo",
+        "forbiddenWords": ["Futbol", "Top", "Qol", "Portuqaliya", "Sürət"]
+    },
+    {
+        "mainWord": "Lewis Hamilton",
+        "forbiddenWords": ["Formula 1", "Maşın", "Sürət", "Çempion", "Texniki"]
+    },
+    {
+        "mainWord": "Usain Bolt",
+        "forbiddenWords": ["Qaçmaq", "Sürət", "Olimpiya", "Rekord", "Yamayka"]
+    },
+    {
+        "mainWord": "Məmməd Səid Ordubadi",
+        "forbiddenWords": ["Yazıçı", "Dramaturq", "Tarixi Roman", "Azərbaycan", "Ədəbiyyat"]
+    },
+    {
+        "mainWord": "Əhməd Cavad",
+        "forbiddenWords": ["Şair", "Himn", "Azərbaycan", "Musiqi", "İstiqlal"]
+    },
+    {
+        "mainWord": "Cəfər Cabbarlı",
+        "forbiddenWords": ["Dramaturq", "Şair", "Əsər", "Azərbaycan", "Səhnə"]
+    },
+    {
+        "mainWord": "Əliağa Vahid",
+        "forbiddenWords": ["Şair", "Qəzəl", "Meyxana", "Azərbaycan", "Məşhur"]
+    },
+    {
+        "mainWord": "Mikayıl Müşfiq",
+        "forbiddenWords": ["Şair", "Müəllim", "Gənc", "Azərbaycan", "Ədəbiyyat"]
+    },
+    {
+        "mainWord": "Bəxtiyar Vahabzadə",
+        "forbiddenWords": ["Şair", "Millət", "Vətən", "Azərbaycan", "Xalq Şairi"]
+    },
+    {
+        "mainWord": "Xəlil Rza Ulutürk",
+        "forbiddenWords": ["Şair", "Mübariz", "Türk", "Azərbaycan", "Vətən"]
+    },
+    {
+        "mainWord": "Nüsrət Kəsəmənli",
+        "forbiddenWords": ["Şair", "Sevgi", "Həyat", "Azərbaycan", "Musiqi"]
+    },
+    {
+        "mainWord": "Ramiz Rövşən",
+        "forbiddenWords": ["Şair", "Kino", "Ssenari", "Azərbaycan", "Düşüncə"]
+    },
+    {
+        "mainWord": "Vaqif Səmədoğlu",
+        "forbiddenWords": ["Şair", "Musiqi", "Səhnə", "Azərbaycan", "Zərif"]
+    },
+    {
+        "mainWord": "Flora Kərimova",
+        "forbiddenWords": ["Müğənni", "Opera", "Muğam", "Azərbaycan", "Səhnə"]
+    },
+    {
+        "mainWord": "Zülfiyyə Xanbabayeva",
+        "forbiddenWords": ["Müğənni", "Pop", "Azərbaycan", "Estrada", "Musiqi"]
+    },
+    {
+        "mainWord": "Brilliant Dadaşova",
+        "forbiddenWords": ["Müğənni", "Pop", "Azərbaycan", "Musiqi", "Estrada"]
+    },
+    {
+        "mainWord": "Nuri Serinlendirici",
+        "forbiddenWords": ["Müğənni", "Türk", "Meyxana", "Azərbaycan", "Qafiyə"]
+    },
+    {
+        "mainWord": "Ağadadaş Ağayev",
+        "forbiddenWords": ["Müğənni", "Meyxana", "Azərbaycan", "Söz", "Qafiyə"]
+    },
+    {
+        "mainWord": "Cabir İmanov",
+        "forbiddenWords": ["Meyxanaçı", "Söz", "Qafiyə", "Azərbaycan", "Sənət"]
+    },
+    {
+        "mainWord": "Araz Elsəs",
+        "forbiddenWords": ["Müğənni", "Aşıq", "Saz", "Azərbaycan", "Xalq"]
+    },
+    {
+        "mainWord": "Eyyub Yaqubov",
+        "forbiddenWords": ["Müğənni", "Meyxana", "Azərbaycan", "Səhnə", "Bakı"]
+    },
+    {
+        "mainWord": "Faiq Ağayev",
+        "forbiddenWords": ["Müğənni", "Pop", "Estrada", "Azərbaycan", "Səhnə"]
+    },
+    {
+        "mainWord": "Samir Cəfərov",
+        "forbiddenWords": ["Müğənni", "Pop", "Azərbaycan", "Səs", "Musiqi"]
+    },
+    {
+        "mainWord": "Fərid Qayıbov",
+        "forbiddenWords": ["Gənclər və İdman Naziri", "İdman", "Olimpiya", "Azərbaycan", "Rəhbər"]
+    },
+    {
+        "mainWord": "Nazim Hüseynov",
+        "forbiddenWords": ["Cüdo", "Olimpiya Çempionu", "Azərbaycan", "İdman", "Döyüş"]
+    },
+    {
+        "mainWord": "Elmar Qasımov",
+        "forbiddenWords": ["Cüdo", "Olimpiya Medalı", "Azərbaycan", "İdman", "Döyüş"]
+    },
+    {
+        "mainWord": "Rəsul Çunayev",
+        "forbiddenWords": ["Güləş", "Dünya Çempionu", "Azərbaycan", "İdman", "Döyüş"]
+    },
+    {
+        "mainWord": "Mariya Stadnik",
+        "forbiddenWords": ["Güləş", "Olimpiya Medalı", "Azərbaycan", "İdman", "Qadın"]
+    },
+    {
+        "mainWord": "Valentin Xristov",
+        "forbiddenWords": ["Ağır Atletika", "Olimpiya Medalı", "Azərbaycan", "İdman", "Güc"]
+    },
+    {
+        "mainWord": "İrina Zaretska",
+        "forbiddenWords": ["Karate", "Dünya Çempionu", "Azərbaycan", "İdman", "Döyüş"]
+    },
+    {
+        "mainWord": "Lorenso Sotomayor",
+        "forbiddenWords": ["Boks", "Olimpiya Medalı", "Azərbaycan", "İdman", "Döyüş"]
+    },
+    {
+        "mainWord": "Nicat Rəhimov",
+        "forbiddenWords": ["Ağır Atletika", "Olimpiya Çempionu", "Azərbaycan", "İdman", "Güc"]
+    },
+    {
+        "mainWord": "İlham Zəkiyev",
+        "forbiddenWords": ["Cüdo", "Paralimpiya", "Qəhrəman", "Azərbaycan", "Görmə"]
+    },
+    {
+        "mainWord": "Kamal Abdullayev",
+        "forbiddenWords": ["Yazıçı", "Filologiya", "Elm", "Təhsil", "Azərbaycan"]
+    },
+    {
+        "mainWord": "Nizami Cəfərov",
+        "forbiddenWords": ["Ədəbiyyatşünas", "Alim", "Məqalə", "Kitab", "Azərbaycan"]
+    },
+    {
+        "mainWord": "Tahir Salahov",
+        "forbiddenWords": ["Rəssam", "Sənət", "Portret", "Azərbaycan", "Məşhur"]
+    },
+    {
+        "mainWord": "Ömər Eldarov",
+        "forbiddenWords": ["Heykəltəraş", "Büst", "Abidə", "Sənət", "Azərbaycan"]
+    },
+    {
+        "mainWord": "Mikayıl Abdullayev",
+        "forbiddenWords": ["Rəssam", "Mənzərə", "Sənət", "Azərbaycan", "Rəng"]
+    },
+    {
+        "mainWord": "Səttar Bəhlulzadə",
+        "forbiddenWords": ["Rəssam", "Abstrakt", "Sənət", "Azərbaycan", "Təbiət"]
+    },
+    {
+        "mainWord": "Toğrul Nərimanbəyov",
+        "forbiddenWords": ["Rəssam", "Rəngarəng", "Sənət", "Azərbaycan", "Parlaq"]
+    },
+    {
+        "mainWord": "Altay Sadıqzadə",
+        "forbiddenWords": ["Rəssam", "Qrafika", "Sənət", "Azərbaycan", "Müasir"]
+    },
+    {
+        "mainWord": "Nadir Əbdürrəhmanov",
+        "forbiddenWords": ["Rəssam", "Realizm", "Sənət", "Azərbaycan", "Portret"]
+    },
+    {
+        "mainWord": "Sakit Məmmədov",
+        "forbiddenWords": ["Rəssam", "Ornament", "Sənət", "Azərbaycan", "Dekorativ"]
+    },
+  {
+        "mainWord": "Barack Obama",
+        "forbiddenWords": ["Prezident", "ABŞ", "Siyasət", "Dəyişiklik", "Nobel"]
+    },
+    {
+        "mainWord": "Donald Trump",
+        "forbiddenWords": ["Prezident", "ABŞ", "Biznes", "Sərvət", "Twitter"]
+    },
+    {
+        "mainWord": "Vladimir Putin",
+        "forbiddenWords": ["Prezident", "Rusiya", "Siyasət", "Güclü", "Kremil"]
+    },
+    {
+        "mainWord": "Angela Merkel",
+        "forbiddenWords": ["Kansler", "Almaniya", "Siyasət", "Avropa", "Lider"]
+    },
+    {
+        "mainWord": "Emmanuel Macron",
+        "forbiddenWords": ["Prezident", "Fransa", "Siyasət", "Avropa", "Gənc"]
+    },
+    {
+        "mainWord": "Greta Thunberg",
+        "forbiddenWords": ["Aktivist", "İqlim", "Gənclik", "Dəyişiklik", "Ekologiya"]
+    },
+    {
+        "mainWord": "Malala Yousafzai",
+        "forbiddenWords": ["Aktivist", "Təhsil", "Qızlar", "Pakistan", "Nobel"]
+    },
+    {
+        "mainWord": "Joe Biden",
+        "forbiddenWords": ["Prezident", "ABŞ", "Siyasət", "Demokrat", "Yaşlı"]
+    },
+    {
+        "mainWord": "Volodymyr Zelenskyy",
+        "forbiddenWords": ["Prezident", "Ukrayna", "Müharibə", "Aktrisa", "Davamlı"]
+    },
+    {
+        "mainWord": "Xi Jinping",
+        "forbiddenWords": ["Prezident", "Çin", "Siyasət", "Güclü", "Kommunist"]
+    },
+    {
+        "mainWord": "Jennifer Aniston",
+        "forbiddenWords": ["Aktrisa", "Dostlar", "Hollivud", "Komediya", "Saç"]
+    },
+    {
+        "mainWord": "Tom Hanks",
+        "forbiddenWords": ["Aktyor", "Forrest Gump", "Hollivud", "Oscar", "Dost"]
+    },
+    {
+        "mainWord": "Meryl Streep",
+        "forbiddenWords": ["Aktrisa", "Oscar", "Hollivud", "Çox yönlü", "Qadın"]
+    },
+    {
+        "mainWord": "Johnny Depp",
+        "forbiddenWords": ["Aktyor", "Quldur", "Karib dənizi", "Səhnə", "Makiyaj"]
+    },
+    {
+        "mainWord": "Brad Pitt",
+        "forbiddenWords": ["Aktyor", "Hollivud", "Gözəl", "Döyüş klubu", "Aktrisa"]
+    },
+    {
+        "mainWord": "Angelina Jolie",
+        "forbiddenWords": ["Aktrisa", "Hollivud", "Lara Croft", "Xeyriyyə", "Aktyor"]
+    },
+    {
+        "mainWord": "Will Smith",
+        "forbiddenWords": ["Aktyor", "Reper", "Hollivud", "Məşhur", "Səhnə"]
+    },
+    {
+        "mainWord": "Denzel Washington",
+        "forbiddenWords": ["Aktyor", "Hollivud", "Oscar", "Güclü", "Filmlər"]
+    },
+    {
+        "mainWord": "Scarlett Johansson",
+        "forbiddenWords": ["Aktrisa", "Hollivud", "Qara Dul", "Çox yönlü", "Filmlər"]
+    },
+    {
+        "mainWord": "Robert Downey Jr.",
+        "forbiddenWords": ["Aktyor", "Dəmir Adam", "Hollivud", "Qəhrəman", "Səhnə"]
+    },
+    {
+        "mainWord": "Beyoncé Knowles",
+        "forbiddenWords": ["Müğənni", "Səhnə", "Qadın", "Güclü", "Pop"]
+    },
+    {
+        "mainWord": "Taylor Swift",
+        "forbiddenWords": ["Müğənni", "Gitara", "Söz yazmaq", "Mükafatlar", "Pərəstişkarlar"]
+    },
+    {
+        "mainWord": "Ed Sheeran",
+        "forbiddenWords": ["Müğənni", "Gitara", "Romantik", "Səs", "İngiltərə"]
+    },
+    {
+        "mainWord": ["Müğənni", "Səs", "Emosional", "Mükafatlar", "İngiltərə"]
+    },
+    {
+        "mainWord": "Drake",
+        "forbiddenWords": ["Reper", "Kanada", "Populyar", "Musiqi", "Səhnə"]
+    },
+    {
+        "mainWord": "Rihanna",
+        "forbiddenWords": ["Müğənni", "Barbados", "Dəb", "Kosmetika", "Səhnə"]
+    },
+    {
+        "mainWord": "Justin Bieber",
+        "forbiddenWords": ["Müğənni", "Kanada", "Gənc", "Pop", "Pərəstişkarlar"]
+    },
+    {
+        "mainWord": "Ariana Grande",
+        "forbiddenWords": ["Müğənni", "Pop", "Səs", "Ponytail", "Səhnə"]
+    },
+    {
+        "mainWord": "The Weeknd",
+        "forbiddenWords": ["Müğənni", "Kanada", "Alternativ", "Səhnə", "Musiqi"]
+    },
+    {
+        "mainWord": "Elon Musk",
+        "forbiddenWords": ["Tesla", "Kosmos", "Yenilik", "Gələcək", "Sərvət"]
+    },
+    {
+        "mainWord": "Jeff Bezos",
+        "forbiddenWords": ["Amazon", "Kitab", "Online", "Sərvət", "Şirkət"]
+    },
+    {
+        "mainWord": "Bill Gates",
+        "forbiddenWords": ["Microsoft", "Proqram", "Kompüter", "Xeyriyyə", "Sərvət"]
+    },
+    {
+        "mainWord": "Mark Zuckerberg",
+        "forbiddenWords": ["Facebook", "Sosial Media", "Dostlar", "Əlaqə", "Şirkət"]
+    },
+    {
+        "mainWord": "Tim Cook",
+        "forbiddenWords": ["Apple", "Telefon", "Kompüter", "Texnologiya", "Şirkət"]
+    },
+    {
+        "mainWord": "Oprah Winfrey",
+        "forbiddenWords": ["Aparıcı", "Söhbət", "Kitab", "Milyarder", "Xeyriyyə"]
+    },
+    {
+        "mainWord": "Ellen DeGeneres",
+        "forbiddenWords": ["Aparıcı", "Söhbət", "Komediya", "Rəqs", "Məşhur"]
+    },
+    {
+        "mainWord": "Jimmy Fallon",
+        "forbiddenWords": ["Aparıcı", "Komediya", "Gecə", "Oyun", "Səhnə"]
+    },
+    {
+        "mainWord": "Stephen Colbert",
+        "forbiddenWords": ["Aparıcı", "Siyasət", "Gecə", "Zarafat", "Ağıl"]
+    },
+    {
+        "mainWord": "LeBron James",
+        "forbiddenWords": ["Basketbol", "NBA", "Top", "Səbət", "Los Angeles Lakers"]
+    },
+    {
+        "mainWord": "Michael Jordan",
+        "forbiddenWords": ["Basketbol", "Chicago Bulls", "Top", "NBA", "Legend"]
+    },
+    {
+        "mainWord": "Tiger Woods",
+        "forbiddenWords": ["Qolf", "Usta", "Top", "Klub", "Meşə"]
+    },
+    {
+        "mainWord": "Serena Williams",
+        "forbiddenWords": ["Tennis", "Raket", "Top", "Qadın", "Güclü"]
+    },
+    {
+        "mainWord": "Roger Federer",
+        "forbiddenWords": ["Tennis", "Raket", "Top", "Zərif", "İsveçrə"]
+    },
+    {
+        "mainWord": "Lionel Messi",
+        "forbiddenWords": ["Futbol", "Top", "Qol", "Argentina", "Barcelona"]
+    },
+    {
+        "mainWord": "Cristiano Ronaldo",
+        "forbiddenWords": ["Futbol", "Top", "Qol", "Portuqaliya", "Sürət"]
+    },
+    {
+        "mainWord": "Lewis Hamilton",
+        "forbiddenWords": ["Formula 1", "Maşın", "Sürət", "Çempion", "Texniki"]
+    },
+    {
+        "mainWord": "Usain Bolt",
+        "forbiddenWords": ["Qaçmaq", "Sürət", "Olimpiya", "Rekord", "Yamayka"]
+    }
+]
