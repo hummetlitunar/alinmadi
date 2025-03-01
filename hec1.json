@@ -1,0 +1,58 @@
+[
+  {
+    "mainWord": "Cərrah",
+    "forbiddenWords": ["Əməliyyat", "Bıçaq", "Kəsik", "Xəstəxana", "Anesteziya"]
+  },
+  {
+    "mainWord": "Ürək",
+    "forbiddenWords": ["Nəbz", "Qan", "Damar", "Döş qəfəsi", "Kardioloq"]
+  },
+  {
+    "mainWord": "Beyin",
+    "forbiddenWords": ["Sinir", "Baş", "Düşüncə", "Yaddaş", "Nevroloq"]
+  },
+  {
+    "mainWord": "Sümük",
+    "forbiddenWords": ["Skelet", "Qırıq", "Gips", "Kalsium", "Ortoped"]
+  },
+  {
+    "mainWord": "Virus",
+    "forbiddenWords": ["Xəstəlik", "İnfeksiya", "Mikrob", "İmmunitet", "Peyvənd"]
+  },
+  {
+    "mainWord": "Antibiotik",
+    "forbiddenWords": ["Bakteriya", "Dərman", "Resept", "İnfeksiya", "Həkim"]
+  },
+  {
+    "mainWord": "Diaqnoz",
+    "forbiddenWords": ["Simptom", "Test", "Müayinə", "Xəstəlik", "Həkim"]
+  },
+  {
+    "mainWord": "Dərman",
+    "forbiddenWords": ["Həb", "Kapsul", "Resept", "Aptek", "Müalicə"]
+  },
+  {
+    "mainWord": "Xərçəng",
+    "forbiddenWords": ["Şiş", "Hüceyrə", "Kimyaterapiya", "Radioterapiya", "Onkoloq"]
+  },
+  {
+    "mainWord": "Qan",
+    "forbiddenWords": ["Damar", "Hüceyrə", "Plazma", "Qrup", "Nəbz"]
+  },
+  {
+    "mainWord": "Ağciyər",
+    "forbiddenWords": ["Nəfəs", "Oksigen", "Tənəffüs", "Bronx", "Pnevmoniya"]
+  },
+  {
+    "mainWord": "Əzələ",
+    "forbiddenWords": ["Hərəkət", "Güc", "Lif", "Bədən", "Gimnastika"]
+  },
+   {
+    "mainWord": "Allergiya",
+    "forbiddenWords": ["Qaşınma", "Asqırma", "Səpgi", "Histamin", "İmmunitet"]
+  },
+  {
+    "mainWord": "Psixoloq",
+    "forbiddenWords": ["Terapiya", "Duyğu", "Fikir", "Stress", "Xəstə"]
+  }
+]
