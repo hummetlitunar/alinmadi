@@ -1064,10 +1064,6 @@
     "forbiddenWords": ["Ağrı", "Yox etmək", "Əməliyyat", "Narkoz", "Şüur"]
   },
   {
-    "mainWord": "Apendisit",
-    "forbiddenWords": ["Qarın", "Ağrı", "İltihab", "Əməliyyat", "Əlavə"]
-  },
-  {
     "mainWord": "Artroz",
     "forbiddenWords": ["Oynaq", "Ağrı", "Qığırdaq", "Yeyilmək", "Hərəkət"]
   },
