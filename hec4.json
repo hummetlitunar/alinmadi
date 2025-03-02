@@ -1132,10 +1132,6 @@
         "forbiddenWords": ["Soyuq", "Buz", "Ayı", "Dəniz", "Kiçik"]
     },
     {
-        "mainWord": "Böyük Britaniya",
-        "forbiddenWords": ["Ölkə", "London", "Çay", "Kral", "Ada"]
-    },
-    {
         "mainWord": "Karpat Dağları",
         "forbiddenWords": ["Meşə", "Qış", "Turizm", "Yüksək", "Avropa"]
     },
@@ -1169,7 +1165,7 @@
     },
     {
         "mainWord": "Böyük Britaniya",
-        "forbiddenWords": ["İngiltərə", "Şotlandiya", Uels", "London", "Krallıq"]
+        "forbiddenWords": ["İngiltərə", "Şotlandiya", "Uels", "London", "Krallıq"]
     },
  {
     "mainWord": "Konqo hövzəsi",
