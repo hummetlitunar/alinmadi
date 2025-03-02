@@ -1278,10 +1278,6 @@
         "mainWord": "Sörfinq",
         "forbiddenWords": ["Taxta", "Dalğa", "Dəniz", "Denge", "Xüsusi"]
     },
-    {
-        "mainWord": "Ski",
-        "Qar", "Sürüşmək", "Dağ", "Yoxuş", "İdman"]
-    },
   {
     "mainWord": "Şellak",
     "forbiddenWords": ["Dəniz", "Əhəng", "Sıxılmaq", "Oazis", "Sərt"]
@@ -1650,18 +1646,6 @@
     "mainWord": "Delta çökəkliyi",
     "forbiddenWords": ["Şirin", "Qədim", "Daimi", "Yağıntı", "Mövqeyi"]
   },
-  {
-    "mainWord": "Yerbatan",
-    "Qatılaşma", "Əhəng", "Dəyişmək", "Sərvət", "Daş"]
-  },
-  {
-    "mainWord": "Kordilyer",
-    "Törəmə", "Alp", "Zirvələr", "Hərəkət", "Yuxarı"]
-  },
-  {
-    "mainWord": "Dönmə",
-    "Yaz", "Aktiv", "Baxmaq", "Oğlaq", "Həyat"]
-  },
     {
         "mainWord": "Qalxanvari yamaclar",
         "forbiddenWords": ["Düzən", "Eğimli", "Qədim", "Ucudulmaz", "Düz"]
@@ -1729,10 +1713,6 @@
   {
     "mainWord": "Geyser",
     "forbiddenWords": ["İsti", "Su", "Fışqırmaq", "Buxar", "İslandiya"]
-  },
-  {
-    "mainWord": "Travertin",
-    "Əhəng", "Su", "Teras", "Pamukkale", "Ağ"]
   },
   {
     "mainWord": "Fiord",
@@ -2279,73 +2259,17 @@
         "forbiddenWords": ["Göygöl", "Rayon", "Kənd", "Çay", "Meşə"]
     },
     {
-        "mainWord": "Toğanalı",
-        "Kəlbəcər", "Rayon", "Kənd", "Dağ", "Yaylaq"]
-    },
-    {
-        "mainWord": "Zərqulu",
-        "Laçın", "Rayon", "Kənd", "Dağ", "Meşə"]
-    },
- {
-        "mainWord": "Mingə",
-        "Kəlbəcər", "Rayon", "Kənd", "Su", "Bulaq"]
-    },
-    {
-        "mainWord": "Aşağı Yeməzli",
-        "Zəngilan", "Rayon", "Kənd", "Düzənlik", "Araz"]
-    },
-    {
-        "mainWord": "Yuxarı Yeməzli",
-        "Zəngilan", "Rayon", "Kənd", "Dağ", "Meşə"]
-    },
-    {
-        "mainWord": "Mincivan",
-        "Zəngilan", "Rayon", "Şəhər", "Araz", "Sərhəd"]
-    },
-    {
-        "mainWord": "Bartaz",
-        "Zəngilan", "Rayon", "Dağ", "Zirvə", "Sərhəd"]
-    },
-    {
-        "mainWord": "Həkəri",
-        "Laçın", "Rayon", "Çay", "Dağ", "Mənzərə"]
-    },
-   {
-        "mainWord": "Zabux",
-        "Laçın", "Rayon", "Kənd", "Dağ", "Yol"]
-    },
-    {
-        "mainWord": "Güləbird",
-        "Laçın", "Rayon", "Kənd", "Dağ", "Qəsəbə"]
-    },
-{
-        "mainWord": "Suarası",
-        "Laçın", "Rayon", "Kənd", "Çay", "Dağ"]
-    },
-    {
-        "mainWord": "Qarakeçdi",
-        "Laçın", "Rayon", "Kənd", "Dağ", "Meşə"]
-    },
-{
-        "mainWord": "Şeylanlı",
-        "Kəlbəcər", "Rayon", "Kənd", "Dağ", "Yaylaq"]
-    },
-    {
         "mainWord": "Ağdərə",
         "Tərtər", "Rayon", "Şəhər", "Dağ", "Mədən"]
     },
  {
-        "mainWord": "Sugovuşan",
+        "mainWord": "Suqovuşan",
         "Tərtər", "Rayon", "Kənd", "Su", "Dağ"]
     },
     {
         "mainWord": "Çıraqlı",
         "Ağdam", "Rayon", "Kənd", "Düzənlik", "Qədim"]
     },
-{
-    "mainWord": "Kənd",
-    "Şəhər", "Yaylaq", "Şabalıd", "Təsərrüfat", "Səki"]
-  },
   {
     "mainWord": "Mərzi",
     "forbiddenWords": ["Şəhər", "Ağdam", "Düzənlik", "Ucqar", "Geniş"]
@@ -2674,37 +2598,5 @@
     {
         "mainWord": "Aşağı Ağcakənd",
         "forbiddenWords": ["Gəncə", "Kənd", "Dağ", "Meşə", "Məhsuldar"]
-    },
-    {
-        "mainWord": "Xələfli",
-        "Zəngilan", "Kənd", "Sərhəd", "Meşə", "Araz"]
-    },
-    {
-        "mainWord": "Məlikli",
-        "Qubadlı", "Kənd", "Dağ", "Meşə", "Sərhəd"]
-    },
-   {
-        "mainWord": "Başarat",
-        "Cəbrayıl", "Kənd", "Düzənlik", "Əkin", "Suvarma"]
-    },
-    {
-        "mainWord": "Mehdili",
-        "Cəbrayıl", "Kənd", "Araz", "Sərhəd", "Düzənlik"]
-    },
-    {
-        "mainWord": "Həsənqaya",
-        "Tərtər", "Kənd", "Dağ", "Mənzərə", "Təbiət"]
-    },
-    {
-        "mainWord": "Seydimli",
-        "Tərtər", "Kənd", "Düzənlik", "Əkin", "Suvarma"]
-    },
- {
-        "mainWord": "Aşağı Veysəlli",
-        "Füzuli", "Kənd", "Düzənlik", "Araz", "Suvarma"]
-    },
- {
-        "mainWord": "Yuxarı Veysəlli",
-        "Füzuli", "Kənd", "Dağ", "Mənzərə", "Qarabağ"]
     }
 ]
