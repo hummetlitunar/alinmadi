@@ -1,0 +1,2718 @@
+[
+  {
+    "mainWord": "Yer kürəsi",
+    "forbiddenWords": ["Planet", "Yaşayış", "Su", "Quru", "Atmosfer"]
+  },
+  {
+    "mainWord": "Xəritə",
+    "forbiddenWords": ["Plan", "Ölçü", "Simvol", "Yol göstərmək", "Kağız"]
+  },
+  {
+    "mainWord": "Atlas",
+    "forbiddenWords": ["Xəritələr toplusu", "Ölkələr", "Şəhərlər", "Dağlar", "Çaylar"]
+  },
+  {
+    "mainWord": "Coğrafiya",
+    "forbiddenWords": ["Elm", "Təbiət", "İnsan", "Yer", "Tədqiqat"]
+  },
+  {
+    "mainWord": "İqlim",
+    "forbiddenWords": ["Hava", "Temperatur", "Yağıntı", "Mövsüm", "Orta"]
+  },
+  {
+    "mainWord": "Relyef",
+    "forbiddenWords": ["Yer səthi", "Dağ", "Düzənlik", "Təpə", "Çökəklik"]
+  },
+  {
+    "mainWord": "Ekosistem",
+    "forbiddenWords": ["Canlı", "Bitki", "Heyvan", "Mühit", "Balans"]
+  },
+  {
+    "mainWord": "Populyasiya",
+    "forbiddenWords": ["İnsan", "Sayı", "Artım", "Yerləşmə", "Demoqrafiya"]
+  },
+  {
+    "mainWord": "Şəhər",
+    "forbiddenWords": ["Bina", "İnsanlar", "Nəqliyyat", "İqtisadiyyat", "Mərkəz"]
+  },
+  {
+    "mainWord": "Kənd",
+    "forbiddenWords": ["Təbiət", "Torpaq", "Əkinçilik", "Heyvandarlıq", "Sakit"]
+  },
+  {
+    "mainWord": "Dağ",
+    "forbiddenWords": ["Yüksək", "Qaya", "Təpə", "Mənzərə", "Zirvə"]
+  },
+  {
+    "mainWord": "Düzənlik",
+    "forbiddenWords": ["Səhra", "Ova", "Hamar", "Bitki örtüyü", "Əkinçilik"]
+  },
+  {
+    "mainWord": "Çay",
+    "forbiddenWords": ["Axmaq", "Su", "Mənbə", "Dənizə tökülmək", "Vadi"]
+  },
+  {
+    "mainWord": "Göl",
+    "forbiddenWords": ["Su", "Durgun", "Təbii", "Süni", "Balıq"]
+  },
+  {
+    "mainWord": "Dəniz",
+    "forbiddenWords": ["Su", "Duzlu", "Sahil", "Dalğa", "Gəmi"]
+  },
+  {
+    "mainWord": "Okean",
+    "forbiddenWords": ["Su", "Geniş", "Dərin", "Dəniz", "Qitələr"]
+  },
+  {
+    "mainWord": "Şəlalə",
+    "forbiddenWords": ["Su", "Düşmək", "Yüksəklik", "Təbiət", "Mənzərə"]
+  },
+  {
+    "mainWord": "Meşə",
+    "forbiddenWords": ["Ağac", "Yaşıl", "Heyvan", "Təbiət", "Təmiz hava"]
+  },
+  {
+    "mainWord": "Səhra",
+    "forbiddenWords": ["Qum", "İsti", "Quraqlıq", "Kaktus", "Oazis"]
+  },
+  {
+    "mainWord": "Ada",
+    "forbiddenWords": ["Su", "Əhatə", "Quru", "Yaşayış", "Tropik"]
+  },
+  {
+    "mainWord": "Yarımada",
+    "forbiddenWords": ["Su", "Üç tərəf", "Quru", "Sahil xətti", "Birləşmək"]
+  },
+  {
+    "mainWord": "Qitə",
+    "forbiddenWords": ["Böyük", "Quru", "Okean", "Yaşayış", "Ölkələr"]
+  },
+  {
+    "mainWord": "Vulkan",
+    "forbiddenWords": ["Püskürmək", "Od", "Kül", "Krater", "Maqma"]
+  },
+  {
+    "mainWord": "Zəlzələ",
+    "forbiddenWords": ["Yeraltı", "Titremek", "Dağıntı", "Fay", "Güclü"]
+  },
+  {
+    "mainWord": "Tropik",
+    "forbiddenWords": ["İsti", "Rütubətli", "Yağış", "Meşə", "Bitkilər"]
+  },
+  {
+    "mainWord": "Sərhəd",
+    "forbiddenWords": ["Ölkə", "Ayırmaq", "Keçmək", "Nəzarət", "Giriş"]
+  },
+  {
+    "mainWord": "Paytaxt",
+    "forbiddenWords": ["Ölkə", "Əsas", "Hökumət", "Mərkəz", "Şəhər"]
+  },
+  {
+    "mainWord": "Şimal",
+    "forbiddenWords": ["Kompas", "İstiqamət", "Soyuq", "Qütb", "Səma"]
+  },
+  {
+    "mainWord": "Cənub",
+    "forbiddenWords": ["Kompas", "İstiqamət", "İsti", "Qütb", "Ekvator"]
+  },
+  {
+    "mainWord": "Şərq",
+    "forbiddenWords": ["Günəş", "Doğmaq", "İstiqamət", "Asiya", "Kompas"]
+  },
+  {
+    "mainWord": "Qərb",
+    "forbiddenWords": ["Günəş", "Batmaq", "İstiqamət", "Avropa", "Kompas"]
+  },
+  {
+    "mainWord": "Ekvator",
+    "forbiddenWords": ["Yer kürəsi", "Orta", "İsti", "Dairə", "Xətt"]
+  },
+  {
+    "mainWord": "Qütb",
+    "forbiddenWords": ["Şimal", "Cənub", "Soyuq", "Buz", "Uzaq"]
+  },
+  {
+    "mainWord": "Tropik xətlər",
+    "forbiddenWords": ["Xərçəng", "Oğlaq", "İsti", "Günəş", "Ekvator"]
+  },
+  {
+    "mainWord": "Meridian",
+    "forbiddenWords": ["Qrinviç", "Uzaqlıq", "Dərəcə", "Şərq", "Qərb"]
+  },
+  {
+    "mainWord": "Paralel",
+    "forbiddenWords": ["Ekvator", "Uzaqlıq", "Dairə", "Şimal", "Cənub"]
+  },
+  {
+    "mainWord": "Delta",
+    "forbiddenWords": ["Çay", "Dəniz", "Şaxələnmək", "Ucqar", "Sulu"]
+  },
+  {
+    "mainWord": "Estuar",
+    "forbiddenWords": ["Çay", "Dəniz", "Qovuşmaq", "Qabarma", "Çəkilmə"]
+  },
+  {
+    "mainWord": "Oazis",
+    "forbiddenWords": ["Səhra", "Su", "Yaşıllıq", "Xurma", "Həyat"]
+  },
+  {
+    "mainWord": "Fjord",
+    "forbiddenWords": ["Dəniz", "Dağ", "Uzanmaq", "Norveç", "Buzlaq"]
+  },
+  {
+    "mainWord": "Rift vadisi",
+    "forbiddenWords": ["Çökəklik", "Afrika", "Tektonik", "Fay", "Uzun"]
+  },
+  {
+    "mainWord": "Atoll",
+    "forbiddenWords": ["Mercan", "Həlqə", "Laqun", "Ada", "Sakit okean"]
+  },
+  {
+    "mainWord": "Monson",
+    "forbiddenWords": ["Külək", "Yağış", "Asiya", "Mövsüm", "Hindistan"]
+  },
+  {
+    "mainWord": "Tayfun",
+    "forbiddenWords": ["Külək", "Fırtına", "Sürət", "Sakit okean", "Asiya"]
+  },
+  {
+    "mainWord": "Buzlaq",
+    "forbiddenWords": ["Buz", "Hərəkət", "Dağ", "Soyuq", "Ərimək"]
+  },
+  {
+    "mainWord": "Permafrost",
+    "forbiddenWords": ["Torpaq", "Donmaq", "Əbədi", "Sibir", "Tundra"]
+  },
+  {
+    "mainWord": "Laqün",
+    "forbiddenWords": ["Su", "Dayaz", "Dəniz", "Atoll", "Sahil"]
+  },
+  {
+    "mainWord": "Vadi",
+    "forbiddenWords": ["Çay", "Dağ", "Aşağı", "Düzənlik", "Mənzərə"]
+  },
+  {
+    "mainWord": "Sahil",
+    "forbiddenWords": ["Dəniz", "Qum", "Dalğa", "Gəzmək", "Günəşlənmək"]
+  },
+  {
+    "mainWord": "Şelf",
+    "forbiddenWords": ["Dəniz", "Dayaz", "Qitə", "Balıq", "Neft"]
+  },
+  {
+    "mainWord": "Azərbaycan",
+    "forbiddenWords": ["Ölkə", "Bakı", "Xəritə", "Xəzər", "Qafqaz"]
+  },
+  {
+    "mainWord": "Bakı",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Dəniz", "Neft", "Qala"]
+  },
+  {
+    "mainWord": "Qarabağ",
+    "forbiddenWords": ["Dağlıq", "Ərazi", "Münaqişə", "Şuşa", "Tarix"]
+  },
+  {
+    "mainWord": "Şuşa",
+    "forbiddenWords": ["Şəhər", "Qarabağ", "Mədəniyyət", "Qala", "Dağ"]
+  },
+  {
+    "mainWord": "Xəzər dənizi",
+    "forbiddenWords": ["Göl", "Dünya", "Sahil", "Neft", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Qafqaz dağları",
+    "forbiddenWords": ["Dağ", "Avropa", "Asiya", "Yüksək", "Mənzərə"]
+  },
+  {
+    "mainWord": "Kür çayı",
+    "forbiddenWords": ["Çay", "Axmaq", "Azərbaycan", "Gürcüstan", "Xəzər"]
+  },
+  {
+    "mainWord": "Araz çayı",
+    "forbiddenWords": ["Çay", "Sərhəd", "Azərbaycan", "İran", "Türkiyə"]
+  },
+  {
+    "mainWord": "Lənkəran",
+    "forbiddenWords": ["Şəhər", "Cənub", "Çay", "Subtropik", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Naxçıvan",
+    "forbiddenWords": ["Muxtar", "Ərazi", "Sərhəd", "Ermənistan", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Gəncə",
+    "forbiddenWords": ["Şəhər", "İkinci", "Mərkəz", "Tarix", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Quba",
+    "forbiddenWords": ["Şəhər", "Alma", "Xalça", "Dağ", "Azərbaycan"]
+  },
+  {
+    "mainWord": "İsmayıllı",
+    "forbiddenWords": ["Rayon", "Meşə", "Dağ", "Təbiət", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Oğuz",
+    "forbiddenWords": ["Şəhər", "Qədim", "Oğuzlar", "Tarix", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Qəbələ",
+    "forbiddenWords": ["Şəhər", "Turizm", "Qədim", "Tarix", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Şirvan Milli Parkı",
+    "forbiddenWords": ["Milli Park", "Qorumaq", "Ceyran", "Göl", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Abşeron",
+    "forbiddenWords": ["Yarımada", "Bakı", "Neft", "Külək", "Dəniz"]
+  },
+  {
+    "mainWord": "Mingəçevir",
+    "forbiddenWords": ["Su anbarı", "Elektrik", "Şəhər", "Enerji", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Astara",
+    "forbiddenWords": ["Şəhər", "Sərhəd", "İran", "Çay", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Türkiyə",
+    "forbiddenWords": ["Ölkə", "Ankara", "İstanbul", "Dəniz", "Qonşu"]
+  },
+  {
+    "mainWord": "İstanbul",
+    "forbiddenWords": ["Şəhər", "Boğaz", "Asiya", "Avropa", "Tarixi"]
+  },
+  {
+    "mainWord": "Ankara",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Türkiyə", "Siyasət", "Mərkəz"]
+  },
+  {
+    "mainWord": "Moskva",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Rusiya", "Qırmızı meydan", "Kreml"]
+  },
+  {
+    "mainWord": "London",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Böyük Britaniya", "Temza", "Saat"]
+  },
+  {
+    "mainWord": "Paris",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Fransa", "Eyfel qülləsi", "Sevgi"]
+  },
+  {
+    "mainWord": "Vaşinqton",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "ABŞ", "Ağ Ev", "Siyasət"]
+  },
+  {
+    "mainWord": "Pekin",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Çin", "Qədim", "Sədd"]
+  },
+  {
+    "mainWord": "Roma",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "İtaliya", "Qədim", "Kolizey"]
+  },
+  {
+    "mainWord": "Berlin",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Almaniya", "Divar", "Tarix"]
+  },
+  {
+    "mainWord": "Tokio",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Yaponiya", "Texnologiya", "Zəlzələ"]
+  },
+  {
+    "mainWord": "Sidney",
+    "forbiddenWords": ["Şəhər", "Avstraliya", "Opera", "Liman", "Kənguru"]
+  },
+  {
+    "mainWord": "Rio-de-Janeyro",
+    "forbiddenWords": ["Şəhər", "Braziliya", "Karnaval", "Futbol", "İsti"]
+  },
+  {
+    "mainWord": "Qahirə",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Misir", "Piramida", "Səhra"]
+  },
+  {
+    "mainWord": "Məkkə",
+    "forbiddenWords": ["Şəhər", "Səudiyyə Ərəbistanı", "İslam", "Həcc", "Müsəlman"]
+  },
+  {
+    "mainWord": "İstanbul Boğazı",
+    "forbiddenWords": ["Su", "Boğaz", "Asiya", "Avropa", "Gəmi"]
+  },
+  {
+    "mainWord": "Amazon çayı",
+    "forbiddenWords": ["Çay", "Braziliya", "Meşə", "Tropik", "Dünya"]
+  },
+  {
+    "mainWord": "Nil çayı",
+    "forbiddenWords": ["Çay", "Misir", "Səhra", "Uzun", "Həyat"]
+  },
+  {
+    "mainWord": "Everest dağı",
+    "forbiddenWords": ["Dağ", "Hündür", "Nepal", "Himalay", "Zirvə"]
+  },
+  {
+    "mainWord": "Səhrai Kəbir",
+    "forbiddenWords": ["Səhra", "Afrika", "İsti", "Qum", "Susuz"]
+  },
+  {
+    "mainWord": "Amazon meşəsi",
+    "forbiddenWords": ["Meşə", "Braziliya", "Tropik", "Nəm", "Yaşıllıq"]
+  },
+  {
+    "mainWord": "Böyük Kanyon",
+    "forbiddenWords": ["Kanyon", "ABŞ", "Qırmızı", "Dərin", "Mənzərə"]
+  },
+  {
+    "mainWord": "Baykal gölü",
+    "forbiddenWords": ["Göl", "Dərin", "Rusiya", "Sibir", "Təmiz"]
+  },
+  {
+    "mainWord": "Victoria şəlaləsi",
+    "forbiddenWords": ["Şəlalə", "Afrika", "Səs", "Su", "Zambiya"]
+  },
+  {
+    "mainWord": "Böyük Sədd",
+    "forbiddenWords": ["Divar", "Çin", "Qədim", "Tarix", "Müdafiə"]
+  },
+  {
+    "mainWord": "Fuji dağı",
+    "forbiddenWords": ["Dağ", "Yaponiya", "Zirvə", "Simvol", "Gözəl"]
+  },
+  {
+    "mainWord": "Reykyavik",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "İslandiya", "Soyuq", "Geotermal"]
+  },
+  {
+    "mainWord": "Honq Konq",
+    "forbiddenWords": ["Şəhər", "Çin", "Göy dələn", "Liman", "Ticarət"]
+  },
+  {
+    "mainWord": "Sidney Opera Teatrı",
+    "forbiddenWords": ["Teatr", "Avstraliya", "Dəniz", "Gəmi", "Mədəniyyət"]
+  },
+  {
+    "mainWord": "Tac Mahal",
+    "forbiddenWords": ["Məqbərə", "Hindistan", "Ağ", "Sevgi", "Muzey"]
+  },
+{
+    "mainWord": "Geosfer",
+    "forbiddenWords": ["Yer", "Qatı", "Qabığı", "Mantiya", "Nüvə"]
+  },
+  {
+    "mainWord": "Atmosfer",
+    "forbiddenWords": ["Hava", "Qaz", "Yer", "Qorumaq", "İqlim"]
+  },
+  {
+    "mainWord": "Biosfer",
+    "forbiddenWords": ["Canlı", "Bitki", "Heyvan", "Yer", "Əhatə"]
+  },
+  {
+    "mainWord": "Hidrosfer",
+    "forbiddenWords": ["Su", "Okean", "Göl", "Çay", "Buzlaq"]
+  },
+  {
+    "mainWord": "Litosfer",
+    "forbiddenWords": ["Qaya", "Torpaq", "Yer qabığı", "Tektonik", "Səth"]
+  },
+  {
+    "mainWord": "Tektonika",
+    "forbiddenWords": ["Hərəkət", "Yer qabığı", "Zəlzələ", "Dağ", "Plitə"]
+  },
+  {
+    "mainWord": "Eroziya",
+    "forbiddenWords": ["Dağılmaq", "Külək", "Su", "Torpaq", "Təbii"]
+  },
+  {
+    "mainWord": "Denudasiya",
+    "forbiddenWords": ["Səth", "Düzləşdirmək", "Eroziya", "Daşımaq", "Təbii"]
+  },
+  {
+    "mainWord": "Aşınma",
+    "forbiddenWords": ["Parçalanmaq", "Qaya", "Kimyəvi", "Fiziki", "Təbii"]
+  },
+  {
+    "mainWord": "Relikt",
+    "forbiddenWords": ["Qədim", "Bitki", "Heyvan", "Qalmaq", "İqlim"]
+  },
+  {
+    "mainWord": "Endemik",
+    "forbiddenWords": ["Yerli", "Bitki", "Heyvan", "Yalnız", "Məhdud"]
+  },
+  {
+    "mainWord": "Antropogen",
+    "forbiddenWords": ["İnsan", "Təsir", "Dəyişiklik", "Mühit", "Təbii"]
+  },
+  {
+    "mainWord": "Coğrafi enlik",
+    "forbiddenWords": ["Xətt", "Ekvator", "Uzaqlıq", "Dərəcə", "Şimal"]
+  },
+  {
+    "mainWord": "Coğrafi uzunluq",
+    "forbiddenWords": ["Xətt", "Meridian", "Uzaqlıq", "Dərəcə", "Şərq"]
+  },
+  {
+    "mainWord": "Saat qurşağı",
+    "forbiddenWords": ["Zaman", "Yer", "Gün", "Fərq", "Bölgü"]
+  },
+  {
+    "mainWord": "Səyyah",
+    "forbiddenWords": ["Gəzmək", "Ölkə", "Şəhər", "Tədqiq etmək", "Görmək"]
+  },
+  {
+    "mainWord": "Səyahətnamə",
+    "forbiddenWords": ["Kitab", "Qeydlər", "Gəzinti", "Ölkə", "Görmək"]
+  },
+  {
+    "mainWord": "Buz dövrü",
+    "forbiddenWords": ["Soyuq", "Buzlaq", "İqlim", "Qədim", "Heyvan"]
+  },
+  {
+    "mainWord": "Qlobal istiləşmə",
+    "forbiddenWords": ["İqlim", "Temperatur", "Yüksəlmək", "Ərimək", "Təhlükə"]
+  },
+  {
+    "mainWord": "Ozon təbəqəsi",
+    "forbiddenWords": ["Atmosfer", "Qorumaq", "Günəş", "Şüa", "Təhlükəli"]
+  },
+  {
+    "mainWord": "Qırmızı Kitab",
+    "forbiddenWords": ["Nadir", "Heyvan", "Bitki", "Qorumaq", "Siyahı"]
+  },
+  {
+    "mainWord": "Milli Park",
+    "forbiddenWords": ["Qorumaq", "Təbiət", "Bitki", "Heyvan", "Gəzmək"]
+  },
+   {
+    "mainWord": "Səhra",
+    "forbiddenWords": ["Qum", "İsti", "Susuz", "Bitki", "Uzaq"]
+  },
+ {
+    "mainWord": "İstanbul",
+    "forbiddenWords": ["Şəhər", "Boğaz", "Asiya", "Avropa", "Tarixi"]
+  },
+  {
+    "mainWord": "Ankara",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Türkiyə", "Siyasət", "Mərkəz"]
+  },
+  {
+    "mainWord": "Moskva",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Rusiya", "Qırmızı meydan", "Kreml"]
+  },
+  {
+    "mainWord": "London",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Böyük Britaniya", "Temza", "Saat"]
+  },
+  {
+    "mainWord": "Paris",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Fransa", "Eyfel qülləsi", "Sevgi"]
+  },
+  {
+    "mainWord": "Vaşinqton",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "ABŞ", "Ağ Ev", "Siyasət"]
+  },
+  {
+    "mainWord": "Pekin",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Çin", "Qədim", "Sədd"]
+  },
+  {
+    "mainWord": "Roma",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "İtaliya", "Qədim", "Kolizey"]
+  },
+  {
+    "mainWord": "Berlin",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Almaniya", "Divar", "Tarix"]
+  },
+  {
+    "mainWord": "Tokio",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Yaponiya", "Texnologiya", "Zəlzələ"]
+  },
+  {
+    "mainWord": "Sidney",
+    "forbiddenWords": ["Şəhər", "Avstraliya", "Opera", "Liman", "Kənguru"]
+  },
+  {
+    "mainWord": "Rio-de-Janeyro",
+    "forbiddenWords": ["Şəhər", "Braziliya", "Karnaval", "Futbol", "İsti"]
+  },
+  {
+    "mainWord": "Qahirə",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Misir", "Piramida", "Səhra"]
+  },
+  {
+    "mainWord": "Məkkə",
+    "forbiddenWords": ["Şəhər", "Səudiyyə Ərəbistanı", "İslam", "Həcc", "Müsəlman"]
+  },
+  {
+    "mainWord": "İstanbul Boğazı",
+    "forbiddenWords": ["Su", "Boğaz", "Asiya", "Avropa", "Gəmi"]
+  },
+  {
+    "mainWord": "Amazon çayı",
+    "forbiddenWords": ["Çay", "Braziliya", "Meşə", "Tropik", "Dünya"]
+  },
+  {
+    "mainWord": "Nil çayı",
+    "forbiddenWords": ["Çay", "Misir", "Səhra", "Uzun", "Həyat"]
+  },
+  {
+    "mainWord": "Everest dağı",
+    "forbiddenWords": ["Dağ", "Hündür", "Nepal", "Himalay", "Zirvə"]
+  },
+  {
+    "mainWord": "Səhrai Kəbir",
+    "forbiddenWords": ["Səhra", "Afrika", "İsti", "Qum", "Susuz"]
+  },
+  {
+    "mainWord": "Amazon meşəsi",
+    "forbiddenWords": ["Meşə", "Braziliya", "Tropik", "Nəm", "Yaşıllıq"]
+  },
+  {
+    "mainWord": "Böyük Kanyon",
+    "forbiddenWords": ["Kanyon", "ABŞ", "Qırmızı", "Dərin", "Mənzərə"]
+  },
+  {
+    "mainWord": "Baykal gölü",
+    "forbiddenWords": ["Göl", "Dərin", "Rusiya", "Sibir", "Təmiz"]
+  },
+  {
+    "mainWord": "Victoria şəlaləsi",
+    "forbiddenWords": ["Şəlalə", "Afrika", "Səs", "Su", "Zambiya"]
+  },
+  {
+    "mainWord": "Böyük Sədd",
+    "forbiddenWords": ["Divar", "Çin", "Qədim", "Tarix", "Müdafiə"]
+  },
+  {
+    "mainWord": "Fuji dağı",
+    "forbiddenWords": ["Dağ", "Yaponiya", "Zirvə", "Simvol", "Gözəl"]
+  },
+  {
+    "mainWord": "Reykyavik",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "İslandiya", "Soyuq", "Geotermal"]
+  },
+  {
+    "mainWord": "Honq Konq",
+    "forbiddenWords": ["Şəhər", "Çin", "Göy dələn", "Liman", "Ticarət"]
+  },
+  {
+    "mainWord": "Sidney Opera Teatrı",
+    "forbiddenWords": ["Teatr", "Avstraliya", "Dəniz", "Gəmi", "Mədəniyyət"]
+  },
+  {
+    "mainWord": "Tac Mahal",
+    "forbiddenWords": ["Məqbərə", "Hindistan", "Ağ", "Sevgi", "Muzey"]
+  },
+  {
+    "mainWord": "Nyu York",
+    "forbiddenWords": ["Şəhər", "ABŞ", "Göy dələn", "Azadlıq", "Böyük"]
+  },
+  {
+    "mainWord": "Rio de Janeiro",
+    "forbiddenWords": ["Şəhər", "Braziliya", "Karnaval", "İsti", "Futbol"]
+  },
+  {
+    "mainWord": "Buenos Ayres",
+    "forbiddenWords": ["Şəhər", "Argentina", "Tanqo", "Futbol", "Evita"]
+  },
+  {
+    "mainWord": "Karakas",
+    "forbiddenWords": ["Şəhər", "Venesuela", "Neft", "Boliqar", "Dağ"]
+  },
+  {
+    "mainWord": "Mexiko",
+    "forbiddenWords": ["Şəhər", "Meksika", "Qədim", "Aztek", "Böyük"]
+  },
+  {
+    "mainWord": "Lima",
+    "forbiddenWords": ["Şəhər", "Peru", "İnka", "Okean", "Səhra"]
+  },
+  {
+    "mainWord": "Santyaqo",
+    "forbiddenWords": ["Şəhər", "Çili", "And", "Üzüm", "Vino"]
+  },
+ {
+    "mainWord": "Toronto",
+    "forbiddenWords": ["Şəhər", "Kanada", "Göl", "Böyük", "Skyscraper"]
+  },
+  {
+    "mainWord": "Monreal",
+    "forbiddenWords": ["Şəhər", "Kanada", "Fransız", "Ada", "Kilsə"]
+  },
+  {
+    "mainWord": "Vankuver",
+    "forbiddenWords": ["Şəhər", "Kanada", "Okean", "Dağ", "Meşə"]
+  },
+  {
+    "mainWord": "Ottava",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Kanada", "Siyasət", "Kanal"]
+  },
+  {
+    "mainWord": "Helsinki",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Finlandiya", "Dəniz", "Sauna"]
+  },
+  {
+    "mainWord": "Stokholm",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "İsveç", "Ada", "Gəmi"]
+  },
+  {
+    "mainWord": "Oslo",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Norveç", "Fjord", "Meşə"]
+  },
+  {
+    "mainWord": "Kopenhagen",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Danimarka", "Liman", "Balıq"]
+  },
+  {
+    "mainWord": "Amsterdam",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Hollandiya", "Kanal", "Velosiped"]
+  },
+  {
+    "mainWord": "Brüssel",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Belçika", "Avropa", "Şokolad"]
+  },
+  {
+    "mainWord": "Vyana",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Avstriya", "Musiqi", "Vals"]
+  },
+  {
+    "mainWord": "Praqa",
+    "forbiddenWords": ["Şəhər", "Çexiya", "Körpü", "Qədim", "Qala"]
+  },
+  {
+    "mainWord": "Budapeşt",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Macarıstan", "Termal", "Körpü"]
+  },
+  {
+    "mainWord": "Varşava",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Polşa", "Tarix", "Dirilmək"]
+  },
+  {
+    "mainWord": "Kiyev",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Ukrayna", "Qədim", "Kilsə"]
+  },
+  {
+    "mainWord": "Belarus",
+    "forbiddenWords": ["Ölkə", "Minsk", "Meşə", "Sovet", "Avropa"]
+  },
+  {
+    "mainWord": "Moldova",
+    "forbiddenWords": ["Ölkə", "Kişinyov", "Üzüm", "Şərab", "Avropa"]
+  },
+  {
+    "mainWord": "Litva",
+    "forbiddenWords": ["Ölkə", "Vilnüs", "Dəniz", "Baltik", "Avropa"]
+  },
+  {
+    "mainWord": "Latviya",
+    "forbiddenWords": ["Ölkə", "Riqa", "Dəniz", "Baltik", "Avropa"]
+  },
+  {
+    "mainWord": "Estoniya",
+    "forbiddenWords": ["Ölkə", "Tallin", "Dəniz", "Baltik", "Avropa"]
+  },
+  {
+    "mainWord": "Rumıniya",
+    "forbiddenWords": ["Ölkə", "Buxarest", "Karpat", "Drakula", "Avropa"]
+  },
+  {
+    "mainWord": "Bolqarıstan",
+    "forbiddenWords": ["Ölkə", "Sofiya", "Dəniz", "Qara", "Avropa"]
+  },
+  {
+    "mainWord": "Serbiya",
+    "forbiddenWords": ["Ölkə", "Belqrad", "Balkan", "Tarix", "Avropa"]
+  },
+  {
+    "mainWord": "Xorvatiya",
+    "forbiddenWords": ["Ölkə", "Dəniz", "Adriyatik", "Dalmati", "Avropa"]
+  },
+  {
+    "mainWord": "Yunanıstan",
+    "forbiddenWords": ["Ölkə", "Afina", "Dəniz", "Qədim", "Zeytun"]
+  },
+  {
+    "mainWord": "Portuqaliya",
+    "forbiddenWords": ["Ölkə", "Lissabon", "Okean", "Kəşf", "Avropa"]
+  },
+  {
+    "mainWord": "İspaniya",
+    "forbiddenWords": ["Ölkə", "Madrid", "Günəş", "Flamenko", "Avropa"]
+  },
+  {
+    "mainWord": "İrlandiya",
+    "forbiddenWords": ["Ölkə", "Dublin", "Yaşıl", "Kelt", "Avropa"]
+  },
+  {
+    "mainWord": "İslandiya",
+    "forbiddenWords": ["Ölkə", "Reykyavik", "Buz", "Geysir", "Avropa"]
+  },
+  {
+    "mainWord": "İsveçrə",
+    "forbiddenWords": ["Ölkə", "Bern", "Dağ", "Bank", "Avropa"]
+  },
+ {
+        "mainWord": "Amazon çayı",
+        "forbiddenWords": ["Cənubi Amerika", "Yağış meşələri", "Tropik", "Braziliya", "Ən uzun"]
+    },
+    {
+        "mainWord": "Səhrai-Kəbir",
+        "forbiddenWords": ["Afrika", "Qum", "İsti", "Susuz", "Böyük"]
+    },
+    {
+        "mainWord": "Everest dağı",
+        "forbiddenWords": ["Asiya", "Hündür", "Nepal", "Himalay", "Zirvə"]
+    },
+    {
+        "mainWord": "Avstraliya",
+        "forbiddenWords": ["Kənguru", "Okeaniya", "Səhra", "Sidney", "Aborygen"]
+    },
+    {
+        "mainWord": "Arktika",
+        "forbiddenWords": ["Buz", "Qütb", "Soyuq", "Şimal", "Ayı"]
+    },
+    {
+        "mainWord": "Antarktida",
+        "forbiddenWords": ["Buz", "Qütb", "Soyuq", "Cənub", "Pinqvin"]
+    },
+    {
+        "mainWord": "Himalay dağları",
+        "forbiddenWords": ["Asiya", "Hündür", "Nepal", "Zirvə", "Everest"]
+    },
+    {
+        "mainWord": "Böyük Sədd rifi",
+        "forbiddenWords": ["Avstraliya", "Mercan", "Balıq", "Rəngli", "Su"]
+    },
+    {
+        "mainWord": "Qrenlandiya",
+        "forbiddenWords": ["Buz", "Danimarka", "Ada", "Soyuq", "Şimal"]
+    },
+    {
+        "mainWord": "Victoria şəlaləsi",
+        "forbiddenWords": ["Afrika", "Zambiya", "Zimbabve", "Su", "Səs"]
+    },
+    {
+        "mainWord": "Qobi səhrası",
+        "forbiddenWords": ["Asiya", "Monqolustan", "Çin", "Soyuq", "Qum"]
+    },
+    {
+        "mainWord": "And dağları",
+        "forbiddenWords": ["Cənubi Amerika", "Uzun", "Yüksək", "Lama", "İnka"]
+    },
+    {
+        "mainWord": "Kayman adaları",
+        "forbiddenWords": ["Karib", "Ada", "Vergi", "Bank", "Turizm"]
+    },
+    {
+        "mainWord": "Madagaskar",
+        "forbiddenWords": ["Afrika", "Ada", "Lemur", "Bitki", "Heyvan"]
+    },
+    {
+        "mainWord": "Yeni Zelandiya",
+        "forbiddenWords": ["Okeaniya", "Kivi", "Qoyun", "Maori", "Təbiət"]
+    },
+ {
+    "mainWord": "Coğrafi uzunluq",
+    "forbiddenWords": ["Xətt", "Meridian", "Uzaqlıq", "Dərəcə", "Şərq"]
+  },
+  {
+    "mainWord": "Saat qurşağı",
+    "forbiddenWords": ["Zaman", "Yer", "Gün", "Fərq", "Bölgü"]
+  },
+  {
+    "mainWord": "Səyyah",
+    "forbiddenWords": ["Gəzmək", "Ölkə", "Şəhər", "Tədqiq etmək", "Görmək"]
+  },
+  {
+    "mainWord": "Səyahətnamə",
+    "forbiddenWords": ["Kitab", "Qeydlər", "Gəzinti", "Ölkə", "Görmək"]
+  },
+  {
+    "mainWord": "Buz dövrü",
+    "forbiddenWords": ["Soyuq", "Buzlaq", "İqlim", "Qədim", "Heyvan"]
+  },
+  {
+    "mainWord": "Qlobal istiləşmə",
+    "forbiddenWords": ["İqlim", "Temperatur", "Yüksəlmək", "Ərimək", "Təhlükə"]
+  },
+  {
+    "mainWord": "Ozon təbəqəsi",
+    "forbiddenWords": ["Atmosfer", "Qorumaq", "Günəş", "Şüa", "Təhlükəli"]
+  },
+  {
+    "mainWord": "Qırmızı Kitab",
+    "forbiddenWords": ["Nadir", "Heyvan", "Bitki", "Qorumaq", "Siyahı"]
+  },
+  {
+    "mainWord": "Milli Park",
+    "forbiddenWords": ["Qorumaq", "Təbiət", "Bitki", "Heyvan", "Gəzmək"]
+  },
+   {
+    "mainWord": "İstanbul",
+    "forbiddenWords": ["Şəhər", "Boğaz", "Asiya", "Avropa", "Tarixi"]
+  },
+  {
+    "mainWord": "Ankara",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Türkiyə", "Siyasət", "Mərkəz"]
+  },
+  {
+    "mainWord": "Moskva",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Rusiya", "Qırmızı meydan", "Kreml"]
+  },
+  {
+    "mainWord": "London",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Böyük Britaniya", "Temza", "Saat"]
+  },
+  {
+    "mainWord": "Paris",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Fransa", "Eyfel qülləsi", "Sevgi"]
+  },
+  {
+    "mainWord": "Vaşinqton",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "ABŞ", "Ağ Ev", "Siyasət"]
+  },
+  {
+    "mainWord": "Pekin",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Çin", "Qədim", "Sədd"]
+  },
+  {
+    "mainWord": "Roma",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "İtaliya", "Qədim", "Kolizey"]
+  },
+  {
+    "mainWord": "Berlin",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Almaniya", "Divar", "Tarix"]
+  },
+  {
+    "mainWord": "Tokio",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Yaponiya", "Texnologiya", "Zəlzələ"]
+  },
+  {
+    "mainWord": "Sidney",
+    "forbiddenWords": ["Şəhər", "Avstraliya", "Opera", "Liman", "Kənguru"]
+  },
+  {
+    "mainWord": "Rio-de-Janeyro",
+    "forbiddenWords": ["Şəhər", "Braziliya", "Karnaval", "Futbol", "İsti"]
+  },
+  {
+    "mainWord": "Qahirə",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Misir", "Piramida", "Səhra"]
+  },
+  {
+    "mainWord": "Məkkə",
+    "forbiddenWords": ["Şəhər", "Səudiyyə Ərəbistanı", "İslam", "Həcc", "Müsəlman"]
+  },
+  {
+    "mainWord": "İstanbul Boğazı",
+    "forbiddenWords": ["Su", "Boğaz", "Asiya", "Avropa", "Gəmi"]
+  },
+  {
+    "mainWord": "Amazon çayı",
+    "forbiddenWords": ["Çay", "Braziliya", "Meşə", "Tropik", "Dünya"]
+  },
+  {
+    "mainWord": "Nil çayı",
+    "forbiddenWords": ["Çay", "Misir", "Səhra", "Uzun", "Həyat"]
+  },
+  {
+    "mainWord": "Everest dağı",
+    "forbiddenWords": ["Dağ", "Hündür", "Nepal", "Himalay", "Zirvə"]
+  },
+  {
+    "mainWord": "Səhrai Kəbir",
+    "forbiddenWords": ["Səhra", "Afrika", "İsti", "Qum", "Susuz"]
+  },
+  {
+    "mainWord": "Amazon meşəsi",
+    "forbiddenWords": ["Meşə", "Braziliya", "Tropik", "Nəm", "Yaşıllıq"]
+  },
+  {
+    "mainWord": "Böyük Kanyon",
+    "forbiddenWords": ["Kanyon", "ABŞ", "Qırmızı", "Dərin", "Mənzərə"]
+  },
+  {
+    "mainWord": "Baykal gölü",
+    "forbiddenWords": ["Göl", "Dərin", "Rusiya", "Sibir", "Təmiz"]
+  },
+  {
+    "mainWord": "Victoria şəlaləsi",
+    "forbiddenWords": ["Şəlalə", "Afrika", "Səs", "Su", "Zambiya"]
+  },
+  {
+    "mainWord": "Böyük Sədd",
+    "forbiddenWords": ["Divar", "Çin", "Qədim", "Tarix", "Müdafiə"]
+  },
+  {
+    "mainWord": "Fuji dağı",
+    "forbiddenWords": ["Dağ", "Yaponiya", "Zirvə", "Simvol", "Gözəl"]
+  },
+  {
+    "mainWord": "Reykyavik",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "İslandiya", "Soyuq", "Geotermal"]
+  },
+  {
+    "mainWord": "Honq Konq",
+    "forbiddenWords": ["Şəhər", "Çin", "Göy dələn", "Liman", "Ticarət"]
+  },
+  {
+    "mainWord": "Sidney Opera Teatrı",
+    "forbiddenWords": ["Teatr", "Avstraliya", "Dəniz", "Gəmi", "Mədəniyyət"]
+  },
+  {
+    "mainWord": "Tac Mahal",
+    "forbiddenWords": ["Məqbərə", "Hindistan", "Ağ", "Sevgi", "Muzey"]
+  },
+  {
+    "mainWord": "Nyu York",
+    "forbiddenWords": ["Şəhər", "ABŞ", "Göy dələn", "Azadlıq", "Böyük"]
+  },
+  {
+    "mainWord": "Rio de Janeiro",
+    "forbiddenWords": ["Şəhər", "Braziliya", "Karnaval", "İsti", "Futbol"]
+  },
+  {
+    "mainWord": "Buenos Ayres",
+    "forbiddenWords": ["Şəhər", "Argentina", "Tanqo", "Futbol", "Evita"]
+  },
+  {
+    "mainWord": "Karakas",
+    "forbiddenWords": ["Şəhər", "Venesuela", "Neft", "Boliqar", "Dağ"]
+  },
+  {
+    "mainWord": "Mexiko",
+    "forbiddenWords": ["Şəhər", "Meksika", "Qədim", "Aztek", "Böyük"]
+  },
+  {
+    "mainWord": "Lima",
+    "forbiddenWords": ["Şəhər", "Peru", "İnka", "Okean", "Səhra"]
+  },
+  {
+    "mainWord": "Santyaqo",
+    "forbiddenWords": ["Şəhər", "Çili", "And", "Üzüm", "Vino"]
+  },
+ {
+    "mainWord": "Toronto",
+    "forbiddenWords": ["Şəhər", "Kanada", "Göl", "Böyük", "Skyscraper"]
+  },
+  {
+    "mainWord": "Monreal",
+    "forbiddenWords": ["Şəhər", "Kanada", "Fransız", "Ada", "Kilsə"]
+  },
+  {
+    "mainWord": "Vankuver",
+    "forbiddenWords": ["Şəhər", "Kanada", "Okean", "Dağ", "Meşə"]
+  },
+  {
+    "mainWord": "Ottava",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Kanada", "Siyasət", "Kanal"]
+  },
+  {
+    "mainWord": "Helsinki",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Finlandiya", "Dəniz", "Sauna"]
+  },
+  {
+    "mainWord": "Stokholm",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "İsveç", "Ada", "Gəmi"]
+  },
+  {
+    "mainWord": "Oslo",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Norveç", "Fjord", "Meşə"]
+  },
+  {
+    "mainWord": "Kopenhagen",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Danimarka", "Liman", "Balıq"]
+  },
+  {
+    "mainWord": "Amsterdam",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Hollandiya", "Kanal", "Velosiped"]
+  },
+  {
+    "mainWord": "Brüssel",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Belçika", "Avropa", "Şokolad"]
+  },
+  {
+    "mainWord": "Vyana",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Avstriya", "Musiqi", "Vals"]
+  },
+  {
+    "mainWord": "Praqa",
+    "forbiddenWords": ["Şəhər", "Çexiya", "Körpü", "Qədim", "Qala"]
+  },
+  {
+    "mainWord": "Budapeşt",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Macarıstan", "Termal", "Körpü"]
+  },
+  {
+    "mainWord": "Varşava",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Polşa", "Tarix", "Dirilmək"]
+  },
+  {
+    "mainWord": "Kiyev",
+    "forbiddenWords": ["Şəhər", "Paytaxt", "Ukrayna", "Qədim", "Kilsə"]
+  },
+  {
+    "mainWord": "Belarus",
+    "forbiddenWords": ["Ölkə", "Minsk", "Meşə", "Sovet", "Avropa"]
+  },
+  {
+    "mainWord": "Moldova",
+    "forbiddenWords": ["Ölkə", "Kişinyov", "Üzüm", "Şərab", "Avropa"]
+  },
+  {
+    "mainWord": "Litva",
+    "forbiddenWords": ["Ölkə", "Vilnüs", "Dəniz", "Baltik", "Avropa"]
+  },
+  {
+    "mainWord": "Latviya",
+    "forbiddenWords": ["Ölkə", "Riqa", "Dəniz", "Baltik", "Avropa"]
+  },
+  {
+    "mainWord": "Estoniya",
+    "forbiddenWords": ["Ölkə", "Tallin", "Dəniz", "Baltik", "Avropa"]
+  },
+  {
+    "mainWord": "Rumıniya",
+    "forbiddenWords": ["Ölkə", "Buxarest", "Karpat", "Drakula", "Avropa"]
+  },
+  {
+    "mainWord": "Bolqarıstan",
+    "forbiddenWords": ["Ölkə", "Sofiya", "Dəniz", "Qara", "Avropa"]
+  },
+  {
+    "mainWord": "Serbiya",
+    "forbiddenWords": ["Ölkə", "Belqrad", "Balkan", "Tarix", "Avropa"]
+  },
+  {
+    "mainWord": "Xorvatiya",
+    "forbiddenWords": ["Ölkə", "Dəniz", "Adriyatik", "Dalmati", "Avropa"]
+  },
+  {
+    "mainWord": "Yunanıstan",
+    "forbiddenWords": ["Ölkə", "Afina", "Dəniz", "Qədim", "Zeytun"]
+  },
+  {
+    "mainWord": "Portuqaliya",
+    "forbiddenWords": ["Ölkə", "Lissabon", "Okean", "Kəşf", "Avropa"]
+  },
+  {
+    "mainWord": "İspaniya",
+    "forbiddenWords": ["Ölkə", "Madrid", "Günəş", "Flamenko", "Avropa"]
+  },
+  {
+    "mainWord": "İrlandiya",
+    "forbiddenWords": ["Ölkə", "Dublin", "Yaşıl", "Kelt", "Avropa"]
+  },
+  {
+    "mainWord": "İslandiya",
+    "forbiddenWords": ["Ölkə", "Reykyavik", "Buz", "Geysir", "Avropa"]
+  },
+  {
+    "mainWord": "İsveçrə",
+    "forbiddenWords": ["Ölkə", "Bern", "Dağ", "Bank", "Avropa"]
+  },
+{
+   "mainWord": "Lesser Sunda adaları",
+        "forbiddenWords": ["İndoneziya", "Yanardağ", "Flora", "Fauna", "Tropik"]
+    },
+    {
+        "mainWord": "Bavariya Meşəsi Milli Parkı",
+        "forbiddenWords": ["Almaniya", "Meşə", "Heyvan", "Bitkilər", "Gəzinti"]
+    },
+    {
+        "mainWord": "Yosmite Milli Parkı",
+        "forbiddenWords": ["ABŞ", "Şəlalə", "Qaya", "Ağac", "Təbiət"]
+    },
+    {
+        "mainWord": "Cənubi Ada",
+        "forbiddenWords": ["Yeni Zelandiya", "Dağ", "Fjord", "Göl", "Qoyun"]
+    },
+    {
+        "mainWord": "Şimali buzlu okean",
+        "forbiddenWords": ["Soyuq", "Buz", "Ayı", "Dəniz", "Kiçik"]
+    },
+    {
+        "mainWord": "Böyük Britaniya",
+        "forbiddenWords": ["Ölkə", "London", "Çay", "Kral", "Ada"]
+    },
+    {
+        "mainWord": "Karpat Dağları",
+        "forbiddenWords": ["Meşə", "Qış", "Turizm", "Yüksək", "Avropa"]
+    },
+    {
+        "mainWord": "Lox-Ness",
+        "forbiddenWords": ["Şotlandiya", "Göl", "Əfsanə", "Su", "Canavar"]
+    },
+    {
+        "mainWord": "Sahara çölü",
+        "forbiddenWords": ["Qum", "İsti", "Susuz", "Qumluq", "Afrika"]
+    },
+    {
+        "mainWord": "Amazon hövzəsi",
+        "forbiddenWords": ["Ekvatorial", "Rütubətli", "Bolivar", "Kolumbiya", "Braziliya"]
+    },
+    {
+        "mainWord": "Bermud üçbucağı",
+        "forbiddenWords": ["Sirlər", "Qəribə", "Təyyarə", "Atlantik", "Gəmi"]
+    },
+    {
+        "mainWord": "Atakama səhrası",
+        "forbiddenWords": ["Çili", "Quraq", "Səma", "Elverişsiz", "Mənzərə"]
+    },
+    {
+        "mainWord": "Qara meşə",
+        "forbiddenWords": ["Almaniya", "Sıx", "Qəribə", "Yürüyüş", "Nağıl"]
+    },
+    {
+        "mainWord": "Kilimancaro dağı",
+        "forbiddenWords": ["Afrika", "Tanzaniya", "Yanardağ", "Safari", "Ekzotik"]
+    },
+    {
+        "mainWord": "Böyük Britaniya",
+        "forbiddenWords": ["İngiltərə", "Şotlandiya", Uels", "London", "Krallıq"]
+    },
+ {
+    "mainWord": "Konqo hövzəsi",
+    "forbiddenWords": ["Afrika", "Yaşıl", "Meşələr", "Tropiklər", "Amazon"]
+  },
+  {
+    "mainWord": "Qobi səhrası",
+    "forbiddenWords": ["Soyuq", "Asiya", "Monqolustan", "Çin", "Qum"]
+  },
+  {
+    "mainWord": "Hindistan",
+    "forbiddenWords": ["Ölkə", "Asiya", "Dini", "Böyük", "Mumbay"]
+  },
+  {
+    "mainWord": "Mikenes",
+    "forbiddenWords": ["Şəhər", "Yunanıstan", "Xarabalıq", "Qədim", "Sivilizasiya"]
+  },
+  {
+    "mainWord": "Böyük Rif Vadisi",
+    "forbiddenWords": ["Tektonik", "Afrika", "Kənar", "Dərə", "Hərəkət"]
+  },
+  {
+    "mainWord": "Kanada shieldi",
+    "forbiddenWords": ["Qaya", "Torpaq", "Buzlaq", "Aşağı", "Şimal"]
+  },
+  {
+    "mainWord": "Qırmızı dəniz",
+    "forbiddenWords": ["İsti", "Duzlu", "Dərin", "Misir", "Musa"]
+  },
+  {
+    "mainWord": "Pamukqala",
+    "forbiddenWords": ["Türkiyə", "Ağ", "Termal", "Traverten", "Turizm"]
+  },
+  {
+    "mainWord": "Atakama çölü",
+    "forbiddenWords": ["Quru", "Yüksək", "Dumanlı", "Çili", "Kosmos"]
+  },
+  {
+    "mainWord": "Vyetnam",
+    "forbiddenWords": ["Dəniz", "Yüksək", "Sıx", "Çəltik", "Müharibə"]
+  },
+  {
+    "mainWord": "Yukatan yarımadası",
+    "forbiddenWords": ["Mayya", "Karib", "Sakit", "Tropik", "Meksika"]
+  },
+  {
+    "mainWord": "Kanberra",
+    "forbiddenWords": ["Avstraliya", "Paytaxt", "Süni", "Göl", "Şəhər"]
+  },
+  {
+   "mainWord": "Yəhər gölü",
+    "forbiddenWords": ["Sərt", "Qırğızıstan", "Şor", "Dəniz səviyyəsi", "Səyyah"]
+  },
+  {
+    "mainWord": "Şotlandiya yüksəklikləri",
+    "forbiddenWords": ["Qədim", "Sərt", "Şimal", "Yüksək", "Xaraba"]
+  },
+    {
+        "mainWord": "Şimal Buzlu Okeanı",
+        "forbiddenWords": ["Soyuq", "Buz", "Şimal", "Rusya", "Kiçik"]
+    },
+    {
+        "mainWord": "Sakit Okean",
+        "forbiddenWords": ["Böyük", "Sakit", "Ada", "Qərb", "Şərq"]
+    },
+    {
+        "mainWord": "Atlantik Okean",
+        "forbiddenWords": ["Avropa", "Amerika", "Orta", "Dəniz", "Gəmi"]
+    },
+    {
+        "mainWord": "Hind Okeanı",
+        "forbiddenWords": ["İsti", "Asiya", "Afrika", "Musson", "Hindistan"]
+    },
+    {
+        "mainWord": "Cənub Okeanı",
+        "forbiddenWords": ["Antarktida", "Soyuq", "Buz", "Cənub", "Okean"]
+    },
+    {
+        "mainWord": "Sibir Tayqası",
+        "forbiddenWords": ["Meşə", "Rusiya", "Soyuq", "Böyük", "Şam"]
+    },
+    {
+        "mainWord": ["Çöl", "Monqolustan", "Asiya", "Soyuq", "Qumluq"]
+    },
+    {
+        "mainWord": "Böyük Səhra",
+        "forbiddenWords": ["Qum", "Afrika", "İsti", "Susuzluq", "Köçəri"]
+    },
+    {
+        "mainWord": "Qalapaqos adaları",
+        "forbiddenWords": ["Ekvador", "Vulqan", "Təcrid", "Darwin", "Nadir"]
+    },
+    {
+        "mainWord": "Hawaii adaları",
+        "forbiddenWords": ["ABŞ", "Vulkan", "Sahil", "Surfing", "Tropik"]
+    },
+    {
+        "mainWord": "Balıqçılıq",
+        "forbiddenWords": ["Çubuq", "Xətt", "Su", "Yemək", "Aktiv"]
+    },
+    {
+        "mainWord": "Trekking",
+        "forbiddenWords": ["Çanta", "Su", "Gəzmək", "Dağ", "Məsafə"]
+    },
+    {
+        "mainWord": "Qaya",
+        "forbiddenWords": ["Dırmaşmaq", "Alət", "Hündür", "Bərk", "Qoruyucu"]
+    },
+    {
+        "mainWord": "Sörfinq",
+        "forbiddenWords": ["Taxta", "Dalğa", "Dəniz", "Denge", "Xüsusi"]
+    },
+    {
+        "mainWord": "Ski",
+        "Qar", "Sürüşmək", "Dağ", "Yoxuş", "İdman"]
+    },
+  {
+    "mainWord": "Şellak",
+    "forbiddenWords": ["Dəniz", "Əhəng", "Sıxılmaq", "Oazis", "Sərt"]
+  },
+  {
+    "mainWord": "Kanyon",
+    "forbiddenWords": ["Axmaz", "Dərə", "Dik", "Uçurum", "İdman"]
+  },
+  {
+    "mainWord": "Kənd Təsərrüfatı",
+    "forbiddenWords": ["Fermer", "İşləmək", "Yetişdirmək", "Bitki", "Ekin"]
+  },
+  {
+    "mainWord": "Xəritəqrafiya",
+    "forbiddenWords": ["Çəkmək", "Plan", "Xəritə", "Coğrafi", "Topoqrafiya"]
+  },
+  {
+    "mainWord": "Geoekologiya",
+    "forbiddenWords": ["Təbiət", "Ətraf", "Ayrılmaq", "Kombinə", "Ekoloji"]
+  },
+  {
+    "mainWord": "Landşaft",
+    "forbiddenWords": ["Görünüş", "Ərazi", "Ucqar", "Şərait", "Təbii"]
+  },
+  {
+    "mainWord": "Demokratiya",
+    "forbiddenWords": ["Siyasi", "Müəyyən", "Bərabərlik", "Elan", "Sərbəst"]
+  },
+  {
+    "mainWord": "Sərhəd",
+    "forbiddenWords": ["Suverenitet", "Ucqar", "Siyasi", "Təyin", "Hüdud"]
+  },
+  {
+    "mainWord": "Arxipelaq",
+    "forbiddenWords": ["Adalar", "Qrup", "Silsilə", "Yaxın", "Toplu"]
+  },
+  {
+    "mainWord": "Kontinental",
+    "forbiddenWords": ["Avropa", "Geoloji", "Səthi", "Ölkə", "Ərazi"]
+  },
+  {
+    "mainWord": "Şelf",
+    "forbiddenWords": ["Səth", "Dəniz", "Düz", "Ucqar", "Ensiz"]
+  },
+  {
+    "mainWord": "Delta",
+    "forbiddenWords": ["Torpaq", "Düz", "Dəniz", "Ucqar", "Yaratmaq"]
+  },
+  {
+    "mainWord": "Şirkət",
+    "forbiddenWords": ["Su anbarı", "Süni", "Ölçüsü", "İstehsal", "İşçi"]
+  },
+  {
+    "mainWord": "Laqün",
+    "forbiddenWords": ["Çökək", "Qoy", "Dəniz", "Düşük", "Dayaz"]
+  },
+  {
+    "mainWord": "Oazis",
+    "forbiddenWords": ["Heyva", "Təminat", "Səhra", "Yaşıllıq", "Sərin"]
+  },
+  {
+    "mainWord": "Fjord",
+    "forbiddenWords": ["Dəniz", "Körfəz", "Dərə", "Uzanır", "Baxmaq"]
+  },
+  {
+    "mainWord": "Tundra",
+    "forbiddenWords": ["Cəngəllik", "Şaxta", "Daimi", "Sərt", "Ucqar"]
+  },
+  {
+    "mainWord": "Savanna",
+    "forbiddenWords": ["Ekvatorial", "Quraqlıq", "Ot", "İsti", "Bitişik"]
+  },
+  {
+    "mainWord": "Transhumasiya",
+    "forbiddenWords": ["Mövsümi", "Köç", "Heyvan", "Bəsləmək", "Yaylaq"]
+  },
+  {
+    "mainWord": "Şəhərsalma",
+    "forbiddenWords": ["Qəsəbə", "Sakin", "İnfrastruktur", "Dizayn", "Plan"]
+  },
+  {
+    "mainWord": "İnteqrasiya",
+    "forbiddenWords": ["İqtsadi", "Siyasi", "Fərqlilik", "Birləşmək", "Qatılmaq"]
+  },
+  {
+    "mainWord": "İnteqrasiya",
+    "forbiddenWords": ["Etnik", "Mədəni", "Bənzəmək", "Qarışmaq", "Uyğunlaşmaq"]
+  },
+  {
+    "mainWord": "Sistem",
+    "forbiddenWords": ["Çevrə", "Əlaqə", "Aralıqsız", "Təhlükə", "Qida"]
+  },
+  {
+    "mainWord": "Əhali",
+    "forbiddenWords": ["Dəyişmək", "Yerləşmə", "Artmaq", "Azalmaq", "Sakin"]
+  },
+  {
+    "mainWord": "Resurs",
+    "forbiddenWords": ["Minerallar", "Yanacaq", "Qiymətli", "İqtisadi", "Bərpa"]
+  },
+  {
+    "mainWord": "Hərəkət",
+    "forbiddenWords": ["Yenidən", "İnsan", "Dəyişmək", "Nəzarət", "Yazılı"]
+  },
+  {
+    "mainWord": "Ekoloji",
+    "forbiddenWords": ["Normal", "Tarazlıq", "Kombinə", "Təbii", "Uygunluq"]
+  },
+{
+    "mainWord": "Taymır gölü",
+    "forbiddenWords": ["Rusiya", "Asiya", "Şimali", "Taymır", "Buzlu"]
+  },
+  {
+    "mainWord": "Ukon çayı",
+    "forbiddenWords": ["Kolumbiya", "Britaniya", "Sərhəd", "Kanada", "Alska"]
+  },
+  {
+    "mainWord": "Viktoriya gölü",
+    "forbiddenWords": ["Afrika", "Mərkəzi", "Keniya", "Tanzaniya", "Şirin"]
+  },
+{
+    "mainWord": "Volqa çayı",
+    "forbiddenWords": ["Avropa", "Rus", "Səthi", "Kaspi", "Gəmi"]
+  },
+  {
+    "mainWord": "Böyük Kaniyон",
+    "forbiddenWords": ["Dərə", "ABŞ", "Kolorado", "Mənzərə", "Təbii"]
+  },
+  {
+    "mainWord": "Amazon çayı",
+    "forbiddenWords": ["Cənubi Amerika", "Tropik", "Yağış", "Braziliya", "Sıx"]
+  },
+  {
+    "mainWord": "Orinoko çayı",
+    "forbiddenWords": ["Venesuela", "Kolumbiya", "Ekzotik", "Rəng", "Aşağı"]
+  },
+   {
+    "mainWord": "Lena çayı",
+    "forbiddenWords": ["Rusiya", "Şərqi", "Sibir", "Şimal", "Yaz"]
+  },
+  {
+    "mainWord": "Kolorado çayı",
+    "forbiddenWords": ["ABŞ", "Cənubi", "Qərb", "Axmaz", "Şir"]
+  },
+{
+    "mainWord": "Yenisey çayı",
+    "forbiddenWords": ["Rusiya", "Sayan", "Çin", "Monqolustan", "Sibir"]
+  },
+    {
+        "mainWord": "Qobi səhrası",
+        "forbiddenWords": ["Asiya", "Monqolustan", "Çin", "Soyuq", "Qum"]
+    },
+    {
+        "mainWord": "Antarktida buz səhraları",
+        "forbiddenWords": ["Şaxta", "Sərt", "Sıfır", "Sərt", "Cənub"]
+    },
+    {
+        "mainWord": "Rub-əl-Xali çölü",
+        "forbiddenWords": ["Ərəbistan", "Böyük", "Yağıntısız", "Ölüm", "İsti"]
+    },
+    {
+        "mainWord": "Kalaxari çölü",
+        "forbiddenWords": ["Botsvana", "Namibiya", "Quru", "Quşlar", "Heyvanlar"]
+    },
+    {
+        "mainWord": "Sarıçiçək səhrası",
+        "forbiddenWords": ["Avstraliya", "Sərt", "Qızmar", "Düzən", "İzdihamlı"]
+    },
+{
+    "mainWord": "Kongo",
+    "forbiddenWords": ["Cənubi", "Tropik", "Yağış", "Ekvator", "Qabıqlı"]
+  },
+ {
+    "mainWord": "Amazon",
+    "forbiddenWords": ["Səthi", "Cənubi", "Nəm", "Çeşid", "Yaşıllıq"]
+  },
+ {
+    "mainWord": "Malay",
+    "forbiddenWords": ["İndoneziya", "Gəmi", "Okean", "Geniş", "Yarışmaq"]
+  },
+    {
+        "mainWord": "Kaynanta meşəsi",
+        "forbiddenWords": ["Hindistan", "Vahiməli", "Qalın", "Tapmaq", "Rəvayət"]
+    },
+    {
+        "mainWord": "Kispi çəmənlikləri",
+        "forbiddenWords": ["Yüksək", "And", "Ekvador", "Peru", "Heyvanlar"]
+    },
+    {
+        "mainWord": "El Yunque Yağış Meşəsi",
+        "forbiddenWords": ["ABŞ", "Şərqi", "Bitişik", "Rütubət", "Ekzotik"]
+    },
+    {
+        "mainWord": "Valdivia",
+        "forbiddenWords": ["Cənub", "Bitişik", "Argentina", "Təkrarlamaq", "Şirin"]
+    },
+    {
+        "mainWord": "Kinabalu Parkı",
+        "forbiddenWords": ["Bitişik", "Malayziya", "Şimali", "Canlı", "Mərkəz"]
+    },
+    {
+        "mainWord": "Jiuzhaigou vadisi",
+        "forbiddenWords": ["Çin", "Təbii", "Ekoloji", "Təsəvvür", "Ucqar"]
+    },
+ {
+    "mainWord": "Şotlandiya yaylası",
+    "forbiddenWords": ["Sərt", "Şimal", "İncə", "Unikal", "Qədim"]
+  },
+  {
+    "mainWord": "Skandinaviya",
+    "forbiddenWords": ["Norveç", "İsveç", "Finlandiya", "Sərt", "Soyuq"]
+  },
+ {
+    "mainWord": "Səthaltı ərazilər",
+    "forbiddenWords": ["Qazmaq", "Genişlənmək", "Torpaq", "Qazıntı", "Sərvət"]
+  },
+ {
+        "mainWord": "Qütb gecəsi",
+        "forbiddenWords": ["Qaranlıq", "Uzaq", "Buz", "Şimal", "Cənub"]
+    },
+    {
+        "mainWord": "Halofitlər",
+        "forbiddenWords": ["Şoran", "Bitki", "Yaşamaq", "Təbii", "Uyğunlaşma"]
+    },
+    {
+        "mainWord": "Okean axıntıları",
+        "forbiddenWords": ["Hərəkət", "Su", "İsti", "Soyuq", "İstiqamət"]
+    },
+    {
+        "mainWord": "Şelf buzlağı",
+        "Ətraf mühit", "Qlobal", "Hərarət", "Özgü", "Aşiq"]
+    },
+    {
+        "mainWord": "El Nino",
+        "forbiddenWords": ["Oğlan", "Akyanus", "Təsir", "İqlim", "Bəd"]
+    },
+    {
+        "mainWord": "La Nina",
+        "forbiddenWords": ["Qız", "Sərinləmək", "Səth", "Sular", "Hərəkət"]
+    },
+    {
+        "mainWord": "Geotermal",
+        "forbiddenWords": ["Yer", "İsti", "Enerji", "Qaynar", "Buxar"]
+    },
+    {
+        "mainWord": "Subtropik",
+        "forbiddenWords": ["İsti", "Orta", "Nəmli", "Bitişik", "Şimal"]
+    },
+    {
+        "mainWord": "Seyşel adaları",
+        "forbiddenWords": ["Afrika", "Okean", "Turizm", "Qəribə", "Sakit"]
+    },
+    {
+        "mainWord": "Qrenada",
+        "forbiddenWords": ["Baharat", "Üzümdən", "Kiçik", "Karib", "Okean"]
+    },
+  {
+    "mainWord": "Zambiya",
+    "forbiddenWords": ["Afrika", "Böyük", "Yaşıl", "Viktoriya", "Səyyah"]
+  },
+ {
+    "mainWord": "Avstraliya Alpları",
+    "forbiddenWords": ["Təpələr", "Xizək", "Yazıçı", "Yüksək", "Güney"]
+  },
+  {
+    "mainWord": "Amazon Cəngəli",
+    "forbiddenWords": ["Bolivar", "Dərin", "Keçilməz", "İlanlar", "Tropik"]
+  },
+  {
+    "mainWord": "Yeni Delhi",
+    "forbiddenWords": ["Şəhər", "İzdihamlı", "İnzibati", "Dəbdəbəli", "Tarix"]
+  },
+   {
+    "mainWord": "Cakarta",
+    "forbiddenWords": ["Ölkə", "İndoneziya", "Liman", "Geniş", "İslam"]
+  },
+{
+    "mainWord": "Mançester",
+    "forbiddenWords": ["Böyük Britaniya", "Şəhər", "Sənaye", "Qədim", "Futbol"]
+  },
+    {
+        "mainWord": "Böyük səhra",
+        "forbiddenWords": ["Afrika", "Geniş", "Həddindən artıq", "Susuzluq", "Şiddətli"]
+    },
+    {
+        "mainWord": "Xarici ada",
+        "forbiddenWords": ["Yeni", "Şotlandiya", "Sərt", "Bitişik", "Sahil"]
+    },
+   {
+    "mainWord": "Poloq",
+    "forbiddenWords": ["Arktik", "Sərt", "Ucqar", "Çətin", "Aprel"]
+  },
+  {
+    "mainWord": "Elbrus",
+    "forbiddenWords": ["Kabarda", "Türk", "Qafqaz", "İsti", "Görüş"]
+  },
+  {
+    "mainWord": "Alp",
+    "forbiddenWords": ["Üzüm", "Meyvə", "Fransa", "Çay", "Qısa"]
+  },
+  {
+    "mainWord": "Alpen",
+    "forbiddenWords": ["Sərhəd", "Avstriya", "Lixtenşteyn", "Alp", "Musiqi"]
+  },
+  {
+    "mainWord": "And",
+    "forbiddenWords": ["Kolumbiya", "Sərhəd", "Təhlükəli", "Sərt", "Yüksək"]
+  },
+    {
+        "mainWord": "Sahil zolağı",
+        "forbiddenWords": ["Çimərlik", "Dəniz", "Şahmata", "Çətir", "Əyləncə"]
+    },
+ {
+        "mainWord": "Transsərhəd suvarma",
+        "forbiddenWords": ["Əkin", "Təsərrüfat", "Təkmilləşdirmə", "Ərazi", "Payız"]
+    },
+    {
+        "mainWord": "Təbii mühafizə",
+        "forbiddenWords": ["Dəyərli", "Torpaq", "Qaynaq", "Davamlı", "Öyrənmək"]
+    },
+    {
+        "mainWord": "Təbii ehtiyatlar",
+        "forbiddenWords": ["Uğur", "Bərpa etmək", "Uğurlu", "Mülkiyyət", "Sərf"]
+    },
+    {
+        "mainWord": "Tundra",
+        "forbiddenWords": ["Sərt", "Sərt", "Ucqar", "Soyuq", "İsti"]
+    },
+    {
+        "mainWord": "Şelf buzlağı",
+        "forbiddenWords": ["Sərt", "Okean", "Ucqar", "Səth", "İsti"]
+    },
+{
+     "mainWord": "Şimali düzən",
+        "forbiddenWords": ["Ağ", "Rusiya", "Düz", "Təsirli", "Rəqabət"]
+    },
+    {
+        "mainWord": "Sahil zolağı",
+        "forbiddenWords": ["Çimərlik", "Dəniz", "Qum", "Dərin", "İnsan"]
+    },
+  {
+    "mainWord": "Yayımlanma",
+    "forbiddenWords": ["Nəzarət", "Genişləndirmək", "Düşük", "Əhali", "Xərcləmək"]
+  },
+  {
+    "mainWord": "Qlobal istiləşmə",
+    "forbiddenWords": ["Hiss etmək", "Ağır", "Təhlükə", "Təsirli", "İqlim"]
+  },
+ {
+    "mainWord": "El-Nino",
+        "forbiddenWords": ["Hiss etmək", "Günəş", "Sərt", "Soyuq", "Çətin"]
+    },
+ {
+    "mainWord": "Aysberq",
+        "forbiddenWords": ["Soyuq", "Buz", "Uzaq", "Şimal", "Cənub"]
+    },
+ {
+    "mainWord": "Şelf buzlağı",
+        "forbiddenWords": ["Buz", "Okean", "Şelf", "Düz", "İsitmək"]
+    },
+  {
+    "mainWord": "Ekosistem",
+    "forbiddenWords": ["Birləşmək", "Həyat", "Tarazlıq", "Cəmiyyət", "Dəyişmək"]
+  },
+  {
+    "mainWord": "Transhumasiya",
+    "forbiddenWords": ["Heyvandarlıq", "Hərəkət", "İqlim", "Yaşamaq", "Quraqlıq"]
+  },
+ {
+    "mainWord": "Delta çökəkliyi",
+    "forbiddenWords": ["Şirin", "Qədim", "Daimi", "Yağıntı", "Mövqeyi"]
+  },
+  {
+    "mainWord": "Yerbatan",
+    "Qatılaşma", "Əhəng", "Dəyişmək", "Sərvət", "Daş"]
+  },
+  {
+    "mainWord": "Kordilyer",
+    "Törəmə", "Alp", "Zirvələr", "Hərəkət", "Yuxarı"]
+  },
+  {
+    "mainWord": "Dönmə",
+    "Yaz", "Aktiv", "Baxmaq", "Oğlaq", "Həyat"]
+  },
+    {
+        "mainWord": "Qalxanvari yamaclar",
+        "forbiddenWords": ["Düzən", "Eğimli", "Qədim", "Ucudulmaz", "Düz"]
+    },
+ {
+    "mainWord": "Külək erozıonu",
+        "forbiddenWords": ["Torpaq", "Əkin", "Quraqlıq", "Sahə", "Zərər"]
+    },
+    {
+        "mainWord": "Hörümçək hörən ərazi",
+        "forbiddenWords": ["Aşınma", "Təmiz", "Asılılıq", "Kəmər", "Bağlı"]
+    },
+  {
+    "mainWord": "Səhra",
+        "forbiddenWords": ["Qəbilə", "Zorakı", "Təkər", "Ev", "Yarış"]
+  },
+    {
+        "mainWord": "Atol",
+        "forbiddenWords": ["Xətt", "Dairə", "Səth", "Şaquli", "Heyvan"]
+    },
+ {
+        "mainWord": "Atol",
+        "forbiddenWords": ["Sərt", "Böyük", "Dörd", "İğtişaş", "Adada"]
+    },
+    {
+        "mainWord": "Yarımdairə",
+        "forbiddenWords": ["Ərazi", "Lövhə", "Nisbi", "Daxili", "Çevrə"]
+    },
+{
+   "mainWord": "Vadi",
+    "forbiddenWords": ["Dərə", "Hündür", "Keçid", "Qədim", "Görünüş"]
+  },
+{
+    "mainWord": "Arktika buzlağı",
+    "forbiddenWords": ["Sıfır", "Sərt", "Ucqar", "Çətin", "Şaxtalı"]
+  },
+  {
+    "mainWord": "İskandinav dağları",
+    "forbiddenWords": ["Buz", "Çökük", "Qaya", "Faydalı", "Qədim"]
+  },
+  {
+    "mainWord": "Moren",
+    "forbiddenWords": ["Buzlaq", "Çöküntü", "Daş", "Torpaq", "Təpə"]
+  },
+  {
+    "mainWord": "Klif",
+    "forbiddenWords": ["Dəniz", "Qaya", "Dik", "Sahil", "Uçurum"]
+  },
+  {
+    "mainWord": "Laguna",
+    "forbiddenWords": ["Dəniz", "Sığ", "Adalar", "Atoll", "Sakit"]
+  },
+  {
+    "mainWord": "Barkan",
+    "forbiddenWords": ["Səhra", "Qum", "Aypara", "Külək", "Hərəkət"]
+  },
+  {
+    "mainWord": "Kuesta",
+    "forbiddenWords": ["Təpə", "Qayalıq", "Yamac", "Meşə", "Düz"]
+  },
+  {
+    "mainWord": "Volkan krateri",
+    "forbiddenWords": ["Ağız", "Od", "Tüstü", "Böyük", "Dərin"]
+  },
+  {
+    "mainWord": "Geyser",
+    "forbiddenWords": ["İsti", "Su", "Fışqırmaq", "Buxar", "İslandiya"]
+  },
+  {
+    "mainWord": "Travertin",
+    "Əhəng", "Su", "Teras", "Pamukkale", "Ağ"]
+  },
+  {
+    "mainWord": "Fiord",
+    "forbiddenWords": ["Dəniz", "Dağ", "Uzanmaq", "Norveç", "Səyahət"]
+  },
+  {
+    "mainWord": "Atoll",
+    "forbiddenWords": ["Mercan", "Həlqə", "Laqun", "Tropik", "Balıq"]
+  },
+  {
+    "mainWord": "Oazis",
+    "forbiddenWords": ["Səhra", "Su", "Xurma", "Kölgə", "Həyat"]
+  },
+  {
+    "mainWord": "Tundra",
+    "forbiddenWords": ["Soyuq", "Ağac", "Mamır", "Şimal", "Torpaq"]
+  },
+  {
+    "mainWord": "Savanna",
+    "forbiddenWords": ["Ot", "Ağac", "Afrika", "Heyvan", "İsti"]
+  },
+  {
+    "mainWord": "Tayqa",
+    "forbiddenWords": ["İynəyarpaqlı", "Meşə", "Sibir", "Soyuq", "Böyük"]
+  },
+  {
+    "mainWord": "Tropik meşələr",
+    "forbiddenWords": ["Yağış", "Yaşıl", "Rütubətli", "Ekzotik", "Heyvan"]
+  },
+  {
+    "mainWord": "Manqrov meşələri",
+    "forbiddenWords": ["Dəniz", "Sahil", "Kök", "Su", "Qorumaq"]
+  },
+  {
+    "mainWord": "Subalp çəmənlikləri",
+    "forbiddenWords": ["Dağ", "Yüksək", "Çiçək", "Ot", "Heyvan"]
+  },
+  {
+    "mainWord": "Çöl",
+    "forbiddenWords": ["Ot", "Quraqlıq", "Heyvan", "Torpaq", "Külək"]
+  },
+  {
+    "mainWord": "Dağ çəmənlikləri",
+    "forbiddenWords": ["Dağ", "Yüksək", "Ot", "Hava", "Mənzərə"]
+  },
+  {
+    "mainWord": "Tundra",
+    "forbiddenWords": ["Şaxtalı", "Buz", "Mamır", "Ucqar", "Daimi"]
+  },
+  {
+    "mainWord": "Sahil zolağı",
+    "forbiddenWords": ["Dəniz", "Qum", "Gəzmək", "Günəş", "Əyləncə"]
+  },
+  {
+    "mainWord": "Delta",
+    "forbiddenWords": ["Çay", "Dəniz", "Şaxələnmə", "Torpaq", "Sulu"]
+  },
+  {
+    "mainWord": "Estuar",
+    "forbiddenWords": ["Çay", "Dəniz", "Qovuşmaq", "Qabarma", "Duzlu"]
+  },
+  {
+    "mainWord": "Fjord",
+    "forbiddenWords": ["Dəniz", "Dağ", "Norveç", "Uzun", "Qayıq"]
+  },
+  {
+    "mainWord": "Oazis",
+    "forbiddenWords": ["Səhra", "Su", "Xurma", "Kölgə", "Həyat"]
+  },
+  {
+    "mainWord": "Yaylaq",
+    "forbiddenWords": ["Dağ", "Ot", "Heyvan", "Sərin", "Gəzmək"]
+  },
+  {
+    "mainWord": "Transhumasiya",
+    "forbiddenWords": ["Köç", "Heyvan", "Dağ", "Mövsüm", "Otlama"]
+  },
+  {
+    "mainWord": "Şəhərsalma",
+    "forbiddenWords": ["Şəhər", "İnkişaf", "İnsan", "Bina", "Nəqliyyat"]
+  },
+  {
+    "mainWord": "İnteqrasiya",
+    "forbiddenWords": ["Birləşmə", "Cəmiyyət", "Mədəniyyət", "Fərqlilik", "Uyğunlaşma"]
+  },
+  {
+    "mainWord": "Qloballaşma",
+    "forbiddenWords": ["Dünya", "Əlaqə", "İqtisadiyyat", "Mədəniyyət", "Səyahət"]
+  },
+  {
+    "mainWord": "Səhr",
+    "forbiddenWords": ["Qum", "Susuzluq", "İsti", "Bitki", "Heyvan"]
+  },
+  {
+    "mainWord": "Meşə",
+    "forbiddenWords": ["Ağac", "Yaşıl", "Heyvan", "Təbiət", "Təmiz hava"]
+  },
+  {
+    "mainWord": "Şəhər",
+    "forbiddenWords": ["Bina", "İnsan", "Nəqliyyat", "Həyat", "Mərkəz"]
+  },
+  {
+    "mainWord": "Kənd",
+    "forbiddenWords": ["Təbiət", "Torpaq", "Əkinçilik", "Heyvandarlıq", "Sakit"]
+  },
+  {
+    "mainWord": "Dəniz",
+    "forbiddenWords": ["Su", "Duzlu", "Dalğa", "Gəmi", "Sahil"]
+  },
+  {
+    "mainWord": "Okean",
+    "forbiddenWords": ["Böyük", "Su", "Dərin", "Qitə", "Gəmi"]
+  },
+  {
+    "mainWord": "Çay",
+    "forbiddenWords": ["Su", "Axmaq", "Dərə", "Mənbə", "Tökülmək"]
+  },
+  {
+    "mainWord": "Göl",
+    "forbiddenWords": ["Su", "Sakit", "Balıq", "Təbii", "Süni"]
+  },
+  {
+    "mainWord": "Şəlalə",
+    "forbiddenWords": ["Su", "Yüksəklik", "Düşmək", "Mənzərə", "Səs"]
+  },
+  {
+    "mainWord": "Dağ",
+    "forbiddenWords": ["Hündür", "Qaya", "Zirvə", "Mənzərə", "Turizm"]
+  },
+  {
+    "mainWord": "Düzənlik",
+    "forbiddenWords": ["Hamar", "Açıq", "Torpaq", "Əkin", "Bitki"]
+  },
+ {
+    "mainWord": "Fosil",
+    "forbiddenWords": ["Qaya", "Qədim", "Heyvan", "Bitki", "Qalıq"]
+  },
+ {
+    "mainWord": "Qabar",
+    "forbiddenWords": ["Dəniz", "Ay", "Yüksəlmək", "Alçalmaq", "Dalğa"]
+  },
+{
+    "mainWord": "Sunami",
+    "forbiddenWords": ["Dəniz", "Zəlzələ", "Dalğa", "Böyük", "Təhlükə"]
+  },
+   {
+    "mainWord": "Landşaft",
+    "forbiddenWords": ["Yer", "Görünüş", "Təbiət", "Mənzərə", "Ərazi"]
+  },
+  {
+    "mainWord": "Ekosistem",
+    "forbiddenWords": ["Canlı", "Ətraf", "Balans", "Qida", "Dəyişiklik"]
+  },
+{
+        "mainWord": "Kalahari çölü",
+        "forbiddenWords": ["Botsvana", "Namibiya", "Cənubi Afrika", "Quru", "Bitki"]
+    },
+    {
+        "mainWord": "Qobi çölü",
+        "forbiddenWords": ["Asiya", "Monqolustan", "Çin", "Soyuq", "Bitki örtüyü"]
+    },
+    {
+        "mainWord": "Atacama çölü",
+        "forbiddenWords": ["Çili", "Quru", "Sahil", "And", "Minerallar"]
+    },
+{
+    "mainWord": "Qəbələ",
+    "forbiddenWords": ["Şəhər", "Azərbaycan", "Qədim", "Turizm", "Dağ"]
+  },
+  {
+    "mainWord": "Şəki",
+    "forbiddenWords": ["Zarafat", "Şirniyyat", "Karvansaray", "Halva", "İpək"]
+  },
+ {
+    "mainWord": "Naxçıvan",
+    "forbiddenWords": ["Şəhər", "Azərbaycan", "Muxtar", "Dəmirçi", "Sərhəd"]
+  },
+  {
+    "mainWord": "Lənkəran",
+    "forbiddenWords": ["Şəhər", "Azərbaycan", "Cənub", "Subtropik", "Çay"]
+  },
+{
+   "mainWord": "Altay dağları",
+    "forbiddenWords": ["Asiya", "Rusiya", "Monqolustan", "Qazaxıstan", "Sərhəd"]
+  },
+ {
+    "mainWord": "And dağları",
+    "forbiddenWords": ["Cənubi Amerika", "Uzun", "Yüksək", "İnka", "Lama"]
+  },
+  {
+    "mainWord": "Himalay dağları",
+    "forbiddenWords": ["Asiya", "Hündür", "Nepal", "Çin", "Zirvə"]
+  },
+  {
+        "mainWord": "Kaynanta meşəsi",
+        "forbiddenWords": ["Hindistan", "Rütubətli", "Tropik", "Ağac", "Böcək"]
+    },
+    {
+        "mainWord": "Sibir tayqası",
+        "forbiddenWords": ["Rusiya", "Soyuq", "Meşə", "İynəyarpaqlı", "Böyük"]
+    },
+    {
+        "mainWord": "Amazon meşəsi",
+        "forbiddenWords": ["Braziliya", "Cənubi Amerika", "Rütubətli", "Tropik", "Geniş"]
+    },
+    {
+        "mainWord": "Yeni İngiltərə",
+        "forbiddenWords": ["Amerika", "Birləşmiş", "Müştaq", "Xatirələr", "Sərt"]
+    },
+   {
+    "mainWord": "Nil",
+        "forbiddenWords": ["Misir", "Yaşamaq", "Ucubes", "Meyvə", "Çox"]
+    },
+    {
+        "mainWord": "Zambiya",
+        "forbiddenWords": ["Afrika", "Yayımlanmaq", "Keçmək", "Dönmək", "Su"]
+    },
+   {
+        "mainWord": "Böyük Rift",
+        "forbiddenWords": ["Hərəkət", "Baxmaq", "Qaldırmaq", "Dəyişmək", "Oyun"]
+    },
+    {
+        "mainWord": "Ağdam",
+        "forbiddenWords": ["Şəhər", "Qarabağ", "Tərk edilmiş", "Müharibə", "Xarabalıq"]
+    },
+    {
+        "mainWord": "Füzuli",
+        "forbiddenWords": ["Şəhər", "Qarabağ", "Araz", "Hava limanı", "Azad"]
+    },
+    {
+        "mainWord": "Cəbrayıl",
+        "forbiddenWords": ["Şəhər", "Qarabağ", "Düzənlik", "Arazboyu", "Azad"]
+    },
+    {
+        "mainWord": "Zəngilan",
+        "forbiddenWords": ["Şəhər", "Qarabağ", "Sərhəd", "Dağ", "Meşə"]
+    },
+    {
+        "mainWord": "Qubadlı",
+        "forbiddenWords": ["Şəhər", "Qarabağ", "Dağ", "Meşə", "Ucqar"]
+    },
+    {
+        "mainWord": "Laçın",
+        "forbiddenWords": ["Şəhər", "Dağlıq", "Qarabağ", "Güləbird", "Turizm"]
+    },
+    {
+        "mainWord": "Kəlbəcər",
+        "forbiddenWords": ["Rayon", "Dağlıq", "Qarabağ", "İstisu", "Təbiət"]
+    },
+    {
+        "mainWord": "Şuşa",
+        "forbiddenWords": ["Şəhər", "Qarabağ", "Mədəniyyət", "Qala", "Dağ"]
+    },
+    {
+        "mainWord": "Xankəndi",
+        "forbiddenWords": ["Şəhər", "Qarabağ", "Əhali", "Münaqişə", "Sərhəd"]
+    },
+    {
+        "mainWord": "Xocalı",
+        "forbiddenWords": ["Şəhər", "Qarabağ", "Hava limanı", "Faciə", "Əhali"]
+    },
+   {
+    "mainWord": "Ağsu",
+    "forbiddenWords": ["Şəhər", "Şirvan", "Düzənlik", "Tarixi", "Kənd təsərrüfatı"]
+  },
+  {
+    "mainWord": "Beyləqan",
+    "forbiddenWords": ["Şəhər", "Düzənlik", "Pambıq", "Kənd təsərrüfatı", "Mil"]
+  },
+  {
+    "mainWord": "Bərdə",
+    "forbiddenWords": ["Şəhər", "Tarix", "Qədim", "Arxeoloji", "Qarabağ"]
+  },
+  {
+    "mainWord": "Biləsuvar",
+    "forbiddenWords": ["Şəhər", "Sərhəd", "İran", "Düzənlik", "Ticarət"]
+  },
+  {
+    "mainWord": "Cəlilabad",
+    "forbiddenWords": ["Şəhər", "Lənkəran", "Düzənlik", "Üzüm", "Kənd təsərrüfatı"]
+  },
+  {
+    "mainWord": "Daşkəsən",
+    "forbiddenWords": ["Şəhər", "Dağ", "Dəmir", "Filiz", "Sənaye"]
+  },
+  {
+    "mainWord": "Gədəbəy",
+    "forbiddenWords": ["Şəhər", "Dağ", "Alp çəmənliyi", "Təbiət", "Turizm"]
+  },
+  {
+    "mainWord": "Goranboy",
+    "forbiddenWords": ["Şəhər", "Nəftalan", "Neft", "Sanatoriya", "Müalicə"]
+  },
+  {
+    "mainWord": "Göygöl",
+    "forbiddenWords": ["Şəhər", "Göl", "Alman", "Tarix", "Turizm"]
+  },
+  {
+    "mainWord": "Hacıqabul",
+    "forbiddenWords": ["Şəhər", "Göl", "Düzənlik", "Neft", "Nəqliyyat"]
+  },
+  {
+    "mainWord": "İmişli",
+    "forbiddenWords": ["Şəhər", "Muğan", "Düzənlik", "Pambıq", "Suvarma"]
+  },
+  {
+    "mainWord": "Qax",
+    "forbiddenWords": ["Şəhər", "Dağ", "Meşə", "Turizm", "Tarix"]
+  },
+  {
+    "mainWord": "Qazax",
+    "forbiddenWords": ["Şəhər", "Sərhəd", "Ermənistan", "Dağ", "Sənaye"]
+  },
+  {
+    "mainWord": "Qobustan",
+    "forbiddenWords": ["Qaya", "Rəsmlər", "Tarix", "Qədim", "Turizm"]
+  },
+  {
+    "mainWord": "Qusar",
+    "forbiddenWords": ["Şəhər", "Dağ", "Şahdağ", "Turizm", "Ləzgi"]
+  },
+  {
+    "mainWord": "Saatlı",
+    "forbiddenWords": ["Şəhər", "Muğan", "Düzənlik", "Kənd təsərrüfatı", "Pambıq"]
+  },
+  {
+    "mainWord": "Sabirabad",
+    "forbiddenWords": ["Şəhər", "Kür", "Araz", "Qovuşmaq", "Düzənlik"]
+  },
+  {
+    "mainWord": "Salyan",
+    "forbiddenWords": ["Şəhər", "Kür", "Dəniz", "Neft", "Balıq"]
+  },
+  {
+    "mainWord": "Siyəzən",
+    "forbiddenWords": ["Şəhər", "Dəniz", "Neft", "Dağ", "Turizm"]
+  },
+  {
+    "mainWord": "Şabran",
+    "forbiddenWords": ["Şəhər", "Dəniz", "Turizm", "Tarix", "Qala"]
+  },
+  {
+    "mainWord": "Tovuz",
+    "forbiddenWords": ["Şəhər", "Dağ", "Sərhəd", "Gürcüstan", "Ticarət"]
+  },
+  {
+    "mainWord": "Ucar",
+    "forbiddenWords": ["Şəhər", "Şirvan", "Düzənlik", "Pambıq", "Nəqliyyat"]
+  },
+  {
+    "mainWord": "Xaçmaz",
+    "forbiddenWords": ["Şəhər", "Dəniz", "Meşə", "Turizm", "Quba"]
+  },
+  {
+    "mainWord": "Xızı",
+    "forbiddenWords": ["Dağ", "Kənd", "Səma", "Təbiət", "Gəzmək"]
+  },
+  {
+    "mainWord": "Lerik",
+    "forbiddenWords": ["Dağ", "Talış", "Uzunömürlü", "Təbiət", "Sakit"]
+  },
+  {
+    "mainWord": "Yardımlı",
+    "forbiddenWords": ["Dağ", "Sərhəd", "İran", "Talış", "Təbiət"]
+  },
+  {
+    "mainWord": "Masallı",
+    "forbiddenWords": ["Lənkəran", "Düzənlik", "Çay", "Talış", "Kənd təsərrüfatı"]
+  },
+  {
+    "mainWord": "Balakən",
+    "forbiddenWords": ["Meşə", "Qoruq", "Gürcüstan", "Fındıq", "Dağ"]
+  },
+  {
+    "mainWord": "Zaqatala",
+    "forbiddenWords": ["Qoruq", "Meşə", "Qala", "Tarix", "Turizm"]
+  },
+   {
+    "mainWord": "Şamaxı",
+    "forbiddenWords": ["Şəhər", "Şirvan", "Rəsədxana", "Tarix", "Zəlzələ"]
+  },
+  {
+    "mainWord": "Ağdaş",
+    "forbiddenWords": ["Şəhər", "Şirvan", "Düzənlik", "Kənd təsərrüfatı", "İpək"]
+  },
+  {
+    "mainWord": "Göyçay",
+    "forbiddenWords": ["Şəhər", "Nar", "Festival", "Şirvan", "Kənd təsərrüfatı"]
+  },
+  {
+    "mainWord": "Zərdab",
+    "forbiddenWords": ["Şəhər", "Kür", "Şirvan", "Düzənlik", "Kənd təsərrüfatı"]
+  },
+ {
+    "mainWord": "Ağstafa",
+    "forbiddenWords": ["Şəhər", "Sərhəd", "Gürcüstan", "Qazax", "Dəmiryol"]
+  },
+  {
+    "mainWord": "Astara",
+    "forbiddenWords": ["Şəhər", "Sərhəd", "İran", "Lənkəran", "Gömrük"]
+  },
+  {
+    "mainWord": "Qobustan",
+    "forbiddenWords": ["Şəhər", "Qaya", "Rəsmlər", "Palçıq", "Vulkanı"]
+  },
+  {
+    "mainWord": "Ceyrançöl",
+    "forbiddenWords": ["Düzənlik", "Yarımsəhra", "Qoruq", "Ceyran", "Heyvan"]
+  },
+  {
+    "mainWord": "Pirqulu",
+    "forbiddenWords": ["Kənd", "Rəsədxana", "Şamaxı", "Kosmos", "Elm"]
+  },
+  {
+    "mainWord": "Xınalıq",
+    "forbiddenWords": ["Kənd", "Quba", "Dağ", "Qədim", "Dil"]
+  },
+ {
+    "mainWord": "Lahıc",
+    "forbiddenWords": ["Kənd", "İsmayıllı", "Mis", "Sənət", "Ənənə"]
+  },
+  {
+    "mainWord": "Basqal",
+    "forbiddenWords": ["Kənd", "Oğuz", "İpək", "Kəlağayı", "Sənət"]
+  },
+  {
+    "mainWord": "Aşağı Ağcakənd",
+    "forbiddenWords": ["Kənd", "Gəncə", "Göygöl", "Təbiət", "Dağ"]
+  },
+  {
+    "mainWord": "Çuxuryurd",
+    "forbiddenWords": ["Kənd", "Şamaxı", "Dağ", "Tarixi", "Mənzərə"]
+  },
+  {
+    "mainWord": "Dəliməmmədli",
+    "forbiddenWords": ["Şəhər", "Goranboy", "Düzənlik", "Kənd təsərrüfatı", "Nəqliyyat"]
+  },
+  {
+    "mainWord": "Qaraçuxur",
+    "forbiddenWords": ["Qəsəbə", "Bakı", "Neft", "Sənaye", "Dəniz"]
+  },
+  {
+    "mainWord": "Ramana",
+    "forbiddenWords": ["Kənd", "Bakı", "Qala", "Neft", "Tarixi"]
+  },
+  {
+    "mainWord": "Maştağa",
+    "forbiddenWords": ["Kənd", "Bakı", "Bağ", "Təsərrüfat", "Əhali"]
+  },
+  {
+    "mainWord": "Binə",
+    "forbiddenWords": ["Qəsəbə", "Bakı", "Ticarət", "Hava limanı", "Nəqliyyat"]
+  },
+  {
+    "mainWord": "Əmircan",
+    "forbiddenWords": ["Kənd", "Bakı", "Neft", "Sənaye", "Mədəniyyət"]
+  },
+  {
+    "mainWord": "Buzovna",
+    "forbiddenWords": ["Kənd", "Bakı", "Dəniz", "İstirahət", "Yay"]
+  },
+  {
+    "mainWord": "Mərdəkan",
+    "forbiddenWords": ["Kənd", "Bakı", "Dendrari", "Qala", "İstirahət"]
+  },
+  {
+    "mainWord": "Şüvəlan",
+    "forbiddenWords": ["Kənd", "Bakı", "Dəniz", "Bağ", "Sakit"]
+  },
+  {
+    "mainWord": "Türkən",
+    "forbiddenWords": ["Kənd", "Bakı", "Dəniz", "Balıq", "Yay"]
+  },
+  {
+    "mainWord": "Hövsan",
+    "forbiddenWords": ["Kənd", "Bakı", "Neft", "Sənaye", "Dəniz"]
+  },
+  {
+    "mainWord": "Qala",
+    "forbiddenWords": ["Kənd", "Bakı", "Tarix", "Muzey", "Qədim"]
+  },
+  {
+    "mainWord": "Zirə",
+    "forbiddenWords": ["Kənd", "Bakı", "Dəniz", "Yaşıl", "Mənzərə"]
+  },
+  {
+    "mainWord": "Sumqayıt",
+    "forbiddenWords": ["Şəhər", "Kimya", "Sənaye", "Dəniz", "Gənclik"]
+  },
+ {
+        "mainWord": "Xudat",
+        "forbiddenWords": ["Quba", "Şəhər", "Rayon mərkəzi", "Dənizkənarı", "Düzənlik"]
+    },
+    {
+        "mainWord": "Qırmızı Qəsəbə",
+        "forbiddenWords": ["Quba", "Yəhudi", "Dəhnə", "Qudyalçay", "Qafqaz"]
+    },
+    {
+        "mainWord": "Aşağı Ləgər",
+        "forbiddenWords": ["Qusar", "Kənd", "Dağ", "Turizm", "Mənzərə"]
+    },
+    {
+        "mainWord": "Yuxarı Ləgər",
+        "forbiddenWords": ["Qusar", "Kənd", "Dağ", "Meşə", "Təbiət"]
+    },
+    {
+        "mainWord": "Əniqkənd",
+        "forbiddenWords": ["Quba", "Kənd", "Dağ", "Meşə", "Mənzərə"]
+    },
+    {
+        "mainWord": "Qımılqışlaq",
+        "forbiddenWords": ["Quba", "Kənd", "Düzənlik", "Kənd təsərrüfatı", "Əhali"]
+    },
+    {
+        "mainWord": "Xıdırlı",
+        "forbiddenWords": ["Qubadlı", "Kənd", "Dağ", "Sərhəd", "Tarixi"]
+    },
+    {
+        "mainWord": "Muğanlı",
+        "forbiddenWords": ["Zəngilan", "Kənd", "Düzənlik", "Araz", "Suvarma"]
+    },
+    {
+        "mainWord": "Vejnəli",
+        "forbiddenWords": ["Zəngilan", "Kənd", "Dağ", "Meşə", "Sərhəd"]
+    },
+    {
+        "mainWord": "Yuxarı Cibikli",
+        "forbiddenWords": ["Qubadlı", "Kənd", "Dağ", "Mənzərə", "Təbiət"]
+    },
+    {
+        "mainWord": "Aşağı Cibikli",
+        "forbiddenWords": ["Qubadlı", "Kənd", "Düzənlik", "Əkin", "Suvarma"]
+    },
+    {
+        "mainWord": "Xocavənd",
+        "forbiddenWords": ["Qarabağ", "Rayon", "Şəhər", "Dağ", "Meşə"]
+    },
+    {
+        "mainWord": "Ağcakənd",
+        "forbiddenWords": ["Göygöl", "Rayon", "Kənd", "Dağ", "Alman"]
+    },
+    {
+        "mainWord": "Çaykənd",
+        "forbiddenWords": ["Göygöl", "Rayon", "Kənd", "Çay", "Meşə"]
+    },
+    {
+        "mainWord": "Toğanalı",
+        "Kəlbəcər", "Rayon", "Kənd", "Dağ", "Yaylaq"]
+    },
+    {
+        "mainWord": "Zərqulu",
+        "Laçın", "Rayon", "Kənd", "Dağ", "Meşə"]
+    },
+ {
+        "mainWord": "Mingə",
+        "Kəlbəcər", "Rayon", "Kənd", "Su", "Bulaq"]
+    },
+    {
+        "mainWord": "Aşağı Yeməzli",
+        "Zəngilan", "Rayon", "Kənd", "Düzənlik", "Araz"]
+    },
+    {
+        "mainWord": "Yuxarı Yeməzli",
+        "Zəngilan", "Rayon", "Kənd", "Dağ", "Meşə"]
+    },
+    {
+        "mainWord": "Mincivan",
+        "Zəngilan", "Rayon", "Şəhər", "Araz", "Sərhəd"]
+    },
+    {
+        "mainWord": "Bartaz",
+        "Zəngilan", "Rayon", "Dağ", "Zirvə", "Sərhəd"]
+    },
+    {
+        "mainWord": "Həkəri",
+        "Laçın", "Rayon", "Çay", "Dağ", "Mənzərə"]
+    },
+   {
+        "mainWord": "Zabux",
+        "Laçın", "Rayon", "Kənd", "Dağ", "Yol"]
+    },
+    {
+        "mainWord": "Güləbird",
+        "Laçın", "Rayon", "Kənd", "Dağ", "Qəsəbə"]
+    },
+{
+        "mainWord": "Suarası",
+        "Laçın", "Rayon", "Kənd", "Çay", "Dağ"]
+    },
+    {
+        "mainWord": "Qarakeçdi",
+        "Laçın", "Rayon", "Kənd", "Dağ", "Meşə"]
+    },
+{
+        "mainWord": "Şeylanlı",
+        "Kəlbəcər", "Rayon", "Kənd", "Dağ", "Yaylaq"]
+    },
+    {
+        "mainWord": "Ağdərə",
+        "Tərtər", "Rayon", "Şəhər", "Dağ", "Mədən"]
+    },
+ {
+        "mainWord": "Sugovuşan",
+        "Tərtər", "Rayon", "Kənd", "Su", "Dağ"]
+    },
+    {
+        "mainWord": "Çıraqlı",
+        "Ağdam", "Rayon", "Kənd", "Düzənlik", "Qədim"]
+    },
+{
+    "mainWord": "Kənd",
+    "Şəhər", "Yaylaq", "Şabalıd", "Təsərrüfat", "Səki"]
+  },
+  {
+    "mainWord": "Mərzi",
+    "forbiddenWords": ["Şəhər", "Ağdam", "Düzənlik", "Ucqar", "Geniş"]
+  },
+  {
+    "mainWord": "Mahrızlı",
+    "forbiddenWords": ["Şəhər", "Füzuli", "Dağ", "İşğal", "Əkinçilik"]
+  },
+  {
+    "mainWord": "Kürdmahmudlu",
+    "forbiddenWords": ["Şəhər", "Füzuli", "Otag", "Düşərgə", "Aşağı"]
+  },
+  {
+    "mainWord": "Əmirvarlı",
+    "forbiddenWords": ["Şəhər", "Cəbrayıl", "Düz", "İşğal", "Kiçik"]
+  },
+  {
+    "mainWord": "Çərəkən",
+    "forbiddenWords": ["Şəhər", "Cəbrayıl", "İşğal", "Düz", "Qədim"]
+  },
+ {
+    "mainWord": "Dərələyz",
+        "forbiddenWords": ["Şəhər", "Zəngilan", "Sərhəd", "Ağac", "İsti"]
+    },
+ {
+    "mainWord": "Böyük Girətağ",
+        "forbiddenWords": ["Şəhər", "Laçın", "Ağac", "Bitişik", "Hərəkət"]
+    },
+    {
+        "mainWord": "Ağbulaq",
+        "forbiddenWords": ["Şəhər", "Qubadlı", "Su", "Ucqar", "Böyrü"]
+    },
+    {
+        "mainWord": "Hallı",
+        "forbiddenWords": ["Şəhər", "Qubadlı", "Su", "Aktiv", "Bölüşmək"]
+    },
+   {
+        "mainWord": "Başarat",
+        "forbiddenWords": ["Şəhər", "Göy", "İstiqamətdə", "Təsəlli", "İpək"]
+    },
+[
+  {
+    "mainWord": "Abşeron",
+    "forbiddenWords": ["Yarımada", "Bakı", "Neft", "Qəsəbə", "Külək"]
+  },
+  {
+    "mainWord": "Ağcabədi",
+    "forbiddenWords": ["Şəhər", "Qarabağ", "Düzənlik", "Kənd təsərrüfatı", "Pambıq"]
+  },
+  {
+    "mainWord": "Ağdam",
+    "forbiddenWords": ["Şəhər", "Qarabağ", "Tərk edilmiş", "Müharibə", "Xarabalıq"]
+  },
+  {
+    "mainWord": "Ağdaş",
+    "forbiddenWords": ["Şəhər", "Şirvan", "Düzənlik", "Kənd təsərrüfatı", "İpəkçilik"]
+  },
+  {
+    "mainWord": "Ağdərə",
+    "forbiddenWords": ["Şəhər", "Dağlıq", "Mədən", "Tərtər", "Qarabağ"]
+  },
+  {
+    "mainWord": "Ağstafa",
+    "forbiddenWords": ["Şəhər", "Sərhəd", "Gürcüstan", "Şərab", "Dəmiryol"]
+  },
+  {
+    "mainWord": "Ağsu",
+    "forbiddenWords": ["Şəhər", "Şirvan", "Dağ", "Tarixi", "Zəlzələ"]
+  },
+  {
+    "mainWord": "Astara",
+    "forbiddenWords": ["Şəhər", "Sərhəd", "İran", "Dəniz", "Nəm"]
+  },
+  {
+    "mainWord": "Balakən",
+    "forbiddenWords": ["Şəhər", "Meşə", "Qoruq", "Dağ", "Fındıq"]
+  },
+  {
+    "mainWord": "Bərdə",
+    "forbiddenWords": ["Şəhər", "Qədim", "Tarixi", "Qarabağ", "Ozan"]
+  },
+  {
+    "mainWord": "Beyləqan",
+    "forbiddenWords": ["Şəhər", "Düzənlik", "Pambıq", "Suvarma", "Əkinçilik"]
+  },
+  {
+    "mainWord": "Biləsuvar",
+    "forbiddenWords": ["Şəhər", "Sərhəd", "İran", "Düzənlik", "Ticarət"]
+  },
+  {
+    "mainWord": "Cəbrayıl",
+    "forbiddenWords": ["Şəhər", "Düzənlik", "Araz", "Sərhəd", "Qarabağ"]
+  },
+  {
+    "mainWord": "Cəlilabad",
+    "forbiddenWords": ["Şəhər", "Cənub", "Düzənlik", "Üzüm", "Şərab"]
+  },
+  {
+    "mainWord": "Daşkəsən",
+    "forbiddenWords": ["Şəhər", "Dağ", "Dəmir", "Filiz", "Sənaye"]
+  },
+  {
+    "mainWord": "Füzuli",
+    "forbiddenWords": ["Şəhər", "Qarabağ", "Düzənlik", "Təyyarə limanı", "Azad"]
+  },
+  {
+    "mainWord": "Gədəbəy",
+    "forbiddenWords": ["Şəhər", "Dağ", "Alp çəmənliyi", "Yay", "Təbiət"]
+  },
+  {
+    "mainWord": "Gəncə",
+    "forbiddenWords": ["Şəhər", "İkinci", "Mərkəz", "Nizami", "Tarixi"]
+  },
+  {
+    "mainWord": "Goranboy",
+    "forbiddenWords": ["Şəhər", "Neftalan", "Naftalan", "Müalicə", "Sanatoriya"]
+  },
+  {
+    "mainWord": "Göygöl",
+    "forbiddenWords": ["Şəhər", "Göl", "Alman", "Təbiət", "Turizm"]
+  },
+  {
+    "mainWord": "Hacıqabul",
+    "forbiddenWords": ["Şəhər", "Göl", "Düzənlik", "Neft", "Nəqliyyat"]
+  },
+  {
+    "mainWord": "İmişli",
+    "forbiddenWords": ["Şəhər", "Muğan", "Düzənlik", "Pambıq", "Suvarma"]
+  },
+  {
+    "mainWord": "İsmayıllı",
+    "forbiddenWords": ["Şəhər", "Dağ", "Meşə", "Təbiət", "Turizm"]
+  },
+  {
+    "mainWord": "Kəlbəcər",
+    "forbiddenWords": ["Şəhər", "Dağlıq", "İstisu", "Laçın", "Qarabağ"]
+  },
+  {
+    "mainWord": "Kürdəmir",
+    "forbiddenWords": ["Şəhər", "Şirvan", "Düzənlik", "Kənd təsərrüfatı", "Suvarma"]
+  },
+  {
+    "mainWord": "Laçın",
+    "forbiddenWords": ["Şəhər", "Dağlıq", "Qarabağ", "Güləbird", "Turizm"]
+  },
+  {
+    "mainWord": "Lerik",
+    "forbiddenWords": ["Şəhər", "Dağ", "Talış", "Uzunömürlülər", "Sakit"]
+  },
+  {
+    "mainWord": "Masallı",
+    "forbiddenWords": ["Şəhər", "Lənkəran", "Düzənlik", "Kənd təsərrüfatı", "Talış"]
+  },
+  {
+    "mainWord": "Mingəçevir",
+    "forbiddenWords": ["Şəhər", "Su anbarı", "Enerji", "İşıq", "Sənaye"]
+  },
+  {
+    "mainWord": "Naftalan",
+    "forbiddenWords": ["Şəhər", "Neft", "Müalicə", "Sanatoriya", "Goranboy"]
+  },
+  {
+    "mainWord": "Naxçıvan",
+    "forbiddenWords": ["Şəhər", "Muxtar", "Sərhəd", "Ermənistan", "Dədə Qorqud"]
+  },
+  {
+    "mainWord": "Neftçala",
+    "forbiddenWords": ["Şəhər", "Dəniz", "Neft", "Balıq", "Sənaye"]
+  },
+  {
+    "mainWord": "Oğuz",
+    "forbiddenWords": ["Şəhər", "Qədim", "Oğuzlar", "Tarix", "Dağ"]
+  },
+  {
+    "mainWord": "Qax",
+    "forbiddenWords": ["Şəhər", "Dağ", "Meşə", "Turizm", "Qədim"]
+  },
+  {
+    "mainWord": "Qazax",
+    "forbiddenWords": ["Şəhər", "Sərhəd", "Gürcüstan", "Dağ", "Tarix"]
+  },
+  {
+    "mainWord": "Qəbələ",
+    "forbiddenWords": ["Şəhər", "Qədim", "Turizm", "Tufandağ", "Meşə"]
+  },
+  {
+    "mainWord": "Qobustan",
+    "forbiddenWords": ["Şəhər", "Qaya", "Rəsmlər", "Palçıq vulkanı", "Muzey"]
+  },
+  {
+    "mainWord": "Quba",
+    "forbiddenWords": ["Şəhər", "Alma", "Xalça", "Dağ", "Təbiət"]
+  },
+  {
+    "mainWord": "Qubadlı",
+    "forbiddenWords": ["Şəhər", "Dağ", "Meşə", "Qarabağ", "Sərhəd"]
+  },
+  {
+    "mainWord": "Qusar",
+    "forbiddenWords": ["Şəhər", "Dağ", "Şahdağ", "Ləzgi", "Turizm"]
+  },
+  {
+    "mainWord": "Saatlı",
+    "forbiddenWords": ["Şəhər", "Muğan", "Düzənlik", "Pambıq", "Suvarma"]
+  },
+  {
+    "mainWord": "Sabirabad",
+    "forbiddenWords": ["Şəhər", "Kür", "Araz", "Su", "Düzənlik"]
+  },
+  {
+    "mainWord": "Salyan",
+    "forbiddenWords": ["Şəhər", "Kür", "Dəniz", "Balıq", "Neft"]
+  },
+  {
+    "mainWord": "Samux",
+    "forbiddenWords": ["Şəhər", "Düzənlik", "Kənd təsərrüfatı", "Nəqliyyat", "Qərb"]
+  },
+  {
+    "mainWord": "Siyəzən",
+    "forbiddenWords": ["Şəhər", "Dəniz", "Neft", "Dağ", "Beşbarmaq"]
+  },
+  {
+    "mainWord": "Sumqayıt",
+    "forbiddenWords": ["Şəhər", "Kimya", "Sənaye", "Gənclik", "Dəniz"]
+  },
+  {
+    "mainWord": "Şabran",
+    "forbiddenWords": ["Şəhər", "Dəvəçi", "Dəniz", "Tarixi", "Turizm"]
+  },
+  {
+   "mainWord": "Tovuz",
+    "forbiddenWords": ["Şəhər", "Dağ", "Sərhəd", "Gürcüstan", "Tarix"]
+  },
+{
+    "mainWord": "Aşağı Seyidəhmədli",
+        "forbiddenWords": ["Füzuli", "Şəhər", "Kənd", "Düzənlik", "Dağ"]
+    },
+    {
+        "mainWord": "Babək",
+        "forbiddenWords": ["Naxçıvan", "Şəhər", "Qədim", "Sərkərdə", "Qala"]
+    },
+    {
+        "mainWord": "Sədərək",
+        "forbiddenWords": ["Naxçıvan", "Kənd", "Sərhəd", "Türkiyə", "Ticarət"]
+    },
+    {
+        "mainWord": "Şərur",
+        "forbiddenWords": ["Naxçıvan", "Şəhər", "Düzənlik", "Araz", "Kənd təsərrüfatı"]
+    },
+ {
+        "mainWord": "Culfa",
+        "forbiddenWords": ["Naxçıvan", "Şəhər", "Dərə", "Tarixi", "Sərhəd"]
+    },
+    {
+        "mainWord": "Ordubad",
+        "forbiddenWords": ["Naxçıvan", "Şəhər", "Dağ", "Ədviyyat", "İpək"]
+    },
+ {
+   "mainWord": "Qıvraq",
+        "forbiddenWords": ["Şəhər", "Su", "Liman", "Düzənlik", "Yaşıl"]
+    },
+ {
+        "mainWord": "Söyüdlü",
+        "forbiddenWords": ["Şəhər", "Dağ", "Mənbə", "Mənzərə", "Otlaq"]
+    },
+{
+        "mainWord": "Alakol",
+        "forbiddenWords": ["Şəhər", "Turbalı", "Buzlu", "Təmiz", "Qış"]
+    },
+{
+        "mainWord": "Axtarış",
+        "forbiddenWords": ["Şəhər", "Qaya", "Uçurum", "Şaxtalı", "Qış"]
+    },
+{
+   "mainWord": "Yanar Dağ",
+        "forbiddenWords": ["Şəhər", "Şimali", "Yaşamaq", "Şöhrət", "Yüngül"]
+    },
+    {
+        "mainWord": "Şahbuz",
+        "forbiddenWords": ["Naxçıvan", "Rayon", "Dağ", "Sərhəd", "Təbiət"]
+    },
+{
+    "mainWord": "Cənnət Bağı",
+        "forbiddenWords": ["Əfsanəvi", "Gözəl", "Baxmaq", "Lüks", "Sakit"]
+    },
+    {
+        "mainWord": "Yaylıq",
+        "forbiddenWords": ["Şəhər", "Qədim", "Ağac", "Su", "Qırmızı"]
+    },
+  {
+    "mainWord": "Teymur Əhmədov",
+    "forbiddenWords": ["Şəhər", "Bənövşəyi", "Uzanmaq", "Xarici", "Qaya"]
+  },
+{
+   "mainWord": "Türkədi",
+        "forbiddenWords": ["Şəhər", "Bolqar", "Fəvvarə", "Su", "Soyuq"]
+    },
+{
+        "mainWord": "Çobankərə",
+        "forbiddenWords": ["Şəhər", "Sərt", "Təşkilat", "Süd", "Gözəl"]
+    },
+    {
+        "mainWord": "Babək",
+        "forbiddenWords": ["Şəhər", "Qəhrəman", "Qeyri-adi", "Cəsur", "Müharibə"]
+    },
+{
+     "mainWord": "Gənclər",
+        "forbiddenWords": ["Şəhər", "Düşünmək", "Birlik", "İxtisas", "Ağır"]
+    },
+  {
+    "mainWord": "Kürd Əhmədli",
+    "forbiddenWords": ["Ağdam", "Şəhər", "Düzənlik", "Suvarma", "Əkin"]
+  },
+  {
+    "mainWord": "Şıxlar",
+    "forbiddenWords": ["Füzuli", "Şəhər", "Düzənlik", "Kənd təsərrüfatı", "Araz"]
+  },
+  {
+    "mainWord": "Cocuq Mərcanlı",
+    "forbiddenWords": ["Cəbrayıl", "Kənd", "Bərpa", "Qayıdış", "Yeni"]
+  },
+  {
+        "mainWord": "Yuxarı Ağcakənd",
+        "forbiddenWords": ["Göranboy", "Kənd", "Dağ", "Mənzərə", "Turizm"]
+    },
+    {
+        "mainWord": "Aşağı Ağcakənd",
+        "forbiddenWords": ["Gəncə", "Kənd", "Dağ", "Meşə", "Məhsuldar"]
+    },
+    {
+        "mainWord": "Xələfli",
+        "Zəngilan", "Kənd", "Sərhəd", "Meşə", "Araz"
+    },
+    {
+        "mainWord": "Məlikli",
+        "Qubadlı", "Kənd", "Dağ", "Meşə", "Sərhəd"]
+    },
+   {
+        "mainWord": "Başarat",
+        "Cəbrayıl", "Kənd", "Düzənlik", "Əkin", "Suvarma"]
+    },
+    {
+        "mainWord": "Mehdili",
+        "Cəbrayıl", "Kənd", "Araz", "Sərhəd", "Düzənlik"]
+    },
+    {
+        "mainWord": "Həsənqaya",
+        "Tərtər", "Kənd", "Dağ", "Mənzərə", "Təbiət"]
+    },
+    {
+        "mainWord": "Seydimli",
+        "Tərtər", "Kənd", "Düzənlik", "Əkin", "Suvarma"]
+    },
+ {
+        "mainWord": "Aşağı Veysəlli",
+        "Füzuli", "Kənd", "Düzənlik", "Araz", "Suvarma"]
+    },
+ {
+        "mainWord": "Yuxarı Veysəlli",
+        "Füzuli", "Kənd", "Dağ", "Mənzərə", "Qarabağ"]
+    }
+]
