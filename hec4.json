@@ -2258,18 +2258,6 @@
         "mainWord": "Çaykənd",
         "forbiddenWords": ["Göygöl", "Rayon", "Kənd", "Çay", "Meşə"]
     },
-    {
-        "mainWord": "Ağdərə",
-        "Tərtər", "Rayon", "Şəhər", "Dağ", "Mədən"]
-    },
- {
-        "mainWord": "Suqovuşan",
-        "Tərtər", "Rayon", "Kənd", "Su", "Dağ"]
-    },
-    {
-        "mainWord": "Çıraqlı",
-        "Ağdam", "Rayon", "Kənd", "Düzənlik", "Qədim"]
-    },
   {
     "mainWord": "Mərzi",
     "forbiddenWords": ["Şəhər", "Ağdam", "Düzənlik", "Ucqar", "Geniş"]
