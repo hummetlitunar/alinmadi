@@ -1248,9 +1248,6 @@
         "forbiddenWords": ["Meşə", "Rusiya", "Soyuq", "Böyük", "Şam"]
     },
     {
-        "mainWord": ["Çöl", "Monqolustan", "Asiya", "Soyuq", "Qumluq"]
-    },
-    {
         "mainWord": "Böyük Səhra",
         "forbiddenWords": ["Qum", "Afrika", "İsti", "Susuzluq", "Köçəri"]
     },
