@@ -1,0 +1,1240 @@
+[
+  {
+    "mainWord": "Mercedes-Benz",
+    "forbiddenWords": ["Alman", "Lüks", "Avtomobil", "Mühəndislik", "Üç ulduz"]
+  },
+  {
+    "mainWord": "BMW",
+    "forbiddenWords": ["Alman", "Performans", "Avtomobil", "Sürücü", "Mavi və Ağ"]
+  },
+  {
+    "mainWord": "Audi",
+    "forbiddenWords": ["Alman", "Lüks", "Avtomobil", "Dörd halqa", "Texnologiya"]
+  },
+  {
+    "mainWord": "Volkswagen",
+    "forbiddenWords": ["Alman", "Xalq", "Avtomobil", "Beetle", "Golf"]
+  },
+  {
+    "mainWord": "Toyota",
+    "forbiddenWords": ["Yapon", "Etibarlı", "Avtomobil", "Hibrid", "Corolla"]
+  },
+  {
+    "mainWord": "Honda",
+    "forbiddenWords": ["Yapon", "Motosiklet", "Avtomobil", "Mühəndislik", "Civic"]
+  },
+  {
+    "mainWord": "Nissan",
+    "forbiddenWords": ["Yapon", "Avtomobil", "Elektrik", "Texnologiya", "Qashqai"]
+  },
+  {
+    "mainWord": "Ford",
+    "forbiddenWords": ["Amerikan", "Pikap", "Avtomobil", "Kütləvi", "Mustang"]
+  },
+  {
+    "mainWord": "Chevrolet",
+    "forbiddenWords": ["Amerikan", "Avtomobil", "Klassik", "İkiqat kəpənək", "Camaro"]
+  },
+  {
+    "mainWord": "Hyundai",
+    "forbiddenWords": ["Koreya", "Avtomobil", "Dəyər", "Zəmanət", "Elantra"]
+  },
+  {
+    "mainWord": "Kia",
+    "forbiddenWords": ["Koreya", "Avtomobil", "Dizayn", "Zəmanət", "Sportage"]
+  },
+  {
+    "mainWord": "Renault",
+    "forbiddenWords": ["Fransız", "Avtomobil", "Dizayn", "Elektrik", "Clio"]
+  },
+  {
+    "mainWord": "Peugeot",
+    "forbiddenWords": ["Fransız", "Avtomobil", "Aslan", "Dizayn", "308"]
+  },
+  {
+    "mainWord": "Fiat",
+    "forbiddenWords": ["İtalyan", "Avtomobil", "Kiçik", "Dizayn", "500"]
+  },
+  {
+    "mainWord": "Alfa Romeo",
+    "forbiddenWords": ["İtalyan", "Avtomobil", "İdman", "Dizayn", "Ürək"]
+  },
+  {
+    "mainWord": "Volvo",
+    "forbiddenWords": ["İsveç", "Təhlükəsizlik", "Avtomobil", "Dizayn", "XC90"]
+  },
+  {
+    "mainWord": "Land Rover",
+    "forbiddenWords": ["İngilis", "Off-road", "SUV", "Lüks", "Range Rover"]
+  },
+  {
+    "mainWord": "Jaguar",
+    "forbiddenWords": ["İngilis", "Lüks", "Avtomobil", "Pələng", "Dizayn"]
+  },
+  {
+    "mainWord": "Maserati",
+    "forbiddenWords": ["İtalyan", "Lüks", "Avtomobil", "Üç dişli nizə", "Performans"]
+  },
+  {
+    "mainWord": "Porsche",
+    "forbiddenWords": ["Alman", "İdman", "Avtomobil", "Mühəndislik", "911"]
+  },
+  {
+    "mainWord": "Ferrari",
+    "forbiddenWords": ["İtalyan", "İdman", "Avtomobil", "At", "Qırmızı"]
+  },
+  {
+    "mainWord": "Lamborghini",
+    "forbiddenWords": ["İtalyan", "İdman", "Avtomobil", "Buğa", "Sürət"]
+  },
+  {
+    "mainWord": "Tesla",
+    "forbiddenWords": ["Amerikan", "Elektrik", "Avtomobil", "Texnologiya", "Elon Musk"]
+  },
+  {
+    "mainWord": "Subaru",
+    "forbiddenWords": ["Yapon", "Avtomobil", "Simmetrik", "Dörd çəkər", "Boxer mühərrik"]
+  },
+  {
+    "mainWord": "Mazda",
+    "forbiddenWords": ["Yapon", "Avtomobil", "Dizayn", "Sürücü", "Zoom-Zoom"]
+  },
+  {
+    "mainWord": "Suzuki",
+    "forbiddenWords": ["Yapon", "Avtomobil", "Motosiklet", "Komfort", "Vitara"]
+  },
+  {
+    "mainWord": "Lexus",
+    "forbiddenWords": ["Yapon", "Lüks", "Avtomobil", "Toyota", "Rahatlıq"]
+  },
+  {
+    "mainWord": "Infiniti",
+    "forbiddenWords": ["Yapon", "Lüks", "Avtomobil", "Nissan", "Performans"]
+  },
+  {
+    "mainWord": "Acura",
+    "forbiddenWords": ["Yapon", "Lüks", "Avtomobil", "Honda", "Texnologiya"]
+  },
+  {
+    "mainWord": "Cadillac",
+    "forbiddenWords": ["Amerikan", "Lüks", "Avtomobil", "Dizayn", "Escalade"]
+  },
+  {
+    "mainWord": "Buick",
+    "forbiddenWords": ["Amerikan", "Avtomobil", "Rahatlıq", "Lüks", "Encore"]
+  },
+  {
+    "mainWord": "Chrysler",
+    "forbiddenWords": ["Amerikan", "Avtomobil", "Minivan", "300", "Dizayn"]
+  },
+  {
+    "mainWord": "Dodge",
+    "forbiddenWords": ["Amerikan", "Avtomobil", "Performans", "Muscle car", "Challenger"]
+  },
+  {
+    "mainWord": "Jeep",
+    "forbiddenWords": ["Amerikan", "Off-road", "SUV", "Macəra", "Wrangler"]
+  },
+  {
+    "mainWord": "Ram",
+    "forbiddenWords": ["Amerikan", "Pikap", "Yük maşını", "Güc", "Dözümlülük"]
+  },
+  {
+    "mainWord": "Mini",
+    "forbiddenWords": ["İngilis", "Kiçik", "Avtomobil", "Dizayn", "Məşhur"]
+  },
+  {
+    "mainWord": "Smart",
+    "forbiddenWords": ["Alman", "Kiçik", "Avtomobil", "Şəhər", "Ekologiya"]
+  },
+  {
+    "mainWord": "Dacia",
+    "forbiddenWords": ["Rumın", "Avtomobil", "Sərfəli", "Dözümlülük", "Logan"]
+  },
+  {
+    "mainWord": "Skoda",
+    "forbiddenWords": ["Çex", "Avtomobil", "Volkswagen", "Dəyər", "Octavia"]
+  },
+  {
+    "mainWord": "Seat",
+    "forbiddenWords": ["İspan", "Avtomobil", "Volkswagen", "Dizayn", "Ibiza"]
+  },
+  {
+    "mainWord": "Opel",
+    "forbiddenWords": ["Alman", "Avtomobil", "Dizayn", "Yenilik", "Astra"]
+  },
+  {
+    "mainWord": "SAAB",
+    "forbiddenWords": ["İsveç", "Avtomobil", "Aviasiya", "Təhlükəsizlik", "Turbo"]
+  },
+    {
+    "mainWord": "McLaren",
+    "forbiddenWords": ["İngilis", "İdman", "Avtomobil", "Formula 1", "Sürət"]
+  },
+  {
+    "mainWord": "Bugatti",
+    "forbiddenWords": ["Fransız", "Hiperavtomobil", "Lüks", "Sürət", "Volkswagen"]
+  },
+  {
+    "mainWord": "Koenigsegg",
+    "forbiddenWords": ["İsveç", "Hiperavtomobil", "Performans", "Sürət", "Texnologiya"]
+  },
+  {
+    "mainWord": "Pagani",
+    "forbiddenWords": ["İtalyan", "Hiperavtomobil", "Lüks", "Dizayn", "Əl işi"]
+  },
+  {
+    "mainWord": "Rolls-Royce",
+    "forbiddenWords": ["İngilis", "Lüks", "Avtomobil", "Əzəmət", "Xüsusi"]
+  },
+  {
+    "mainWord": "Bentley",
+    "forbiddenWords": ["İngilis", "Lüks", "Avtomobil", "Sürət", "Əl işi"]
+  },
+  {
+    "mainWord": "Aston Martin",
+    "forbiddenWords": ["İngilis", "Lüks", "Avtomobil", "Casus", "Dizayn"]
+  },
+  {
+    "mainWord": "Lotus",
+    "forbiddenWords": ["İngilis", "İdman", "Avtomobil", "Yüngül", "Sürücü"]
+  },
+  {
+    "mainWord": "Polestar",
+    "forbiddenWords": ["İsveç", "Elektrik", "Volvo", "Dizayn", "Performans"]
+  },
+  {
+    "mainWord": "Genesis",
+    "forbiddenWords": ["Koreya", "Lüks", "Hyundai", "Dizayn", "Texnologiya"]
+  },
+  {
+    "mainWord": "DS Automobiles",
+    "forbiddenWords": ["Fransız", "Lüks", "Citroen", "Dizayn", "Fransa"]
+  },
+  {
+    "mainWord": "Alpine",
+    "forbiddenWords": ["Fransız", "İdman", "Renault", "Yüngül", "Sürət"]
+  },
+  {
+    "mainWord": "Cupra",
+    "forbiddenWords": ["İspan", "Performans", "Seat", "Dizayn", "Gənclər"]
+  },
+  {
+    "mainWord": "MG Motor",
+    "forbiddenWords": ["İngilis", "Çin", "Avtomobil", "Elektrik", "Dəyər"]
+  },
+  {
+    "mainWord": "Great Wall Motors",
+    "forbiddenWords": ["Çin", "SUV", "Pikap", "Böyük", "Dözümlülük"]
+  },
+  {
+    "mainWord": "Chery",
+    "forbiddenWords": ["Çin", "Avtomobil", "Ucuz", "Ailə", "Kütləvi"]
+  },
+  {
+    "mainWord": "Geely",
+    "forbiddenWords": ["Çin", "Avtomobil", "Volvo", "Texnologiya", "Genişlənmə"]
+  },
+  {
+    "mainWord": "BYD",
+    "forbiddenWords": ["Çin", "Elektrik", "Batareya", "Texnologiya", "Yaşıl"]
+  },
+  {
+    "mainWord": "Haval",
+    "forbiddenWords": ["Çin", "SUV", "Dizayn", "Rahatlıq", "Lüks"]
+  },
+  {
+    "mainWord": "Wuling",
+    "forbiddenWords": ["Çin", "Minivan", "Ticarət", "Ucuz", "Praktik"]
+  },
+  {
+    "mainWord": "GAZ",
+    "forbiddenWords": ["Rus", "Yük maşını", "Avtobus", "Dözümlülük", "Hərbi"]
+  },
+  {
+    "mainWord": "UAZ",
+    "forbiddenWords": ["Rus", "Off-road", "4x4", "Hərbi", "Sadə"]
+  },
+  {
+    "mainWord": "Lada",
+    "forbiddenWords": ["Rus", "Avtomobil", "Keçmiş", "Ucuz", "Sadə"]
+  },
+  {
+    "mainWord": "Tata Motors",
+    "forbiddenWords": ["Hind", "Avtomobil", "Ucuz", "Nano", "Kommersiya"]
+  },
+  {
+    "mainWord": "Mahindra",
+    "forbiddenWords": ["Hind", "SUV", "Traktor", "Off-road", "Kənd"]
+  },
+  {
+    "mainWord": "Maruti Suzuki",
+    "forbiddenWords": ["Hind", "Yüngül avtomobil", "Ucuz", "Yanacaq qənaəti", "Kütləvi"]
+  },
+  {
+    "mainWord": "Isuzu",
+    "forbiddenWords": ["Yapon", "Yük maşını", "Dizel", "Dözümlülük", "Ticarət"]
+  },
+  {
+    "mainWord": "Hino Motors",
+    "forbiddenWords": ["Yapon", "Yük maşını", "Avtobus", "Toyota", "Dizel"]
+  },
+  {
+    "mainWord": "Mitsubishi Fuso",
+    "forbiddenWords": ["Yapon", "Yük maşını", "Avtobus", "Daimler", "Ticarət"]
+  },
+  {
+    "mainWord": "Ashok Leyland",
+    "forbiddenWords": ["Hind", "Yük maşını", "Avtobus", "Ticari", "Dözümlülük"]
+  },
+  {
+    "mainWord": "Iveco",
+    "forbiddenWords": ["İtalyan", "Yük maşını", "Avtobus", "Ticari", "Dözümlülük"]
+  },
+  {
+    "mainWord": "MAN",
+    "forbiddenWords": ["Alman", "Yük maşını", "Avtobus", "Volkswagen", "Güclü"]
+  },
+  {
+    "mainWord": "Scania",
+    "forbiddenWords": ["İsveç", "Yük maşını", "Avtobus", "Dözümlülük", "Yüksək keyfiyyət"]
+  },
+  {
+    "mainWord": "DAF",
+    "forbiddenWords": ["Holland", "Yük maşını", "Dözümlülük", "Avropa", "Ticari"]
+  },
+  {
+    "mainWord": "Mack Trucks",
+    "forbiddenWords": ["Amerikan", "Yük maşını", "Dözümlülük", "Güclü", "Uzaq yol"]
+  },
+  {
+    "mainWord": "Freightliner",
+    "forbiddenWords": ["Amerikan", "Yük maşını", "Dözümlülük", "Daimler", "Uzaq yol"]
+  },
+  {
+    "mainWord": "Western Star",
+    "forbiddenWords": ["Amerikan", "Yük maşını", "Xüsusi", "Lüks", "Dözümlülük"]
+  },
+  {
+    "mainWord": "Peterbilt",
+    "forbiddenWords": ["Amerikan", "Yük maşını", "Klassik", "Dözümlülük", "Uzun burun"]
+  },
+  {
+    "mainWord": "Kenworth",
+    "forbiddenWords": ["Amerikan", "Yük maşını", "Dözümlülük", "PACCAR", "Uzun yol"]
+  },
+  {
+    "mainWord": "Autobianchi",
+    "forbiddenWords": ["İtalyan", "Keçmiş", "Fiat", "Kiçik", "Avtomobil"]
+  },
+  {
+    "mainWord": "DKW",
+    "forbiddenWords": ["Alman", "Keçmiş", "İki taktlı", "Avtomobil", "Motosiklet"]
+  },
+  {
+    "mainWord": "Wartburg",
+    "forbiddenWords": ["Alman", "Keçmiş", "Şərqi Almaniya", "İki taktlı", "Avtomobil"]
+  },
+  {
+    "mainWord": "Trabant",
+    "forbiddenWords": ["Alman", "Keçmiş", "Şərqi Almaniya", "Plastik", "Avtomobil"]
+  },
+  {
+    "mainWord": "Reliant",
+    "forbiddenWords": ["İngilis", "Üç təkərli", "Robin", "Avtomobil", "Qəribə"]
+  },
+  {
+    "mainWord": "DeLorean",
+    "forbiddenWords": ["Amerikan", "Keçmiş", "Paslanmayan polad", "Zaman maşını", "DMC-12"]
+  },
+  {
+    "mainWord": "Pontiac",
+    "forbiddenWords": ["Amerikan", "Keçmiş", "General Motors", "İdman", "Trans Am"]
+  },
+  {
+    "mainWord": "Oldsmobile",
+    "forbiddenWords": ["Amerikan", "Keçmiş", "General Motors", "Yenilikçi", "Cutlass"]
+  },
+  {
+    "mainWord": "Plymouth",
+    "forbiddenWords": ["Amerikan", "Keçmiş", "Chrysler", "Ucuz", "Barracuda"]
+  },
+  {
+    "mainWord": "AMC",
+    "forbiddenWords": ["Amerikan", "Keçmiş", "Müstəqil", "Muscle car", "Javelin"]
+  },
+  {
+    "mainWord": "Studebaker",
+    "forbiddenWords": ["Amerikan", "Keçmiş", "Araba", "Avtomobil", "Avangard"]
+  },
+  {
+    "mainWord": "Packard",
+    "forbiddenWords": ["Amerikan", "Keçmiş", "Lüks", "Mühəndislik", "Klassik"]
+  },
+  {
+    "mainWord": "Hudson",
+    "forbiddenWords": ["Amerikan", "Keçmiş", "Avtomobil", "Dözümlülük", "Hornet"]
+  },
+  {
+    "mainWord": "Willys",
+    "forbiddenWords": ["Amerikan", "Keçmiş", "Hərbi", "Jeep", "Off-road"]
+  },
+  {
+    "mainWord": "Austin",
+    "forbiddenWords": ["İngilis", "Keçmiş", "Avtomobil", "Kiçik", "Mini"]
+  },
+  {
+    "mainWord": "Morris",
+    "forbiddenWords": ["İngilis", "Keçmiş", "Avtomobil", "Oxford", "Mini"]
+  },
+  {
+    "mainWord": "Riley",
+    "forbiddenWords": ["İngilis", "Keçmiş", "Avtomobil", "İdman", "Elf"]
+  },
+  {
+    "mainWord": "Triumph",
+    "forbiddenWords": ["İngilis", "Keçmiş", "Avtomobil", "İdman", "Spitfire"]
+  },
+  {
+    "mainWord": "MG",
+    "forbiddenWords": ["İngilis", "Keçmiş", "Avtomobil", "İdman", "Midget"]
+  },
+   {
+    "mainWord": "Ariel",
+    "forbiddenWords": ["İngilis", "İdman", "Atom", "Yüngül", "Track"]
+  },
+  {
+    "mainWord": "Morgan",
+    "forbiddenWords": ["İngilis", "Klassik", "Əl işi", "Ağac", "Üç təkərli"]
+  },
+  {
+    "mainWord": "Caterham",
+    "forbiddenWords": ["İngilis", "İdman", "Yüngül", "Lotus Seven", "Track"]
+  },
+  {
+    "mainWord": "BAC Mono",
+    "forbiddenWords": ["İngilis", "İdman", "Tək oturacaqlı", "Track", "Performans"]
+  },
+  {
+    "mainWord": "Radical",
+    "forbiddenWords": ["İngilis", "İdman", "Track", "Yüksək performans", "Dəhşətli"]
+  },
+  {
+    "mainWord": "TVR",
+    "forbiddenWords": ["İngilis", "Keçmiş", "İdman", "Əzələli", "Dizayn"]
+  },
+  {
+    "mainWord": "Bristol",
+    "forbiddenWords": ["İngilis", "Keçmiş", "Lüks", "Xüsusi", "Uçak motoru"]
+  },
+  {
+    "mainWord": "Ascari",
+    "forbiddenWords": ["İngilis", "Keçmiş", "İdman", "Track", "Yüksək performans"]
+  },
+  {
+    "mainWord": "Noble",
+    "forbiddenWords": ["İngilis", "İdman", "Turbo", "Yüksək performans", "Əl işi"]
+  },
+  {
+    "mainWord": "Ultima",
+    "forbiddenWords": ["İngilis", "İdman", "Le Mans", "Yüksək performans", "Kit avtomobil"]
+  },
+  {
+    "mainWord": "Ginetta",
+    "forbiddenWords": ["İngilis", "İdman", "Yarış", "Əl işi", "Daxili"]
+  },
+  {
+    "mainWord": "Marcos",
+    "forbiddenWords": ["İngilis", "Keçmiş", "İdman", "Fiberglass", "Dizayn"]
+  },
+  {
+    "mainWord": "Invicta",
+    "forbiddenWords": ["İngilis", "Keçmiş", "İdman", "Lüks", "Sərgüzəşt"]
+  },
+  {
+    "mainWord": "AC Cars",
+    "forbiddenWords": ["İngilis", "Keçmiş", "Cobra", "İdman", "Şasi"]
+  },
+  {
+    "mainWord": "Jensen",
+    "forbiddenWords": ["İngilis", "Keçmiş", "Interseptor", "V8", "Avtomobil"]
+  },
+  {
+    "mainWord": "Gilbern",
+    "forbiddenWords": ["Wales", "Keçmiş", "Kit avtomobil", "Fiberglass", "Az bilinən"]
+  },
+  {
+    "mainWord": "Maruti",
+    "forbiddenWords": ["Hind", "Keçmiş", "Suzuki", "Kiçik", "Yanacaq qənaəti"]
+  },
+  {
+    "mainWord": "Premier",
+    "forbiddenWords": ["Hind", "Keçmiş", "Fiat", "Lisenziya", "Avtomobil"]
+  },
+  {
+    "mainWord": "Hindustan Motors",
+    "forbiddenWords": ["Hind", "Keçmiş", "Ambassador", "Morris Oxford", "Avtomobil"]
+  },
+  {
+    "mainWord": "San Motors",
+    "forbiddenWords": ["Hind", "Keçmiş", "Mini", "Şəhər", "Elektrik"]
+  },
+  {
+    "mainWord": "DC Design",
+    "forbiddenWords": ["Hind", "Dizayn", "Xüsusi", "Lüks", "Avtomobil"]
+  },
+  {
+    "mainWord": "VinFast",
+    "forbiddenWords": ["Vyetnam", "Avtomobil", "BMW texnologiyası", "Lüks", "Yenilikçi"]
+  },
+  {
+    "mainWord": "FAW",
+    "forbiddenWords": ["Çin", "Avtomobil", "Hongqi", "Lüks", "Dövlət"]
+  },
+  {
+    "mainWord": "Dongfeng",
+    "forbiddenWords": ["Çin", "Avtomobil", "Yük maşını", "Kommersiya", "Geniş spektr"]
+  },
+  {
+    "mainWord": "BAIC",
+    "forbiddenWords": ["Çin", "Avtomobil", "SUV", "Mercedes-Benz", "Texnologiya"]
+  },
+  {
+    "mainWord": "JAC Motors",
+    "forbiddenWords": ["Çin", "Avtomobil", "Elektrik", "Kommersiya", "İxrac"]
+  },
+  {
+    "mainWord": "Zotye",
+    "forbiddenWords": ["Çin", "Avtomobil", "SUV", "Dizayn", "Ucuz"]
+  },
+  {
+    "mainWord": "Landwind",
+    "forbiddenWords": ["Çin", "Keçmiş", "SUV", "Dizayn", "Kopyalamaq"]
+  },
+  {
+    "mainWord": "Brilliance",
+    "forbiddenWords": ["Çin", "Avtomobil", "BMW ilə əməkdaşlıq", "Lüks", "Texnologiya"]
+  },
+  {
+    "mainWord": "Soueast",
+    "forbiddenWords": ["Çin", "Avtomobil", "Mitsubishi ilə əməkdaşlıq", "Sedan", "İxrac"]
+  },
+  {
+    "mainWord": "Lifan",
+    "forbiddenWords": ["Çin", "Motosiklet", "Avtomobil", "Ucuz", "İxrac"]
+  },
+  {
+    "mainWord": "Great Wall",
+    "forbiddenWords": ["Çin", "SUV", "Pikap", "Dözümlülük", "Haval markası"]
+  },
+  {
+    "mainWord": "ZX Auto",
+    "forbiddenWords": ["Çin", "Pikap", "SUV", "Dözümlülük", "Kənd"]
+  },
+  {
+    "mainWord": "Gonow",
+    "forbiddenWords": ["Çin", "Mikroavtobus", "Ticari", "Ucuz", "Praktik"]
+  },
+  {
+    "mainWord": "Yutong",
+    "forbiddenWords": ["Çin", "Avtobus", "Böyük", "Dünya", "Sərnişin"]
+  },
+  {
+    "mainWord": "Golden Dragon",
+    "forbiddenWords": ["Çin", "Avtobus", "Dənizə yaxın", "Özəl", "Sərnişin"]
+  },
+  {
+    "mainWord": "Higer Bus",
+    "forbiddenWords": ["Çin", "Avtobus", "Suzhou", "Yüksək keyfiyyət", "Sərnişin"]
+  },
+  {
+    "mainWord": "Zhongtong Bus",
+    "forbiddenWords": ["Çin", "Avtobus", "Enerji qənaəti", "Təhlükəsizlik", "Sərnişin"]
+  },
+  {
+    "mainWord": "YMA",
+    "forbiddenWords": ["Malayziya", "Keçmiş", "Proton", "Lisenziya", "Avtomobil"]
+  },
+  {
+    "mainWord": "Proton",
+    "forbiddenWords": ["Malayziya", "Avtomobil", "Lotus ilə əməkdaşlıq", "İdman", "Dizayn"]
+  },
+  {
+    "mainWord": "Perodua",
+    "forbiddenWords": ["Malayziya", "Kiçik", "Dəyər", "Yerli", "Avtomobil"]
+  },
+  {
+    "mainWord": "Bufori",
+    "forbiddenWords": ["Malayziya", "Lüks", "Klassik", "Əl işi", "İngilis üslubu"]
+  },
+  {
+    "mainWord": "Naza",
+    "forbiddenWords": ["Malayziya", "Keçmiş", "Kia", "Lisenziya", "Avtomobil"]
+  },
+  {
+    "mainWord": "Inokom",
+    "forbiddenWords": ["Malayziya", "Yığmaq", "BMW", "Hyundai", "Yük maşını"]
+  },
+  {
+    "mainWord": "TD",
+    "forbiddenWords": ["Avstraliya", "Keçmiş", "Dizayn", "Motosiklet", "Yan avtomobil"]
+  },
+  {
+    "mainWord": "Bolwell",
+    "forbiddenWords": ["Avstraliya", "İdman", "Fiberglass", "Avtomobil", "Keçmiş"]
+  },
+  {
+    "mainWord": "Joss",
+    "forbiddenWords": ["Avstraliya", "İdman", "Konsept", "Avtomobil", "Keçmiş"]
+  },
+  {
+    "mainWord": "Elfin Sports Cars",
+    "forbiddenWords": ["Avstraliya", "İdman", "Keçmiş", "Dizayn", "Avtomobil"]
+  },
+  {
+    "mainWord": "Denning",
+    "forbiddenWords": ["Avstraliya", "Avtobus", "Lisenziya", "Sərnişinlər", "Keçmiş"]
+  },
+  {
+    "mainWord": "Leyland",
+    "forbiddenWords": ["İngilis", "Avtobus", "Yük maşını", "Sərnişinlər", "Keçmiş"]
+  },
+ {
+        "mainWord": "Bedford",
+        "forbiddenWords": ["İngilis", "Keçmiş", "Yük maşını", "Kommersiya", "Ucuz"]
+    },
+    {
+        "mainWord": "Commer",
+        "forbiddenWords": ["İngilis", "Keçmiş", "Yüngül yük maşını", "Kommersiya", "Ucuz"]
+    },
+  {
+    "mainWord": "Unimog",
+    "forbiddenWords": ["Alman", "Mercedes-Benz", "Yük maşını", "Off-road", "Çoxməqsədli"]
+  },
+  {
+    "mainWord": "Barkas",
+    "forbiddenWords": ["Alman", "Keçmiş", "Şərqi Almaniya", "Mikroavtobus", "Ticarət"]
+  },
+  {
+    "mainWord": "Robur",
+    "forbiddenWords": ["Alman", "Keçmiş", "Şərqi Almaniya", "Yük maşını", "Dözümlülük"]
+  },
+  {
+    "mainWord": "Multicar",
+    "forbiddenWords": ["Alman", "Mikro yük maşını", "Çoxməqsədli", "Kiçik", "Şəhər"]
+  },
+  {
+    "mainWord": "Framo",
+    "forbiddenWords": ["Alman", "Keçmiş", "Yük maşını", "Dizel", "Kiçik"]
+  },
+  {
+    "mainWord": "Tempo",
+    "forbiddenWords": ["Alman", "Keçmiş", "Üç təkərli", "Yük maşını", "Ticarət"]
+  },
+  {
+    "mainWord": "Lloyd",
+    "forbiddenWords": ["Alman", "Keçmiş", "Avtomobil", "Kiçik", "Ucuz"]
+  },
+  {
+    "mainWord": "Borgward",
+    "forbiddenWords": ["Alman", "Keçmiş", "Avtomobil", "Yenilikçi", "İxrac"]
+  },
+  {
+    "mainWord": "Glas",
+    "forbiddenWords": ["Alman", "Keçmiş", "Avtomobil", "Goggo", "BMW"]
+  },
+  {
+    "mainWord": "Wanderer",
+    "forbiddenWords": ["Alman", "Keçmiş", "Audi", "Avtomobil", "Lüks"]
+  },
+  {
+    "mainWord": "Horch",
+    "forbiddenWords": ["Alman", "Keçmiş", "Audi", "Lüks", "Sərvət"]
+  },
+  {
+    "mainWord": "Maybach",
+    "forbiddenWords": ["Alman", "Lüks", "Mercedes-Benz", "Ən yaxşı", "Qiymətli"]
+  },
+  {
+    "mainWord": "Isdera",
+    "forbiddenWords": ["Alman", "Keçmiş", "İdman", "Gülməli", "Unikal"]
+  },
+  {
+    "mainWord": "Melkus",
+    "forbiddenWords": ["Alman", "Keçmiş", "Şərqi Almaniya", "İdman", "Yarış"]
+  },
+  {
+    "mainWord": "Gumpert",
+    "forbiddenWords": ["Alman", "Keçmiş", "İdman", "Apollo", "Sürət"]
+  },
+  {
+    "mainWord": "Yes!",
+    "forbiddenWords": ["Alman", "İdman", "Yüngül", "Daxili yanma", "Sürücü"]
+  },
+  {
+    "mainWord": "Artega",
+    "forbiddenWords": ["Alman", "Keçmiş", "İdman", "Volkswagen", "Elektrik"]
+  },
+  {
+    "mainWord": "Bitter",
+    "forbiddenWords": ["Alman", "Avtomobil", "Opel", "Lüks", "Kupe"]
+  },
+  {
+    "mainWord": "Wiesmann",
+    "forbiddenWords": ["Alman", "Avtomobil", "Əl işi", "BMW mühərriki", "Klassik"]
+  },
+  {
+    "mainWord": "Apollo",
+    "forbiddenWords": ["Alman", "İdman", "Gumpert", "Çox güclü", "Sürət"]
+  },
+  {
+    "mainWord": "Tramontana",
+    "forbiddenWords": ["İspan", "İdman", "Lüks", "Formula 1", "Hava"]
+  },
+  {
+    "mainWord": "Hispano Suiza",
+    "forbiddenWords": ["İspan", "Keçmiş", "Lüks", "Aviasiya", "Mühəndislik"]
+  },
+  {
+    "mainWord": "Pegaso",
+    "forbiddenWords": ["İspan", "Keçmiş", "Yük maşını", "Avtobus", "İdman"]
+  },
+  {
+    "mainWord": "Comarth",
+    "forbiddenWords": ["İspan", "Keçmiş", "Elektrik", "Kiçik", "Şəhər"]
+  },
+  {
+    "mainWord": "Irizar",
+    "forbiddenWords": ["İspan", "Avtobus", "Lüks", "Dizayn", "Rahatlıq"]
+  },
+  {
+    "mainWord": "Ayats",
+    "forbiddenWords": ["İspan", "Keçmiş", "Avtobus", "Məşhur", "Sərnişinlər"]
+  },
+  {
+    "mainWord": "SEAT",
+    "forbiddenWords": ["İspan", "Volkswagen Group", "Gənclik", "İdman", "Şəhər"]
+  },
+  {
+    "mainWord": "Hispano-Argentina",
+    "forbiddenWords": ["Argentina", "Keçmiş", "Avtomobil", "Lisenziyalı", "Avropa"]
+  },
+  {
+    "mainWord": "Industrias Kaiser Argentina",
+    "forbiddenWords": ["Argentina", "Keçmiş", "Avtomobil", "Jeep", "Amerikan"]
+  },
+  {
+    "mainWord": "Dodge Argentina",
+    "forbiddenWords": ["Argentina", "Keçmiş", "Avtomobil", "Muscle Car", "Amerikan"]
+  },
+  {
+    "mainWord": "Renault Argentina",
+    "forbiddenWords": ["Argentina", "Avtomobil", "Yerli", "Keçmiş modellər", "Fransız"]
+  },
+  {
+    "mainWord": "IKA Renault",
+    "forbiddenWords": ["Argentina", "Keçmiş", "Avtomobil", "Torino", "Milli"]
+  },
+  {
+    "mainWord": "De Carlo",
+    "forbiddenWords": ["Argentina", "Keçmiş", "BMW", "Lisenziya", "Mikroavtomobil"]
+  },
+  {
+    "mainWord": "Eniak",
+    "forbiddenWords": ["Argentina", "Keçmiş", "Elektrik", "Konsept", "Şəhər"]
+  },
+  {
+    "mainWord": "Zanella",
+    "Argentina", "Motosiklet", "Yerli istehsal", "Ucuz", "Populyar"
+   },
+   {
+        "mainWord": "Agrale",
+        "forbiddenWords": ["Braziliya", "Traktor", "Avtobus", "Yük maşını", "Kənd təsərrüfatı"]
+    },
+    {
+        "mainWord": "Gurgel",
+        "forbiddenWords": ["Braziliya", "Keçmiş", "Elektrik", "Kiçik", "Off-road"]
+    },
+    {
+        "mainWord": "Puma",
+        "forbiddenWords": ["Braziliya", "Keçmiş", "İdman", "Fiberglass", "Avtomobil"]
+    },
+    {
+        "mainWord": "Santa Matilde",
+        "forbiddenWords": ["Braziliya", "Keçmiş", "Lüks", "Kupe", "Avtomobil"]
+    },
+    {
+        "mainWord": "Engesa",
+        "forbiddenWords": ["Braziliya", "Keçmiş", "Hərbi", "Off-road", "Zirehli"]
+    },
+   {
+        "mainWord": "Troller",
+        "forbiddenWords": ["Braziliya", "Ford", "Off-road", "4x4", "Macəra"]
+    },
+ {
+    "mainWord": "Obvio!",
+    "forbiddenWords": ["Braziliya", "Kiçik", "Şəhər", "Çevik", "Ekologiya"]
+  },
+  {
+        "mainWord": "TAC Motors",
+        "forbiddenWords": ["Braziliya", "Off-road", "Macera", "4x4", "Lüks"]
+    },
+    {
+        "mainWord": "Lobini",
+        "forbiddenWords": ["Braziliya", "Keçmiş", "İdman", "Fiberglass", "Avtomobil"]
+    },
+    {
+        "mainWord": "Ranger",
+        "forbiddenWords": ["Braziliya", "Keçmiş", "Ford", "Yük maşını", "Pikap"]
+    },
+  {
+    "mainWord": "Supermini",
+    "forbiddenWords": ["Misir", "Avtomobil", "Yerli yığılmış", "Ucuz", "Asiya"]
+  },
+  {
+    "mainWord": "Speranza",
+    "forbiddenWords": ["Misir", "Avtomobil", "Chery", "Lisenziya", "Çin"]
+  },
+  {
+    "mainWord": "Wallyscar",
+    "forbiddenWords": ["Tunis", "Off-road", "4x4", "Ucuz", "Macəra"]
+  },
+  {
+    "mainWord": "Laraki",
+    "forbiddenWords": ["Mərakeş", "İdman", "Lüks", "Konsept", "Qiymətli"]
+  },
+  {
+    "mainWord": "Tiam",
+    "forbiddenWords": ["Livan", "Elektrik", "AirPod", "Sıfır emissiya", "Şəhər"]
+  },
+    {
+        "mainWord": "KMC",
+        "forbiddenWords": ["Pakistan", "Yük maşını", "Avtobus", "Kommersiya", "Çin"]
+    },
+[
+  {
+    "mainWord": "Hyundai Translead",
+    "forbiddenWords": ["ABŞ", "Treyler", "Yük maşını", "Avtomobil nəql etmək", "Logistika"]
+  },
+  {
+    "mainWord": "Utilimaster",
+    "forbiddenWords": ["ABŞ", "Yüngül yük maşını", "Təmir", "Dağıtım", "Ticari"]
+  },
+  {
+    "mainWord": "Morgan Olson",
+    "forbiddenWords": ["ABŞ", "Yük maşını", "Poçt", "Dağıtım", "Konteyner"]
+  },
+  {
+    "mainWord": "Supreme Corporation",
+    "forbiddenWords": ["ABŞ", "Yük maşını", "Bədən", "Soyuducu", "Specialized"]
+  },
+  {
+    "mainWord": "Great Dane Trailers",
+    "forbiddenWords": ["ABŞ", "Treyler", "Soyuducu", "Yük", "Daşıma"]
+  },
+  {
+    "mainWord": "Utility Trailer Manufacturing Company",
+    "forbiddenWords": ["ABŞ", "Treyler", "Yük", "Nəqliyyat", "Texnologiya"]
+  },
+  {
+    "mainWord": "Stoughton Trailers",
+    "forbiddenWords": ["ABŞ", "Treyler", "Yük", "Dəniz", "İnnovasiya"]
+  },
+  {
+    "mainWord": "Fontaine Trailer Company",
+    "forbiddenWords": ["ABŞ", "Treyler", "Düz platforma", "Ağır", "Xüsusi"]
+  },
+  {
+    "mainWord": "East Manufacturing Corporation",
+    "forbiddenWords": ["ABŞ", "Treyler", "Alüminium", "Yük", "Təhlükəsizlik"]
+  },
+  {
+    "mainWord": "Kalmar",
+    "forbiddenWords": ["Finlandiya", "Liman", "Avadanlıq", "Kran", "Yük"]
+  },
+  {
+    "mainWord": "Sisu Auto",
+    "forbiddenWords": ["Finlandiya", "Yük maşını", "Hərbi", "Meşə", "Ağır"]
+  },
+  {
+    "mainWord": "Sisu Diesel",
+    "forbiddenWords": ["Finlandiya", "Mühərrik", "Dözümlülük", "Sənaye", "Güclü"]
+  },
+  {
+    "mainWord": "Valmet Automotive",
+    "forbiddenWords": ["Finlandiya", "Yığmaq", "Porsche", "Avtomobil", "Batareya"]
+  },
+  {
+    "mainWord": "Van Hool",
+    "forbiddenWords": ["Belçika", "Avtobus", "Tur", "Sərnişinlər", "Rahatlıq"]
+  },
+  {
+    "mainWord": "Jonckheere",
+    "forbiddenWords": ["Belçika", "Avtobus", "Lyuks", "Dizayn", "Bədən"]
+  },
+  {
+    "mainWord": "BMC",
+    "forbiddenWords": ["Türkiyə", "Avtobus", "Yük maşını", "Hərbi", "Ticari"]
+  },
+  {
+    "mainWord": "Otokar",
+    "forbiddenWords": ["Türkiyə", "Avtobus", "Hərbi", "Avtomobil", "Dizayn"]
+  },
+  {
+    "mainWord": "Temsa",
+    "forbiddenWords": ["Türkiyə", "Avtobus", "Elektrik", "Texnologiya", "İxrac"]
+  },
+  {
+    "mainWord": "Karsan",
+    "forbiddenWords": ["Türkiyə", "Minibus", "Avtobus", "Elektrik", "Ticari"]
+  },
+  {
+    "mainWord": "Askam",
+    "forbiddenWords": ["Türkiyə", "Keçmiş", "Yük maşını", "Ticari", "Lisenziya"]
+  },
+  {
+    "mainWord": "Anadol",
+    "forbiddenWords": ["Türkiyə", "Keçmiş", "Fiberglass", "Avtomobil", "Yerli"]
+  },
+  {
+    "mainWord": "Devrim",
+    "forbiddenWords": ["Türkiyə", "Keçmiş", "Yerli", "Avtomobil", "İlk"]
+  },
+  {
+    "mainWord": "BMC Sanayi ve Ticaret A.Ş.",
+    "forbiddenWords": ["Türkiyə", "Yük maşını", "Avtobus", "Ticari", "Müdafiə"]
+  },
+  {
+    "mainWord": "Asia Motors",
+    "forbiddenWords": ["Cənubi Koreya", "Keçmiş", "Kia", "Lisenziya", "Avtobus"]
+  },
+  {
+    "mainWord": "Daewoo",
+    "forbiddenWords": ["Cənubi Koreya", "Keçmiş", "General Motors", "Avtomobil", "İxrac"]
+  },
+  {
+    "mainWord": "SsangYong",
+    "forbiddenWords": ["Cənubi Koreya", "SUV", "Off-road", "Dözümlülük", "4x4"]
+  },
+  {
+    "mainWord": "Renault Samsung Motors",
+    "forbiddenWords": ["Cənubi Koreya", "Renault", "Lüks", "Avtomobil", "Dizayn"]
+  },
+  {
+    "mainWord": "Oullim Motors",
+    "forbiddenWords": ["Cənubi Koreya", "İdman", "Elektrik", "Sürət", "Performans"]
+  },
+  {
+    "mainWord": "ADM",
+    "forbiddenWords": ["Misir", "Hyundai", "Kia", "Yığmaq", "Avtomobil"]
+  },
+  {
+    "mainWord": "MCV",
+    "forbiddenWords": ["Misir", "Mercedes-Benz", "Avtobus", "Yığmaq", "Lisenziya"]
+  },
+  {
+    "mainWord": "Sidi Khider Motors",
+    "forbiddenWords": ["Əlcəzair", "Hyundai", "Yığmaq", "Avtomobil", "Ucuz"]
+  },
+  {
+    "mainWord": "Tahkout Manufacturing",
+    "forbiddenWords": ["Əlcəzair", "Volkswagen", "Yığmaq", "Avtomobil", "Marka"]
+  },
+  {
+    "mainWord": "SNVI",
+    "forbiddenWords": ["Əlcəzair", "Yük maşını", "Avtobus", "Hərbi", "Kommersiya"]
+  },
+  {
+    "mainWord": "Saic-Iveco Hongyan",
+    "forbiddenWords": ["Çin", "Iveco", "Yük maşını", "Ticari", "İxrac"]
+  },
+  {
+    "mainWord": "Hania",
+    "forbiddenWords": ["Çin", "Yük maşını", "Sinotruk", "Güclü", "Ticari"]
+  },
+  {
+    "mainWord": "Shaanxi Automobile Group",
+    "forbiddenWords": ["Çin", "Yük maşını", "Ağır", "Dözümlülük", "Ticari"]
+  },
+  {
+    "mainWord": "Beiben Trucks Group",
+    "forbiddenWords": ["Çin", "Yük maşını", "Mercedes-Benz", "Ağır", "Güçlü"]
+  },
+  {
+    "mainWord": "Dayun Automobile",
+    "forbiddenWords": ["Çin", "Yük maşını", "Ticari", "Ağır", "Müasir"]
+  },
+  {
+    "mainWord": "XCMG",
+    "forbiddenWords": ["Çin", "Tikinti", "Avadanlıq", "Ağır", "Yük maşını"]
+  },
+  {
+    "mainWord": "Zoomlion",
+    "forbiddenWords": ["Çin", "Tikinti", "Avadanlıq", "Ağır", "Mühəndislik"]
+  },
+  {
+    "mainWord": "Sany",
+    "forbiddenWords": ["Çin", "Tikinti", "Avadanlıq", "Ağır", "Ekskavator"]
+  },
+  {
+    "mainWord": "Foton Motor",
+    "forbiddenWords": ["Çin", "Yük maşını", "Avtobus", "Traktor", "Ticari"]
+  },
+ {
+        "mainWord": "Yaxın Şərq vasitələri",
+        "forbiddenWords": ["Misir", "Yığmaq", "Gətirmək", "Avtomobil", "Kiçik"]
+    },
+    {
+        "mainWord": "MCV",
+        "forbiddenWords": ["Misir", "Sərnişin avtobusları", "Lisenziyalaşdırılmış", "Avtobus", "Toplu"]
+    },
+    {
+        "mainWord": "AAV",
+        "forbiddenWords": ["Misir", "Yığmaq", "Şəhər", "Miniven", "Şirkət"]
+    },
+    {
+        "mainWord": "Arab American Vehicles",
+        "forbiddenWords": ["Misir", "Yığmaq", "SUV", "Offroad", "Lisenziyalaşdırılmış"]
+    },
+    {
+        "mainWord": "Speranza Motors, Ltd",
+        "forbiddenWords": ["Misir", "Mərkəz", "Yığmaq", "Sərfəli", "Şirkət"]
+    },
+    {
+        "mainWord": "Egy-Tech Engineering",
+        "forbiddenWords": ["Misir", "Mühəndislik", "Yığmaq", "Ekoloji", "Şirkət"]
+    },
+  {
+    "mainWord": "Iran Khodro",
+    "forbiddenWords": ["İran", "Avtomobil", "Peugeot", "Paykan", "İxrac"]
+  },
+  {
+    "mainWord": "Saipa",
+    "forbiddenWords": ["İran", "Avtomobil", "Kia", "Renault", "Yığmaq"]
+  },
+  {
+    "mainWord": "Pars Khodro",
+    "forbiddenWords": ["İran", "Avtomobil", "Renault", "Nissan", "İttifaq"]
+  },
+  {
+    "mainWord": "Kish Khodro",
+    "forbiddenWords": ["İran", "Kiçik avtomobil", "İdman", "Elektrik", "Konsept"]
+  },
+  {
+    "mainWord": "Morattab Khodro",
+    "forbiddenWords": ["İran", "Avtomobil", "Keçmiş", "Rover", "Yığmaq"]
+  },
+  {
+    "mainWord": "Rania Khodro",
+    "forbiddenWords": ["İran", "Keçmiş", "Volkswagen", "Yığmaq", "Keçmiş"]
+  },
+ {
+        "mainWord": "Zagross Khodro",
+        "forbiddenWords": ["İran", "Keçmiş", "Yüngül", "Avtomobil", "Yığmaq"]
+    },
+[
+    {
+        "mainWord": "Hyundai",
+        "forbiddenWords": ["Koreya", "Avtomobil", "Dizel", "Benzin", "Sərfəli"]
+    },
+    {
+        "mainWord": "Kia",
+        "forbiddenWords": ["Koreya", "Avtomobil", "Ucuz", "Keyfiyyətli", "Yüksək"]
+    },
+    {
+        "mainWord": "Mercedes-Benz",
+        "forbiddenWords": ["Almaniya", "Avtomobil", "Lüks", "Keyfiyyət", "Bahalı"]
+    },
+    {
+        "mainWord": "BMW",
+        "forbiddenWords": ["Almaniya", "Avtomobil", "İdman", "Yüksək keyfiyyət", "Bahalı"]
+    },
+    {
+        "mainWord": "Toyota",
+        "forbiddenWords": ["Yaponiya", "Avtomobil", "Sərfəli", "Keyfiyyətli", "Etibarlı"]
+    },
+    {
+        "mainWord": "Lada (VAZ)",
+        "forbiddenWords": ["Rusiya", "Avtomobil", "Ucuz", "Sərfəli", "Keçmiş"]
+    },
+    {
+        "mainWord": "Mitsubishi",
+        "forbiddenWords": ["Yaponiya", "Avtomobil", "Offroad", "Pajero", "Asiya"]
+    },
+    {
+        "mainWord": "Nissan",
+        "forbiddenWords": ["Yaponiya", "Avtomobil", "Elektrik", "Qəşəng", "Sərfəli"]
+    },
+    {
+        "mainWord": "Opel",
+        "forbiddenWords": ["Almaniya", "Avtomobil", "Sərfəli", "Keyfiyyətli", "Astra"]
+    },
+    {
+        "mainWord": "Skoda",
+        "forbiddenWords": ["Çexiya", "Avtomobil", "Sərfəli", "Keyfiyyətli", "Avropa"]
+    },
+    {
+        "mainWord": "Renault",
+        "forbiddenWords": ["Fransa", "Avtomobil", "Elektrik", "Uyğun", "Sərfəli"]
+    },
+    {
+        "mainWord": "Volkswagen",
+        "forbiddenWords": ["Almaniya", "Avtomobil", "Keyfiyyət", "Sərfəli", "Geniş"]
+    },
+    {
+        "mainWord": "Ford",
+        "forbiddenWords": ["Amerika", "Avtomobil", "Pikap", "Dözümlü", "Güclü"]
+    },
+    {
+        "mainWord": "Chevrolet",
+        "forbiddenWords": ["Amerika", "Avtomobil", "Ucuz", "Sərfəli", "Klassik"]
+    },
+    {
+        "mainWord": "Land Rover",
+        "forbiddenWords": ["İngiltərə", "Avtomobil", "Offroad", "4 çəkər", "Lüks"]
+    },
+    {
+        "mainWord": "Range Rover",
+        "forbiddenWords": ["İngiltərə", "Avtomobil", "Lüks", "Dözümlü", "4 çəkər"]
+    },
+    {
+        "mainWord": "Jeep",
+        "forbiddenWords": ["Amerika", "Avtomobil", "Offroad", "4x4", "Hərbi"]
+    },
+    {
+        "mainWord": "Maserati",
+        "forbiddenWords": ["İtaliya", "Avtomobil", "Lüks", "Sürətli", "Bahalı"]
+    },
+    {
+        "mainWord": "Porsche",
+        "forbiddenWords": ["Almaniya", "Avtomobil", "İdman", "Yüksək keyfiyyət", "Bahalı"]
+    },
+    {
+        "mainWord": "Ferrari",
+        "forbiddenWords": ["İtaliya", "Avtomobil", "Superkar", "Sürətli", "Qırmızı"]
+    },
+ {
+        "mainWord": "Rolls-Royce",
+        "forbiddenWords": ["İngiltərə", "Avtomobil", "Lüks", "Əlyığıma", "Sərvət"]
+    },
+    {
+        "mainWord": "Bentley",
+        "forbiddenWords": ["İngiltərə", "Avtomobil", "Lüks", "Rahat", "Bahalı"]
+    },
+    {
+        "mainWord": "Cadillac",
+        "forbiddenWords": ["Amerika", "Avtomobil", "Lüks", "Böyük", "Rahat"]
+    },
+    {
+        "mainWord": "Hummer",
+        "forbiddenWords": ["Amerika", "Avtomobil", "Offroad", "Hərbi", "Böyük"]
+    },
+    {
+        "mainWord": "Lincoln",
+        "forbiddenWords": ["Amerika", "Avtomobil", "Lüks", "Ford", "Rahat"]
+    },
+    {
+        "mainWord": "Tesla",
+        "forbiddenWords": ["Amerika", "Avtomobil", "Elektrik", "Texnologiya", "Sürətli"]
+    },
+    {
+        "mainWord": "Jaguar",
+        "forbiddenWords": ["İngiltərə", "Avtomobil", "Lüks", "İdman", "Qəşəng"]
+    },
+    {
+        "mainWord": "Aston Martin",
+        "forbiddenWords": ["İngiltərə", "Avtomobil", "Lüks", "Casus", "Sürətli"]
+    },
+    {
+        "mainWord": "Lamborghini",
+        "forbiddenWords": ["İtaliya", "Avtomobil", "Superkar", "Bahalı", "Sürətli"]
+    },
+    {
+        "mainWord": "Audi",
+        "forbiddenWords": ["Almaniya", "Avtomobil", "Lüks", "Keyfiyyətli", "Texnologiya"]
+    },
+    {
+        "mainWord": "Seat",
+        "forbiddenWords": ["İspaniya", "Avtomobil", "Gənclik", "Şık", "Sərfəli"]
+    },
+    {
+        "mainWord": "Skoda",
+        "forbiddenWords": ["Çexiya", "Avtomobil", "Sərfəli", "Keyfiyyətli", "Məntiqə uyğun"]
+    },
+    {
+        "mainWord": "Dacia",
+        "forbiddenWords": ["Rumıniya", "Avtomobil", "Sərfəli", "Dözümlü", "Sadə"]
+    },
+    {
+        "mainWord": "Lada",
+        "forbiddenWords": ["Rusiya", "Avtomobil", "Ucuz", "Sərfəli", "Keçmiş"]
+    },
+    {
+        "mainWord": "GAZ",
+        "forbiddenWords": ["Rusiya", "Yük maşını", "Avtobus", "Hərbi", "Sərt"]
+    },
+    {
+        "mainWord": "UAZ",
+        "forbiddenWords": ["Rusiya", "Offroad", "4x4", "Hərbi", "Sadə"]
+    },
+    {
+        "mainWord": "Mahindra",
+        "forbiddenWords": ["Hindistan", "Avtomobil", "SUV", "Traktor", "Sərfəli"]
+    },
+    {
+        "mainWord": "Tata",
+        "forbiddenWords": ["Hindistan", "Avtomobil", "Ucuz", "Kiçik", "Nəqliyyat"]
+    },
+    {
+        "mainWord": "Maruti Suzuki",
+        "forbiddenWords": ["Hindistan", "Kiçik", "Sərfəli", "Yanacaq qənaəti", "Yaponiya"]
+    },
+    {
+        "mainWord": "MG",
+        "forbiddenWords": ["Çin", "İngilis", "Avtomobil", "Elektrik", "Retro"]
+    },
+    {
+        "mainWord": "Chery",
+        "forbiddenWords": ["Çin", "Avtomobil", "Sərfəli", "İxrac", "Təkmilləşdirmə"]
+    },
+    {
+        "mainWord": "Geely",
+        "forbiddenWords": ["Çin", "Avtomobil", "Volvo", "Texnologiya", "Uğur"]
+    },
+    {
+        "mainWord": "BYD",
+        "forbiddenWords": ["Çin", "Elektrik", "Avtomobil", "Batareya", "Qabaqcıl"]
+    },
+    {
+        "mainWord": "Haval",
+        "forbiddenWords": ["Çin", "SUV", "Geniş", "Rahat", "Ağıllı"]
+    },
+    {
+        "mainWord": "Wuling",
+        "forbiddenWords": ["Çin", "Mini", "Ticari", "Taksiyə uyğun", "Yük maşını"]
+    },
+    {
+        "mainWord": "Dongfeng",
+        "forbiddenWords": ["Çin", "Avtomobil", "Avtobus", "Yük maşını", "Hərbi"]
+    },
+    {
+        "mainWord": "FAW",
+        "forbiddenWords": ["Çin", "Avtomobil", "Dövlət", "Hongqi", "Sərfəli"]
+    },
+    {
+        "mainWord": "BAIC",
+        "forbiddenWords": ["Çin", "Avtomobil", "SUV", "Offroad", "Mercedes"]
+    },
+    {
+        "mainWord": "Changan",
+        "forbiddenWords": ["Çin", "Avtomobil", "Gələcək", "Sürət", "Böyük"]
+    },
+    {
+        "mainWord": "Haima",
+        "forbiddenWords": ["Çin", "Avtomobil", "Mazda", "Əməkdaşlıq", "Keçmiş"]
+    },
+    {
+        "mainWord": "JAC",
+        "forbiddenWords": ["Çin", "Avtomobil", "Yük maşını", "Avtobus", "Ucuz"]
+    }
+]
