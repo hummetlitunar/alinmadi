@@ -597,572 +597,797 @@
     "forbiddenWords": ["Yox", "Olmaq", "Təbiət", "Ölmək", "Dəyər"]
   },
   {
-    "mainWord": "Çıx get",
-    "forbiddenWords": ["Mən", "Uzaqlaşmaq", "Dönməmək", "Qayıtmamaq", "Görməmək"]
+    "mainWord": "Aşkım Aşkım",
+    "forbiddenWords": ["Tarkan", "Sevgi", "Romantik", "Pop", "Öpmək"]
   },
   {
-    "mainWord": "Retro",
-    "forbiddenWords": ["Keçmiş", "Köhnə", "Stil", "Moda", "Nostalji"]
+    "mainWord": "Dudu",
+    "forbiddenWords": ["Tarkan", "Şarkı", "Öpmək", "Ritmli", "Enerji"]
   },
   {
-    "mainWord": "Bədənim",
-    "forbiddenWords": ["Bədən", "Ruh", "Qəlb", "Yaşamaq", "Gözəllik"]
+    "mainWord": "Hüp",
+    "forbiddenWords": ["Tarkan", "Yenilik", "Hareketli", "Şarkı", "Albüm"]
   },
   {
-    "mainWord": "Hisslərdən Ötə",
-    "forbiddenWords": ["Aşmaq", "Yüksək", "Anlamaq", "Duyğu", "Sərhəd"]
+    "mainWord": "Şıkıdım",
+    "forbiddenWords": ["Tarkan", "Rəqs", "Şarkı", "Türk Pop", "Avrupa"]
   },
   {
-    "mainWord": "Dejavu",
-    "forbiddenWords": ["Yaşamaq", "Təkrar", "Əvvəl", "Düşünmək", "An"]
+    "mainWord": "Kuzu Kuzu",
+    "forbiddenWords": ["Tarkan", "Kuzu", "Sevgi", "Hasret", "Şarkı"]
   },
   {
-    "mainWord": "Qəlbim Yanar",
-    "forbiddenWords": ["Hiss", "Duyğu", "Ağrı", "Sevgi", "Kədər"]
+    "mainWord": "Gülümse",
+    "forbiddenWords": ["Sezen Aksu", "Hiss", "Həyat", "Unutmaq", "Gələcək"]
   },
   {
-    "mainWord": "Enerji",
-    "forbiddenWords": ["Güc", "Hiss", "Duyğu", "Yaşamaq", "Gənclik"]
+    "mainWord": "İstanbul İstanbul Olalı",
+    "forbiddenWords": ["Sezen Aksu", "Şəhər", "Aşk", "Hüzün", "Boğaz"]
   },
   {
-    "mainWord": "Gözləmə",
-    "forbiddenWords": ["Uzaq", "Gəlməmək", "Ümid", "Yorğun", "Həyat"]
+    "mainWord": "Keskin Bıçak",
+    "forbiddenWords": ["Sezen Aksu", "Acı", "Ayrılıq", "Qəlb", "Yaralı"]
   },
   {
-    "mainWord": "Yenə Sən",
-    "forbiddenWords": ["Təkrar", "Fikir", "Ağlımdan", "Çıxmamaq", "Sevgi"]
+    "mainWord": "Hadi Bakalım",
+    "forbiddenWords": ["Sezen Aksu", "Şarkı", "Rəqs", "Hərəkətli", "Uğur"]
   },
   {
-    "mainWord": "Külək Əsdikcə",
-    "forbiddenWords": ["Təbiət", "Gətirmək", "Səs", "Xatirə", "Duyğu"]
+    "mainWord": "Kaçırıcam Seni",
+    "forbiddenWords": ["Tarkan", "Oğurlamaq", "Sevgi", "Gözəl", "Seçmək"]
   },
   {
-    "mainWord": "Səssizlik",
-    "forbiddenWords": ["Dinləmək", "Qulaq", "Eşitməmək", "Düşünmək", "Tənhalıq"]
+    "mainWord": "Yanarım",
+    "forbiddenWords": ["Kenan Doğulu", "Ağlamaq", "Sevgi", "Peşman", "Qayıtmaq"]
   },
   {
-    "mainWord": "Duman",
-    "forbiddenWords": ["Görməmək", "Sis", "Bulud", "Gizlətmək", "Təbiət"]
+    "mainWord": "Aşkım",
+    "forbiddenWords": ["Kenan Doğulu", "Səs", "Sənsiz", "Ölərəm", "Bil"]
   },
   {
-    "mainWord": "Bu Qədər",
-    "forbiddenWords": ["Bəsdir", "Bitirmək", "Hiss", "Daha yox", "Anlamaq"]
+    "mainWord": "Ex Aşkım",
+    "forbiddenWords": ["Hande Yener", "Pop", "Eski sevgili", "Unutmaq", "Şarkı"]
   },
   {
-    "mainWord": "Məsafələr",
-    "forbiddenWords": ["Uzaq", "Çatmaq", "Getmək", "Çətin", "Sərhəd"]
+    "mainWord": "Acele Etme",
+    "forbiddenWords": ["Hande Yener", "Şarkı", "Yavaş", "Düşün", "Qərar"]
   },
   {
-    "mainWord": "Qəlbimdə Qalan",
-    "forbiddenWords": ["Yaşamaq", "An", "Hiss", "Duyğu", "Keçmiş"]
+    "mainWord": "Romeo",
+    "forbiddenWords": ["Hande Yener", "Sevgi", "Qəhrəman", "Şarkı", "Aşk"]
   },
   {
-    "mainWord": "Qayıt Zamanı",
-    "forbiddenWords": ["Geriyə", "Səhv", "Yaxşı olmaq", "Keçmiş", "Fikirləşmək"]
+    "mainWord": "Kırmızı",
+    "forbiddenWords": ["Kenan Doğulu", "Rəng", "Sevgi", "Hiss", "Enerji"]
   },
   {
-    "mainWord": "Özgələşdik",
-    "forbiddenWords": ["Tərk etmək", "Başqa", "Soyuq", "Tənhalıq", "Birlikdə"]
+    "mainWord": "Gelinim",
+    "forbiddenWords": ["İbrahim Tatlıses", "Toy", "Qız", "Sevgi", "Evlənmək"]
   },
   {
-    "mainWord": "Dəyiş Məni",
-    "forbiddenWords": ["Yeni", "Olmaq", "Hiss", "Güzgü", "Baxmaq"]
+    "mainWord": "Aramam",
+    "forbiddenWords": ["İbrahim Tatlıses", "Tənhalıq", "Uzaq", "Hasret", "Bulmak"]
   },
   {
-    "mainWord": "Səbəbsiz",
-    "forbiddenWords": ["Niyə", "Anlam", "Səhvsiz", "Etmək", "Düşünmək"]
+    "mainWord": "Ben Ne İnsanlar Gördüm",
+    "forbiddenWords": ["Kayahan", "İnsan", "Ders", "Yalan", "Acı"]
   },
   {
-    "mainWord": "Dəniz Kənarı",
-    "forbiddenWords": ["Sahil", "Sakit", "Dalğa", "Gəzmək", "Düşünmək"]
+    "mainWord": "Mor Menekşe",
+    "forbiddenWords": ["Kayahan", "Gözəl", "Sevgi", "Bahar", "Çiçek"]
   },
   {
-    "mainWord": "İnanmıram",
-    "forbiddenWords": ["Gerçek", "Olmaq", "Gizlətmək", "Görmək", "Bilmək"]
+    "mainWord": "Siyah Beyaz",
+    "forbiddenWords": ["Kayahan", "Rəng", "Həyat", "Zaman", "Keçmiş"]
   },
   {
-    "mainWord": "Səni Sevmək",
-    "forbiddenWords": ["Dəyərli", "Hər şey", "İstəmək", "Qorumaq", "Yaşamaq"]
+    "mainWord": "Neredesin Firuze",
+    "forbiddenWords": ["Sezen Aksu", "Film", "Qəhrəman", "Uzaq", "Nostalji"]
   },
   {
-    "mainWord": "Gözləri Bağlı",
-    "forbiddenWords": ["Etibar", "Görməmək", "İnanmaq", "An", "Gerçek"]
+    "mainWord": "Unutamam",
+    "forbiddenWords": ["Gülşen", "Keçmiş", "Unutmaq", "Çətin", "Sevgi"]
   },
   {
-    "mainWord": "Ona Demə",
-    "forbiddenWords": ["Gizlətmək", "Səhvsiz", "Bilməmək", "Çatmaq", "Uzaq"]
+    "mainWord": "Of Of",
+    "forbiddenWords": ["Gülşen", "Həyat", "Bezdim", "Söz", "Klip"]
   },
   {
-    "mainWord": "Dəli Olacam",
-    "forbiddenWords": ["Hiss", "Çox", "Qarışmaq", "Səbəb", "Ağıl"]
+    "mainWord": "Yurtta Aşk Cihanda Aşk",
+    "forbiddenWords": ["Gülşen", "Sülh", "Dünya", "Sevgi", "Yurt"]
   },
   {
-    "mainWord": "Mən Kiməm",
-    "forbiddenWords": ["Düşünmək", "Sual", "Cavab", "Anlamaq", "Öz"]
+    "mainWord": "Bangır Bangır",
+    "forbiddenWords": ["Gülşen", "Yeni", "Hər Yerdə", "Şarkı", "Dəli"]
   },
   {
-    "mainWord": "Axı Niyə",
-    "forbiddenWords": ["Olmaq", "Səbəb", "Axtarmaq", "Bilməmək", "Heyrət"]
+    "mainWord": "Bi' An Gel",
+    "forbiddenWords": ["Gülşen", "Gəl", "Ağlımdan", "Sev", "Gözəl"]
   },
   {
-    "mainWord": "Dəyməz",
-    "forbiddenWords": ["Çox", "Ağlamaq", "Sevmək", "İtirmək", "İnanmaq"]
+    "mainWord": "Ateş Böceğim",
+    "forbiddenWords": ["Yaşar", "Sevimli", "Uzaq", "Axtarmaq", "Məhəbbət"]
   },
   {
-    "mainWord": "Hər Şey Dəyişər",
-    "forbiddenWords": ["Gələcək", "Yeni", "Ümid", "Çalışmaq", "Yaşamaq"]
+    "mainWord": "Kumralım",
+    "forbiddenWords": ["Yaşar", "Saç", "Rəng", "Sevgi", "Məsafələr"]
   },
   {
-    "mainWord": "Qaralama",
-    "Pozmaq", "Təmizləmək", "Kağız", "Keçmiş", "Silmək"]
+    "mainWord": "Aldırma Deli Gönlüm",
+    "forbiddenWords": ["Yaşar", "Aldırmaq", "Qəlb", "Duyğu", "Heyecan"]
   },
   {
-    "mainWord": "Avara",
-    "Həyat", "Məqsəd", "Olmaq", "Etməmək", "Sevmək"]
+    "mainWord": "Birtanem",
+    "forbiddenWords": ["Mustafa Sandal", "Təklik", "Olmaz", "Anlatmaq", "Göz"]
   },
   {
-    "mainWord": "Nə Qədər",
-    "Düşünmək", "Olmaq", "Səbəb", "Göstərmək", "Əzab"]
+    "mainWord": "Aya Benzer",
+    "forbiddenWords": ["Mustafa Sandal", "Gecə", "Gözəl", "Səma", "Qaranlıq"]
   },
   {
-    "mainWord": "Qoru",
-    "Sevgi", "Baxmaq", "Qayğı", "Əlindən tutmaq", "İtirməmək"]
+    "mainWord": "İsyankar",
+    "forbiddenWords": ["Mustafa Sandal", "Hiss", "Həyat", "Yalan", "Qalx"]
   },
   {
-    "mainWord": "Sərxoş",
-    "Ağır", "Yolda", "Üzgün", "Anlamaq", "Görməmək"]
+    "mainWord": "Araba",
+    "forbiddenWords": ["Mustafa Sandal", "Yolda", "Səyahət", "Keçmiş", "Gülmək"]
   },
   {
-    "mainWord": "Yoruldum",
-    "Getməmək", "Dayanmaq", "Hisslər", "Olmaq", "Tək"
-   },
+    "mainWord": "Hatırla Beni",
+    "forbiddenWords": ["Mahsun Kırmızıgül", "Unutmaq", "Göz", "Keçmiş", "Qəlbi Ağrıtmaq"]
+  },
+  {
+    "mainWord": "Dinle",
+    "forbiddenWords": ["Mahsun Kırmızıgül", "Söz", "Qulaq", "Anlamaq", "İnsan"]
+  },
+  {
+    "mainWord": "Ben Seni Sevdim",
+    "forbiddenWords": ["Mahsun Kırmızıgül", "Sevgi", "Baxmaq", "Qəlb", "Uzaqdan"]
+  },
+  {
+    "mainWord": "Yıkılmadım Ayaktayım",
+    "forbiddenWords": ["Mahsun Kırmızıgül", "Səbr", "Güclü", "Uğur", "Həyat"]
+  },
+  {
+    "mainWord": "İstanbul Ağlıyor",
+    "forbiddenWords": ["Müslüm Gürses", "Şəhər", "Gözyaşı", "Qəlb", "Dərd"]
+  },
+  {
+    "mainWord": "Paramparça",
+    "forbiddenWords": ["Müslüm Gürses", "Hiss", "Qəlb", "Çox pis", "Həyat"]
+  },
+  {
+    "mainWord": "Olmadı Yar",
+    "forbiddenWords": ["Müslüm Gürses", "Gözlər", "Qalmaq", "Gecə", "Sənsiz"]
+  },
+  {
+    "mainWord": "Affet",
+    "forbiddenWords": ["Müslüm Gürses", "Səhv", "Bağışla", "Qalmaq", "Hisslər"]
+  },
+  {
+    "mainWord": "Senin Olmaya Geldim",
+    "forbiddenWords": ["Müslüm Gürses", "Gəlmək", "Sevgi", "Sənsiz", "Nəfəs"]
+  },
+  {
+    "mainWord": "Ölüyorum",
+    "forbiddenWords": ["Özgür", "Aşk", "Acı", "Sensiz", "Dayanamam"]
+  },
+  {
+    "mainWord": "Eller havaya",
+    "forbiddenWords": ["Hadise", "dans", "enerji", "pop", "heyecan"]
+  },
+  {
+    "mainWord": "Düm Tek Tek",
+    "forbiddenWords": ["Hadise", "avrupa", "enerji", "sahnə", "güc"]
+  },
+  {
+    "mainWord": "Evlenmeliyiz",
+    "forbiddenWords": ["Mustafa Ceceli", "toy", "bəy", "gəlin", "söz"]
+  },
+  {
+    "mainWord": "Limon Çiçekleri",
+    "forbiddenWords": ["Mustafa Ceceli", "xəyal", "sevmək", "yuxu", "yeni"]
+  },
    {
-    "mainWord": "Sənsiz Qaldım",
-        "forbiddenWords": ["Yox", "Yaşamaq", "Üzücü", "Tərk etmək", "Qurtulmaq"]
+        "mainWord": "Eşq Bitsin",
+        "forbiddenWords": ["Nil Karaibrahimgil", "ayrılıq", "söz", "sevgi", "qurtarmaq"]
     },
-    {
-        "mainWord": "Gedin",
-        "forbiddenWords": ["Düşmən", "Uzaq", "Görməmək", "Hiss", "Bitdi"]
+{
+        "mainWord": "Peri",
+        "forbiddenWords": ["Nil Karaibrahimgil", "heyat", "uçmaq", "xeyal", "məna"]
     },
-    {
-        "mainWord": "Qısa Qapanma",
-        "forbiddenWords": ["Hisslər", "Fikirləşmək", "Yaşamaq", "Ağlından çıxarmaq", "Yaddaş"]
-    },
-    {
-        "mainWord": "Sevə Bilmirəm",
-        "forbiddenWords": ["Duyğu", "Qəlb", "İstəməmək", "Gülmək", "Ağlamaq"]
-    },
-    {
-        "mainWord": "Kim İdi",
-        "forbiddenWords": ["Soruşmaq", "Ötmək", "Tanışmaq", "Görmək", "Yad"]
-    },
-    {
-        "mainWord": "Gəl Bayağılaş",
-        "forbiddenWords": ["Səviyyə", "Olmaq", "Yaşamaq", "Görməmək", "Düşüncə"]
-    },
-    {
-        "mainWord": "Öldür Məni",
-        "forbiddenWords": ["Bitirmək", "Qurtulmaq", "Mən", "Hisslər", "Yaşamaq"]
-    },
-    {
-        "mainWord": "İnan",
-        "forbiddenWords": ["Söz", "Yemin", "Gerçek", "Güvənmək", "Göz"]
-    },
-    {
-        "mainWord": "Qorxuram",
-        "forbiddenWords": ["Qaranlıq", "Yanımda", "Əl", "Çıxmaq", "Təhlükə"]
-    },
-    {
-        "mainWord": "Gözlərinə Heyran",
-        "forbiddenWords": ["Baxmaq", "Ağlı çıxmaq", "Gözəl", "Görmək", "Heyranlıq"]
-    },
- {
-        "mainWord": "Gəl Otur Yanımda",
-        "forbiddenWords": ["Dost", "Danışmaq", "Heykayə", "Söhbət", "Yaxın"]
-    },
-    {
-        "mainWord": "Bilmədin",
-        "forbiddenWords": ["Anlamaq", "Öyrənmək", "Soruşmaq", "Məni", "O zaman"]
-    },
-    {
-        "mainWord": "Mən sənsiz",
-        "forbiddenWords": ["Səbəb", "Yaşamaq", "Gülmək", "Bədbəxt", "Olmaq"]
-    },
-    {
-        "mainWord": "Səndən sonra",
-        "forbiddenWords": ["Keçmiş", "Özüm", "Dəyişmək", "Baxış", "Bilməmək"]
-    },
-    {
-        "mainWord": "Uç",
-        "Qanad", "Səma", "Görməmək", "Yer", "Yanımda ol"]
+  {
+    "mainWord": "Unutulur Her Şey",
+    "forbiddenWords": ["Ajda Pekkan", "Unutmaq", "Zaman", "Həyat", "Keçmiş"]
   },
   {
-        "mainWord": "Unutdun Məni",
-        "forbiddenWords": ["Gedərkən", "Bırakmaq", "Qərar", "Həmişə", "Kaş"]
-    },
-    {
-        "mainWord": "Dəyər Məni",
-        "forbiddenWords": ["Sevgi", "Görmək", "Xoşbəxt", "Anlamaq", "Yaşamaq"]
-    },
-    {
-        "mainWord": "Yarım Qaldım",
-        "forbiddenWords": ["Tamamlamaq", "Yox", "Sevmək", "Getmək", "Bədbəxt"]
-    },
-[
-  {
-    "mainWord": "Hayat Ona Güzel",
-    "forbiddenWords": ["Aygün Kazımova", "Türk", "Pop", "Rəqs", "Enerji"]
+    "mainWord": "Olsun",
+    "forbiddenWords": ["Ajda Pekkan", "Qəbul etmək", "Həyat", "Zaman", "Davam etmək"]
   },
   {
-    "mainWord": "Petrol",
-    "forbiddenWords": ["Aygün Kazımova", "Enerji", "Yanacaq", "Pul", "Şou"]
+    "mainWord": "Yakar Geçerim",
+    "forbiddenWords": ["Ajda Pekkan", "Enerji", "Güç", "Hərəkət", "Səhnə"]
   },
   {
-    "mainWord": "Gecə Keçdi",
-    "forbiddenWords": ["Aygün Kazımova", "Remix", "Rəqs", "Klub", "Enerji"]
+    "mainWord": "Resim",
+    "forbiddenWords": ["Özgün", "Hafıza", "Göz", "Anılar", "Yüz"]
   },
   {
-    "mainWord": "Coffee from Colombia",
-    "forbiddenWords": ["Aygün Kazımova", "İngilis", "Dünya", "Musiqi", "Kofe"]
+    "mainWord": "Kıvır Zıvır",
+    "forbiddenWords": ["Burcu Güneş", "Dans", "Hərəkət", "Şən", "Enerji"]
   },
   {
-    "mainWord": "Uçuram",
-    "forbiddenWords": ["Aygün Kazımova", "Sevgi", "Hiss", "Göy", "Qanad"]
+    "mainWord": "Sahilden",
+    "forbiddenWords": ["Burcu Güneş", "Dəniz", "Sahil", "Uzaq", "Yalnız"]
   },
   {
-    "mainWord": "Sevgiliм",
-    "forbiddenWords": ["Aygün Kazımova", "Türk", "Duyğu", "Eşq", "Qəlb"]
+    "mainWord": "Çilek",
+    "forbiddenWords": ["Meyvə", "Tadı", "Sevgi", "Şeker", "Kırmızı"]
   },
   {
-    "mainWord": "Aşk Üsdən Gəlir",
-    "forbiddenWords": ["Aygün Kazımova", "İdman", "Səhnə", "Müsabiqə", "Mübarizə"]
+    "mainWord": "İstanbul Değil mi?",
+    "forbiddenWords": ["Manga", "Şəhər", "Sərt", "Qaya", "Həyat"]
   },
   {
-    "mainWord": "Telefon",
-    "forbiddenWords": ["Aygün Kazımova", "Zəng", "Yenilik", "Nömrə", "Axtarmaq"]
+    "mainWord": "Bir Kadın Çizdim",
+    "forbiddenWords": ["Manga", "Resim", "Gözəl", "Aşk", "His"]
   },
   {
-    "mainWord": "Dola",
-    "forbiddenWords": ["Aygün Kazımova", "Qalmaq", "Təklik", "Sənsiz", "Olmaz"]
+    "mainWord": "Dünyanın Sonuna Doğmuşum",
+    "forbiddenWords": ["Manga", "Uzaq", "Heyat", "Qalmaq", "Yanımda"]
   },
   {
-    "mainWord": "Gözlərin",
-    "forbiddenWords": ["Namiq Qaraçuxurlu", "Meyxana", "Gözəl", "Qara", "Baxmaq"]
+    "mainWord": "Beni Benimle Bırak",
+    "forbiddenWords": ["Manga", "Yalnız", "Getmək", "Qoy", "Düşünmək"]
   },
   {
-    "mainWord": "Eşqin Adı",
-    "forbiddenWords": ["Namiq Qaraçuxurlu", "Meyxana", "Sevgi", "Eşq", "Ad"]
+    "mainWord": "Hep Aynı",
+    "forbiddenWords": ["Model", "Usanmaq", "Təkrarlamaq", "Bezmak", "Qalma"]
   },
   {
-    "mainWord": "Ay Zalım",
-    "forbiddenWords": ["Namiq Qaraçuxurlu", "Meyxana", "Zalım", "Gözəl", "Məhəbbət"]
+    "mainWord": "Pembe Mezarlık",
+    "forbiddenWords": ["Model", "Rəng", "Kədərli", "Baxmaq", "Unutmaq"]
   },
   {
-    "mainWord": "Mən Sənsiz Necə Qalım",
-    "forbiddenWords": ["Namiq Qaraçuxurlu", "Meyxana", "Ayrılıq", "Kədər", "Sənsiz"]
+    "mainWord": "Dağılmak İstiyorum",
+    "forbiddenWords": ["Model", "Etməy", "Qorxmaq", "Baxmamak", "Uzaq"]
   },
   {
-    "mainWord": "Səni Sevən Mən Olaram",
-    "forbiddenWords": ["Namiq Qaraçuxurlu", "Meyxana", "Sevgi", "Duyğu", "Qəlb"]
+    "mainWord": "Olmaz",
+    "forbiddenWords": ["Athena", "İmkansız", "Qəbul", "Qalxmaq", "Enerji"]
   },
   {
-    "mainWord": "Gəl Yanıma",
-    "forbiddenWords": ["Namiq Qaraçuxurlu", "Meyxana", "Tələsmək", "Gəlmək", "Axtarmaq"]
+    "mainWord": "12 Dev Adam",
+    "forbiddenWords": ["Athena", "İdman", "Basketbol", "Qələbə", "Türk"]
   },
   {
-    "mainWord": "Səndən Nigaranam",
-    "forbiddenWords": ["Namiq Qaraçuxurlu", "Meyxana", "Narahat", "Hiss", "Qısqanclıq"]
-  },
-  {
-    "mainWord": "Mənimlə Sən",
-    "forbiddenWords": ["Röya", "Birlikdə", "Həyat", "Sevgi", "Qərara gəlmək"]
-  },
-  {
-    "mainWord": "Bəlkə",
-    "forbiddenWords": ["Röya", "Bilməmək", "Fikirləşmək", "Uzaq", "Qərar"]
-  },
-  {
-    "mainWord": "Küsənlər Barışar",
-    "forbiddenWords": ["Röya", "Qərar vermək", "Sakitlik", "Ailə", "Sevgi"]
-  },
-  {
-    "mainWord": "Sənə Nə",
-    "forbiddenWords": ["Röya", "Qısqanclıq", "Pis", "Düşünməmək", "Hiss"]
-  },
-  {
-    "mainWord": "Sevgidən",
-    "forbiddenWords": ["Röya", "Tərk etmək", "Ayrılmaq", "Anlamaq", "Yeni"]
-  },
-  {
-    "mainWord": "Məni Sevmədin",
-    "forbiddenWords": ["Röya", "Bağışlamaq", "Gözləmək", "İnanc", "Bitirmək"]
-  },
-  {
-    "mainWord": "Yanaram",
-    "forbiddenWords": ["Röya", "Qısqanclıq", "Sevgi", "Gözləməmək", "İnanmaq"]
-  },
-  {
-    "mainWord": "Keyf Edək",
-    "forbiddenWords": ["Sevil və Sevinc", "Əylənmək", "Rəqs", "Unutmaq", "Hiss"]
-  },
-  {
-    "mainWord": "Ay Parası",
-    "forbiddenWords": ["Sevil və Sevinc", "Pul", "Qazanmaq", "Həyat", "Olmaq"]
-  },
-  {
-    "mainWord": "Gəl Gəl",
-    "forbiddenWords": ["Sevil və Sevinc", "Yol", "Tələsmək", "Axtarmaq", "Qarşılamaq"]
-  },
-  {
-    "mainWord": "Qal Sənə Qurban",
-    "forbiddenWords": ["Sevil və Sevinc", "Vazkeçmək", "Həyat", "Qorumaq", "Sevgi"]
-  },
-  {
-    "mainWord": "Sənə Görə Dəli Olmuşam",
-    "forbiddenWords": ["Sevil və Sevinc", "Fikir", "Hiss", "Dəyişmək", "Ağlından Çıxmaq"]
-  },
-  {
-    "mainWord": "Hardadır",
-    "forbiddenWords": ["Tomris", "Soruşmaq", "Bilməmək", "Tapmaq", "Axtarmaq"]
-  },
-  {
-    "mainWord": "Səndən Sonra",
-    "forbiddenWords": ["Tomris", "Tərk etmək", "Değişim", "Yaşamaq", "Hiss"]
-  },
-  {
-    "mainWord": "Mənimlə Qal",
-    "forbiddenWords": ["Tomris", "Tək", "Qorxmaq", "Əl", "Tutmaq"]
-  },
-  {
-    "mainWord": "Sus",
-    "forbiddenWords": ["Tomris", "Dinləmək", "Eşitməmək", "Düşünməmək", "Cavab verməmək"]
-  },
-  {
-    "mainWord": "Səni Sevmək Asan Deyil",
-    "forbiddenWords": ["Tomris", "Çətin", "Qısqanc", "Qarşılıqlı", "Anlamaq"]
-  },
-  {
-    "mainWord": "Peşman",
-    "forbiddenWords": ["İfrat", "Səhv", "Olmaq", "Geri almaq", "Yaxşı olmaq"]
-  },
-  {
-    "mainWord": "Bağışla",
-    "forbiddenWords": ["İfrat", "Təqsir", "Aff etmək", "Gerçekten", "Səmimi"]
-  },
-  {
-    "mainWord": "Gedək Uzaqlara",
-    "forbiddenWords": ["İfrat", "Yol", "Ölkə", "Keşfetmək", "Tərk etmək"]
-  },
-  {
-    "mainWord": "Mən Uzaqda",
-    "forbiddenWords": ["İfrat", "Tək", "Həyat", "Düşünməmək", "Qalmaq"]
-  },
-  {
-    "mainWord": "Sən mənim deyilsən",
-    "forbiddenWords": ["İfrat", "Ayrı", "Məyus", "Olmaq", "Qəbul etmək"]
+    "mainWord": "Skalonga",
+    "forbiddenWords": ["Athena", "Oyun", "Rəqs", "Əyləncə", "Hər şeydən"]
   },
   {
     "mainWord": "Yalan",
-    "forbiddenWords": ["Röya", "Tükənmək", "Gerçek", "Göstərməmək", "İnanmaq"]
+    "forbiddenWords": ["Nev", "Gerçek", "Tükənmək", "Gizlətmək", "Hiss etmək"]
   },
   {
-    "mainWord": "Ağlım Gedir",
-    "forbiddenWords": ["Aygün Kazımova", "Heyran", "Uçmaq", "Qəribə", "Anlamaq"]
+    "mainWord": "Zor",
+    "forbiddenWords": ["Nev", "Çətin", "Etmək", "Yol", "Qərar"]
   },
   {
-    "mainWord": "İstəyirəm",
-    "forbiddenWords": ["Röya", "Hiss", "Yaxın", "Qarşı", "Təklif etmək"]
+    "mainWord": "Uykusuz Her Gece",
+    "forbiddenWords": ["Nev", "Gecə", "Yatmaq", "Düşünmək", "Göz"]
+  },
+  {
+    "mainWord": "Istanbul",
+    "forbiddenWords": ["Vega", "Şəhər", "Dəniz", "Böyük", "Gəzmək"]
+  },
+  {
+    "mainWord": "Tamam Sustum",
+    "forbiddenWords": ["Vega", "Danışmaq", "Bitirmək", "Son", "Qərar"]
+  },
+  {
+    "mainWord": "Elimi Tut",
+    "forbiddenWords": ["Vega", "Tək", "Qorxmaq", "Kömək", "Təhlükəsiz"]
+  },
+  {
+    "mainWord": "Kedi",
+    "forbiddenWords": ["Ogün Sanlısoy", "Heyvan", "Səssiz", "Tək", "Oturmaq"]
+  },
+  {
+    "mainWord": "Saydım",
+    "forbiddenWords": ["Ogün Sanlısoy", "Gecə", "Tükənmək", "Anlamaq", "Uzaq"]
+  },
+  {
+    "mainWord": "Gitme",
+    "forbiddenWords": ["Ogün Sanlısoy", "Bırakmaq", "Sevmək", "Etmə", "Yol"]
+  },
+  {
+    "mainWord": "Hayat",
+    "forbiddenWords": ["Teoman", "Hiss", "Düşüncə", "Ağlamaq", "Gülmək"]
+  },
+  {
+    "mainWord": "Papatya",
+    "forbiddenWords": ["Teoman", "Çiçək", "Sevmək", "Qorxu", "Gözəl"]
+  },
+  {
+    "mainWord": "Senden Önce Senden Sonra",
+    "forbiddenWords": ["Teoman", "Tərk etmək", "Değişim", "Qarışıq", "Həyat"]
+  },
+  {
+    "mainWord": "İstanbul'da Sonbahar",
+    "forbiddenWords": ["Teoman", "Şəhər", "Hüzün", "Sərin", "Çöküntü"]
+  },
+  {
+    "mainWord": "Paramparça",
+    "forbiddenWords": ["Tarkan", "Dağıtmaq", "Hiss", "Göz", "Qəlb"]
+  },
+  {
+    "mainWord": "Adımı Kalbine Yaz",
+    "forbiddenWords": ["Tarkan", "Yazmaq", "Unutmaq", "Qəlb", "İstəmək"]
+  },
+  {
+    "mainWord": "Sevdanın Rengi",
+    "forbiddenWords": ["Kenan Doğulu", "Rəng", "Ağlamaq", "Nə bilim", "Hiss"]
+  },
+  {
+    "mainWord": "Baş Harfi Ben",
+    "forbiddenWords": ["Kenan Doğulu", "Sən", "Ad", "Ağız", "Sənsiz"]
   },
    {
-    "mainWord": "Gecə",
-    "forbiddenWords": ["Röya", "Ay", "Qaranlıq", "Otağ", "Tənhalıq"]
-  },
+    "mainWord": "Herkes Yorulur",
+        "forbiddenWords": ["Sezen Aksu", "Həyat", "Anlatmaq", "Səssizlik", "Kədər"]
+    },
+    {
+        "mainWord": "Gidiyorum",
+        "forbiddenWords": ["Sezen Aksu", "Qalmaq", "İstəməmək", "Hiss etməmək", "Dön"]
+    },
+ {
+        "mainWord": "Küçüğüm",
+        "forbiddenWords": ["Sezen Aksu", "Uşaq", "Kiçik", "İstəmək", "Görmək"]
+    },
+{
+        "mainWord": "Rakkas",
+        "forbiddenWords": ["Hande Yener", "Rəqs", "Səhnə", "Gözəl", "Hiss etmək"]
+    },
+    {
+        "mainWord": "Kibir",
+        "forbiddenWords": ["Hande Yener", "Güzgü", "Sevgi", "Qərar", "Düzəltmək"]
+    },
   {
-    "mainWord": "Şeytanım",
-    "forbiddenWords": ["Aygün Kazımova", "Pis", "Düşünməmək", "Hiss etmək", "İzləmək"]
-  },
+   "mainWord": "Bana Birşey Olmaz",
+        "forbiddenWords": ["Ajda Pekkan", "Təhlükə", "Qorxmamak", "Güclü", "Hiss Etmək"]
+    },
+    {
+        "mainWord": "Kim Ne Derse Desin",
+        "forbiddenWords": ["Tarkan", "Etməmək", "Bilməmək", "Çalışmaq", "Səy Etmək"]
+    },
+{
+        "mainWord": "Sevme",
+        "forbiddenWords": ["Müslüm Gürses", "Hiss etməmək", "Gerçək", "Hiss", "Dürüst"]
+    },
   {
-    "mainWord": "Ay Ömrüm",
-    "forbiddenWords": ["Sevil&Sevinc", "Həyat", "Paylaşmaq", "Ailə", "Sevibdə"]
-  },
+   "mainWord": "Get",
+        "forbiddenWords": ["Röya", "Geri gəlməmək", "Tapılmamak", "Qalmak", "Bilməmək"]
+    },
+    {
+        "mainWord": "Mesafe",
+        "forbiddenWords": ["Uzaq", "Bilik", "Gəlmək", "Tökülmək", "Çalışmak"]
+    },
+{
+        "mainWord": "Eğlen Bakalım",
+        "forbiddenWords": ["Hadise", "Gülmək", "Yeniyetmə", "Dans etmek", "Heyecan"]
+    },
+     {
+        "mainWord": "Dumansız Hava Sahası",
+        "forbiddenWords": ["Kenan Doğulu", "Qadağan", "Bilik", "Səssizlik", "Tapılmamaq"]
+    },
   {
-    "mainWord": "Bu Sevgi",
-    "forbiddenWords": ["Tomris", "Bitirməmək", "Hiss", "Dəyər", "Əvəz"]
-  },
+   "mainWord": "Gel Hadi",
+        "forbiddenWords": ["Tarkan", "Rəqs etmək", "Məclis", "Ucaltmak", "Tərəfkeş"]
+    },
+    {
+        "mainWord": "Hüp",
+        "forbiddenWords": ["İnternet", "Yeni", "Təsadüf", "Oxşar", "Olmaq"]
+    },
+{
+        "mainWord": "Öp",
+        "forbiddenWords": ["Sevgi", "Qısqanclıq", "Arada Birlikdə", "Anlatmaq", "Qarşılama"]
+    },
+    {
+        "mainWord": "Seven Biri",
+        "forbiddenWords": ["Yalın", "Sevgi", "Həyat", "Yalnız", "Gözləmək"]
+    },
+    {
+        "mainWord": "Zalim",
+        "forbiddenWords": ["Yalın", "Sevilməmək", "Kədərli", "Qalmaq", "Qarışmaq"]
+    },
+    {
+        "mainWord": "Gülki",
+        "forbiddenWords": ["Yalın", "Gülmək", "Xoşbəxt", "Çalışmaq", "Tutmaq"]
+    },
+    {
+        "mainWord": "Anca",
+        "forbiddenWords": ["Nil Karaibrahimgil", "Anlar", "Yaşamaq", "Təbiət", "Görmək"]
+    },
+    {
+        "mainWord": "Pırlanta",
+        "forbiddenWords": ["Nil Karaibrahimgil", "Dəyərli", "Qiymətli", "Baxmaq", "Unutmaq"]
+    },
+    {
+        "mainWord": "Organize İşler Bunlar",
+        "forbiddenWords": ["Nil Karaibrahimgil", "Film", "Bilməmək", "Uğur", "Qarışıq"]
+    },
+    {
+        "mainWord": "Bronzlaşmak",
+        "forbiddenWords": ["Nil Karaibrahimgil", "Yaz", "İstirahət", "Görmək", "Üz"]
+    },
+    {
+        "mainWord": "Senden Başka",
+        "forbiddenWords": ["Ferhat Göçer", "Bilməmək", "Görməmək", "Yox olmaq", "Duyğu"]
+    },
+    {
+        "mainWord": "Gidemem",
+        "forbiddenWords": ["Ferhat Göçer", "Yol", "Gedək", "Bırakmaq", "Mümkün"]
+    },
+    {
+        "mainWord": "Biri Bana Gelsin",
+        "forbiddenWords": ["Ferhat Göçer", "Yardım", "Tənhalıq", "Öyrənmək", "Gözlər"]
+    },
+    {
+        "mainWord": "Cümbüş",
+        "forbiddenWords": ["Şebnem Ferah", "Zaman", "Qulaq asmaq", "Düşüncə", "Anlamaq"]
+    },
+    {
+        "mainWord": "Benim Adım Orman",
+        "forbiddenWords": ["Şebnem Ferah", "Bilməmək", "Yazmaq", "Doğrudur", "Uğur"]
+    },
+    {
+        "mainWord": "Sil Baştan",
+        "forbiddenWords": ["Şebnem Ferah", "Yeni", "Həyat", "Gələcək", "Düşünməmək"]
+    },
+    {
+        "mainWord": "Oyunlar",
+        "forbiddenWords": ["Hande Yener", "Etmək", "Qayğı", "İnanmaq", "Heyacan"]
+    },
+    {
+        "mainWord": "Romeo",
+        "forbiddenWords": ["Hande Yener", "Aşk", "Sev", "Gözləmək", "Məhəbbət"]
+    },
+    {
+        "mainWord": "Sopa",
+        "forbiddenWords": ["Hande Yener", "Qan", "Qırmaq", "Təsəvvür etmək", "Əhəmiyyət verməmək"]
+    },
+    {
+        "mainWord": "Kime Ne",
+        "forbiddenWords": ["Tarkan", "Etməyə", "Gərəklik", "Düşünməmək", "Təhsil"]
+    },
+    {
+        "mainWord": "Vazgeçemem",
+        "forbiddenWords": ["Tarkan", "Bırakmaq", "Almaq", "Yaxın", "Olmaq"]
+    },
+    {
+        "mainWord": "Uyan",
+        "forbiddenWords": ["Kenan Doğulu", "Hiss", "Həyat", "Dəyər", "Bilməmək"]
+    },
+    {
+        "mainWord": "Aşk Kokusu",
+        "forbiddenWords": ["Kenan Doğulu", "Duyğu", "Gül", "Anlamaq", "Qoxlamaq"]
+    },
+ {
+        "mainWord": "Sensiz Ben Neyleyim",
+        "forbiddenWords": ["Feridun Düzağaç", "Olmaq", "Heyecan", "Növbəti", "Yol"]
+    },
+    {
+        "mainWord": "Lavinya",
+        "forbiddenWords": ["Feridun Düzağaç", "Yazmaq", "Silmək", "Heykan", "Düşüncə"]
+    },
+    {
+        "mainWord": "Benim Adım Aşk",
+        "forbiddenWords": ["Sertab Erener", "Hiss", "Anlatmaq", "Paylaşmaq", "Gözlər"]
+    },
+    {
+        "mainWord": "Kendime Yeni Bir Ben Lazım",
+        "forbiddenWords": ["Sertab Erener", "Çox", "Heykan", "Anlamaq", "Gözlər"]
+    },
+    {
+        "mainWord": "Aşk",
+        "forbiddenWords": ["Athena", "Olmaq", "Paylaşmaq", "Etməkdən", "Almaq"]
+    },
+ {
+        "mainWord": "Beyaz",
+        "forbiddenWords": ["Mor ve Ötesi", "İsti", "Çalışmaq", "Kirləməmək", "Qorumaq"]
+    },
+    {
+        "mainWord": "Cambaz",
+        "forbiddenWords": ["Mor ve Ötesi", "Güvənmək", "Olmalısan", "Anlatmaq", "Yalan"]
+    },
+    {
+        "mainWord": "Sevda Çiçeği",
+        "forbiddenWords": ["Mor ve Ötesi", "Düşünməmək", "Ağlamaq", "Görünmək", "Qorxutmaq"]
+    },
+    {
+        "mainWord": "Uyan",
+        "forbiddenWords": ["Mor ve Ötesi", "Oyanmaq", "Bilməmək", "Düşüncə", "Qanad"]
+    },
+    {
+        "mainWord": "Bomboş",
+        "forbiddenWords": ["Sıla", "Qalmaq", "Uçmaq", "Hiss", "Görməmək"]
+    },
+    {
+        "mainWord": "Danışalım Artık",
+        "forbiddenWords": ["Sıla", "Səssizlik", "Qalma", "Qorxmamak", "Təbii olmaq"]
+     },
   {
-    "mainWord": "Əllərin",
-    "forbiddenWords": ["Namiq Qaraçuxurlu", "Tutmaq", "Qorumaq", "Güvənmək", "İnanmaq"]
-  },
-  {
-    "mainWord": "Səndən Öncə",
-    "forbiddenWords": ["İfrat", "Həyat", "Bilməmək", "Axtarmaq", "Tənhalıq"]
-  },
-  {
-    "mainWord": "Getmə",
-    "forbiddenWords": ["Aygün Kazımova", "Etməmək", "Qalmaq", "Gecə", "Yatdım"]
-  },
-  {
-    "mainWord": "Hər Şey",
-    "forbiddenWords": ["Röya", "Keçmiş", "Unutmak", "Yox Etmək", "Silmək"]
-  },
+        "mainWord": "Ne Qədər Anlatsam",
+        "forbiddenWords": ["Ayla Dikmen", "Anlamaq", "Gerçek", "Bilməmək", "Sessiz Qalmaq"]
+    },
    {
-     "mainWord": "Yenidən",
-        "forbiddenWords": ["Başlamaq", "Təkrar", "Dəyişmək", "Qərar", "Axtarmaq"]
-    },
-    {
-        "mainWord": "Sənlə",
-        "forbiddenWords": ["Həyat", "Məna", "Doldurmaq", "Paylaşmaq", "Tapmaq"]
-    },
-    {
-        "mainWord": "Ruhum",
-        "forbiddenWords": ["Ağrı", "Təsəlli", "Sakitləşdirmək", "Yalnız", "Hər şey"]
-    },
-    {
-        "mainWord": "Gözlərin Deyir",
-        "forbiddenWords": ["Danışmaq", "Anlamaq", "Bilmək", "Gizlətməmək", "Görmək"]
-    },
-    {
-        "mainWord": "Qəlbim",
-        "forbiddenWords": ["Dinləmək", "Cavab", "Soruşmaq", "Duymaq", "Hiss etmək"]
-    },
-  {
-        "mainWord": "Ayrı Dünya",
-        "forbiddenWords": ["Həyat", "Uzaq", "Bilməmək", "Görməmək", "Səbəbsiz"]
+       "mainWord": "Sessizim",
+        "forbiddenWords": ["Ezgin Kılıç", "Dinləmək", "Yazmaq", "Baxmaq", "Nəfəs Almaq"]
     },
  {
-        "mainWord": "Bitdi Sevgimiz",
-        "forbiddenWords": ["Daha yox", "İnanmaq", "Qalmadı", "Ümid", "İstəməmək"]
+        "mainWord": "Gülpembe",
+        "forbiddenWords": ["Barış Manço", "Oğlan", "Xatırlamaq", "Danışmaq", "Oxşar"]
     },
     {
-        "mainWord": "Gecələr küçələr",
-        "forbiddenWords": ["Şəhər", "Tək", "İzləmək", "Düşünmək", "Yaşamaq"]
+        "mainWord": "Kara Sevda",
+        "forbiddenWords": ["Barış Manço", "Acı", "Dost", "Silməmək", "Əvəzində"]
     },
 {
-        "mainWord": "Yol ver",
-        "forbiddenWords": ["Uzaq", "Qalmaq", "Görməmək", "Hərşey", "Əl"]
+        "mainWord": "Unut Beni",
+        "forbiddenWords": ["Sənsizlik", "Yox Etmək", "Məyus", "Görünmə", "Silmək"]
     },
     {
-        "mainWord": "Görüşdük",
-        "forbiddenWords": ["Təkrar", "Xatırlamaq", "Heykan", "Qəbul", "Qərar"]
+        "mainWord": "Yollar uzun",
+        "forbiddenWords": ["Bütün","Düşünmək","Növbəti","Vaxt","Gedirəm"]
+    },
+  {
+       "mainWord": "Yoxluğunda",
+        "forbiddenWords": ["Düşüncələr", "Silmək", "Qurtarmaq", "Qayıtmaq", "Dəyər"]
     },
  {
-        "mainWord": "Kaş",
-        "forbiddenWords": ["Qalmaq", "Yalvarmaq", "Gözyaşı", "Keçmiş", "Təkrar"]
+       "mainWord": "Aşk yox",
+        "forbiddenWords": ["Tərk Etmək", "Yalan", "Sevmək", "Nifrət Etmək", "Yanında"]
     },
     {
-        "mainWord": "Səndən başqa",
-        "forbiddenWords": ["Boş", "Həyat", "Məna", "Anlam", "Gözüm görməz"]
+        "mainWord": "Getmə",
+        "forbiddenWords": ["Baxmaq", "Silməmək", "Qoymamaq", "Bilmirəm", "Etmək"]
     },
 {
-        "mainWord": "Nədən",
-        "forbiddenWords": ["Səbəb", "Niyə", "Öyrənmək", "Anlamaq", "Gözüm yaşlı"]
-    },
-    {
-        "mainWord": "Yanımda qalsan",
-        "forbiddenWords": ["İtirməmək", "Görməmək", "Qayğı", "Ömrüm", "Keçirməmək"]
-    },
-    {
-        "mainWord": "Olmalıydın",
-        "forbiddenWords": ["Kaş", "Birlikdə", "Yaşamaq", "Hiss etmək", "İstəməmək"]
+        "mainWord": "Sevməməliydim",
+        "forbiddenWords": ["Göz", "Ağlamaq", "Unutmaq", "Yatmaq", "Yaşamaq"]
     },
   {
-    "mainWord": "Daha Nə",
-        "forbiddenWords": ["Etməsin", "Təşviq", "Ümid vermək", "Son dəfə", "Gözdəmək"]
+   "mainWord": "Qal",
+        "forbiddenWords": ["Yenidən", "Çıxartmaq", "Silməmək", "Gerçək", "Görməmək"]
     },
     {
-        "mainWord": "Qurtardım",
-        "forbiddenWords": ["Geridə”, “Bırakmaq”, "Əbədi", "İzləməmək", "Görməmək"]
+        "mainWord": "Çirkini silə bilmirəm",
+        "forbiddenWords": ["Qalxmaq", "Güzgü", "Unutmaq", "Başlaya bilməmək", "Qayıtmaq"]
     },
  {
-        "mainWord": "Söylə",
-        "forbiddenWords": ["Ürəkdən", "Dürüst", "Gerçek", "Danışmaq", "Bilmək"]
+   "mainWord": "İstanbula Bak",
+        "forbiddenWords": ["Nəfəs", "Baxmaq", "Yaxın", "Yaşamaq", "Qurtarmaq"]
     },
   {
-        "mainWord": "Kimə deyim",
-        "forbiddenWords": ["Sirdaş", "Səbəbsiz", "Dərddi", "Hiss etmək", "Anlamaq"]
+       "mainWord": "Yaşamıram",
+        "forbiddenWords": ["Qalxmaq", "Yalan", "Gecikmək", "Keçirməmək", "Çoxdandır"]
     },
     {
-        "mainWord": "Sərxoşam",
-        "forbiddenWords": ["Bilməmək", "Ciddi", "Titrəmək", "Gecə", "Tənhalıq"]
-    },
- {
-        "mainWord": "Gözlədim",
-        "forbiddenWords": ["Yol", "Səbr", "Ümid etmək", "Son", "İstəməmək"]
-    },
-    {
-        "mainWord": "Dəyməz",
-        "forbiddenWords": ["Ağlamaq", "Değmez", "Öz", "Uğruna", "Savaşmaq"]
-    },
- {
-        "mainWord": "Duman Oldum",
-        "forbiddenWords": ["Itmək", "Uçmaq", "Xəyal", "Tək", "Nəbz"]
-    },
-  {
-        "mainWord": "Bax Mənə",
-        "forbiddenWords": ["Görməmək", "Yanımda", "Uzaq", "Anlamaq", "Sevmək"]
-    },
-    {
-        "mainWord": "Yara",
-        "forbiddenWords": ["Sağalmaq", "Toxunmamaq", "Qayğı", "Silməmək", "Qəlb"]
+        "mainWord": "Darıxacam",
+        "forbiddenWords": ["Kasıblıq", "Uzaq", "Vaxt", "Yad", "Tək"]
     },
 {
-        "mainWord": "Yalandı",
-        "forbiddenWords": ["İnanmamaq", "Səhv", "Gerçek", "Tərk etməmək", "Uzaqlaşmaq"]
+        "mainWord": "Üçün Darıxdım",
+        "forbiddenWords": ["Uzaq", "Rəsmi", "Görməmək", "Danışmaq", "Üzülmək"]
     },
     {
-        "mainWord": "Unutdun",
-        "forbiddenWords": ["Keçmiş", "Sənlə", "Yaşanan", "Axtarmaq", "Bilməmək"]
+        "mainWord": "Mənim Yerimdə Çiçək",
+        "forbiddenWords": ["Təbiət", "Əkmək", "Tapmaq", "Qalxmaq", "Səni"]
     },
   {
-   "mainWord": "Dəlisiyəm",
-        "forbiddenWords": ["Baxmamamk", "Yanında", "Anlatmak", "Güvənmək", "Bilmirəm"]
+   "mainWord": "Mahnı Bitsə",
+        "forbiddenWords": ["Əla", "Bilmək", "Hisslər", "Qısqanc", "Başqa"]
+    },
+
+  {
+    "mainWord": "Yaranamadım",
+    "forbiddenWords": ["Emir Can İğrek", "Hiss", "Ağrı", "Anlatmaq", "Çalışmaq"]
+  },
+  {
+    "mainWord": "Ali Cabbar",
+    "forbiddenWords": ["Emir Can İğrek", "Nostalji", "Dəniz", "Ağlamaq", "Gerçek"]
+  },
+  {
+    "mainWord": "Akşam Güneşi",
+    "forbiddenWords": ["Emir Can İğrek", "Düşünmək", "Heykan", "Yeni", "Qoy"]
+  },
+  {
+    "mainWord": "Bi' Tık",
+    "forbiddenWords": ["Sefo", "Gənclik", "Enerji", "Şarkı", "Dinləmək"]
+  },
+  {
+    "mainWord": "Isabelle",
+    "forbiddenWords": ["Sefo", "Dəniz", "Uzaq", "Gözləmək", "Şarkı"]
+  },
+  {
+    "mainWord": "Bilmem mi?",
+    "forbiddenWords": ["Sefo", "Güvənməmək", "Qərar", "Həyat", "Qalx"]
+  },
+  {
+    "mainWord": "Affettim",
+    "forbiddenWords": ["Sefo", "Bağış", "Uzaq", "Bıraq", "Şarkı"]
+  },
+  
+  {
+    "mainWord": "Bonita",
+    "forbiddenWords": ["Sefo", "Gözəl", "İspaniya", "Dodaq", "Zaman"]
+  },
+  {
+    "mainWord": "Öpücem",
+    "forbiddenWords": ["Simge", "Romantik", "Uçmaq", "Baxmaq", "Əmin"]
+  },
+  {
+    "mainWord": "Miş Miş",
+    "forbiddenWords": ["Simge", "Yalan", "Bilməmək", "Uzaq", "Soruşmaq"]
+  },
+  {
+    "mainWord": "Aşkın Olayım",
+    "forbiddenWords": ["Simge", "Eşq", "Fənərbaxça", "Futbol", "Qəlb"]
+  },
+  {
+    "mainWord": "Üzülmedin mi?",
+    "forbiddenWords": ["Simge", "Ayrılıq", "Xəta", "Unutmaq", "Ağrı"]
+  },
+  {
+    "mainWord": "Yankı",
+    "forbiddenWords": ["Edis", "Uzaq", "Təkrarlamaq", "Səssizlik", "Şarkı"]
+  },
+  {
+    "mainWord": "Çok Çok",
+    "forbiddenWords": ["Edis", "Oynamaq", "Etməmək", "Enerji", "Şərq"]
+  },
+  {
+    "mainWord": "Martılar",
+    "forbiddenWords": ["Edis", "Uçmaq", "Dəniz", "Ağ", "Sərbəst"]
+  },
+  {
+    "mainWord": "Arıyorum",
+    "forbiddenWords": ["Edis", "Tapılmaq", "Keçmiş", "Uzaq", "Görməmək"]
+  },
+  {
+    "mainWord": "Bana Ne",
+    "forbiddenWords": ["Ece Seçkin", "Düşünməmək", "Yorma", "Boş ver", "Həyat"]
+  },
+  {
+    "mainWord": "Olsun",
+    "forbiddenWords": ["Ece Seçkin", "Qəbul etmək", "Əhəmiyyət verməmək", "Gülmək", "Keçmək"]
+  },
+  {
+    "mainWord": "Adeyyo",
+    "forbiddenWords": ["Ece Seçkin", "Uzaq", "Baxmaq", "Rəqs", "Hərəkətli"]
+  },
+  {
+    "mainWord": "Şarkıyıcı",
+    "forbiddenWords": ["Ece Seçkin", "Səhnə", "Enerji", "Parlatmaq", "Meydan"]
+  },
+  {
+    "mainWord": "Aşk Ne Demek?",
+    "forbiddenWords": ["Buray", "Soruşmaq", "Anlatmaq", "Ayrılıq", "Hiss"]
+  },
+  {
+    "mainWord": "Sen Sevda mısın?",
+    "forbiddenWords": ["Buray", "Anlamaq", "Yaşamaq", "Olmaq", "Görməmək"]
+  },
+  {
+    "mainWord": "Alaz Alaz",
+    "forbiddenWords": ["Buray", "Yanmaq", "Qızmar", "Sevinmək", "Kül"]
+  },
+  {
+    "mainWord": "Kabahat Bende",
+    "forbiddenWords": ["Buray", "Səhv", "Görməmək", "Anlammaq", "Həyat"]
+  },
+  {
+    "mainWord": "Yanımda Sen Olmayınca",
+    "forbiddenWords": ["Mənimlə", "Ölürəm", "Qəlb", "Sevgi", "Acı"]
+  },
+  {
+    "mainWord": "Hançer",
+    "forbiddenWords": ["Dərin", "Yara", "Baxmamak", "Keçirmək", "Ağrı"]
+  },
+  {
+    "mainWord": "Yara Bende",
+    "forbiddenWords": ["Dərin", "Qurtulmaq", "Silməmək", "İmkan yox", "Unutmaq"]
+  },
+  {
+    "mainWord": "Yata Yata",
+    "forbiddenWords": ["Gülşen", "Görməmək", "Yox", "Düşməmək", "Baxmaq"]
+  },
+  {
+    "mainWord": "Bir taraf seç",
+    "forbiddenWords": ["Gülşen", "Kəskin", "Qalmaq", "Etməmək", "Çalışmaq"]
+  },
+  {
+    "mainWord": "Neyse",
+    "forbiddenWords": ["Gülşen", "Yaxşıdır", "Titrəmək", "Sevməmək", "Son"]
+  },
+  {
+    "mainWord": "Sana da bana da",
+    "forbiddenWords": ["Sezen Aksu", "Qarışdırmaq", "Çalışmamaq", "Gülmək", "Ağlamaq"]
+  },
+  {
+    "mainWord": "Manifesto",
+    "forbiddenWords": ["Sezen Aksu", "Doğru", "Anlammaq", "Qalxmaq", "Düşməmək"]
+  },
+  {
+    "mainWord": "İhanetten Geri Kalan",
+    "forbiddenWords": ["Sezen Aksu", "Bilməmək", "Yox Etmək", "Ağlamaq", "İzləmək"]
+  },
+  {
+    "mainWord": "Pişman Olduğun Zaman",
+    "forbiddenWords": ["Simge", "Gəlməmək", "Peşman", "Xahiş Etmək", "Olmaz"]
+  },
+  {
+    "mainWord": "Kamera",
+    "forbiddenWords": ["Simge", "Qaçmaq", "Görməmək", "Anlamaq", "Yaxşı Olmaq"]
+  },
+  {
+    "mainWord": "Ben Bazen",
+    "forbiddenWords": ["Sezen Aksu", "Keçirməmək", "Silmək", "Yaxşı Olmaq", "Hiss"]
+  },
+  {
+    "mainWord": "Hoşuna mı Gidiyor",
+    "forbiddenWords": ["Hande Yener", "Qarmaqarışıq", "Olmalı", "Bilmirəm", "Gülmək"]
+  },
+  {
+    "mainWord": "Mor",
+    "forbiddenWords": ["Hande Yener", "Parçalanmaq", "Görməmək", "Başqa", "Ağlı Çıxarmaq"]
+  },
+  {
+    "mainWord": "Benden Sonra",
+    "forbiddenWords": ["Hande Yener", "Yeni", "Başlamaq", "Kaş", "Peşman"]
+  },
+  {
+    "mainWord": "Naber",
+    "forbiddenWords": ["Hande Yener", "Unutmaq", "Bilmirəm", "Görməmək", "Etməmək"]
+  },
+  {
+    "mainWord": "Hepsi Senin Mi?",
+    "forbiddenWords": ["Ece Seçkin", "Yaşamaq", "Olmaq", "Qazanmaq", "İstəmək"]
+  },
+  {
+    "mainWord": "Sayım",
+    "forbiddenWords": ["Ağlamaq", "Uğur", "Qayıt", "Yandır", "Titrəməmək"]
+  },
+  {
+    "mainWord": "Oyalama",
+    "forbiddenWords": ["Dinləmək", "Qaçmaq", "Nə Fərq", "Tapılmamaq", "Ümidsizlik"]
+  },
+  {
+    "mainWord": "Narin",
+    "forbiddenWords": ["Uçmaq", "Qalxmaq", "Özəl", "Dövməmək", "Görməmək"]
+  },
+  {
+    "mainWord": "Olsun mu?",
+        "forbiddenWords": ["Güclü", "Qulaq", "Səssiz Qalmaq", "Yaxşı Olmaq", "Keçirməmək"]
     },
     {
-        "mainWord": "Bilirəm",
-        "forbiddenWords": ["Səhv", "Olmalı", "Ağlamaq", "Güclü", "Dönməkdə"]
-    },
- {
-       "mainWord": "Bitti",
-        "forbiddenWords": ["Sona Çatmaq", "Unutmaq", "Silmək", "Geriyə", "Yaşamamaq"]
+        "mainWord": "Ağlayamam",
+        "forbiddenWords": ["Qurtarmaq", "Gülmək", "Düşməmək", "İstəməmək", "Anlatmamaq"]
     },
 {
-        "mainWord": "Qal",
-        "forbiddenWords": ["Görməmək", "Hərşeydən", "Keçməmək", "Yalnız", "İzin"]
-    },
-    {
-        "mainWord": "Uzaq",
-        "forbiddenWords": ["Olma", "Keçmiş", "Bağışlamaq", "Bilmirəm", "Görmək"]
+        "mainWord": "Uçurum",
+        "forbiddenWords": ["Hərşey", "Çətin", "Yaşamaq", "Kömək", "Tutmaq"]
     },
   {
-   "mainWord": "Sənsiz mən neyləyim",
-        "forbiddenWords": ["Təklik", "Həyat", "Bilməmək", "Yaşamaq", "Nəfəs Almaq"]
+   "mainWord": "Əla",
+        "forbiddenWords": ["Yad", "Səhv", "Alışma","Yalvarmaq","Xahiş"]
     },
     {
-        "mainWord": "Tənhayam",
-        "forbiddenWords": ["Düşünmək", "Qalmaq", "İstəmək", "Otaq", "Gecə"]
-    },
- {
-   "mainWord": "Heyatim alt üst",
-        "forbiddenWords": ["Səliqəsiz", "Qarışıq", "Anlamamaq", "Tapmaq", "YadaSalmaq"]
-    },
-  {
-        "mainWord": "Gözlərinə ömür",
-        "forbiddenWords": ["Baxmaq", "Hərşey", "Görməmək", "Başqa Dünya", "İnanmaq"]
-    },
- {
-   "mainWord": "Bir bilsən",
-        "forbiddenWords": ["Tapmaq", "Unutmaq", "Sevgimdən", "Dərk etmək", "Vazkeçmə"]
+        "mainWord": "Unutdun Mu",
+        "forbiddenWords": ["Geriyə", "Bilməmək", "Tövbə Etmək", "Qərar", "Qalxmaq"]
     },
 {
-        "mainWord": "Qərar",
-        "forbiddenWords": ["Geri almaq", "Dəyişmək", "Yaşamaq", "Düşüncə", "Görməmək"]
-    },
- {
-   "mainWord": "Röya sənsən",
-        "forbiddenWords": ["Uçmaq", "Xəyal", "Hisslər", "Anlatmamak", "İstəmək"]
-    },
-    {
-        "mainWord": "Uçdun getdin",
-        "forbiddenWords": ["Geri baxmadan", "İnanmamaq", "Qarışdırmaq", "Həyat", "Değişim"]
+        "mainWord": "Yaşayıram",
+        "forbiddenWords": ["Yanımda", "Düşməmək", "Kədər", "Titrəməmək", "Təxminən"]
     }
 ]
