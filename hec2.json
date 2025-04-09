@@ -2800,10 +2800,6 @@
     "forbiddenWords": ["Poz vermək", "Gülmək", "Yaddaş", "An", "Birlikdə"]
   },
   {
-    "mainWord": "Yemək bişirərkən",
-    "forbiddenWords": ["Dad", "Ətir", "Tərkibi qarışdırmaq", "Yaratıcılıq", "Diqqətli olmaq"]
-  },
-  {
     "mainWord": "Çay içərkən",
     "forbiddenWords": ["İsti", "Dincəlmək", "Sakit", "Kitab oxumaq", "Söhbət etmək"]
   },
