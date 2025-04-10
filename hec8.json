@@ -1,0 +1,3702 @@
+[
+  {
+    "mainWord": "Çıxış",
+    "forbiddenWords": [
+      "Protokol",
+      "Şəbəkələşmə",
+      "Qurğu",
+      "Sistemçi",
+      "Məlumatlandırma"
+    ]
+  },
+  {
+    "mainWord": "Müdaxilə",
+    "forbiddenWords": [
+      "Zərərverici",
+      "Prosesor",
+      "Modem",
+      "Router",
+      "Casus"
+    ]
+  },
+  {
+    "mainWord": "Təhlükəsizlik",
+    "forbiddenWords": [
+      "Sistem",
+      "Firewall",
+      "Hücum",
+      "Qovluq",
+      "Monitorinq"
+    ]
+  },
+  {
+    "mainWord": "Hücum",
+    "forbiddenWords": [
+      "Casus",
+      "Kamera",
+      "Şəbəkəçi",
+      "Modem",
+      "Uyğunluq"
+    ]
+  },
+  {
+    "mainWord": "Reyestr",
+    "forbiddenWords": [
+      "Port",
+      "Blok",
+      "Yaddaş",
+      "Məlumatlandırma",
+      "IP"
+    ]
+  },
+  {
+    "mainWord": "Arxiv",
+    "forbiddenWords": [
+      "Müşahidə",
+      "Çərəz",
+      "Ötürücü",
+      "Parametr",
+      "Parol"
+    ]
+  },
+   {
+    "mainWord": "Filtr",
+    "forbiddenWords": [
+      "Cihaz",
+      "Sətir",
+      "Hüquq",
+      "Obyekt",
+      "Kiberhücum"
+    ]
+  },
+  {
+    "mainWord": "Sessiya",
+    "forbiddenWords": [
+      "Çatdırılma",
+      "Obyekt",
+      "Audit",
+      "Kiberhücum",
+      "Güzəştli"
+    ]
+  },
+  {
+    "mainWord": "Router",
+    "forbiddenWords": [
+      "Əlaqə",
+      "Bloklama",
+      "Terminal",
+      "Avtomatlaşdırma",
+      "Kommutator"
+    ]
+  },
+  {
+    "mainWord": "Cihaz",
+    "forbiddenWords": [
+      "IP",
+      "Qovluq",
+      "Güzəşt",
+      "Yükləmə",
+      "Uyğunluq"
+    ]
+  },
+  {
+    "mainWord": "Güzəştli",
+    "forbiddenWords": [
+      "Format",
+      "Şəbəkə",
+      "Doğrulama",
+      "Əmrlər",
+      "Sxem"
+    ]
+  },
+  {
+    "mainWord": "Araşdırma",
+    "forbiddenWords": [
+      "Məlumatlandırma",
+      "Xaker",
+      "Qeydiyyat",
+      "Çıxış",
+      "Qovluq"
+    ]
+  },
+  {
+    "mainWord": "Kommutator",
+    "forbiddenWords": [
+      "Cihaz",
+      "Şəbəkəçi",
+      "Çatdırılma",
+      "Sistemçi",
+      "Məlumatlandırma"
+    ]
+  },
+  {
+    "mainWord": "İşarələmə",
+    "forbiddenWords": [
+      "Əlaqələndirici",
+      "Əməliyyat",
+      "Obyekt",
+      "Komanda",
+      "Çıxış"
+    ]
+  },
+  {
+    "mainWord": "Şəbəkələşmə",
+    "forbiddenWords": [
+      "İz",
+      "Sertifikatlaşdırma",
+      "Siyasət",
+      "Məhdudiyyət",
+      "Yükləmə"
+    ]
+  },
+  {
+    "mainWord": "Giriş",
+    "forbiddenWords": [
+      "Avtomatlaşdırma",
+      "Araşdırma",
+      "Qrafik",
+      "İstifadəçi",
+      "Şəbəkə"
+    ]
+  },
+  {
+    "mainWord": "Blok",
+    "forbiddenWords": [
+      "Risq",
+      "Uyğunluq",
+      "Sahiblik",
+      "Məlumat",
+      "Güzəştli"
+    ]
+  },
+  {
+    "mainWord": "Görüntüləmə",
+    "forbiddenWords": [
+      "Öyrənmə",
+      "Güzəştli",
+      "Parametr",
+      "Bloklama",
+      "Kodlaşdırma"
+    ]
+  },
+  {
+    "mainWord": "Casus",
+    "forbiddenWords": [
+      "Müştəri",
+      "Hüquq",
+      "Çıxış",
+      "Əlaqələndirici",
+      "Filtr"
+    ]
+  },
+  {
+    "mainWord": "Disk",
+    "forbiddenWords": [
+      "Filtr",
+      "Giriş",
+      "Mühafizə",
+      "İstismar",
+      "Müdaxilə"
+    ]
+  },
+  {
+    "mainWord": "Şəbəkəçi",
+    "forbiddenWords": [
+      "Sertifikatlaşdırma",
+      "Çıxış",
+      "İstifadəçi",
+      "Zərərverici",
+      "Analitik"
+    ]
+  },
+  {
+    "mainWord": "Təhlil",
+    "forbiddenWords": [
+      "İtki",
+      "Hüquq",
+      "Kommutator",
+      "Ötürücü",
+      "Obyekt"
+    ]
+  },
+  {
+    "mainWord": "Firewall",
+    "forbiddenWords": [
+      "Doğrulama",
+      "Görüntüləmə",
+      "Kod",
+      "İz",
+      "Şifrə"
+    ]
+  },
+  {
+    "mainWord": "Virus",
+    "forbiddenWords": [
+      "IP",
+      "Komanda",
+      "Router",
+      "Çap",
+      "Parametr"
+    ]
+  },
+  {
+    "mainWord": "Yenilənmə",
+    "forbiddenWords": [
+      "Zərər",
+      "Görüntüləmə",
+      "Məxfilik",
+      "Çap",
+      "Paralel"
+    ]
+  },
+  {
+    "mainWord": "Format",
+    "forbiddenWords": [
+      "Öyrənmə",
+      "Qovluq",
+      "Virtual",
+      "Mühafizə",
+      "Kommutator"
+    ]
+  },
+  {
+    "mainWord": "Əlaqələndirici",
+    "forbiddenWords": [
+      "Əlavə",
+      "Proqram",
+      "Analitik",
+      "Skript",
+      "Çərəz"
+    ]
+  },
+  {
+    "mainWord": "Tətbiq",
+    "forbiddenWords": [
+      "Virtual",
+      "Öyrənmə",
+      "Hash",
+      "Obyekt",
+      "Qəbuledici"
+    ]
+  },
+  {
+    "mainWord": "Modul",
+    "forbiddenWords": [
+      "Protokol",
+      "Öyrənmə",
+      "Əmrlər",
+      "Sessiya",
+      "Səviyyə"
+    ]
+  },
+  {
+    "mainWord": "Kamera",
+    "forbiddenWords": [
+      "Kod",
+      "Arxiv",
+      "Sürət",
+      "Sistem",
+      "Məhdudiyyət"
+    ]
+  },
+  {
+    "mainWord": "İnfrastruktur",
+    "forbiddenWords": [
+      "Sistem",
+      "Güzəştli",
+      "Komanda",
+      "Zəiflik",
+      "Kiberhücum"
+    ]
+  },
+  {
+    "mainWord": "Audit",
+    "forbiddenWords": [
+      "Mərkəzləşdirilmiş",
+      "Avtentifikasiya",
+      "Öyrənmə",
+      "Xaker",
+      "Ötürücü"
+    ]
+  },
+  {
+    "mainWord": "Əmrlər",
+    "forbiddenWords": [
+      "Casus",
+      "Zamanlanma",
+      "Fayl",
+      "İcazə",
+      "Kölgə"
+    ]
+  },
+  {
+    "mainWord": "Öyrənmə",
+    "forbiddenWords": [
+      "Təhlil",
+      "İcazə",
+      "Server",
+      "Sessiya",
+      "Şəbəkə"
+    ]
+  },
+  {
+    "mainWord": "Şəxsiyyət",
+    "forbiddenWords": [
+      "Yazılım",
+      "Avtomatlaşdırma",
+      "İnfrastruktur",
+      "Təhdid",
+      "Zəiflik"
+    ]
+  },
+  {
+    "mainWord": "Sətir",
+    "forbiddenWords": [
+      "Çərəz",
+      "İz",
+      "Modem",
+      "Sxem",
+      "Təhlil"
+    ]
+  },
+  {
+    "mainWord": "İstifadəçi",
+    "forbiddenWords": [
+      "Hash",
+      "Yaddaş",
+      "Zamanlanma",
+      "Çatdırılma",
+      "DNS"
+    ]
+  },
+  {
+    "mainWord": "İdarəetmə",
+    "forbiddenWords": [
+      "Kiberhücum",
+      "Araşdırma",
+      "Şifrləmə",
+      "Əmrlər",
+      "Terminal"
+    ]
+  },
+  {
+    "mainWord": "Nəzarət",
+    "forbiddenWords": [
+      "Siyasət",
+      "Şəbəkə",
+      "Analitik",
+      "Kiberhücumçu",
+      "Müdaxilə"
+    ]
+  },
+  {
+    "mainWord": "Zəng",
+    "forbiddenWords": [
+      "Sxem",
+      "Qeydiyyat",
+      "Yazılım",
+      "Terminal",
+      "Çap"
+    ]
+  },
+  {
+    "mainWord": "Hüquq",
+    "forbiddenWords": [
+      "Çıxış",
+      "Məxfilik",
+      "Şəxsiyyət",
+      "İcazə",
+      "Sistemçi"
+    ]
+  },
+  {
+    "mainWord": "İzolyasiya",
+    "forbiddenWords": [
+      "Zəng",
+      "Backup",
+      "Sertifikat",
+      "Qrafik",
+      "Uyğunluq"
+    ]
+  },
+  {
+    "mainWord": "Təhlükəli",
+    "forbiddenWords": [
+      "Əmrlər",
+      "Komanda",
+      "Təkmilləşdirmə",
+      "Hash",
+      "Sxem"
+    ]
+  },
+  {
+    "mainWord": "Parol",
+    "forbiddenWords": [
+      "Çap",
+      "Əməliyyat",
+      "İzləmə",
+      "Yazılım",
+      "Məhdudiyyət"
+    ]
+  },
+  {
+    "mainWord": "Şifrə",
+    "forbiddenWords": [
+      "Sistemçi",
+      "Çap",
+      "Şəxsiyyət",
+      "Avtomatlaşdırma",
+      "Sessiya"
+    ]
+  },
+  {
+    "mainWord": "Müşahidə",
+    "forbiddenWords": [
+      "Avtentifikasiya",
+      "Əlavə",
+      "Blok",
+      "İstismar",
+      "Müdaxilə"
+    ]
+  },
+  {
+    "mainWord": "Yoxlama",
+    "forbiddenWords": [
+      "Cihaz",
+      "Sistem",
+      "Yönləndirmə",
+      "Bərpa",
+      "Kommutator"
+    ]
+  },
+  {
+    "mainWord": "Çevrilmə",
+    "forbiddenWords": [
+      "Təhlükəsizlik",
+      "Məhdudiyyət",
+      "İcazə",
+      "Qovluq",
+      "Komanda"
+    ]
+  },
+  {
+    "mainWord": "Qeydiyyat",
+    "forbiddenWords": [
+      "Çap",
+      "Uyğunluq",
+      "Hücum",
+      "Sürət",
+      "Kod"
+    ]
+  },
+  {
+    "mainWord": "Çərəz",
+    "forbiddenWords": [
+      "Risq",
+      "Kiberhücum",
+      "Çatdırılma",
+      "Məhdudiyyət",
+      "Şifrləmə"
+    ]
+  },
+  {
+    "mainWord": "Hash",
+    "forbiddenWords": [
+      "Görüntüləmə",
+      "Qrafik",
+      "Nəzarət",
+      "Tətbiq",
+      "Hədəf"
+    ]
+  },
+  {
+    "mainWord": "Prosesor",
+    "forbiddenWords": [
+      "Təhlil",
+      "Sürət",
+      "Əmrlər",
+      "Parametr",
+      "Hücum"
+    ]
+  },
+  {
+    "mainWord": "Təkrarolunma",
+    "forbiddenWords": [
+      "Blok",
+      "İcazə",
+      "Şifrə",
+      "Müştəri",
+      "DNS"
+    ]
+  },
+  {
+    "mainWord": "Kabel",
+    "forbiddenWords": [
+      "Əlverişlilik",
+      "Firewall",
+      "Hədəf",
+      "Zərərverici",
+      "Audit"
+    ]
+  },
+  {
+    "mainWord": "Məlumatlandırma",
+    "forbiddenWords": [
+      "Modul",
+      "Qorunma",
+      "Hash",
+      "Mərkəzləşdirilmiş",
+      "Avtentifikasiya"
+    ]
+  },
+  {
+    "mainWord": "Sertifikat",
+    "forbiddenWords": [
+      "Çap",
+      "Terminal",
+      "Hücum",
+      "Uyğunluq",
+      "Analitik"
+    ]
+  },
+  {
+    "mainWord": "Paralel",
+    "forbiddenWords": [
+      "Təkmilləşdirmə",
+      "İzləmə",
+      "Sürət",
+      "Əlverişlilik",
+      "İnfrastruktur"
+    ]
+  },
+  {
+    "mainWord": "Sistem",
+    "forbiddenWords": [
+      "Paralel",
+      "Əlçatanlıq",
+      "Zərər",
+      "Avtentifikasiya",
+      "Təhlükəsizlik"
+    ]
+  },
+  {
+    "mainWord": "Təlim",
+    "forbiddenWords": [
+      "İcazələndirmə",
+      "Çərəz",
+      "Əlverişlilik",
+      "Müştəri",
+      "Obyekt"
+    ]
+  },
+  {
+    "mainWord": "Çeviklik",
+    "forbiddenWords": [
+      "Əlverişlilik",
+      "Sahiblik",
+      "Çap",
+      "Audit",
+      "İcazələndirmə"
+    ]
+  },
+  {
+    "mainWord": "Yaddaş",
+    "forbiddenWords": [
+      "Təhlükəsizlik",
+      "Yazılım",
+      "Yoxlama",
+      "Sessiya",
+      "Hüquq"
+    ]
+  },
+  {
+    "mainWord": "Kodlaşdırma",
+    "forbiddenWords": [
+      "Təhlükəli",
+      "DNS",
+      "Router",
+      "Hədəf",
+      "İtki"
+    ]
+  },
+  {
+    "mainWord": "Məxfilik",
+    "forbiddenWords": [
+      "Qurğu",
+      "Sahiblik",
+      "Zəng",
+      "Avtomatlaşdırma",
+      "Kommutator"
+    ]
+  },
+  {
+    "mainWord": "Mərkəzləşdirilmiş",
+    "forbiddenWords": [
+      "Güzəşt",
+      "Zərər",
+      "Blok",
+      "Görüntüləmə",
+      "İz"
+    ]
+  },
+  {
+    "mainWord": "Fayl",
+    "forbiddenWords": [
+      "Modul",
+      "Mərkəzləşdirilmiş",
+      "Qovluq",
+      "Avtomatlaşdırma",
+      "Virtual"
+    ]
+  },
+  {
+    "mainWord": "Zərərverici",
+    "forbiddenWords": [
+      "Sertifikat",
+      "Müşahidə",
+      "Parol",
+      "Avtentifikasiya",
+      "Filtr"
+    ]
+  },
+  {
+    "mainWord": "Resurs",
+    "forbiddenWords": [
+      "Zəng",
+      "Təhlükəli",
+      "Sertifikat",
+      "Obyekt",
+      "Şəbəkə"
+    ]
+  },
+  {
+    "mainWord": "Əlaqə",
+    "forbiddenWords": [
+      "Məlumatlandırma",
+      "Müşahidə",
+      "Hücum",
+      "Kiberhücum",
+      "Şəbəkəçi"
+    ]
+  },
+  {
+    "mainWord": "Yazılım",
+    "forbiddenWords": [
+      "Əlavə",
+      "Blok",
+      "Backup",
+      "İnfrastruktur",
+      "Əmrlər"
+    ]
+  },
+  {
+    "mainWord": "Çatdırılma",
+    "forbiddenWords": [
+      "Zərərverici",
+      "Şəxsiyyət",
+      "Server",
+      "Təhdid",
+      "Hüquq"
+    ]
+  },
+  {
+    "mainWord": "Proqram",
+    "forbiddenWords": [
+      "İzləmə",
+      "Mərkəzləşdirilmiş",
+      "Obyekt",
+      "Disk",
+      "Sistem"
+    ]
+  },
+  {
+    "mainWord": "Hədəf",
+    "forbiddenWords": [
+      "Kamera",
+      "Kommutator",
+      "Səviyyə",
+      "Əlverişlilik",
+      "Mərkəzləşdirilmiş"
+    ]
+  },
+  {
+    "mainWord": "Əməliyyat",
+    "forbiddenWords": [
+      "Məxfilik",
+      "Sxem",
+      "Qovluq",
+      "Məhdudiyyət",
+      "İnfrastruktur"
+    ]
+  },
+  {
+    "mainWord": "Virtual",
+    "forbiddenWords": [
+      "İcazələndirmə",
+      "Kod",
+      "Ayarlama",
+      "Nəzarət",
+      "Əlaqələndirici"
+    ]
+  },
+  {
+    "mainWord": "Ayarlama",
+    "forbiddenWords": [
+      "Güzəşt",
+      "Virtual",
+      "Təkrarolunma",
+      "Şifrləmə",
+      "IP"
+    ]
+  },
+  {
+    "mainWord": "Məlumat",
+    "forbiddenWords": [
+      "Çap",
+      "Kod",
+      "Router",
+      "Şəxsiyyət",
+      "Güzəştli"
+    ]
+  },
+  {
+    "mainWord": "İtki",
+    "forbiddenWords": [
+      "Görüntüləmə",
+      "Doğrulama",
+      "Çeviklik",
+      "Giriş",
+      "Yükləmə"
+    ]
+  },
+  {
+    "mainWord": "Əlverişlilik",
+    "forbiddenWords": [
+      "Çevrilmə",
+      "Analitik",
+      "Şəbəkələşmə",
+      "Şifrə",
+      "Çərəz"
+    ]
+  },
+  {
+    "mainWord": "Modem",
+    "forbiddenWords": [
+      "Proqram",
+      "Güzəştli",
+      "Hücum",
+      "DNS",
+      "Şifrləmə"
+    ]
+  },
+  {
+    "mainWord": "Qrafik",
+    "forbiddenWords": [
+      "Avtentifikasiya",
+      "Kiberhücumçu",
+      "Komanda",
+      "İcazə",
+      "Risq"
+    ]
+  },
+  {
+    "mainWord": "Qəbuledici",
+    "forbiddenWords": [
+      "Təhlükəli",
+      "Mərkəzləşdirilmiş",
+      "Prosesor",
+      "Müşahidə",
+      "Sətir"
+    ]
+  },
+  {
+    "mainWord": "Monitorinq",
+    "forbiddenWords": [
+      "Blok",
+      "Sürət",
+      "Zəiflik",
+      "Kiberhücumçu",
+      "Resurs"
+    ]
+  },
+  {
+    "mainWord": "Əlavə",
+    "forbiddenWords": [
+      "Öyrənmə",
+      "Gizlilik",
+      "Audit",
+      "İzolyasiya",
+      "Bərpa"
+    ]
+  },
+  {
+    "mainWord": "Zəiflik",
+    "forbiddenWords": [
+      "İzləmə",
+      "Sertifikat",
+      "Kiberhücum",
+      "Avtentifikasiya",
+      "Sxem"
+    ]
+  },
+  {
+    "mainWord": "Sistemçi",
+    "forbiddenWords": [
+      "Çap",
+      "Şifrə",
+      "Sətir",
+      "Araşdırma",
+      "Yaddaş"
+    ]
+  },
+  {
+    "mainWord": "Qovluq",
+    "forbiddenWords": [
+      "Modul",
+      "Kiberhücum",
+      "Məlumat",
+      "İcazə",
+      "Parametr"
+    ]
+  },
+  {
+    "mainWord": "Xaker",
+    "forbiddenWords": [
+      "Reyestr",
+      "Zəiflik",
+      "Səviyyə",
+      "İzləmə",
+      "Yoxlama"
+    ]
+  },
+  {
+    "mainWord": "Ötürücü",
+    "forbiddenWords": [
+      "Filtr",
+      "Audit",
+      "Uyğunluq",
+      "Reyestr",
+      "Təkmilləşdirmə"
+    ]
+  },
+  {
+    "mainWord": "İzləmə",
+    "forbiddenWords": [
+      "İnfrastruktur",
+      "Çıxış",
+      "Öyrənmə",
+      "Format",
+      "Qorunma"
+    ]
+  },
+  {
+    "mainWord": "Əlçatanlıq",
+    "forbiddenWords": [
+      "Kölgə",
+      "Təkmilləşdirmə",
+      "Şəbəkələşmə",
+      "Xaker",
+      "Monitorinq"
+    ]
+  },
+  {
+    "mainWord": "Səviyyə",
+    "forbiddenWords": [
+      "Qrafik",
+      "Hücum",
+      "Məxfilik",
+      "Modem",
+      "Öyrənmə"
+    ]
+  },
+  {
+    "mainWord": "Qurğu",
+    "forbiddenWords": [
+      "Əlçatanlıq",
+      "Təhlükəsizlik",
+      "Yoxlama",
+      "Çıxış",
+      "Qrafik"
+    ]
+  },
+  {
+    "mainWord": "Obyekt",
+    "forbiddenWords": [
+      "Kölgə",
+      "Zərər",
+      "Əlaqə",
+      "Şifrləmə",
+      "İz"
+    ]
+  },
+  {
+    "mainWord": "Kölgə",
+    "forbiddenWords": [
+      "Parametr",
+      "Kamera",
+      "Yenilənmə",
+      "Təkmilləşdirmə",
+      "Kommutator"
+    ]
+  },
+  {
+    "mainWord": "Təhdid",
+    "forbiddenWords": [
+      "Giriş",
+      "Məhdudiyyət",
+      "Qrafik",
+      "Təlim",
+      "Backup"
+    ]
+  },
+  {
+    "mainWord": "İstismar",
+    "forbiddenWords": [
+      "Əlavə",
+      "Zəng",
+      "Kod",
+      "Yaddaş",
+      "Çeviklik"
+    ]
+  },
+  {
+    "mainWord": "Skript",
+    "forbiddenWords": [
+      "Modul",
+      "Çıxış",
+      "Sürət",
+      "Sahiblik",
+      "Qurğu"
+    ]
+  },
+  {
+    "mainWord": "Qorunma",
+    "forbiddenWords": [
+      "Analitik",
+      "Resurs",
+      "İstifadəçi",
+      "Dekodlaşdırma",
+      "Zəiflik"
+    ]
+  },
+  {
+    "mainWord": "Terminal",
+    "forbiddenWords": [
+      "Qeydiyyat",
+      "Sertifikatlaşdırma",
+      "Sistem",
+      "Zərərverici",
+      "Backup"
+    ]
+  },
+  {
+    "mainWord": "Uyğunluq",
+    "forbiddenWords": [
+      "Müşahidə",
+      "Sistemçi",
+      "Hücum",
+      "Virtual",
+      "Risq"
+    ]
+  },
+  {
+    "mainWord": "Məhdudiyyət",
+    "forbiddenWords": [
+      "Əlçatanlıq",
+      "Müştəri",
+      "Sahiblik",
+      "Nəzarət",
+      "Qəbuledici"
+    ]
+  },
+  {
+    "mainWord": "Sürət",
+    "forbiddenWords": [
+      "Şəbəkə",
+      "Ayarlama",
+      "Arxiv",
+      "Təhlükəsizlik",
+      "İnfrastruktur"
+    ]
+  },
+  {
+    "mainWord": "Yönləndirmə",
+    "forbiddenWords": [
+      "Dekodlaşdırma",
+      "Kabel",
+      "Kölgə",
+      "Blok",
+      "Çeviklik"
+    ]
+  },
+  {
+    "mainWord": "IP",
+    "forbiddenWords": [
+      "Xaker",
+      "Müştəri",
+      "Öyrənmə",
+      "Obyekt",
+      "Şifrləmə"
+    ]
+  },
+  {
+    "mainWord": "Güzəşt",
+    "forbiddenWords": [
+      "Məlumatlandırma",
+      "IP",
+      "Təkrarolunma",
+      "Zamanlanma",
+      "Obyekt"
+    ]
+  },
+  {
+    "mainWord": "Zamanlanma",
+    "forbiddenWords": [
+      "İtki",
+      "Audit",
+      "Sertifikat",
+      "Yenilənmə",
+      "Sistem"
+    ]
+  },
+  {
+    "mainWord": "Sahiblik",
+    "forbiddenWords": [
+      "Prosesor",
+      "Sistemçi",
+      "Öyrənmə",
+      "Xaker",
+      "Audit"
+    ]
+  },
+  {
+    "mainWord": "Parametr",
+    "forbiddenWords": [
+      "Reyestr",
+      "Dekodlaşdırma",
+      "Nəzarət",
+      "Çevrilmə",
+      "Modul"
+    ]
+  },
+  {
+    "mainWord": "Yükləmə",
+    "forbiddenWords": [
+      "Modem",
+      "Səviyyə",
+      "Uyğunluq",
+      "Sessiya",
+      "Firewall"
+    ]
+  },
+  {
+    "mainWord": "Zərər",
+    "forbiddenWords": [
+      "IP",
+      "Mərkəzləşdirilmiş",
+      "Yazılım",
+      "Komanda",
+      "Router"
+    ]
+  },
+  {
+    "mainWord": "Kiberhücumçu",
+    "forbiddenWords": [
+      "Yenilənmə",
+      "Təlim",
+      "Zamanlanma",
+      "İnfrastruktur",
+      "İzləmə"
+    ]
+  },
+   {
+    "mainWord": "Gizlilik",
+    "forbiddenWords": [
+      "Müdaxilə",
+      "Bərpa",
+      "Şəbəkə",
+      "İdarəetmə",
+      "Kölgə"
+    ]
+  },
+   {
+    "mainWord": "Port",
+    "forbiddenWords": [
+      "Bloklama",
+      "Virtual",
+      "DNS",
+      "Yoxlama",
+      "Əlaqələndirici"
+    ]
+  },
+  {
+    "mainWord": "Analitik",
+    "forbiddenWords": [
+      "Reyestr",
+      "Məxfilik",
+      "İzolyasiya",
+      "Əlverişlilik",
+      "Bərpa"
+    ]
+  },
+  {
+    "mainWord": "Risq",
+    "forbiddenWords": [
+      "Zamanlanma",
+      "Təkmilləşdirmə",
+      "Əlçatanlıq",
+      "Analitik",
+      "Təhdid"
+    ]
+  },
+  {
+    "mainWord": "Doğrulama",
+    "forbiddenWords": [
+      "Şifrə",
+      "Kommutator",
+      "Xaker",
+      "Resurs",
+      "Backup"
+    ]
+  },
+  {
+    "mainWord": "Dekodlaşdırma",
+    "forbiddenWords": [
+      "Təhlükəsizlik",
+      "Görüntüləmə",
+      "Əlaqə",
+      "Zərər",
+      "Əmrlər"
+    ]
+  },
+  {
+    "mainWord": "Şəbəkə",
+    "forbiddenWords": [
+      "Bloklama",
+      "Casus",
+      "Dekodlaşdırma",
+      "Router",
+      "Port"
+    ]
+  },
+  {
+    "mainWord": "Bloklama",
+    "forbiddenWords": [
+      "Giriş",
+      "Terminal",
+      "Nəzarət",
+      "Müşahidə",
+      "Əmrlər"
+    ]
+  },
+  {
+    "mainWord": "Sertifikatlaşdırma",
+    "forbiddenWords": [
+      "Təlim",
+      "Filtr",
+      "İtki",
+      "Avtentifikasiya",
+      "Casus"
+    ]
+  },
+  {
+    "mainWord": "Protokol",
+    "forbiddenWords": [
+      "Cihaz",
+      "İcazə",
+      "Şəbəkəçi",
+      "Kod",
+      "Öyrənmə"
+    ]
+  },
+  {
+    "mainWord": "Çap",
+    "forbiddenWords": [
+      "Təkrarolunma",
+      "Müştəri",
+      "Kod",
+      "Server",
+      "Qovluq"
+    ]
+  },
+  {
+    "mainWord": "Kiberhücum",
+    "forbiddenWords": [
+      "Sətir",
+      "Sertifikatlaşdırma",
+      "İtki",
+      "Paralel",
+      "Yükləmə"
+    ]
+  },
+  {
+    "mainWord": "Müştəri",
+    "forbiddenWords": [
+      "Qorunma",
+      "Kiberhücum",
+      "Gizlilik",
+      "Yenilənmə",
+      "Yazılım"
+    ]
+  },
+  {
+    "mainWord": "Backup",
+    "forbiddenWords": [
+      "Tətbiq",
+      "Yaddaş",
+      "IP",
+      "Şifrləmə",
+      "Casus"
+    ]
+  },
+  {
+    "mainWord": "Bərpa",
+    "forbiddenWords": [
+      "Qovluq",
+      "Cihaz",
+      "Çeviklik",
+      "Yoxlama",
+      "Qurğu"
+    ]
+  },
+  {
+    "mainWord": "Şifrləmə",
+    "forbiddenWords": [
+      "Yaddaş",
+      "Çap",
+      "Sertifikatlaşdırma",
+      "Əlavə",
+      "Sürət"
+    ]
+  },
+  {
+    "mainWord": "Kod",
+    "forbiddenWords": [
+      "Doğrulama",
+      "Risq",
+      "Sistemçi",
+      "Parol",
+      "Çevrilmə"
+    ]
+  },
+   {
+    "mainWord": "Təkmilləşdirmə",
+    "forbiddenWords": [
+      "Mərkəzləşdirilmiş",
+      "Müştəri",
+      "Format",
+      "Komanda",
+      "Qrafik"
+    ]
+  },
+  {
+    "mainWord": "İcazələndirmə",
+    "forbiddenWords": [
+      "Görüntüləmə",
+      "Təhdid",
+      "İtki",
+      "Təkmilləşdirmə",
+      "Yazılım"
+    ]
+  },
+  {
+    "mainWord": "İcazə",
+    "forbiddenWords": [
+      "Giriş",
+      "Siyasət",
+      "Avtomatlaşdırma",
+      "Kabel",
+      "Reyestr"
+    ]
+  },
+  {
+    "mainWord": "İz",
+    "forbiddenWords": [
+      "Parol",
+      "Məlumatlandırma",
+      "Proqram",
+      "Araşdırma",
+      "Resurs"
+    ]
+  },
+  {
+    "mainWord": "Sxem",
+    "forbiddenWords": [
+      "İz",
+      "Qovluq",
+      "Təhlükəli",
+      "Şəbəkəçi",
+      "Obyekt"
+    ]
+  },
+  {
+    "mainWord": "DNS",
+    "forbiddenWords": [
+      "Bloklama",
+      "İzləmə",
+      "Ayarlama",
+      "Filtr",
+      "Şəxsiyyət"
+    ]
+  },
+  {
+    "mainWord": "Server",
+    "forbiddenWords": [
+      "Tətbiq",
+      "Sertifikatlaşdırma",
+      "Şəbəkə",
+      "Protokol",
+      "Disk"
+    ]
+  },
+  {
+    "mainWord": "Məxfilik",
+    "forbiddenWords": [
+      "Məlumatlandırma",
+      "Sertifikat",
+      "Seçim",
+      "Süzgəc",
+      "Xəbərdarlıq"
+    ]
+  },
+  {
+    "mainWord": "Qırılma",
+    "forbiddenWords": [
+      "Əməliyyat",
+      "Fayl",
+      "Xəbər",
+      "Günlük",
+      "Təhlükəsizlik"
+    ]
+  },
+  {
+    "mainWord": "Çıxış",
+    "forbiddenWords": [
+      "Casus",
+      "Yaddaş",
+      "Qorunma",
+      "Yoxlanış",
+      "Əmrlər"
+    ]
+  },
+  {
+    "mainWord": "Qaynaq",
+    "forbiddenWords": [
+      "Hadisə",
+      "Əvəzləmə",
+      "Siyasət",
+      "Şifrə",
+      "Qaydalaşdırma"
+    ]
+  },
+  {
+    "mainWord": "İcazələndirmə",
+    "forbiddenWords": [
+      "İdarəetmə",
+      "Əlaqələndirmə",
+      "İstismar",
+      "İcazə",
+      "Gizlətmə"
+    ]
+  },
+  {
+    "mainWord": "Dəstək",
+    "forbiddenWords": [
+      "Xəbər",
+      "Açma",
+      "Seçim",
+      "Ehtiyat",
+      "Qaynaq"
+    ]
+  },
+  {
+    "mainWord": "Fayl",
+    "forbiddenWords": [
+      "Uyğunluq",
+      "Qoruma",
+      "İnformasiya",
+      "Sığorta",
+      "Hadisə"
+    ]
+  },
+  {
+    "mainWord": "Kibertəhlükə",
+    "forbiddenWords": [
+      "Şəbəkə",
+      "Xəbərdarlıq",
+      "Şəxsiləşdirmə",
+      "Günlük",
+      "Ehtiyat"
+    ]
+  },
+  {
+    "mainWord": "Doğrulama",
+    "forbiddenWords": [
+      "Təmir",
+      "Qorunma",
+      "Əvəzləmə",
+      "Giriş",
+      "Nümunə"
+    ]
+  },
+  {
+    "mainWord": "Əməkdaşlıq",
+    "forbiddenWords": [
+      "Yoxlama",
+      "Sistemçi",
+      "Əmrlər",
+      "Məlumat",
+      "Qırılma"
+    ]
+  },
+  {
+    "mainWord": "Təhlükə",
+    "forbiddenWords": [
+      "Hadisə",
+      "Əməliyyat",
+      "Test",
+      "Zərərverici",
+      "Qaydalaşdırma"
+    ]
+  },
+  {
+    "mainWord": "Şəxsiyyət",
+    "forbiddenWords": [
+      "Əlverişlilik",
+      "Dəstək",
+      "Cihaz",
+      "Qaydalaşdırma",
+      "Müşahidə"
+    ]
+  },
+  {
+    "mainWord": "Giriş",
+    "forbiddenWords": [
+      "Araşdırma",
+      "Nəzarət",
+      "Pozuntu",
+      "Əməkdaşlıq",
+      "Əlçatanlıq"
+    ]
+  },
+  {
+    "mainWord": "Virus",
+    "forbiddenWords": [
+      "Günlük",
+      "Çıxış",
+      "Şəbəkəçi",
+      "Daxili",
+      "Qovluq"
+    ]
+  },
+  {
+    "mainWord": "Sertifikat",
+    "forbiddenWords": [
+      "Casus",
+      "Hadisə",
+      "Əvəzləmə",
+      "Məlumat",
+      "İcazələndirmə"
+    ]
+  },
+  {
+    "mainWord": "Süzgəc",
+    "forbiddenWords": [
+      "İzləmə",
+      "Monitorinq",
+      "Əks-tədbir",
+      "Risq",
+      "İcazələndirmə"
+    ]
+  },
+  {
+    "mainWord": "Əmrlər",
+    "forbiddenWords": [
+      "Əməkdaşlıq",
+      "Gizlətmə",
+      "Casus",
+      "Bərpa",
+      "Uyğunluq"
+    ]
+  },
+  {
+    "mainWord": "Yükləmə",
+    "forbiddenWords": [
+      "İz",
+      "Qaydalar",
+      "Şübhə",
+      "Dəstək",
+      "Audit"
+    ]
+  },
+  {
+    "mainWord": "Proqram",
+    "forbiddenWords": [
+      "Yoxlama",
+      "Giriş",
+      "Baxış",
+      "Monitorinq",
+      "Əlaqə"
+    ]
+  },
+  {
+    "mainWord": "Şəxsiləşdirmə",
+    "forbiddenWords": [
+      "Məlumatlandırma",
+      "Baxış",
+      "Sertifikat",
+      "İstismar",
+      "Sistemçi"
+    ]
+  },
+  {
+    "mainWord": "Baxış",
+    "forbiddenWords": [
+      "Xəbər",
+      "Protokol",
+      "Məlumat",
+      "Gizlətmə",
+      "Nəzarət"
+    ]
+  },
+  {
+    "mainWord": "Sığorta",
+    "forbiddenWords": [
+      "Əlaqə",
+      "İnformasiya",
+      "Qırılma",
+      "İzləmə",
+      "Kənar"
+    ]
+  },
+  {
+    "mainWord": "Yenilənmə",
+    "forbiddenWords": [
+      "Açma",
+      "İnfrastruktur",
+      "Təhlükə",
+      "Kənar",
+      "Araşdırma"
+    ]
+  },
+  {
+    "mainWord": "İstismar",
+    "forbiddenWords": [
+      "Xəbər",
+      "Təhlükəsizlik",
+      "Şifrə",
+      "Tətbiq",
+      "Müdafiə"
+    ]
+  },
+  {
+    "mainWord": "Müdafiə",
+    "forbiddenWords": [
+      "Şifrə",
+      "Virus",
+      "Gizlətmə",
+      "İcazələndirmə",
+      "Xəbərdarlıq"
+    ]
+  },
+  {
+    "mainWord": "Yaddaş",
+    "forbiddenWords": [
+      "Zərərverici",
+      "Qaydalar",
+      "Əməliyyat",
+      "Müdaxilə",
+      "İnkişaf"
+    ]
+  },
+  {
+    "mainWord": "Əlaqə",
+    "forbiddenWords": [
+      "Əməkdaşlıq",
+      "Tətbiq",
+      "Baxış",
+      "İzləmə",
+      "Seçim"
+    ]
+  },
+  {
+    "mainWord": "Cihaz",
+    "forbiddenWords": [
+      "Əlaqələndirmə",
+      "Əvəzləmə",
+      "Casus",
+      "Ehtiyat",
+      "Parol"
+    ]
+  },
+  {
+    "mainWord": "Qaydalar",
+    "forbiddenWords": [
+      "Proqram",
+      "Şübhə",
+      "Təhlükəsizlik",
+      "İcazələndirmə",
+      "Kənar"
+    ]
+  },
+  {
+    "mainWord": "Əməliyyat",
+    "forbiddenWords": [
+      "Şəbəkə",
+      "Cihaz",
+      "Yoxlama",
+      "Virus",
+      "Qrafik"
+    ]
+  },
+  {
+    "mainWord": "Tətbiq",
+    "forbiddenWords": [
+      "Əks-tədbir",
+      "Sistemçi",
+      "Yoxlama",
+      "Daxili",
+      "İnformasiya"
+    ]
+  },
+  {
+    "mainWord": "Araşdırma",
+    "forbiddenWords": [
+      "Cədvəl",
+      "Zərərverici",
+      "Yanlışlıq",
+      "İcazələndirmə",
+      "Qorunma"
+    ]
+  },
+  {
+    "mainWord": "Müdaxilə",
+    "forbiddenWords": [
+      "Qaydalar",
+      "Xəbərdarlıq",
+      "Cihaz",
+      "Araşdırmaçı",
+      "Əlaqə"
+    ]
+  },
+  {
+    "mainWord": "Audit",
+    "forbiddenWords": [
+      "İdarəetmə",
+      "Araşdırma",
+      "Giriş",
+      "Qaydalaşdırma",
+      "İzləmə"
+    ]
+  },
+  {
+    "mainWord": "Qaydalaşdırma",
+    "forbiddenWords": [
+      "Tarixçə",
+      "Şəxsiyyət",
+      "Pozuntu",
+      "Tədris",
+      "Kamera"
+    ]
+  },
+  {
+    "mainWord": "Nümunə",
+    "forbiddenWords": [
+      "Ehtiyat",
+      "Şifrə",
+      "Təmir",
+      "İcazə",
+      "Əməliyyat"
+    ]
+  },
+  {
+    "mainWord": "İnkişaf",
+    "forbiddenWords": [
+      "Təmir",
+      "Nəzarətçi",
+      "Araşdırma",
+      "Daxili",
+      "Əvəzləmə"
+    ]
+  },
+  {
+    "mainWord": "Nəzarət",
+    "forbiddenWords": [
+      "Müdaxilə",
+      "Parol",
+      "Əks-tədbir",
+      "Qeydlər",
+      "Qaynaq"
+    ]
+  },
+  {
+    "mainWord": "Şifrləmə",
+    "forbiddenWords": [
+      "Açma",
+      "Cədvəl",
+      "Doğrulama",
+      "İcazələndirmə",
+      "Uyğunluq"
+    ]
+  },
+  {
+    "mainWord": "Parça",
+    "forbiddenWords": [
+      "Şifrə",
+      "Senzor",
+      "Risq",
+      "İmtina",
+      "Casus"
+    ]
+  },
+  {
+    "mainWord": "Casus",
+    "forbiddenWords": [
+      "Zərərverici",
+      "Günlük",
+      "Məlumatlandırma",
+      "Tətbiq",
+      "Nümunə"
+    ]
+  },
+  {
+    "mainWord": "Qrafik",
+    "forbiddenWords": [
+      "Tətbiq",
+      "Nümunə",
+      "Müdafiə",
+      "Yanlışlıq",
+      "Monitorinq"
+    ]
+  },
+  {
+    "mainWord": "Təhlükəsizlik",
+    "forbiddenWords": [
+      "Şübhə",
+      "Qovluq",
+      "Şəbəkəçi",
+      "Qeydlər",
+      "Əvəzləmə"
+    ]
+  },
+  {
+    "mainWord": "Kənar",
+    "forbiddenWords": [
+      "Məlumat",
+      "Əlaqə",
+      "Əvəzləmə",
+      "İz",
+      "Sistemçi"
+    ]
+  },
+  {
+    "mainWord": "İdarəetmə",
+    "forbiddenWords": [
+      "Şəbəkə",
+      "Şəbəkəçi",
+      "Sertifikat",
+      "İmtina",
+      "Müdafiə"
+    ]
+  },
+  {
+    "mainWord": "Protokol",
+    "forbiddenWords": [
+      "Qoruma",
+      "Yenilənmə",
+      "Zərərverici",
+      "Bərpa",
+      "Kamera"
+    ]
+  },
+  {
+    "mainWord": "Zəiflik",
+    "forbiddenWords": [
+      "Casus",
+      "Şəbəkə",
+      "Nümunə",
+      "Əvəzləmə",
+      "Təhlükə"
+    ]
+  },
+  {
+    "mainWord": "Ehtiyat",
+    "forbiddenWords": [
+      "Xəbərdarlıq",
+      "Xəbər",
+      "Hadisə",
+      "Əlverişlilik",
+      "Proqram"
+    ]
+  },
+  {
+    "mainWord": "İmtina",
+    "forbiddenWords": [
+      "Risq",
+      "Qrafik",
+      "Monitorinq",
+      "İnfrastruktur",
+      "İnkişaf"
+    ]
+  },
+  {
+    "mainWord": "Monitorinq",
+    "forbiddenWords": [
+      "Əməliyyat",
+      "Qaynaq",
+      "Məxfilik",
+      "Dəstək",
+      "İnfrastruktur"
+    ]
+  },
+  {
+    "mainWord": "Tədris",
+    "forbiddenWords": [
+      "Əlaqələndirmə",
+      "Parol",
+      "Açma",
+      "Yoxlanış",
+      "Xəbər"
+    ]
+  },
+  {
+    "mainWord": "Qeydlər",
+    "forbiddenWords": [
+      "Parol",
+      "Giriş",
+      "Şəbəkələşmə",
+      "Məlumatlandırma",
+      "Monitorinq"
+    ]
+  },
+  {
+    "mainWord": "Xəbərdarlıq",
+    "forbiddenWords": [
+      "Məlumatlandırma",
+      "Şübhə",
+      "Monitorinq",
+      "Təmir",
+      "Sertifikat"
+    ]
+  },
+  {
+    "mainWord": "Məlumatlandırma",
+    "forbiddenWords": [
+      "Əks-tədbir",
+      "Təhlükə",
+      "Əməliyyat",
+      "Qeydlər",
+      "Tarixçə"
+    ]
+  },
+  {
+    "mainWord": "Əlçatanlıq",
+    "forbiddenWords": [
+      "Proqram",
+      "Xəbərdarlıq",
+      "Şübhə",
+      "Şəbəkə",
+      "Sistemçi"
+    ]
+  },
+  {
+    "mainWord": "İnformasiya",
+    "forbiddenWords": [
+      "Əlçatanlıq",
+      "Şəbəkə",
+      "İcazə",
+      "Virus",
+      "Fayl"
+    ]
+  },
+  {
+    "mainWord": "Sistemçi",
+    "forbiddenWords": [
+      "Kənar",
+      "Audit",
+      "Müdafiə",
+      "Daxili",
+      "Yoxlayıcı"
+    ]
+  },
+   {
+    "mainWord": "Müşahidə",
+    "forbiddenWords": [
+      "Qaydalaşdırma",
+      "Parça",
+      "Nəzarət",
+      "Yoxlanış",
+      "Seçim"
+    ]
+  },
+  {
+    "mainWord": "Əlaqələndirmə",
+    "forbiddenWords": [
+      "Xəbər",
+      "Sertifikat",
+      "Əvəzləmə",
+      "Süzgəc",
+      "Qeydlər"
+    ]
+  },
+  {
+    "mainWord": "Senzor",
+    "forbiddenWords": [
+      "Əlaqələndirmə",
+      "Müşahidə",
+      "Audit",
+      "Əlaqə",
+      "İmtina"
+    ]
+  },
+  {
+    "mainWord": "Əks-tədbir",
+    "forbiddenWords": [
+      "Uyğunluq",
+      "Məlumatlandırma",
+      "Əmrlər",
+      "İmtina",
+      "Nümunə"
+    ]
+  },
+  {
+    "mainWord": "Yoxlayıcı",
+    "forbiddenWords": [
+      "İnkişaf",
+      "Xəbərdarlıq",
+      "Gizlətmə",
+      "İnformasiya",
+      "Baxış"
+    ]
+  },
+  {
+    "mainWord": "Əvəzləmə",
+    "forbiddenWords": [
+      "Qrafik",
+      "Kamera",
+      "Cihaz",
+      "Uyğunluq",
+      "Şifrləmə"
+    ]
+  },
+  {
+    "mainWord": "Məlumat",
+    "forbiddenWords": [
+      "Sığorta",
+      "Şəbəkəçi",
+      "Kənar",
+      "Təhlükə",
+      "Məlumatlandırma"
+    ]
+  },
+  {
+    "mainWord": "Yanlışlıq",
+    "forbiddenWords": [
+      "Nəzarət",
+      "Monitorinq",
+      "İnformasiya",
+      "Qeydlər",
+      "Çıxış"
+    ]
+  },
+   {
+    "mainWord": "Risq",
+    "forbiddenWords": [
+      "Audit",
+      "Pozuntu",
+      "Cədvəl",
+      "Kamera",
+      "Doğrulama"
+    ]
+  },
+  {
+    "mainWord": "Test",
+    "forbiddenWords": [
+      "Əməkdaşlıq",
+      "Qaydalar",
+      "Parça",
+      "Daxili",
+      "Parol"
+    ]
+  },
+  {
+    "mainWord": "Nəzarətçi",
+    "forbiddenWords": [
+      "Qaydalaşdırma",
+      "Günlük",
+      "Yanlışlıq",
+      "Zərərverici",
+      "Təhlükəsizlik"
+    ]
+  },
+  {
+    "mainWord": "Təmir",
+    "forbiddenWords": [
+      "Daxili",
+      "Yaddaş",
+      "İstismar",
+      "Şifrləmə",
+      "Süzgəc"
+    ]
+  },
+  {
+    "mainWord": "İzləmə",
+    "forbiddenWords": [
+      "Daxili",
+      "İmtina",
+      "Proqram",
+      "Giriş",
+      "Yaddaş"
+    ]
+  },
+  {
+    "mainWord": "İcazə",
+    "forbiddenWords": [
+      "Kənar",
+      "Audit",
+      "Baxış",
+      "Qrafik",
+      "Ehtiyat"
+    ]
+  },
+  {
+    "mainWord": "Seçim",
+    "forbiddenWords": [
+      "Giriş",
+      "Şifrləmə",
+      "Sistemçi",
+      "Şəxsiləşdirmə",
+      "İz"
+    ]
+  },
+  {
+    "mainWord": "Əlverişlilik",
+    "forbiddenWords": [
+      "Müdafiə",
+      "İcazələndirmə",
+      "Ehtiyat",
+      "Müdaxilə",
+      "Əks-tədbir"
+    ]
+  },
+  {
+    "mainWord": "Qovluq",
+    "forbiddenWords": [
+      "Araşdırma",
+      "Baxış",
+      "Şəxsiləşdirmə",
+      "Pozuntu",
+      "Əlçatanlıq"
+    ]
+  },
+  {
+    "mainWord": "Qoruma",
+    "forbiddenWords": [
+      "Virus",
+      "İdarəetmə",
+      "Məxfilik",
+      "Protokol",
+      "Qorunma"
+    ]
+  },
+  {
+    "mainWord": "Şəbəkə",
+    "forbiddenWords": [
+      "Bərpa",
+      "Hadisə",
+      "Gizlətmə",
+      "Monitorinq",
+      "Süzgəc"
+    ]
+  },
+  {
+    "mainWord": "Bərpa",
+    "forbiddenWords": [
+      "İmtina",
+      "Araşdırma",
+      "Yoxlayıcı",
+      "İcazə",
+      "Tədris"
+    ]
+  },
+  {
+    "mainWord": "Pozuntu",
+    "forbiddenWords": [
+      "Günlük",
+      "Şəbəkəçi",
+      "İcazə",
+      "Sistemçi",
+      "Şübhə"
+    ]
+  },
+  {
+    "mainWord": "Qorunma",
+    "forbiddenWords": [
+      "Müdafiə",
+      "Bərpa",
+      "Açma",
+      "Təhlükəsizlik",
+      "İstismar"
+    ]
+  },
+  {
+    "mainWord": "Daxili",
+    "forbiddenWords": [
+      "Parol",
+      "İnformasiya",
+      "Məlumat",
+      "Qaynaq",
+      "Audit"
+    ]
+  },
+  {
+    "mainWord": "Zərərverici",
+    "forbiddenWords": [
+      "Əlaqə",
+      "İcazə",
+      "Sistemçi",
+      "Şübhə",
+      "Xəbər"
+    ]
+  },
+  {
+    "mainWord": "Şifrə",
+    "forbiddenWords": [
+      "Xəbərdarlıq",
+      "Tədris",
+      "Şifrləmə",
+      "Qırılma",
+      "Baxış"
+    ]
+  },
+  {
+    "mainWord": "Siyasət",
+    "forbiddenWords": [
+      "Şifrə",
+      "Qaydalaşdırma",
+      "Seçim",
+      "Zərərverici",
+      "Əlaqələndirmə"
+    ]
+  },
+  {
+    "mainWord": "Uyğunluq",
+    "forbiddenWords": [
+      "Təhlükəsizlik",
+      "Təhlükə",
+      "Sertifikat",
+      "Şəxsiyyət",
+      "Qrafik"
+    ]
+  },
+  {
+    "mainWord": "Yoxlanış",
+    "forbiddenWords": [
+      "Siyasət",
+      "Əməkdaşlıq",
+      "Yoxlayıcı",
+      "Şəxsiləşdirmə",
+      "Əlaqələndirmə"
+    ]
+  },
+  {
+    "mainWord": "Şəbəkələşmə",
+    "forbiddenWords": [
+      "Qaydalaşdırma",
+      "Siyasət",
+      "Pozuntu",
+      "Qırılma",
+      "Əməliyyat"
+    ]
+  },
+  {
+    "mainWord": "Şəbəkəçi",
+    "forbiddenWords": [
+      "Proqram",
+      "İz",
+      "Şifrə",
+      "Cədvəl",
+      "Qorunma"
+    ]
+  },
+  {
+    "mainWord": "Yoxlama",
+    "forbiddenWords": [
+      "Cihaz",
+      "Monitorinq",
+      "Virus",
+      "Sığorta",
+      "Siyasət"
+    ]
+  },
+  {
+    "mainWord": "Gizlətmə",
+    "forbiddenWords": [
+      "Daxili",
+      "Müşahidə",
+      "Açma",
+      "Sığorta",
+      "İcazələndirmə"
+    ]
+  },
+  {
+    "mainWord": "Şübhə",
+    "forbiddenWords": [
+      "İcazə",
+      "Şəbəkəçi",
+      "Şəxsiləşdirmə",
+      "Qorunma",
+      "Təhlükə"
+    ]
+  },
+  {
+    "mainWord": "İz",
+    "forbiddenWords": [
+      "İzləmə",
+      "Nəzarətçi",
+      "Risq",
+      "Açma",
+      "Audit"
+    ]
+  },
+  {
+    "mainWord": "İnfrastruktur",
+    "forbiddenWords": [
+      "Məlumat",
+      "Test",
+      "Tətbiq",
+      "Protokol",
+      "Yoxlayıcı"
+    ]
+  },
+  {
+    "mainWord": "Araşdırmaçı",
+    "forbiddenWords": [
+      "Kənar",
+      "Yaddaş",
+      "Xəbər",
+      "Audit",
+      "Uyğunluq"
+    ]
+  },
+  {
+    "mainWord": "Açma",
+    "forbiddenWords": [
+      "Əlçatanlıq",
+      "İzləmə",
+      "Əlaqələndirmə",
+      "Casus",
+      "Əməliyyat"
+    ]
+  },
+  {
+    "mainWord": "Kamera",
+    "forbiddenWords": [
+      "Şifrə",
+      "Xəbər",
+      "İstismar",
+      "Zəiflik",
+      "Risq"
+    ]
+  },
+  {
+    "mainWord": "Cədvəl",
+    "forbiddenWords": [
+      "Əvəzləmə",
+      "Cihaz",
+      "Müşahidə",
+      "Parça",
+      "Ehtiyat"
+    ]
+  },
+  {
+    "mainWord": "Tarixçə",
+    "forbiddenWords": [
+      "Monitorinq",
+      "Sistemçi",
+      "Pozuntu",
+      "Qaydalar",
+      "Parça"
+    ]
+  },
+  {
+    "mainWord": "Parol",
+    "forbiddenWords": [
+      "Senzor",
+      "Tarixçə",
+      "Cihaz",
+      "Şəbəkə",
+      "Yoxlayıcı"
+    ]
+  },
+  {
+    "mainWord": "Attack",
+    "forbiddenWords": [
+      "Captcha",
+      "Monitor",
+      "LDAP",
+      "MFA",
+      "Protocol"
+    ]
+  },
+  {
+    "mainWord": "APT",
+    "forbiddenWords": [
+      "Breach",
+      "Sniffing",
+      "ISO",
+      "Bruteforce",
+      "Nonce"
+    ]
+  },
+  {
+    "mainWord": "Firewall",
+    "forbiddenWords": [
+      "Ransomware",
+      "Awareness",
+      "Kerberos",
+      "Cryptography",
+      "Cache"
+    ]
+  },
+  {
+    "mainWord": "Cloud",
+    "forbiddenWords": [
+      "Pentest",
+      "Firewall",
+      "Virus",
+      "Captcha",
+      "Backup"
+    ]
+  },
+  {
+    "mainWord": "Botnet",
+    "forbiddenWords": [
+      "Blueteam",
+      "Threat",
+      "Keylogger",
+      "Syslog",
+      "Spoofing"
+    ]
+  },
+  {
+    "mainWord": "SOC",
+    "forbiddenWords": [
+      "Kerberos",
+      "Payload",
+      "NIST",
+      "APT",
+      "Sniffing"
+    ]
+  },
+  {
+    "mainWord": "ZeroDay",
+    "forbiddenWords": [
+      "Compliance",
+      "Rootkit",
+      "Access",
+      "Attack",
+      "Spyware"
+    ]
+  },
+  {
+    "mainWord": "2FA",
+    "forbiddenWords": [
+      "GPO",
+      "Forensic",
+      "Data",
+      "Privilege",
+      "XSS"
+    ]
+  },
+  {
+    "mainWord": "Obfuscation",
+    "forbiddenWords": [
+      "TLS",
+      "Cryptography",
+      "Antivirus",
+      "Alert",
+      "Audit"
+    ]
+  },
+  {
+    "mainWord": "IAM",
+    "forbiddenWords": [
+      "VPN",
+      "LDAP",
+      "Compliance",
+      "Malware",
+      "Username"
+    ]
+  },
+  {
+    "mainWord": "Antivirus",
+    "forbiddenWords": [
+      "Scanner",
+      "Mitigation",
+      "VPN",
+      "Insider",
+      "Rootkit"
+    ]
+  },
+  {
+    "mainWord": "Encryption",
+    "forbiddenWords": [
+      "MFA",
+      "Backup",
+      "IAM",
+      "ISO",
+      "Monitor"
+    ]
+  },
+  {
+    "mainWord": "WHOIS",
+    "forbiddenWords": [
+      "IPS",
+      "UEBA",
+      "Clickjacking",
+      "Recon",
+      "Sysadmin"
+    ]
+  },
+  {
+    "mainWord": "Mitigation",
+    "forbiddenWords": [
+      "Biometric",
+      "Log",
+      "WHOIS",
+      "Encryption",
+      "Policy"
+    ]
+  },
+  {
+    "mainWord": "Nmap",
+    "forbiddenWords": [
+      "Malware",
+      "Ping",
+      "Honeypot",
+      "Risk",
+      "WHOIS"
+    ]
+  },
+  {
+    "mainWord": "Burp",
+    "forbiddenWords": [
+      "Recovery",
+      "Phishing",
+      "Policy",
+      "Authenticator",
+      "Digital"
+    ]
+  },
+  {
+    "mainWord": "Protocol",
+    "forbiddenWords": [
+      "Audit",
+      "Resilience",
+      "Sysmon",
+      "Captcha",
+      "Forensic"
+    ]
+  },
+  {
+    "mainWord": "Defense",
+    "forbiddenWords": [
+      "Incident",
+      "XSS",
+      "Alert",
+      "Bruteforce",
+      "Payload"
+    ]
+  },
+  {
+    "mainWord": "Certificate",
+    "forbiddenWords": [
+      "SAML",
+      "Compliance",
+      "Log",
+      "Cookie",
+      "Metasploit"
+    ]
+  },
+  {
+    "mainWord": "Pentest",
+    "forbiddenWords": [
+      "Dropper",
+      "Ransomware",
+      "Redteam",
+      "Decryption",
+      "Antivirus"
+    ]
+  },
+  {
+    "mainWord": "IDS",
+    "forbiddenWords": [
+      "Decryption",
+      "Burp",
+      "CSRF",
+      "Biometric",
+      "Hashing"
+    ]
+  },
+  {
+    "mainWord": "Incident",
+    "forbiddenWords": [
+      "Risk",
+      "Nmap",
+      "Mitre",
+      "SOAR",
+      "IAM"
+    ]
+  },
+  {
+    "mainWord": "Patch",
+    "forbiddenWords": [
+      "Digital",
+      "Spyware",
+      "Metasploit",
+      "IDS",
+      "Spoofing"
+    ]
+  },
+  {
+    "mainWord": "Password",
+    "forbiddenWords": [
+      "Bruteforce",
+      "Exploitdb",
+      "Certificate",
+      "Hybrid",
+      "Backdoor"
+    ]
+  },
+  {
+    "mainWord": "Recovery",
+    "forbiddenWords": [
+      "Recon",
+      "Security",
+      "Escalation",
+      "Captcha",
+      "Scanner"
+    ]
+  },
+  {
+    "mainWord": "Data",
+    "forbiddenWords": [
+      "Sniffing",
+      "Burp",
+      "Forensic",
+      "Asset",
+      "Policy"
+    ]
+  },
+  {
+    "mainWord": "Hashing",
+    "forbiddenWords": [
+      "Exploitdb",
+      "Incident",
+      "Cybercrime",
+      "Alert",
+      "Resilience"
+    ]
+  },
+  {
+    "mainWord": "Decryption",
+    "forbiddenWords": [
+      "Darknet",
+      "IPS",
+      "Blueteam",
+      "SSL",
+      "Keylogger"
+    ]
+  },
+  {
+    "mainWord": "SOAR",
+    "forbiddenWords": [
+      "Privilege",
+      "Penetration",
+      "Kerberos",
+      "John",
+      "Cookie"
+    ]
+  },
+  {
+    "mainWord": "Trojan",
+    "forbiddenWords": [
+      "Cryptography",
+      "Virus",
+      "Traceroute",
+      "Kerberos",
+      "Monitor"
+    ]
+  },
+  {
+    "mainWord": "Honeypot",
+    "forbiddenWords": [
+      "SIEM",
+      "John",
+      "ISO",
+      "Privilege",
+      "LDAP"
+    ]
+  },
+  {
+    "mainWord": "Hashcat",
+    "forbiddenWords": [
+      "Firewall",
+      "Darknet",
+      "Rainbow",
+      "SSL",
+      "Captcha"
+    ]
+  },
+  {
+    "mainWord": "Exploitdb",
+    "forbiddenWords": [
+      "Scanner",
+      "Backdoor",
+      "Obfuscation",
+      "Attack",
+      "Password"
+    ]
+  },
+  {
+    "mainWord": "OAuth",
+    "forbiddenWords": [
+      "SAML",
+      "2FA",
+      "Session",
+      "Asset",
+      "VPN"
+    ]
+  },
+  {
+    "mainWord": "Resilience",
+    "forbiddenWords": [
+      "Bruteforce",
+      "Cookie",
+      "TTP",
+      "ATTACK",
+      "Audit"
+    ]
+  },
+  {
+    "mainWord": "ACL",
+    "forbiddenWords": [
+      "Cookie",
+      "Hashing",
+      "TTP",
+      "Recon",
+      "Protocol"
+    ]
+  },
+  {
+    "mainWord": "Payload",
+    "forbiddenWords": [
+      "Rootkit",
+      "Audit",
+      "Password",
+      "Darknet",
+      "MD5"
+    ]
+  },
+  {
+    "mainWord": "ATTACK",
+    "forbiddenWords": [
+      "Encryption",
+      "Rainbow",
+      "Vulnerability",
+      "Biometric",
+      "Restore"
+    ]
+  },
+  {
+    "mainWord": "DNS",
+    "forbiddenWords": [
+      "Traceroute",
+      "Honeypot",
+      "Virus",
+      "Cookie",
+      "IPS"
+    ]
+  },
+  {
+    "mainWord": "Kerberos",
+    "forbiddenWords": [
+      "Botnet",
+      "Exploitdb",
+      "Defense",
+      "Cloud",
+      "Nonce"
+    ]
+  },
+  {
+    "mainWord": "Traceroute",
+    "forbiddenWords": [
+      "Risk",
+      "Outsider",
+      "Cybercrime",
+      "OAuth",
+      "Defense"
+    ]
+  },
+  {
+    "mainWord": "Forensic",
+    "forbiddenWords": [
+      "TTP",
+      "Spoofing",
+      "Sandbox",
+      "Mitre",
+      "Forensics"
+    ]
+  },
+  {
+    "mainWord": "DDoS",
+    "forbiddenWords": [
+      "Security",
+      "Darknet",
+      "Forensics",
+      "Hybrid",
+      "Scanner"
+    ]
+  },
+  {
+    "mainWord": "Penetration",
+    "forbiddenWords": [
+      "Privilege",
+      "Sysadmin",
+      "DNS",
+      "Honeypot",
+      "Security"
+    ]
+  },
+   {
+    "mainWord": "Threat",
+    "forbiddenWords": [
+      "ISO",
+      "SQL",
+      "DNS",
+      "Incident",
+      "SSL"
+    ]
+  },
+  {
+    "mainWord": "Cookie",
+    "forbiddenWords": [
+      "UEBA",
+      "Ransomware",
+      "Rainbow",
+      "Cloud",
+      "OAuth"
+    ]
+  },
+  {
+    "mainWord": "Proxy",
+    "forbiddenWords": [
+      "Keylogger",
+      "Phishing",
+      "Breach",
+      "Threatintel",
+      "Payload"
+    ]
+  },
+  {
+    "mainWord": "Restore",
+    "forbiddenWords": [
+      "Bruteforce",
+      "Virus",
+      "Cache",
+      "SQL",
+      "Mitigation"
+    ]
+  },
+  {
+    "mainWord": "Username",
+    "forbiddenWords": [
+      "WHOIS",
+      "SOC",
+      "Botnet",
+      "IPS",
+      "Biometric"
+    ]
+  },
+  {
+    "mainWord": "Malware",
+    "forbiddenWords": [
+      "LDAP",
+      "SIEM",
+      "Escalation",
+      "Recovery",
+      "Pentest"
+    ]
+  },
+  {
+    "mainWord": "Syslog",
+    "forbiddenWords": [
+      "Firewall",
+      "Cybercrime",
+      "Policy",
+      "Escalation",
+      "APT"
+    ]
+  },
+  {
+    "mainWord": "Enumeration",
+    "forbiddenWords": [
+      "Cookie",
+      "Ping",
+      "Incident",
+      "CVE",
+      "Protocol"
+    ]
+  },
+  {
+    "mainWord": "Scanner",
+    "forbiddenWords": [
+      "Access",
+      "Hijack",
+      "ISO",
+      "Spyware",
+      "DDoS"
+    ]
+  },
+  {
+    "mainWord": "Threatmap",
+    "forbiddenWords": [
+      "Payload",
+      "Response",
+      "Attack",
+      "Burp",
+      "Mitre"
+    ]
+  },
+  {
+    "mainWord": "Privilege",
+    "forbiddenWords": [
+      "Onpremise",
+      "Firewall",
+      "Sysadmin",
+      "Portscan",
+      "Proxy"
+    ]
+  },
+  {
+    "mainWord": "TLS",
+    "forbiddenWords": [
+      "Insider",
+      "DDoS",
+      "Sniffing",
+      "SIEM",
+      "Nonce"
+    ]
+  },
+  {
+    "mainWord": "Access",
+    "forbiddenWords": [
+      "ACL",
+      "ISO",
+      "Rootkit",
+      "Scanner",
+      "Mitigation"
+    ]
+  },
+  {
+    "mainWord": "IPS",
+    "forbiddenWords": [
+      "Dropper",
+      "Anonymity",
+      "Hashing",
+      "Ransomware",
+      "Sniffing"
+    ]
+  },
+  {
+    "mainWord": "Asset",
+    "forbiddenWords": [
+      "Bruteforce",
+      "Virus",
+      "Protocol",
+      "Wireshark",
+      "TTP"
+    ]
+  },
+  {
+    "mainWord": "Steganography",
+    "forbiddenWords": [
+      "Burp",
+      "Recovery",
+      "Password",
+      "Session",
+      "Certificate"
+    ]
+  },
+  {
+    "mainWord": "Worm",
+    "forbiddenWords": [
+      "Cybercrime",
+      "IPS",
+      "Syslog",
+      "GPO",
+      "Access"
+    ]
+  },
+  {
+    "mainWord": "SQL",
+    "forbiddenWords": [
+      "Scanner",
+      "Awareness",
+      "Pentest",
+      "Asset",
+      "Banner"
+    ]
+  },
+  {
+    "mainWord": "Log",
+    "forbiddenWords": [
+      "Escalation",
+      "Clickjacking",
+      "Pentest",
+      "Outsider",
+      "Authenticator"
+    ]
+  },
+  {
+    "mainWord": "Ping",
+    "forbiddenWords": [
+      "Anonymity",
+      "MD5",
+      "Decryption",
+      "Steganography",
+      "Trojan"
+    ]
+  },
+  {
+    "mainWord": "XSS",
+    "forbiddenWords": [
+      "Cybercrime",
+      "Ping",
+      "ACL",
+      "Security",
+      "Sandbox"
+    ]
+  },
+  {
+    "mainWord": "Sniffing",
+    "forbiddenWords": [
+      "Security",
+      "Redteam",
+      "Traceroute",
+      "Compliance",
+      "Username"
+    ]
+  },
+  {
+    "mainWord": "Sandbox",
+    "forbiddenWords": [
+      "Decryption",
+      "Forensics",
+      "Biometric",
+      "Nmap",
+      "Anonymity"
+    ]
+  },
+  {
+    "mainWord": "VPN",
+    "forbiddenWords": [
+      "Exploitdb",
+      "Cloud",
+      "Cryptography",
+      "Trojan",
+      "Recovery"
+    ]
+  },
+  {
+    "mainWord": "Session",
+    "forbiddenWords": [
+      "Sysmon",
+      "Exploitdb",
+      "Steganography",
+      "Awareness",
+      "Hashcat"
+    ]
+  },
+  {
+    "mainWord": "TTP",
+    "forbiddenWords": [
+      "Alert",
+      "Trojan",
+      "Proxy",
+      "Forensic",
+      "Recon"
+    ]
+  },
+  {
+    "mainWord": "Policy",
+    "forbiddenWords": [
+      "Exploitdb",
+      "Compliance",
+      "Backdoor",
+      "Ransomware",
+      "Clickjacking"
+    ]
+  },
+  {
+    "mainWord": "Threatintel",
+    "forbiddenWords": [
+      "Rootkit",
+      "ACL",
+      "SOAR",
+      "Recovery",
+      "APT"
+    ]
+  },
+  {
+    "mainWord": "Redteam",
+    "forbiddenWords": [
+      "Rootkit",
+      "Backup",
+      "Response",
+      "Escalation",
+      "Penetration"
+    ]
+  },
+  {
+    "mainWord": "MFA",
+    "forbiddenWords": [
+      "Attack",
+      "2FA",
+      "Sandbox",
+      "Dropper",
+      "Vulnerability"
+    ]
+  },
+  {
+    "mainWord": "MD5",
+    "forbiddenWords": [
+      "Escalation",
+      "Sandbox",
+      "Asset",
+      "Forensics",
+      "Restore"
+    ]
+  },
+  {
+    "mainWord": "SHA",
+    "forbiddenWords": [
+      "Firewall",
+      "Nmap",
+      "Cloud",
+      "TTP",
+      "Ransomware"
+    ]
+  },
+  {
+    "mainWord": "Captcha",
+    "forbiddenWords": [
+      "Enumeration",
+      "Spoofing",
+      "Hashing",
+      "Antivirus",
+      "Blueteam"
+    ]
+  },
+  {
+    "mainWord": "Exploit",
+    "forbiddenWords": [
+      "Hijack",
+      "Vulnerability",
+      "Recovery",
+      "Ransomware",
+      "Audit"
+    ]
+  },
+  {
+    "mainWord": "Forensics",
+    "forbiddenWords": [
+      "XSS",
+      "Alert",
+      "Resilience",
+      "Burp",
+      "IAM"
+    ]
+  },
+  {
+    "mainWord": "Banner",
+    "forbiddenWords": [
+      "Botnet",
+      "Hijack",
+      "OAuth",
+      "Monitor",
+      "Spoofing"
+    ]
+  },
+  {
+    "mainWord": "Audit",
+    "forbiddenWords": [
+      "Protocol",
+      "Incident",
+      "Resilience",
+      "Restore",
+      "Nonce"
+    ]
+  },
+  {
+    "mainWord": "NIST",
+    "forbiddenWords": [
+      "Exploitdb",
+      "LDAP",
+      "Policy",
+      "Sandbox",
+      "Rainbow"
+    ]
+  },
+  {
+    "mainWord": "Breach",
+    "forbiddenWords": [
+      "Detection",
+      "Threatmap",
+      "Darknet",
+      "Trojan",
+      "Anonymity"
+    ]
+  },
+  {
+    "mainWord": "Blueteam",
+    "forbiddenWords": [
+      "Authenticator",
+      "Mitigation",
+      "Keylogger",
+      "Sandbox",
+      "Detection"
+    ]
+  },
+  {
+    "mainWord": "Escalation",
+    "forbiddenWords": [
+      "Rainbow",
+      "Virus",
+      "SHA",
+      "Nmap",
+      "Antivirus"
+    ]
+  },
+  {
+    "mainWord": "SSL",
+    "forbiddenWords": [
+      "Salting",
+      "Mitre",
+      "Sandbox",
+      "Hashcat",
+      "Backup"
+    ]
+  },
+  {
+    "mainWord": "Persistence",
+    "forbiddenWords": [
+      "Cybercrime",
+      "John",
+      "Keylogger",
+      "Dropper",
+      "SHA"
+    ]
+  },
+  {
+    "mainWord": "Insider",
+    "forbiddenWords": [
+      "Redteam",
+      "Defense",
+      "Cookie",
+      "CSRF",
+      "IDS"
+    ]
+  },
+  {
+    "mainWord": "Darknet",
+    "forbiddenWords": [
+      "Cache",
+      "Breach",
+      "Data",
+      "Antivirus",
+      "Digital"
+    ]
+  },
+  {
+    "mainWord": "Compliance",
+    "forbiddenWords": [
+      "Digital",
+      "Onpremise",
+      "Recon",
+      "Portscan",
+      "Awareness"
+    ]
+  },
+  {
+    "mainWord": "Rainbow",
+    "forbiddenWords": [
+      "ISO",
+      "Rootkit",
+      "Threatmap",
+      "SHA",
+      "Response"
+    ]
+  },
+  {
+    "mainWord": "GPO",
+    "forbiddenWords": [
+      "OAuth",
+      "Resilience",
+      "Cryptography",
+      "IAM",
+      "Botnet"
+    ]
+  },
+  {
+    "mainWord": "Wireshark",
+    "forbiddenWords": [
+      "Persistence",
+      "Darknet",
+      "Authenticator",
+      "Username",
+      "OAuth"
+    ]
+  },
+  {
+    "mainWord": "Cybercrime",
+    "forbiddenWords": [
+      "Rainbow",
+      "DNS",
+      "Detection",
+      "Banner",
+      "Privilege"
+    ]
+  },
+  {
+    "mainWord": "Authenticator",
+    "forbiddenWords": [
+      "Exploitdb",
+      "Dropper",
+      "LDAP",
+      "XSS",
+      "Detection"
+    ]
+  },
+  {
+    "mainWord": "UEBA",
+    "forbiddenWords": [
+      "IDS",
+      "Captcha",
+      "Sysmon",
+      "Keylogger",
+      "Antivirus"
+    ]
+  },
+  {
+    "mainWord": "Ransomware",
+    "forbiddenWords": [
+      "SSL",
+      "Exploit",
+      "Bruteforce",
+      "SQL",
+      "Certificate"
+    ]
+  },
+  {
+    "mainWord": "Spyware",
+    "forbiddenWords": [
+      "Attack",
+      "Burp",
+      "Virus",
+      "Sysadmin",
+      "Obfuscation"
+    ]
+  },
+  {
+    "mainWord": "Security",
+    "forbiddenWords": [
+      "ISO",
+      "CVE",
+      "DNS",
+      "ACL",
+      "Forensics"
+    ]
+  },
+  {
+    "mainWord": "Backdoor",
+    "forbiddenWords": [
+      "SQL",
+      "Threatmap",
+      "DDoS",
+      "Nonce",
+      "Certificate"
+    ]
+  },
+  {
+    "mainWord": "Outsider",
+    "forbiddenWords": [
+      "Clickjacking",
+      "Access",
+      "Alert",
+      "IAM",
+      "Awareness"
+    ]
+  },
+  {
+    "mainWord": "CVE",
+    "forbiddenWords": [
+      "LDAP",
+      "Recovery",
+      "Threatintel",
+      "Pentest",
+      "Spyware"
+    ]
+  },
+  {
+    "mainWord": "Alert",
+    "forbiddenWords": [
+      "Escalation",
+      "Attack",
+      "DDoS",
+      "Botnet",
+      "Dropper"
+    ]
+  },
+  {
+    "mainWord": "Rootkit",
+    "forbiddenWords": [
+      "Recon",
+      "Nmap",
+      "CVE",
+      "Hashing",
+      "Forensic"
+    ]
+  },
+  {
+    "mainWord": "Keylogger",
+    "forbiddenWords": [
+      "Restore",
+      "Authenticator",
+      "IAM",
+      "Dropper",
+      "XSS"
+    ]
+  },
+  {
+    "mainWord": "Nonce",
+    "forbiddenWords": [
+      "Blueteam",
+      "Dropper",
+      "Policy",
+      "Asset",
+      "Recovery"
+    ]
+  },
+  {
+    "mainWord": "Salting",
+    "forbiddenWords": [
+      "Cookie",
+      "Mitre",
+      "XSS",
+      "ATTACK",
+      "Trojan"
+    ]
+  },
+  {
+    "mainWord": "Vulnerability",
+    "forbiddenWords": [
+      "Onpremise",
+      "Spoofing",
+      "Exploitdb",
+      "Portscan",
+      "Botnet"
+    ]
+  },
+  {
+    "mainWord": "Sysmon",
+    "forbiddenWords": [
+      "Exploitdb",
+      "Redteam",
+      "Penetration",
+      "Awareness",
+      "Session"
+    ]
+  },
+  {
+    "mainWord": "Token",
+    "forbiddenWords": [
+      "LDAP",
+      "Decryption",
+      "Persistence",
+      "ACL",
+      "Traceroute"
+    ]
+  },
+  {
+    "mainWord": "Onpremise",
+    "forbiddenWords": [
+      "Portscan",
+      "ISO",
+      "Forensics",
+      "Salting",
+      "Breach"
+    ]
+  },
+  {
+    "mainWord": "SIEM",
+    "forbiddenWords": [
+      "Metasploit",
+      "Backup",
+      "ISO",
+      "Sysmon",
+      "Portscan"
+    ]
+  },
+  {
+    "mainWord": "LDAP",
+    "forbiddenWords": [
+      "Traceroute",
+      "Nmap",
+      "Sniffing",
+      "CVE",
+      "Hashcat"
+    ]
+  },
+  {
+    "mainWord": "Mitre",
+    "forbiddenWords": [
+      "Defense",
+      "Clickjacking",
+      "Persistence",
+      "XSS",
+      "Threatintel"
+    ]
+  },
+  {
+    "mainWord": "Bruteforce",
+    "forbiddenWords": [
+      "UEBA",
+      "Botnet",
+      "Salting",
+      "Response",
+      "CSRF"
+    ]
+  },
+  {
+    "mainWord": "Portscan",
+    "forbiddenWords": [
+      "Worm",
+      "Spyware",
+      "Awareness",
+      "Cache",
+      "Cookie"
+    ]
+  },
+  {
+    "mainWord": "Anonymity",
+    "forbiddenWords": [
+      "Mitre",
+      "Blueteam",
+      "Protocol",
+      "Ping",
+      "Policy"
+    ]
+  },
+  {
+    "mainWord": "Cryptography",
+    "forbiddenWords": [
+      "SSL",
+      "Enumeration",
+      "Worm",
+      "Spyware",
+      "DDoS"
+    ]
+  },
+  {
+    "mainWord": "Hybrid",
+    "forbiddenWords": [
+      "Enumeration",
+      "Incident",
+      "Awareness",
+      "Asset",
+      "Nmap"
+    ]
+  },
+  {
+    "mainWord": "Backup",
+    "forbiddenWords": [
+      "Cookie",
+      "Spyware",
+      "Biometric",
+      "Wireshark",
+      "Restore"
+    ]
+  },
+  {
+    "mainWord": "ISO",
+    "forbiddenWords": [
+      "Nonce",
+      "SSL",
+      "Recovery",
+      "SAML",
+      "Restore"
+    ]
+  },
+  {
+    "mainWord": "Recon",
+    "forbiddenWords": [
+      "Backdoor",
+      "Botnet",
+      "ISO",
+      "Decryption",
+      "Privilege"
+    ]
+  },
+  {
+    "mainWord": "SAML",
+    "forbiddenWords": [
+      "Cloud",
+      "GPO",
+      "Nmap",
+      "Firewall",
+      "Nonce"
+    ]
+  },
+  {
+    "mainWord": "Metasploit",
+    "forbiddenWords": [
+      "APT",
+      "Antivirus",
+      "GPO",
+      "IDS",
+      "OAuth"
+    ]
+  },
+  {
+    "mainWord": "Response",
+    "forbiddenWords": [
+      "Salting",
+      "Kerberos",
+      "Exploitdb",
+      "ISO",
+      "Honeypot"
+    ]
+  },
+  {
+    "mainWord": "Spoofing",
+    "forbiddenWords": [
+      "Hashing",
+      "Threatmap",
+      "2FA",
+      "Decryption",
+      "Nmap"
+    ]
+  },
+   {
+    "mainWord": "Phishing",
+    "forbiddenWords": [
+      "TTP",
+      "Threatintel",
+      "Restore",
+      "Certificate",
+      "Sandbox"
+    ]
+  },
+  {
+    "mainWord": "Biometric",
+    "forbiddenWords": [
+      "ACL",
+      "Awareness",
+      "Cache",
+      "Protocol",
+      "Burp"
+    ]
+  },
+  {
+    "mainWord": "CSRF",
+    "forbiddenWords": [
+      "APT",
+      "Data",
+      "ATTACK",
+      "Detection",
+      "Virus"
+    ]
+  },
+  {
+    "mainWord": "Detection",
+    "forbiddenWords": [
+      "Security",
+      "Malware",
+      "Recovery",
+      "SIEM",
+      "Restore"
+    ]
+  },
+  {
+    "mainWord": "Risk",
+    "forbiddenWords": [
+      "Encryption",
+      "Antivirus",
+      "Log",
+      "Clickjacking",
+      "MFA"
+    ]
+  },
+  {
+    "mainWord": "Digital",
+    "forbiddenWords": [
+      "Cookie",
+      "Exploitdb",
+      "Security",
+      "Compliance",
+      "Virus"
+    ]
+  },
+  {
+    "mainWord": "Virus",
+    "forbiddenWords": [
+      "2FA",
+      "Certificate",
+      "Restore",
+      "Penetration",
+      "SHA"
+    ]
+  },
+  {
+    "mainWord": "Monitor",
+    "forbiddenWords": [
+      "Banner",
+      "LDAP",
+      "Darknet",
+      "Escalation",
+      "Traceroute"
+    ]
+  },
+  {
+    "mainWord": "Sysadmin",
+    "forbiddenWords": [
+      "Awareness",
+      "IDS",
+      "Backdoor",
+      "MFA",
+      "ISO"
+    ]
+  },
+  {
+    "mainWord": "Dropper",
+    "forbiddenWords": [
+      "Defense",
+      "SOAR",
+      "Cookie",
+      "DDoS",
+      "Enumeration"
+    ]
+  },
+  {
+    "mainWord": "Cache",
+    "forbiddenWords": [
+      "IDS",
+      "SQL",
+      "John",
+      "Decryption",
+      "WHOIS"
+    ]
+  }
+]
