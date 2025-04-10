@@ -47,7 +47,7 @@
     "mainWord": "Əzələ",
     "forbiddenWords": ["Hərəkət", "Güc", "Lif", "Bədən", "Gimnastika"]
   },
-   {
+  {
     "mainWord": "Allergiya",
     "forbiddenWords": ["Qaşınma", "Asqırma", "Səpgi", "Histamin", "İmmunitet"]
   },
@@ -147,7 +147,7 @@
     "mainWord": "İnsult",
     "forbiddenWords": ["Beyin", "Qan", "Felç", "Nitq", "Nevroloq"]
   },
-   {
+  {
     "mainWord": "Osteoporoz",
     "forbiddenWords": ["Sümük", "Kalsium", "Qırıq", "Yaşlılıq", "Sıxlıq"]
   },
@@ -186,10 +186,6 @@
   {
     "mainWord": "Hemorroy",
     "forbiddenWords": ["Anal", "Qan", "Ağrı", "Qəbizlik", "Damar"]
-  },
-  {
-    "mainWord": "Allergiya",
-    "forbiddenWords": ["Səpgi", "Qaşıntı", "Asqırma", "Histamin", "İmmunitet"]
   },
   {
     "mainWord": "Diabet",
@@ -392,10 +388,6 @@
     "forbiddenWords": ["Şüa", "Sümük", "Ağciyər", "Şəkil", "Radioloq"]
   },
   {
-    "mainWord": "Antibiotik",
-    "forbiddenWords": ["Bakteriya", "İnfeksiya", "Dərman", "Resept", "Həkim"]
-  },
-  {
     "mainWord": "Antivirus",
     "forbiddenWords": ["Virus", "İnfeksiya", "Dərman", "Resept", "Həkim"]
   },
@@ -466,10 +458,6 @@
   {
     "mainWord": "Simptom",
     "forbiddenWords": ["Xəstəlik", "Əlamət", "Bədən", "Diaqnoz", "Hiss"]
-  },
-  {
-    "mainWord": "Diaqnoz",
-    "forbiddenWords": ["Xəstəlik", "Müayinə", "Test", "Həkim", "Nəticə"]
   },
   {
     "mainWord": "Proqnoz",
@@ -584,10 +572,6 @@
     "forbiddenWords": ["Böyümə", "Hüceyrə", "Xərçəng", "Bədən", "Kütlə"]
   },
   {
-    "mainWord": "Xərçəng",
-    "forbiddenWords": ["Şiş", "Hüceyrə", "Yayılma", "Ölüm", "Müalicə"]
-  },
-  {
     "mainWord": "Metastaz",
     "forbiddenWords": ["Xərçəng", "Yayılma", "Orqan", "Hüceyrə", "Uzaq"]
   },
@@ -647,17 +631,9 @@
     "mainWord": "Kompulsiv",
     "forbiddenWords": ["Təkrar", "Hərəkət", "Məcburi", "Psixoloji", "Narahatlıq"]
   },
- {
-    "mainWord": "Akupunktur",
-    "forbiddenWords": ["İynə", "Ağrı", "Enerji", "Çin", "Meridian"]
-  },
   {
     "mainWord": "Aromaterapiya",
     "forbiddenWords": ["Yağ", "Qoxu", "Rahatlıq", "Masaj", "Bitki"]
-  },
-  {
-    "mainWord": "Homeopatiya",
-    "forbiddenWords": ["Dərman", "Sulu", "Təbii", "Enerji", "Müalicə"]
   },
   {
     "mainWord": "Fitoterapiya",
@@ -708,24 +684,8 @@
     "forbiddenWords": ["Hərəkət", "Məşq", "Ağrı", "Reabilitasiya", "Əzələ"]
   },
   {
-    "mainWord": "Loqoped",
-    "forbiddenWords": ["Nitq", "Danışıq", "Kəkələmə", "Uşaq", "Dil"]
-  },
-  {
-    "mainWord": "Psixoloq",
-    "forbiddenWords": ["Düşüncə", "Duyğu", "Terapiya", "Söhbət", "Psixi"]
-  },
-  {
-    "mainWord": "Psixiatr",
-    "forbiddenWords": ["Dərman", "Psixoloji", "Xəstəlik", "Düşüncə", "Psixi"]
-  },
-  {
     "mainWord": "Sosial İşçi",
     "forbiddenWords": ["Yardım", "Problemlər", "Ailə", "Cəmiyyət", "Dəstək"]
-  },
-  {
-    "mainWord": "Dietoloq",
-    "forbiddenWords": ["Yemək", "Pəhriz", "Sağlam", "Çəki", "Kalori"]
   },
   {
     "mainWord": "Massajçı",
@@ -1132,10 +1092,6 @@
     "forbiddenWords": ["İltihab", "Dəri", "Alt", "Yayılmaq", "Bakteriya"]
   },
   {
-    "mainWord": "Fobiya",
-    "forbiddenWords": ["Qorxu", "Mantıksız", "Narahatlıq", "Psixoloji", "Çəkinmək"]
-  },
-  {
     "mainWord": "Furunculoza",
     "forbiddenWords": ["Sızanaq", "Dəri", "İltihab", "Bakteriya", "Qrup"]
   },
@@ -1244,10 +1200,6 @@
     "forbiddenWords": ["Göbələk", "İnfeksiya", "Dəri", "Ağız", "Qadın"]
   },
   {
-    "mainWord": "Katarakt",
-    "forbiddenWords": ["Göz", "Linza", "Dumanlı", "Görmək", "Əməliyyat"]
-  },
-  {
     "mainWord": "Keloid",
     "forbiddenWords": ["Çapıq", "Böyümək", "Dəri", "Qabarıqlıq", "Qızartı"]
   },
@@ -1274,10 +1226,6 @@
   {
     "mainWord": "Kolit",
     "forbiddenWords": ["Bağırsaq", "İltihab", "Qarın", "İshal", "Qan"]
-  },
-  {
-    "mainWord": "Koma",
-    "forbiddenWords": ["Şüur", "Yox", "Cavab", "Həyat", "Beyin"]
   },
   {
     "mainWord": "Konjuktivit",
@@ -1344,20 +1292,8 @@
     "forbiddenWords": ["Sinə", "İltihab", "Süd", "Əmizdirmək", "Ağrı"]
   },
   {
-    "mainWord": "Meningit",
-    "forbiddenWords": ["Beyin", "Zər", "İltihab", "Sərt", "Hərarət"]
-  },
-  {
     "mainWord": "Metabolizm",
     "forbiddenWords": ["Enerji", "Bədən", "Proses", "Yemək", "Çevirmək"]
-  },
-  {
-    "mainWord": "Metastaz",
-    "forbiddenWords": ["Xərçəng", "Yayılmaq", "Uzaq", "Orqan", "Hüceyrə"]
-  },
-  {
-    "mainWord": "Migren",
-    "forbiddenWords": ["Baş ağrısı", "Pulsasiya", "Ürəkbulanma", "İşıq", "Həssaslıq"]
   },
   {
     "mainWord": "Miyom",
@@ -1384,10 +1320,6 @@
     "forbiddenWords": ["Böyrək", "Sidik", "Filtrləmək", "Xəstəlik", "Müalicə"]
   },
   {
-    "mainWord": "Nekroz",
-    "forbiddenWords": ["Ölmək", "Toxuma", "Hüceyrə", "Qan", "Çatışmazlıq"]
-  },
-  {
     "mainWord": "Neoplaziya",
     "forbiddenWords": ["Böyümək", "Yeni", "Hüceyrə", "Normal olmayan", "Şiş"]
   },
@@ -1398,10 +1330,6 @@
   {
     "mainWord": "Nokturiya",
     "forbiddenWords": ["Sidik", "Gecə", "Tez-tez", "Yuxu", "Böyrək"]
-  },
-  {
-    "mainWord": "Obezite",
-    "forbiddenWords": ["Çəki", "Artıq", "Sağlamlıq", "Yemək", "Hərəkət"]
   },
   {
     "mainWord": "Obsesif Kompulsif Bozukluk",
@@ -1452,10 +1380,6 @@
     "forbiddenWords": ["Uyuşma", "Qarışqa", "Sinir", "Hiss", "Anormal"]
   },
   {
-    "mainWord": "Parkinson",
-    "forbiddenWords": ["Titreme", "Hərəkət", "Sakitlik", "Beyin", "Sinir"]
-  },
-  {
     "mainWord": "Patogen",
     "forbiddenWords": ["Xəstəlik", "Yaradıcı", "Mikrob", "Virus", "Bakteriya"]
   },
@@ -1472,10 +1396,6 @@
     "forbiddenWords": ["Qarın", "İltihab", "İnfeksiya", "Tez", "Ağrı"]
   },
   {
-    "mainWord": "Pnevmoniya",
-    "forbiddenWords": ["Ağciyər", "İltihab", "Tənəffüs", "Öskürək", "Bakteriya"]
-  },
-  {
     "mainWord": "Poliartrit",
     "forbiddenWords": ["Oynaq", "Çox", "İltihab", "Ağrı", "Hərəkət"]
   },
@@ -1486,10 +1406,6 @@
   {
     "mainWord": "Poliomielit",
     "forbiddenWords": ["Uşaq", "İflic", "Virus", "Peyvənd", "Əzələ"]
-  },
-  {
-    "mainWord": "Polip",
-    "forbiddenWords": ["Böyümək", "Toxuma", "Burun", "Bağırsaq", "Anormal"]
   },
   {
     "mainWord": "Postnatal",
@@ -1552,10 +1468,6 @@
     "forbiddenWords": ["Rektum", "Vagina", "Qadın", "Sıxmaq", "Çıxmaq"]
   },
   {
-    "mainWord": "Remissiya",
-    "forbiddenWords": ["Xərçəng", "Yox", "Əlamət", "Müvəqqəti", "Yaxşılaşmaq"]
-  },
-  {
     "mainWord": "Revmatizma",
     "forbiddenWords": ["Otoimmun", "İltihab", "Ağrı", "Oynaq", "Bədən"]
   },
@@ -1584,24 +1496,12 @@
     "forbiddenWords": ["İltihab", "Orqan", "Düyün", "Ağciyər", "İmmunitet"]
   },
   {
-    "mainWord": "Şizofreniya",
-    "forbiddenWords": ["Psixoz", "Halüsinasiya", "Düşüncə", "Gerçek", "Dərman"]
-  },
-  {
     "mainWord": "Şiddətli Tənəffüs Sindromu",
     "forbiddenWords": ["Nəfəs", "Çətin", "Ağciyər", "Ölüm", "Virus"]
   },
   {
-    "mainWord": "Siroz",
-    "forbiddenWords": ["Qaraciyər", "Qarışmaq", "Alkoqol", "Şram", "Funksiya"]
-  },
-  {
     "mainWord": "Skolyoz",
     "forbiddenWords": ["Onurğa", "Əyilmək", "Tərəf", "Postura", "Ağrı"]
-  },
-  {
-    "mainWord": "Sepsis",
-    "forbiddenWords": ["Qan", "İnfeksiya", "Zəhərlənmək", "Orqan", "Ölüm"]
   },
   {
     "mainWord": "Sistolik",
