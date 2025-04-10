@@ -1,0 +1,1826 @@
+[
+  {
+    "mainWord": "Nizami Gəncəvi",
+    "forbiddenWords": ["Şair", "Xəmsə", "Gəncə", "Leyli və Məcnun", "Klassik"]
+  },
+  {
+    "mainWord": "Xəmsə",
+    "forbiddenWords": ["Nizami", "Beşlik", "Poema", "Əsər", "Gəncəvi"]
+  },
+  {
+    "mainWord": "Leyli və Məcnun",
+    "forbiddenWords": ["Nizami", "Füzuli", "Eşq", "Səhra", "Poema"]
+  },
+  {
+    "mainWord": "Məhəmməd Füzuli",
+    "forbiddenWords": ["Şair", "Qəzəl", "Divan", "Leyli və Məcnun", "Kərbəla"]
+  },
+  {
+    "mainWord": "İmadəddin Nəsimi",
+    "forbiddenWords": ["Şair", "Hürufizm", "Dərisi Soyulmaq", "Fəlsəfə", "Divan"]
+  },
+  {
+    "mainWord": "Şah İsmayıl Xətai",
+    "forbiddenWords": ["Şah", "Səfəvi", "Şair", "Dəhnamə", "Türkcə"]
+  },
+  {
+    "mainWord": "Molla Pənah Vaqif",
+    "forbiddenWords": ["Şair", "Şuşa", "Vəzir", "Qoşma", "Realizm"]
+  },
+  {
+    "mainWord": "Molla Vəli Vidadi",
+    "forbiddenWords": ["Şair", "Realizm", "Müsibətnamə", "Dost", "Vaqif"]
+  },
+  {
+    "mainWord": "Mirzə Fətəli Axundov",
+    "forbiddenWords": ["Dramaturq", "Maarifçi", "Komediya", "Hacı Qara", "Əlifba"]
+  },
+  {
+    "mainWord": "Hacı Qara",
+    "forbiddenWords": ["Axundov", "Komediya", "Xəsis", "Sərkərdə", "Əsər"]
+  },
+  {
+    "mainWord": "Mirzə Ələkbər Sabir",
+    "forbiddenWords": ["Şair", "Satira", "Hophopnamə", "Molla Nəsrəddin", "Tənqid"]
+  },
+  {
+    "mainWord": "Hophopnamə",
+    "forbiddenWords": ["Sabir", "Satira", "Şeir", "Kitab", "Tənqid"]
+  },
+  {
+    "mainWord": "Cəlil Məmmədquluzadə",
+    "forbiddenWords": ["Yazıçı", "Molla Nəsrəddin", "Satira", "Anamın Kitabı", "Ölülər"]
+  },
+  {
+    "mainWord": "Molla Nəsrəddin",
+    "forbiddenWords": ["Jurnal", "Cəlil Məmmədquluzadə", "Satira", "Karikatura", "Tənqid"]
+  },
+  {
+    "mainWord": "Ölülər",
+    "forbiddenWords": ["Cəlil Məmmədquluzadə", "Pyes", "Şeyx Nəsrullah", "Cahillik", "Satira"]
+  },
+  {
+    "mainWord": "Anamın Kitabı",
+    "forbiddenWords": ["Cəlil Məmmədquluzadə", "Pyes", "Ana Dili", "Millət", "Qardaşlar"]
+  },
+  {
+    "mainWord": "Hüseyn Cavid",
+    "forbiddenWords": ["Şair", "Dramaturq", "Romantizm", "İblis", "Repressiya"]
+  },
+  {
+    "mainWord": "İblis (Əsər)",
+    "forbiddenWords": ["Hüseyn Cavid", "Pyes", "Şeytan", "Müharibə", "Fəlakət"]
+  },
+  {
+    "mainWord": "Şeyx Sənan",
+    "forbiddenWords": ["Hüseyn Cavid", "Pyes", "Gürcü Qızı", "Sevgi", "Din"]
+  },
+  {
+    "mainWord": "Əhməd Cavad",
+    "forbiddenWords": ["Şair", "Himn", "Azərbaycan", "Çırpınırdı Qara Dəniz", "Repressiya"]
+  },
+  {
+    "mainWord": "Çırpınırdı Qara Dəniz",
+    "forbiddenWords": ["Əhməd Cavad", "Şeir", "Türkiyə", "Qardaşlıq", "Dəniz"]
+  },
+  {
+    "mainWord": "Səməd Vurğun",
+    "forbiddenWords": ["Şair", "Xalq Şairi", "Azərbaycan", "Vaqif", "Dram"]
+  },
+  {
+    "mainWord": "Azərbaycan (Şeir)",
+    "forbiddenWords": ["Səməd Vurğun", "Şeir", "Vətən", "Təbiət", "Sevgi"]
+  },
+  {
+    "mainWord": "Vaqif (Əsər)",
+    "forbiddenWords": ["Səməd Vurğun", "Dram", "Pyes", "Şair", "Şuşa"]
+  },
+  {
+    "mainWord": "Mikayıl Müşfiq",
+    "forbiddenWords": ["Şair", "Oxu Tar", "Yenə O Bağ Olaydı", "Sevgi", "Repressiya"]
+  },
+  {
+    "mainWord": "Oxu Tar",
+    "forbiddenWords": ["Mikayıl Müşfiq", "Şeir", "Tar", "Musiqi Aləti", "Millilik"]
+  },
+  {
+    "mainWord": "Yenə O Bağ Olaydı",
+    "forbiddenWords": ["Mikayıl Müşfiq", "Şeir", "Bağ", "Xatirə", "Sevgi"]
+  },
+  {
+    "mainWord": "Rəsul Rza",
+    "forbiddenWords": ["Şair", "Sərbəst Şeir", "Nigar Rəfibəyli", "Sosialist Realizmi", "Lenin"]
+  },
+  {
+    "mainWord": "Bəxtiyar Vahabzadə",
+    "forbiddenWords": ["Şair", "Xalq Şairi", "Gülüstan", "Ana Dili", "Vətənpərvərlik"]
+  },
+  {
+    "mainWord": "Gülüstan (Poema)",
+    "forbiddenWords": ["Bəxtiyar Vahabzadə", "Poema", "İki Sahil", "Araz", "Ayrılıq"]
+  },
+  {
+    "mainWord": "Xəlil Rza Ulutürk",
+    "forbiddenWords": ["Şair", "Xalq Şairi", "Azadlıq", "Mübarizə", "Türkçülük"]
+  },
+  {
+    "mainWord": "Anar",
+    "forbiddenWords": ["Yazıçı", "Nasir", "Ağ Liman", "Beşmərtəbəli Evin Altıncı Mərtəbəsi", "Kino"]
+  },
+  {
+    "mainWord": "Beşmərtəbəli Evin Altıncı Mərtəbəsi",
+    "forbiddenWords": ["Anar", "Roman", "Təhminə", "Zaur", "Sevgi"]
+  },
+  {
+    "mainWord": "Elçin Əfəndiyev",
+    "forbiddenWords": ["Yazıçı", "Dramaturq", "Xalq Yazıçısı", "Baş", "Mənim Ərim Dəlidir"]
+  },
+  {
+    "mainWord": "Çingiz Abdullayev",
+    "forbiddenWords": ["Yazıçı", "Detektiv", "Dronqo", "Agent", "Roman"]
+  },
+  {
+    "mainWord": "İsmayıl Şıxlı",
+    "forbiddenWords": ["Yazıçı", "Nasir", "Dəli Kür", "Kənd Həyatı", "Realizm"]
+  },
+  {
+    "mainWord": "Dəli Kür",
+    "forbiddenWords": ["İsmayıl Şıxlı", "Roman", "Cahandar Ağa", "Kür Çayı", "Feodalizm"]
+  },
+  {
+    "mainWord": "İlyas Əfəndiyev",
+    "forbiddenWords": ["Yazıçı", "Dramaturq", "Xalq Yazıçısı", "Sən Həmişə Mənimləsən", "Psixoloji"]
+  },
+  {
+    "mainWord": "Sən Həmişə Mənimləsən",
+    "forbiddenWords": ["İlyas Əfəndiyev", "Pyes", "Sevgi", "Nərgiz", "Xosrov"]
+  },
+  {
+    "mainWord": "Mir Cəlal Paşayev",
+    "forbiddenWords": ["Yazıçı", "Ədəbiyyatşünas", "Professor", "Bir Gəncin Manifesti", "Satira"]
+  },
+  {
+    "mainWord": "Süleyman Rəhimov",
+    "forbiddenWords": ["Yazıçı", "Xalq Yazıçısı", "Saçlı", "Mehman", "Kənd"]
+  },
+  {
+    "mainWord": "Mehdi Hüseyn",
+    "forbiddenWords": ["Yazıçı", "Dramaturq", "Xalq Yazıçısı", "Abşeron", "Yeraltı Çaylar"]
+  },
+  {
+    "mainWord": "Əli Kərim",
+    "forbiddenWords": ["Şair", "Filosof", "Qaytar Ana Borcunu", "Yeni Şeir", "Altıonlar"]
+  },
+  {
+    "mainWord": "Nigar Rəfibəyli",
+    "forbiddenWords": ["Şairə", "Rəsul Rza", "Ana", "Lirika", "Tərcümə"]
+  },
+  {
+    "mainWord": "Məmməd Araz",
+    "forbiddenWords": ["Şair", "Xalq Şairi", "Ayağa Dur, Azərbaycan", "Vətən", "Qarabağ"]
+  },
+  {
+    "mainWord": "Nəbi Xəzri",
+    "forbiddenWords": ["Şair", "Xalq Şairi", "Dəniz", "Lirika", "Mahnı"]
+  },
+  {
+    "mainWord": "İsa Muğanna",
+    "forbiddenWords": ["Yazıçı", "Nasir", "İdeal", "Saz", "Fəlsəfi Roman"]
+  },
+  {
+    "mainWord": "Yusif Səmədoğlu",
+    "forbiddenWords": ["Yazıçı", "Nasir", "Xalq Yazıçısı", "Qətl Günü", "Səməd Vurğun"]
+  },
+  {
+    "mainWord": "Qətl Günü",
+    "forbiddenWords": ["Yusif Səmədoğlu", "Roman", "İntellektual", "Tarix", "Cinayət"]
+  },
+  {
+    "mainWord": "Sabir Rüstəmxanlı",
+    "forbiddenWords": ["Şair", "Yazıçı", "Xalq Şairi", "Ömür Kitabı", "Millət"]
+  },
+  {
+    "mainWord": "Məmməd Səid Ordubadi",
+    "forbiddenWords": ["Yazıçı", "Dramaturq", "Tarixi Roman", "Qılınc və Qələm", "Dumanlı Tehran"]
+  },
+  {
+    "mainWord": "Qılınc və Qələm",
+    "forbiddenWords": ["Ordubadi", "Roman", "Nizami Gəncəvi", "Tarixi", "Ədəbiyyat"]
+  },
+  {
+    "mainWord": "Əliağa Vahid",
+    "forbiddenWords": ["Şair", "Qəzəlxan", "Meyxana", "Bakı", "Satira"]
+  },
+  {
+    "mainWord": "Mirvarid Dilbazi",
+    "forbiddenWords": ["Şairə", "Xalq Şairi", "Bənövşə", "Uşaq Ədəbiyyatı", "Lirika"]
+  },
+  {
+    "mainWord": "İslam Səfərli",
+    "forbiddenWords": ["Şair", "Dramaturq", "Mahnı Mətni", "Göz Həkimi", "Bakı, Sabahın Xeyir"]
+  },
+  {
+    "mainWord": "Zəlimxan Yaqub",
+    "forbiddenWords": ["Şair", "Xalq Şairi", "Aşıq", "Saz", "Vətən"]
+  },
+  {
+    "mainWord": "Ramiz Rövşən",
+    "forbiddenWords": ["Şair", "Ssenarist", "Nəfəs", "Göylə Yer Arasında", "Fəlsəfi"]
+  },
+  {
+    "mainWord": "Vaqif Səmədoğlu",
+    "forbiddenWords": ["Şair", "Dramaturq", "Xalq Şairi", "Mən Burdayam, İlahi", "Səməd Vurğun"]
+  },
+  {
+    "mainWord": "Kamal Abdulla",
+    "forbiddenWords": ["Yazıçı", "Ədəbiyyatşünas", "Dilçi", "Yarımçıq Əlyazma", "Dilçilik"]
+  },
+  {
+    "mainWord": "Yarımçıq Əlyazma",
+    "forbiddenWords": ["Kamal Abdulla", "Roman", "Dədə Qorqud", "Postmodernizm", "Əlyazma"]
+  },
+  {
+    "mainWord": "Rüstəm İbrahimbəyov",
+    "forbiddenWords": ["Yazıçı", "Dramaturq", "Ssenarist", "Oskar", "Günəşdən Bıkmışlar"]
+  },
+  {
+    "mainWord": "Əkrəm Əylisli",
+    "forbiddenWords": ["Yazıçı", "Nasir", "Xalq Yazıçısı", "Daş Yuxular", "Adamlar və Ağaclar"]
+  },
+  {
+    "mainWord": "Məqsud İbrahimbəyov",
+    "forbiddenWords": ["Yazıçı", "Nasir", "Xalq Yazıçısı", "Bütün Yaxşılıqlar Üçün – Ölüm", "Psixoloji"]
+  },
+  {
+    "mainWord": "Seyid Əzim Şirvani",
+    "forbiddenWords": ["Şair", "Maarifçi", "Satirik", "Şamaxı", "Qəzəl"]
+  },
+  {
+    "mainWord": "Qasım bəy Zakir",
+    "forbiddenWords": ["Şair", "Satirik", "Şuşa", "Realizm", "Həcv"]
+  },
+  {
+    "mainWord": "Abdulla Şaiq",
+    "forbiddenWords": ["Yazıçı", "Şair", "Uşaq Ədəbiyyatı", "Tıq-tıq xanım", "Pedaqoq"]
+  },
+  {
+    "mainWord": "Tıq-tıq xanım",
+    "forbiddenWords": ["Abdulla Şaiq", "Nağıl", "Siçan", "Heyvanlar", "Mənzum"]
+  },
+  {
+    "mainWord": "Abbas Səhhət",
+    "forbiddenWords": ["Şair", "Tərcüməçi", "Həkim", "Romantizm", "Vətən"]
+  },
+  {
+    "mainWord": "Əbdürrəhim bəy Haqverdiyev",
+    "forbiddenWords": ["Yazıçı", "Dramaturq", "Dağılan Tifaq", "Millət", "Realizm"]
+  },
+  {
+    "mainWord": "Nəcəf bəy Vəzirov",
+    "forbiddenWords": ["Dramaturq", "Realizm", "Müsibəti-Fəxrəddin", " faciə", "Teatr"]
+  },
+  {
+    "mainWord": "Sultan Məcid Qənizadə",
+    "forbiddenWords": ["Yazıçı", "Maarifçi", "Pedaqoq", "Məktubati-Şeyda bəy Şirvani", "Lüğət"]
+  },
+  {
+    "mainWord": "Üzeyir Hacıbəyov",
+    "forbiddenWords": ["Bəstəkar", "Yazıçı", "Libretto", "Arşın Mal Alan", "O Olmasın Bu Olsun"]
+  },
+  {
+    "mainWord": "Cəfər Cabbarlı",
+    "forbiddenWords": ["Dramaturq", "Şair", "Almaz", "Sevil", "Səhnə"]
+  },
+  {
+    "mainWord": "Sevil",
+    "forbiddenWords": ["Cəfər Cabbarlı", "Pyes", "Qadın Azadlığı", "Balaş", "İnqilab"]
+  },
+  {
+    "mainWord": "Almaz",
+    "forbiddenWords": ["Cəfər Cabbarlı", "Pyes", "Kənd", "Mübarizə", "Sovet"]
+  },
+  {
+    "mainWord": "Süleyman Sani Axundov",
+    "forbiddenWords": ["Yazıçı", "Dramaturq", "Qorxulu Nağıllar", "Uşaqlar", "Pedaqoq"]
+  },
+  {
+    "mainWord": "Qaraca Qız",
+    "forbiddenWords": ["Süleyman Sani Axundov", "Hekayə", "Qorxulu Nağıllar", "Kənd", "Qız"]
+  },
+  {
+    "mainWord": "Səməd Mənsur",
+    "forbiddenWords": ["Şair", "Repressiya", "Həbsxana", "Lirika", "Müşfiq"]
+  },
+  {
+    "mainWord": "Osman Sarıvəlli",
+    "forbiddenWords": ["Şair", "Xalq Şairi", "Aşıq Şeiri", "Vətən", "Dağlar"]
+  },
+  {
+    "mainWord": "Mirmehdi Seyidzadə",
+    "forbiddenWords": ["Şair", "Uşaq Ədəbiyyatı", "Cırtdan", "Nağıl", "Tərcümə"]
+  },
+  {
+    "mainWord": "Ənvər Məmmədxanlı",
+    "forbiddenWords": ["Yazıçı", "Nasir", "Buz Heykəl", "Hekayə", "Psixoloji"]
+  },
+  {
+    "mainWord": "Qılman İlkin",
+    "forbiddenWords": ["Yazıçı", "Nasir", "Bakı", "Neft", "Dəniz"]
+  },
+  {
+    "mainWord": "Əbülhəsən Ələkbərzadə",
+    "forbiddenWords": ["Yazıçı", "Roman", "Dünya Qopur", "Müharibə", "Kənd"]
+  },
+  {
+    "mainWord": "Əzizə Cəfərzadə",
+    "forbiddenWords": ["Yazıçı", "Xalq Yazıçısı", "Tarixi Roman", "Bakı 1501", "Aləmdə Səsim Var Mənim"]
+  },
+  {
+    "mainWord": "Fərman Kərimzadə",
+    "forbiddenWords": ["Yazıçı", "Nasir", "Xudafərin Körpüsü", "Çaldıran Döyüşü", "Tarixi"]
+  },
+  {
+    "mainWord": "Vidadi Babanlı",
+    "forbiddenWords": ["Yazıçı", "Nasir", "Vicdan Susanda", "Gizlinlər", "Dram"]
+  },
+  {
+    "mainWord": "Elçin Hüseynbəyli",
+    "forbiddenWords": ["Yazıçı", "Nasir", "Balıqlara Layla Çalan", "Yol", "Müasir"]
+  },
+  {
+    "mainWord": "Afat Qurbanov",
+    "forbiddenWords": ["Dilçi", "Alim", "Onomastika", "Azərbaycan Dili", "Professor"]
+  },
+  {
+    "mainWord": "Tofiq Hacıyev",
+    "forbiddenWords": ["Dilçi", "Alim", "Türkologiya", "Azərbaycan Dili", "Akademik"]
+  },
+  {
+    "mainWord": "Bəkir Çobanzadə",
+    "forbiddenWords": ["Dilçi", "Türkoloq", "Şair", "Repressiya", "Krım Tatar"]
+  },
+  {
+    "mainWord": "Aşıq Ələsgər",
+    "forbiddenWords": ["Aşıq", "Saz", "Göyçə", "Ustad", "Deyişmə"]
+  },
+  {
+    "mainWord": "Aşıq Ədalət Nəsibov",
+    "forbiddenWords": ["Aşıq", "Saz", "Müasir", "İfaçı", "Ustad"]
+  },
+  {
+    "mainWord": "Sara Qədimova",
+    "forbiddenWords": ["Muğam", "Xanəndə", "Qarabağ", "Səs", "Qadın"]
+  },
+  {
+    "mainWord": "Xurşidbanu Natəvan",
+    "forbiddenWords": ["Şairə", "Şuşa", "Xan Qızı", "Məclisi-üns", "Qəzəl"]
+  },
+  {
+    "mainWord": "Baba Pünhan",
+    "forbiddenWords": ["Şair", "Satirik", "Meyxana", "Qəzəl", "Məşhur"]
+  },
+  {
+    "mainWord": "Mirzə İbrahimov",
+    "forbiddenWords": ["Yazıçı", "Nasir", "Dramaturq", "Gələcək Gün", "Cənubi Azərbaycan"]
+  },
+  {
+    "mainWord": "Gələcək Gün",
+    "forbiddenWords": ["Mirzə İbrahimov", "Roman", "İran Azərbaycanı", "Firudin", "Mübarizə"]
+  },
+  {
+    "mainWord": "Yanar ürək",
+    "forbiddenWords": ["İsa Hüseynov", "Roman", "Muğanna", "Fəlsəfi", "Axtarış"]
+  },
+  {
+    "mainWord": "Koroğlu (Dastan)",
+    "forbiddenWords": ["Epos", "Qəhrəman", "At", "Nigar", "Çənlibel"]
+  },
+  {
+    "mainWord": "Kitabi-Dədə Qorqud",
+    "forbiddenWords": ["Epos", "Oğuz", "Boylar", "Dastan", "Qəhrəmanlıq"]
+  },
+  {
+    "mainWord": "Sabir Əhmədli",
+    "forbiddenWords": ["Yazıçı", "Nasir", "Aran", "Yamacda Nişanə", "Müharibə"]
+  },
+  {
+    "mainWord": "Yamacda Nişanə",
+    "forbiddenWords": ["Sabir Əhmədli", "Roman", "Əfqanıstan", "Müharibə", "Əsgər"]
+  },
+  {
+    "mainWord": "Nəriman Nərimanov",
+    "forbiddenWords": ["Yazıçı", "Dramaturq", "Bahadır və Sona", "Siyasətçi", "Statya"]
+  },
+  {
+    "mainWord": "Bahadır və Sona",
+    "forbiddenWords": ["Nəriman Nərimanov", "Faciə", "Pyes", "Sevgi", "Millətlərarası"]
+  },
+  {
+    "mainWord": "Abbasqulu ağa Bakıxanov",
+    "forbiddenWords": ["Tarixçi", "Şair", "Maarifçi", "Gülüstani-İrəm", "Quba"]
+  },
+  {
+    "mainWord": "Gülüstani-İrəm",
+    "forbiddenWords": ["Bakıxanov", "Tarix", "Əsər", "Şirvan", "Qafqaz"]
+  },
+  {
+    "mainWord": "Məhəmmədhüseyn Şəhriyar",
+    "forbiddenWords": ["Şair", "Heydər Babaya Salam", "Təbriz", "Türkcə", "Farsca"]
+  },
+  {
+    "mainWord": "Heydər Babaya Salam",
+    "forbiddenWords": ["Şəhriyar", "Poema", "Kənd", "Uşaqlıq", "Xatirə"]
+  },
+  {
+    "mainWord": "Əli bəy Hüseynzadə",
+    "forbiddenWords": ["Mütəfəkkir", "Şair", "Füyuzat", "Türkçülük", "Rəssam"]
+  },
+  {
+    "mainWord": "Tofiq Bayram",
+    "forbiddenWords": ["Şair", "Lirik", "Mahnı Mətni", "Sevgi", "Vətən"]
+  },
+  {
+    "mainWord": "Mədinə Gülgün",
+    "forbiddenWords": ["Şairə", "Güney Azərbaycan", "Vətən Həsrəti", "Mübarizə", "Şeir"]
+  },
+  {
+    "mainWord": "Dirilən Adam",
+    "forbiddenWords": ["Mir Cəlal", "Povest", "Satira", "Molla", "Dirilmək"]
+  },
+  {
+    "mainWord": "Poçt Qutusu",
+    "forbiddenWords": ["Cəlil Məmmədquluzadə", "Hekayə", "Novruzəli", "Savadsızlıq", "Məktub"]
+  },
+  {
+    "mainWord": "Usta Zeynal",
+    "forbiddenWords": ["Cəlil Məmmədquluzadə", "Hekayə", "Nadanalıq", "Kənd", "Təbib"]
+  },
+  {
+    "mainWord": "Azadlıq (Şeir)",
+    "forbiddenWords": ["Əhməd Cavad", "Şeir", "Müstəqillik", "Vətən", "Bayraq"]
+  },
+  {
+    "mainWord": "Məni candan usandırdı",
+    "forbiddenWords": ["Füzuli", "Qəzəl", "Eşq", "Əzab", "Lirika"]
+  },
+  {
+    "mainWord": "Görmədim",
+    "forbiddenWords": ["Molla Pənah Vaqif", "Qoşma", "Gözəl", "Təsvir", "Sevgi"]
+  },
+  {
+    "mainWord": "Dağlar",
+    "forbiddenWords": ["Səməd Vurğun", "Şeir", "Təbiət", "Vətən", "Yüksəklik"]
+  },
+  {
+    "mainWord": "Ana dili (Şeir)",
+    "forbiddenWords": ["Bəxtiyar Vahabzadə", "Şeir", "Dil", "Millət", "Mənlik"]
+  },
+  {
+    "mainWord": "Aran",
+    "forbiddenWords": ["Sabir Əhmədli", "Roman", "Muğan", "Kənd", "Həyat"]
+  },
+  {
+    "mainWord": "Ömür kitabı",
+    "forbiddenWords": ["Sabir Rüstəmxanlı", "Şeir Toplusu", "Həyat", "Vətən", "Millət"]
+  },
+  {
+    "mainWord": "Nəfəs (Kitab)",
+    "forbiddenWords": ["Ramiz Rövşən", "Şeirlər", "Fəlsəfi", "Həyat", "Metafizika"]
+  },
+  {
+    "mainWord": "Mənim Ərim Dəlidir",
+    "forbiddenWords": ["Elçin Əfəndiyev", "Pyes", "Komediya", "Ailə", "Qısqanclıq"]
+  },
+  {
+    "mainWord": "Adamlar və Ağaclar",
+    "forbiddenWords": ["Əkrəm Əylisli", "Roman", "Kənd", "Təbiət", "İnsan"]
+  },
+  {
+    "mainWord": "Yeraltı Çaylar Dənizə Axır",
+    "forbiddenWords": ["Mehdi Hüseyn", "Roman", "Neftçilər", "Bakı", "Müharibə"]
+  },
+  {
+    "mainWord": "Göz Həkimi",
+    "forbiddenWords": ["İslam Səfərli", "Pyes", "Dram", "Həkim", "Vicdan"]
+  },
+  {
+    "mainWord": "Məhşər",
+    "forbiddenWords": ["İsa Muğanna", "Roman", "Fəlsəfi", "Qiyamət", "İnsan"]
+  },
+  {
+    "mainWord": "Qorxma",
+    "forbiddenWords": ["Xəlil Rza Ulutürk", "Şeirlər", "Mübarizə", "Vətən", "Azadlıq"]
+  },
+  {
+    "mainWord": "Bakı 1501",
+    "forbiddenWords": ["Əzizə Cəfərzadə", "Roman", "Şah İsmayıl", "Səfəvilər", "Tarixi"]
+  },
+  {
+    "mainWord": "Dumanlı Tehran",
+    "forbiddenWords": ["Məmməd Səid Ordubadi", "Roman", "İran", "Səttarxan", "Məşrutə"]
+  },
+  {
+    "mainWord": "Saçlı",
+    "forbiddenWords": ["Süleyman Rəhimov", "Roman", "Kənd", "Qadın", "Sovet"]
+  },
+  {
+    "mainWord": "Buz Heykəl",
+    "forbiddenWords": ["Ənvər Məmmədxanlı", "Hekayə", "Psixoloji", "Soyuqluq", "İnsan"]
+  },
+  {
+    "mainWord": "Dünya Qopur",
+    "forbiddenWords": ["Əbülhəsən Ələkbərzadə", "Roman", "Müharibə", "İkinci Dünya", "Kənd"]
+  },
+  {
+    "mainWord": "Xudafərin Körpüsü",
+    "forbiddenWords": ["Fərman Kərimzadə", "Roman", "Tarixi", "Elxanilər", "Araz"]
+  },
+  {
+    "mainWord": "Vicdan Susanda",
+    "forbiddenWords": ["Vidadi Babanlı", "Roman", "Müharibə Sonrası", "Əxlaq", "Cəmiyyət"]
+  },
+  {
+    "mainWord": "Balıqlara Layla Çalan",
+    "forbiddenWords": ["Elçin Hüseynbəyli", "Roman", "Müasir", "Sevgi", "Dəniz"]
+  },
+  {
+    "mainWord": "Dağılan Tifaq",
+    "forbiddenWords": ["Əbdürrəhim bəy Haqverdiyev", "Pyes", "Bəylik", "Çar Rusiyası", "Mənəviyyat"]
+  },
+  {
+    "mainWord": "Müsibəti-Fəxrəddin",
+    "forbiddenWords": ["Nəcəf bəy Vəzirov", "Faciə", "Pyes", "Ağa", "Zülm"]
+  },
+  {
+    "mainWord": "Məktubati-Şeyda bəy Şirvani",
+    "forbiddenWords": ["Sultan Məcid Qənizadə", "Roman", "Məktub", "Maarifçilik", "Tənqid"]
+  },
+  {
+    "mainWord": "Qaytar Ana Borcunu",
+    "forbiddenWords": ["Əli Kərim", "Şeir", "Ana", "Vətən", "Borc"]
+  },
+  {
+    "mainWord": "Ayağa Dur, Azərbaycan",
+    "forbiddenWords": ["Məmməd Araz", "Şeir", "Meydan Hərəkatı", "Milli Azadlıq", "Çağırış"]
+  },
+  {
+    "mainWord": "Mən Burdayam, İlahi",
+    "forbiddenWords": ["Vaqif Səmədoğlu", "Şeir", "Fəlsəfi", "Tanrı", "Varoluş"]
+  },
+  {
+    "mainWord": "Günəşdən Bıkmışlar",
+    "forbiddenWords": ["Rüstəm İbrahimbəyov", "Ssenari", "Oskar", "Repressiya", "Stalin"]
+  },
+  {
+    "mainWord": "Bütün Yaxşılıqlar Üçün – Ölüm",
+    "forbiddenWords": ["Maqsud İbrahimbəyov", "Povest", "Psixoloji", "İnsan", "Seçim"]
+  },
+  {
+    "mainWord": "Aşıq Qərib",
+    "forbiddenWords": ["Dastan", "Lermontov", "Sevgi", "Saz", "Şahsənəm"]
+  },
+  {
+    "mainWord": "Qəribə Müharibə",
+    "forbiddenWords": ["Orxan Fikrətoğlu", "Hekayə", "Müharibə", "Absurd", "Müasir"]
+  },
+  {
+    "mainWord": "Şeronun Alt Yaxası",
+    "forbiddenWords": ["Mövlud Süleymanlı", "Roman", "Kənd", "Müharibə", "İnsan"]
+  },
+  {
+    "mainWord": "Köç",
+    "forbiddenWords": ["Mövlud Süleymanlı", "Roman", "Deportasiya", "Ermənistan", "Azərbaycanlılar"]
+  },
+  {
+    "mainWord": "Neft və Milyonlar Səltənətində",
+    "forbiddenWords": ["İbrahim bəy Musabəyov", "Povest", "Neft Bumu", "Bakı", "Zənginlik"]
+  },
+  {
+    "mainWord": "Şamo",
+    "forbiddenWords": ["Süleyman Rəhimov", "Eyvaz", "Roman", "İnqilab", "Kənd"]
+  },
+  {
+    "mainWord": "Dağ Çiçəyi",
+    "forbiddenWords": ["Mirvarid Dilbazi", "Şeir", "Təbiət", "Dağ", "Çiçək"]
+  },
+  {
+    "mainWord": "Bakı, Sabahın Xeyir!",
+    "forbiddenWords": ["İslam Səfərli", "Mahnı Mətni", "Bakı", "Səhər", "Nəğmə"]
+  },
+  {
+    "mainWord": "Göylə Yer Arasında",
+    "forbiddenWords": ["Ramiz Rövşən", "Şeirlər", "Fəlsəfi", "Həyat", "Varlıq"]
+  },
+  {
+    "mainWord": "Aləmdə Səsim Var Mənim",
+    "forbiddenWords": ["Əzizə Cəfərzadə", "Roman", "Seyid Əzim Şirvani", "Biyografik", "Şair"]
+  },
+  {
+    "mainWord": "Çaldıran Döyüşü",
+    "forbiddenWords": ["Fərman Kərimzadə", "Roman", "Şah İsmayıl", "Sultan Səlim", "Tarixi"]
+  },
+  {
+    "mainWord": "Baş",
+    "forbiddenWords": ["Elçin Əfəndiyev", "Roman", "Tarixi", "Ağa Məhəmməd Şah", "Qacar"]
+  },
+  {
+    "mainWord": "Gözlərim yoldadır",
+    "forbiddenWords": ["Nəbi Xəzri", "Şeir", "Gözləmək", "Həsrət", "Yol"]
+  },
+  {
+    "mainWord": "Qızıl Gül Olmayaydı",
+    "forbiddenWords": ["Rəsul Rza", "Şeir", "Çiçək", "Qızıl", "Gül"]
+  },
+  {
+    "mainWord": "Həyat, sən nə qəribəsən",
+    "forbiddenWords": ["Nüsrət Kəsəmənli", "Şeir", "Həyat", "Fəlsəfi", "Qəribə"]
+  },
+  {
+    "mainWord": "Bəlkə də",
+    "forbiddenWords": ["Nüsrət Kəsəmənli", "Şeir", "Şübhə", "Ehtimal", "Sevgi"]
+  },
+  {
+    "mainWord": "Gəlmədin",
+    "forbiddenWords": ["Nüsrət Kəsəmənli", "Şeir", "Gəlmək", "Gözləmək", "Həsrət"]
+  },
+  {
+    "mainWord": "Daha nağıllara inanmıram mən",
+    "forbiddenWords": ["Nüsrət Kəsəmənli", "Şeir", "Nağıl", "İnanmaq", "Böyümək"]
+  },
+  {
+    "mainWord": "Məndən Ötdü",
+    "forbiddenWords": ["Baba Pünhan", "Şeir", "Satira", "Həyat", "Keçmək"]
+  },
+  {
+    "mainWord": "Əlli İl",
+    "forbiddenWords": ["Baba Pünhan", "Şeir", "Yaş", "Ömür", "Hesabat"]
+  },
+  {
+    "mainWord": "Hacı Mail",
+    "forbiddenWords": ["Şair", "Qəzəlxan", "Dini", "Fəlsəfi", "Nardaran"]
+  },
+  {
+    "mainWord": "Əlabbas",
+    "forbiddenWords": ["Şair", "Meyxana", "Satira", "Ustad", "Bakı Kəndləri"]
+  },
+  {
+    "mainWord": "Səməndər Rzayev",
+    "forbiddenWords": ["Aktyor", "Xalq Artisti", "Teatr", "Kino", "Məşhur"]
+  },
+  {
+    "mainWord": "Yaşar Nuri",
+    "forbiddenWords": ["Aktyor", "Xalq Artisti", "Komediya", "Teatr", "Kino"]
+  },
+  {
+    "mainWord": "Hamlet Xanızadə",
+    "forbiddenWords": ["Aktyor", "Xalq Artisti", "Kino", "Teatr", "Dram"]
+  },
+  {
+    "mainWord": "Şəfiqə Məmmədova",
+    "forbiddenWords": ["Aktrisa", "Xalq Artisti", "Kino", "Teatr", "Dram"]
+  },
+  {
+    "mainWord": "Həmidə Ömərova",
+    "forbiddenWords": ["Aktrisa", "Xalq Artisti", "Kino", "Teatr", "Gözəl"]
+  },
+  {
+    "mainWord": "Firəngiz Mütəllimova",
+    "forbiddenWords": ["Aktrisa", "Xalq Artisti", "Teatr", "Komediya", "Dram"]
+  },
+  {
+    "mainWord": "Mirzəağa Əliyev",
+    "forbiddenWords": ["Aktyor", "Xalq Artisti", "Məşədi İbad", "Komediya", "Teatr"]
+  },
+  {
+    "mainWord": "Leyla Bədirbəyli",
+    "forbiddenWords": ["Aktrisa", "Xalq Artisti", "Arşın Mal Alan", "Görüş", "Kino"]
+  },
+  {
+    "mainWord": "Nəcibə Məlikova",
+    "forbiddenWords": ["Aktrisa", "Xalq Artisti", "Ögey Ana", "Kino", "Teatr"]
+  },
+  {
+    "mainWord": "Ələsgər Ələkbərov",
+    "forbiddenWords": ["Aktyor", "Xalq Artisti", "Böyük Dayaq", "Teatr", "Kino"]
+  },
+  {
+    "mainWord": "Həsənağa Turabov",
+    "forbiddenWords": ["Aktyor", "Xalq Artisti", "Ad Günü", "Kino", "Teatr"]
+  },
+  {
+    "mainWord": "Səməndər Rzayev",
+    "forbiddenWords": ["Aktyor", "Xalq Artisti", "Evləri Köndələn Yar", "Kino", "Teatr"]
+  },
+  {
+    "mainWord": "Yaşar Nuri",
+    "forbiddenWords": ["Aktyor", "Xalq Artisti", "Komediya", "Bəyin Oğurlanması", "Teatr"]
+  },
+  {
+    "mainWord": "Siyavuş Aslan",
+    "forbiddenWords": ["Aktyor", "Xalq Artisti", "Komediya", "Əhməd Haradadır", "Teatr"]
+  },
+  {
+    "mainWord": "Nəsibə Zeynalova",
+    "forbiddenWords": ["Aktrisa", "Xalq Artisti", "Komediya", "Qayınana", "Teatr"]
+  },
+  {
+    "mainWord": "Əliağa Ağayev",
+    "forbiddenWords": ["Aktyor", "Xalq Artisti", "Məşədi İbad", "Komediya", "Teatr"]
+  },
+  {
+    "mainWord": "Lütfəli Abdullayev",
+    "forbiddenWords": ["Aktyor", "Xalq Artisti", "Komediya", "Əhməd Haradadır", "Görüş"]
+  },
+  {
+    "mainWord": "Bəşir Səfəroğlu",
+    "forbiddenWords": ["Aktyor", "Xalq Artisti", "Komediya", "Musiqili Komediya Teatrı", "Estrada"]
+  },
+  {
+    "mainWord": "Hacıbaba Bağırov",
+    "forbiddenWords": ["Aktyor", "Xalq Artisti", "Komediya", "Musiqili Komediya Teatrı", "Estrada"]
+  },
+  {
+    "mainWord": "Məlik Dadaşov",
+    "forbiddenWords": ["Aktyor", "Xalq Artisti", "Kino", "Teatr", "Dram"]
+  },
+  {
+    "mainWord": "Həsən Məmmədov",
+    "forbiddenWords": ["Aktyor", "Xalq Artisti", "Axırıncı Aşırım", "Kino", "Dram"]
+  },
+  {
+    "mainWord": "Rasim Balayev",
+    "forbiddenWords": ["Aktyor", "Xalq Artisti", "Babək", "Nəsimi", "Kino"]
+  },
+  {
+    "mainWord": "Fəxrəddin Manafov",
+    "forbiddenWords": ["Aktyor", "Xalq Artisti", "Təhminə", "Kino", "Teatr"]
+  },
+  {
+    "mainWord": "Şahmar Ələkbərov",
+    "forbiddenWords": ["Aktyor", "Rejissor", "Qəzəlxan", "Kino", "Yeddi Oğul İstərəm"]
+  },
+  {
+    "mainWord": "Fuad Poladov",
+    "forbiddenWords": ["Aktyor", "Xalq Artisti", "Qara Volqa", "Teatr", "Kino"]
+  },
+  {
+    "mainWord": "Ömür Nağıyev",
+    "forbiddenWords": ["Aktyor", "Kino", "Teatr", "Dram", "Xarakter"]
+  },
+  {
+    "mainWord": "Svetlana",
+    "forbiddenWords": ["Anar", "Povest", "Qadın", "Müharibə", "Sevgi"]
+  },
+  {
+    "mainWord": "Köhnə Çamadanlar",
+    "forbiddenWords": ["Elçin", "Hekayə", "Keçmiş", "Xatirə", "Nostalji"]
+  },
+  {
+    "mainWord": "Əlavə Təsir",
+    "forbiddenWords": ["Çingiz Abdullayev", "Roman", "Detektiv", "Casus", "Agent"]
+  },
+  {
+    "mainWord": "Bakı Bulvarı",
+    "forbiddenWords": ["Anar", "Hekayə", "Gənclik", "Bakı", "Dənizkənarı"]
+  },
+  {
+    "mainWord": "Ağ Dəvə",
+    "forbiddenWords": ["Elçin", "Povest", "Kənd", "Nağılvari", "Uşaqlıq"]
+  },
+  {
+    "mainWord": "Sarı Köynək (Hekayə)",
+    "forbiddenWords": ["Cəlil Məmmədquluzadə", "Hekayə", "Kəndli", "Ağa", "Zülm"]
+  },
+  {
+    "mainWord": "Saqqalı Uşaq",
+    "forbiddenWords": ["Cəlil Məmmədquluzadə", "Hekayə", "Satira", "Cahillik", "Kənd"]
+  },
+  {
+    "mainWord": "Dərviş və Ölüm",
+    "forbiddenWords": ["Meşa Selimoviç", "Roman", "Tərcümə", "Bosniya", "Fəlsəfi"]
+  },
+  {
+    "mainWord": "Sükut",
+    "forbiddenWords": ["Əli Kərim", "Şeir", "Fəlsəfi", "Səssizlik", "Düşüncə"]
+  },
+  {
+    "mainWord": "Qara Nişanələr",
+    "forbiddenWords": ["Nəriman Həsənzadə", "Poema", "Repressiya", "Tarix", "Xatirə"]
+  },
+  {
+    "mainWord": "Nəriman Həsənzadə",
+    "forbiddenWords": ["Şair", "Xalq Şairi", "Dramaturq", "Poeziya", "Lirika"]
+  },
+  {
+    "mainWord": "Məstanı Xumar",
+    "forbiddenWords": ["Qəzəl", "Füzuli", "Şərab", "Eşq", "Sərxoş"]
+  },
+  {
+    "mainWord": "Sığmazam",
+    "forbiddenWords": ["Nəsimi", "Qəzəl", "Hürufizm", "Fəlsəfi", "Kainat"]
+  },
+  {
+    "mainWord": "Xəstə Qasım",
+    "forbiddenWords": ["Aşıq", "Şair", "Xalq Ədəbiyyatı", "Sevgi", "Həsrət"]
+  },
+  {
+    "mainWord": "Məhsəti Gəncəvi",
+    "forbiddenWords": ["Şairə", "Rübai", "Gəncə", "Sevgi", "Şərab"]
+  },
+  {
+    "mainWord": "Gənclərə Xitab",
+    "forbiddenWords": ["Sabir", "Şeir", "Satira", "Maariflənmə", "Təhsil"]
+  },
+  {
+    "mainWord": "Fəhlə, ay Fəhlə!",
+    "forbiddenWords": ["Sabir", "Şeir", "Satira", "Fəhlə", "Hüquqsuzluq"]
+  },
+  {
+    "mainWord": "Bahar Sənsiz",
+    "forbiddenWords": ["Cavid", "Şeir", "Bahar", "Həsrət", "Lirika"]
+  },
+  {
+    "mainWord": "Bir damla yaş",
+    "forbiddenWords": ["Əhməd Cavad", "Şeir", "Göz yaşı", "Kədər", "Lirika"]
+  },
+  {
+    "mainWord": "Şair, nə tez qocaldın sən!",
+    "forbiddenWords": ["Səməd Vurğun", "Şeir", "Qocalıq", "Zaman", "Həyat"]
+  },
+  {
+    "mainWord": "Anama",
+    "forbiddenWords": ["Bəxtiyar Vahabzadə", "Şeir", "Ana", "Sevgi", "Minnətdarlıq"]
+  },
+  {
+    "mainWord": "Əllərim",
+    "forbiddenWords": ["Nigar Rəfibəyli", "Şeir", "Əl", "Zəhmət", "Həyat"]
+  },
+  {
+    "mainWord": "Qayıt",
+    "forbiddenWords": ["Məmməd Araz", "Şeir", "Həsrət", "Gözləmək", "Sevgi"]
+  },
+  {
+    "mainWord": "Gəmi Gəlir",
+    "forbiddenWords": ["Nəbi Xəzri", "Şeir", "Dəniz", "Gəmi", "Gözləmək"]
+  },
+  {
+    "mainWord": "Pəncərəmə qondu çiçək",
+    "forbiddenWords": ["Mikayıl Müşfiq", "Şeir", "Çiçək", "Pəncərə", "Bahar"]
+  },
+  {
+    "mainWord": "Yaşamaq Yanğısı",
+    "forbiddenWords": ["Rəsul Rza", "Şeir", "Həyat", "İstək", "Arzu"]
+  },
+  {
+    "mainWord": "Ömür Gedir",
+    "forbiddenWords": ["Zəlimxan Yaqub", "Şeir", "Ömür", "Zaman", "Həyat"]
+  },
+  {
+    "mainWord": "Məktəb Yolları",
+    "forbiddenWords": ["Ramiz Rövşən", "Şeir", "Məktəb", "Uşaqlıq", "Xatirə"]
+  },
+  {
+    "mainWord": "Atamın Kitabı",
+    "forbiddenWords": ["Anar", "Povest", "Ata", "Kitab", "Xatirə"]
+  },
+  {
+    "mainWord": "Molla İbrahimxəlil Kimyagər",
+    "forbiddenWords": ["Axundov", "Komediya", "Kimya", "Aldatma", "Satira"]
+  },
+  {
+    "mainWord": "Müsyö Jordan və Dərviş Məstəli Şah",
+    "forbiddenWords": ["Axundov", "Komediya", "Fransız", "Cadugər", "Satira"]
+  },
+  {
+    "mainWord": "Xırs Quldurbasan",
+    "forbiddenWords": ["Axundov", "Komediya", "Quldur", "Kənd", "Satira"]
+  },
+  {
+    "mainWord": "Vəzir-i Xani-Lənkəran",
+    "forbiddenWords": ["Axundov", "Komediya", "Lənkəran Xanlığı", "Vəzir", "Satira"]
+  },
+  {
+    "mainWord": "Aldanmış Kəvakib",
+    "forbiddenWords": ["Axundov", "Povest", "Ulduzlar", "Fantastika", "Satira"]
+  },
+  {
+    "mainWord": "Qaranquş",
+    "forbiddenWords": ["Abdulla Şaiq", "Şeir", "Quş", "Bahar", "Uşaq"]
+  },
+  {
+    "mainWord": "Kimin Üçün?",
+    "forbiddenWords": ["Abbas Səhhət", "Şeir", "Sual", "Məqsəd", "Həyat"]
+  },
+  {
+    "mainWord": "Pəri Cadu",
+    "forbiddenWords": ["Əbdürrəhim bəy Haqverdiyev", "Faciə", "Pyes", "Sevgi", "Qısqanclıq"]
+  },
+  {
+    "mainWord": "Bəxtsiz Cavan",
+    "forbiddenWords": ["Əbdürrəhim bəy Haqverdiyev", "Faciə", "Pyes", "Tale", "Gənclik"]
+  },
+  {
+    "mainWord": "Qəm Pəncərəsi",
+    "forbiddenWords": ["Cəlil Məmmədquluzadə", "Dram", "Molla Nəsrəddin", "Həyat", "Kədər"]
+  },
+  {
+    "mainWord": "Kamança",
+    "forbiddenWords": ["Cəlil Məmmədquluzadə", "Pyes", "Musiqi Aləti", "Sənət", "Avara"]
+  },
+  {
+    "mainWord": "Topal Teymur",
+    "forbiddenWords": ["Hüseyn Cavid", "Dram", "Teymurləng", "Tarixi", "Şəxsiyyət"]
+  },
+  {
+    "mainWord": "Knyaz",
+    "forbiddenWords": ["Hüseyn Cavid", "Dram", "Çar Rusiyası", "Zülm", "Mübarizə"]
+  },
+  {
+    "mainWord": "Ana (Hekayə)",
+    "forbiddenWords": ["Cəfər Cabbarlı", "Hekayə", "Ana", "Fədakarlıq", "Sevgi"]
+  },
+  {
+    "mainWord": "Oqtay Eloğlu",
+    "forbiddenWords": ["Cəfər Cabbarlı", "Dram", "Millətçilik", "Teatr", "İnqilab"]
+  },
+  {
+    "mainWord": "Yaşar",
+    "forbiddenWords": ["Cəfər Cabbarlı", "Dram", "Sovetləşmə", "Dəyişiklik", "Kənd"]
+  },
+  {
+    "mainWord": "Gülzar",
+    "forbiddenWords": ["Cəfər Cabbarlı", "Hekayə", "Sevgi", "Gözəllik", "Kənd"]
+  },
+  {
+    "mainWord": "Dönüş",
+    "forbiddenWords": ["Cəfər Cabbarlı", "Dram", "Müharibə", "Qayıdış", "Ailə"]
+  },
+  {
+    "mainWord": "Şeirlərim",
+    "forbiddenWords": ["Mikayıl Müşfiq", "Şeir Toplusu", "Lirika", "Sevgi", "Həyat"]
+  },
+  {
+    "mainWord": "Duyğu Yarpaqları",
+    "forbiddenWords": ["Mikayıl Müşfiq", "Şeir", "Duyğu", "Təbiət", "Lirika"]
+  },
+  {
+    "mainWord": "Küləklər",
+    "forbiddenWords": ["Mikayıl Müşfiq", "Şeir", "Külək", "Təbiət", "Güc"]
+  },
+  {
+    "mainWord": "İnsan",
+    "forbiddenWords": ["Səməd Vurğun", "Poema", "Fəlsəfi", "Həyat", "Düşüncə"]
+  },
+  {
+    "mainWord": "Komsomol Poeması",
+    "forbiddenWords": ["Səməd Vurğun", "Poema", "Gənclik", "Sovet", "İdeologiya"]
+  },
+  {
+    "mainWord": "Qız Qayası",
+    "forbiddenWords": ["Rəsul Rza", "Poema", "Əfsanə", "Bakı", "Sevgi"]
+  },
+  {
+    "mainWord": "Lenin (Poema)",
+    "forbiddenWords": ["Rəsul Rza", "Səməd Vurğun", "Poema", "İnqilab", "Lider"]
+  },
+  {
+    "mainWord": "Şəlalə",
+    "forbiddenWords": ["Bəxtiyar Vahabzadə", "Poema", "Təbiət", "Dağ", "Su"]
+  },
+  {
+    "mainWord": "İki Qorxu",
+    "forbiddenWords": ["Bəxtiyar Vahabzadə", "Poema", "Ölüm", "Vicdan", "Fəlsəfi"]
+  },
+  {
+    "mainWord": "Dar Ağacı",
+    "forbiddenWords": ["Bəxtiyar Vahabzadə", "Poema", "Məhkəmə", "Ədalət", "Tarix"]
+  },
+  {
+    "mainWord": "Ya Qarabağ, Ya Ölüm",
+    "forbiddenWords": ["Xəlil Rza Ulutürk", "Şeir", "Qarabağ", "Müharibə", "Vətənpərvərlik"]
+  },
+  {
+    "mainWord": "Ağ Liman",
+    "forbiddenWords": ["Anar", "Povest", "Dəniz", "Yalnızlıq", "Axtarış"]
+  },
+  {
+    "mainWord": "Qırmızı Limuzin",
+    "forbiddenWords": ["Anar", "Hekayə", "Var-dövlət", "Mənəviyyat", "Tənqid"]
+  },
+  {
+    "mainWord": "Macal",
+    "forbiddenWords": ["Anar", "Povest", "Həyat", "Zaman", "Seçim"]
+  },
+  {
+    "mainWord": "Otel Otağı",
+    "forbiddenWords": ["Anar", "Povest", "Yazıçı", "Yaradıcılıq", "Yalnızlıq"]
+  },
+  {
+    "mainWord": "Baladadaşın Məktəbə Getməyi",
+    "forbiddenWords": ["Ənvər Əbluc", "Hekayə", "Uşaq", "Məktəb", "Komik"]
+  },
+  {
+    "mainWord": "Karı Nənənin Nağılı",
+    "forbiddenWords": ["Nağıl", "Nənə", "Kar", "Heyvanlar", "Xalq Ədəbiyyatı"]
+  },
+  {
+    "mainWord": "Məlikməmməd",
+    "forbiddenWords": ["Nağıl", "Qəhrəman", "Padşah", "Simurq Quşu", "Macəra"]
+  },
+  {
+    "mainWord": "Cırtdan",
+    "forbiddenWords": ["Nağıl", "Uşaq", "Div", "Ağıl", "Kiçik"]
+  },
+  {
+    "mainWord": "Göyçək Fatma",
+    "forbiddenWords": ["Nağıl", "Qız", "Ögey Ana", "Cadugər", "Xilas"]
+  },
+  {
+    "mainWord": "Aşıq Alı",
+    "forbiddenWords": ["Aşıq", "Saz", "Dastan", "Sevgi", "İfa"]
+  },
+  {
+    "mainWord": "Abbas və Gülgəz",
+    "forbiddenWords": ["Dastan", "Aşıq", "Sevgi", "Macəra", "Padşah"]
+  },
+  {
+    "mainWord": "Şah Abbas və Xurşid Banu",
+    "forbiddenWords": ["Dastan", "Sevgi", "Padşah", "Çətinlik", "Xalq Ədəbiyyatı"]
+  },
+  {
+    "mainWord": "Tahir və Zöhrə",
+    "forbiddenWords": ["Dastan", "Sevgi", "Şərq", "Ayrılıq", "Faciə"]
+  },
+  {
+    "mainWord": "Metafora",
+    "forbiddenWords": ["Bənzətmə", "Müqayisə", "Köçürmə", "Məcaz", "Gizli"]
+  },
+  {
+    "mainWord": "Bənzətmə",
+    "forbiddenWords": ["Metafora", "Müqayisə", "Kimi", "Tək", "Oxşatma"]
+  },
+  {
+    "mainWord": "Epithet",
+    "forbiddenWords": ["Təyin", "Sifət", "Bədii", "Təsvir", "Xüsusiyyət"]
+  },
+  {
+    "mainWord": "Alleqoriya",
+    "forbiddenWords": ["Simvol", "Məcaz", "Təmsil", "Gizli məna", "İbrətamiz"]
+  },
+  {
+    "mainWord": "Simvol",
+    "forbiddenWords": ["İşarə", "Rəmz", "Alleqoriya", "Məna", "Təmsil"]
+  },
+  {
+    "mainWord": "Personifikasiya",
+    "forbiddenWords": ["Canlandırma", "İnsanlaşdırma", "Təbiət", "Məcaz", "Bədii təsvir"]
+  },
+  {
+    "mainWord": "Hiperbola",
+    "forbiddenWords": ["Mübaliğə", "Şişirtmə", "Artırma", "Qüvvətləndirmə", "Ədəbi priyom"]
+  },
+  {
+    "mainWord": "Litota",
+    "forbiddenWords": ["Kiçiltmə", "Mübaliğə əksi", "Zəiflətmə", "Məcaz", "Bədii ifadə"]
+  },
+  {
+    "mainWord": "İroniya",
+    "forbiddenWords": ["Kinayə", "Gizli istehza", "Əks məna", "Satira", "Sarkazm"]
+  },
+  {
+    "mainWord": "Sarkazm",
+    "forbiddenWords": ["Acı istehza", "Tənqid", "İroniya", "Kinayə", "Kəskin"]
+  },
+  {
+    "mainWord": "Alliterasiya",
+    "forbiddenWords": ["Səs təkrarı", "Samit", "Şeir", "Ahəng", "Fonetik"]
+  },
+  {
+    "mainWord": "Assonans",
+    "forbiddenWords": ["Səs təkrarı", "Sait", "Şeir", "Ahəng", "Fonetik"]
+  },
+  {
+    "mainWord": "Onomatopeya",
+    "forbiddenWords": ["Təqlidi söz", "Səs yamsılama", "Təbiət səsi", "Şaqqıltı", "Vıyıldamaq"]
+  },
+  {
+    "mainWord": "Qafiyə",
+    "forbiddenWords": ["Şeir", "Səs uyğunluğu", "Misra sonu", "Ritm", "Həmahəng"]
+  },
+  {
+    "mainWord": "Ritm",
+    "forbiddenWords": ["Şeir", "Ahəng", "Vurğu", "Musiqililik", "Təkrarlanma"]
+  },
+  {
+    "mainWord": "Vəzn",
+    "forbiddenWords": ["Şeir ölçüsü", "Heca", "Əruz", "Ritm", "Misra"]
+  },
+  {
+    "mainWord": "Bənd",
+    "forbiddenWords": ["Şeir parçası", "Misralar qrupu", "Dördlük", "Stanza", "Kupet"]
+  },
+  {
+    "mainWord": "Beyt",
+    "forbiddenWords": ["İki misra", "Şeir", "Qəzəl", "Məsnəvi", "Cütlük"]
+  },
+  {
+    "mainWord": "Misra",
+    "forbiddenWords": ["Şeir sətri", "Bənd", "Qafiyə", "Vəzn", "Sətir"]
+  },
+  {
+    "mainWord": "Şeir",
+    "forbiddenWords": ["Poeziya", "Misra", "Bənd", "Qafiyə", "Lirika"]
+  },
+  {
+    "mainWord": "Lirika",
+    "forbiddenWords": ["Şeir", "Duyğu", "Hiss", "Subyektiv", "Mən"]
+  },
+  {
+    "mainWord": "Epika",
+    "forbiddenWords": ["Nəsr", "Hekayə", "Hadisə", "Təsvir", "Roman"]
+  },
+  {
+    "mainWord": "Drama",
+    "forbiddenWords": ["Pyes", "Teatr", "Səhnə", "Dialoq", "Konflikt"]
+  },
+  {
+    "mainWord": "Roman",
+    "forbiddenWords": ["Nəsr", "Uzun hekayə", "Personaj", "Süjet", "Epik"]
+  },
+  {
+    "mainWord": "Povest",
+    "forbiddenWords": ["Nəsr", "Hekayədən uzun", "Romandan qısa", "Süjet", "Novella"]
+  },
+  {
+    "mainWord": "Hekayə",
+    "forbiddenWords": ["Nəsr", "Qısa", "Süjet", "Personaj", "Hadisə"]
+  },
+  {
+    "mainWord": "Esse",
+    "forbiddenWords": ["Yazı", "Fikir", "Subyektiv", "Sərbəst", "Mühakimə"]
+  },
+  {
+    "mainWord": "Bioqrafiya",
+    "forbiddenWords": ["Həyat hekayəsi", "Başqası haqqında", "Tərcümeyi-hal", "Yazı", "Tarix"]
+  },
+  {
+    "mainWord": "Avtobioqrafiya",
+    "forbiddenWords": ["Həyat hekayəsi", "Özü haqqında", "Tərcümeyi-hal", "Yazı", "Xatirə"]
+  },
+  {
+    "mainWord": "Məqalə",
+    "forbiddenWords": ["Yazı", "Qəzet", "Jurnal", "Mövzu", "İnformasiya"]
+  },
+  {
+    "mainWord": "Personaj",
+    "forbiddenWords": ["Obraz", "Xarakter", "Əsər iştirakçısı", "Baş qəhrəman", "Antaqonist"]
+  },
+  {
+    "mainWord": "Protaqonist",
+    "forbiddenWords": ["Baş qəhrəman", "Mərkəzi personaj", "Əsas", "Müsbət", "Hekayə"]
+  },
+  {
+    "mainWord": "Antaqonist",
+    "forbiddenWords": ["Mənfi qəhrəman", "Rəqib", "Düşmən", "Protaqonist əksi", "Konflikt"]
+  },
+  {
+    "mainWord": "Nəqledici",
+    "forbiddenWords": ["Hekayəçi", "Danışan", "Perspektiv", "Müəllif", "Birinci şəxs"]
+  },
+  {
+    "mainWord": "Süjet",
+    "forbiddenWords": ["Hadisələr zənciri", "Hekayə xətti", "Kompozisiya", "İnkişaf", "Kulminasiya"]
+  },
+  {
+    "mainWord": "Ekspozisiya",
+    "forbiddenWords": ["Giriş", "Başlanğıc", "Təqdimat", "Süjet elementi", "Personajların təqdimi"]
+  },
+  {
+    "mainWord": "Zavyazka",
+    "forbiddenWords": ["Düyün", "Başlanğıc nöqtəsi", "Konfliktin yaranması", "Süjet elementi", "Hadisənin başlaması"]
+  },
+  {
+    "mainWord": "Kulminasiya",
+    "forbiddenWords": ["Zirvə nöqtəsi", "Gərginlik", "Ən həyəcanlı yer", "Süjet elementi", "Dönüş"]
+  },
+  {
+    "mainWord": "Açılış",
+    "forbiddenWords": ["Sonluq", "Həll", "Nəticə", "Süjet elementi", "Razvyazka"]
+  },
+  {
+    "mainWord": "Konflikt",
+    "forbiddenWords": ["Mübarizə", "Ziddiyyət", "Qarşıdurma", "Problem", "Dramatik"]
+  },
+  {
+    "mainWord": "Tema",
+    "forbiddenWords": ["Əsas fikir", "Mövzu", "İdeya", "Məzmun", "Əsərin ruhu"]
+  },
+  {
+    "mainWord": "İdeya",
+    "forbiddenWords": ["Fikir", "Məqsəd", "Müəllif mövqeyi", "Tema", "Əsas düşüncə"]
+  },
+  {
+    "mainWord": "Mövzu",
+    "forbiddenWords": ["Haqqında danışılan", "Predmet", "Konu", "Tema", "Məzmun"]
+  },
+  {
+    "mainWord": "Janr",
+    "forbiddenWords": ["Növ", "Kateqoriya", "Ədəbi forma", "Roman", "Şeir"]
+  },
+  {
+    "mainWord": "Komediya",
+    "forbiddenWords": ["Gülüş", "Mizah", "Satira", "Pyes", "Janr"]
+  },
+  {
+    "mainWord": "Tragediya",
+    "forbiddenWords": ["Faciə", "Kədərli son", "Pyes", "Dram", "Qəhrəman ölümü"]
+  },
+  {
+    "mainWord": "Satira",
+    "forbiddenWords": ["Tənqid", "Yumor", "İstehza", "İfşa", "Gülüş"]
+  },
+  {
+    "mainWord": "Parodiya",
+    "forbiddenWords": ["Yamsılama", "Təqlid", "Gülüş", "Komik effekt", "Başqa əsər"]
+  },
+  {
+    "mainWord": "Utopiya",
+    "forbiddenWords": ["İdeal cəmiyyət", "Xəyali", "Mükəmməl", "Əks-distopiya", "Fantastika"]
+  },
+  {
+    "mainWord": "Distopiya",
+    "forbiddenWords": ["Pis cəmiyyət", "Mənfi gələcək", "Zülm", "Əks-utopiya", "Fantastika"]
+  },
+  {
+    "mainWord": "Fantastika",
+    "forbiddenWords": ["Qeyri-real", "Xəyali", "Sehr", "Gələcək", "Elmi"]
+  },
+  {
+    "mainWord": "Detektiv",
+    "forbiddenWords": ["Cinayət", "Araşdırma", "Sirr", "Müəmma", "Polis"]
+  },
+  {
+    "mainWord": "Dialoq",
+    "forbiddenWords": ["Danışıq", "İki nəfər", "Pyes", "Nəsr", "Söhbət"]
+  },
+  {
+    "mainWord": "Monoloq",
+    "forbiddenWords": ["Tək danışıq", "Personajın düşüncələri", "Səhnə", "Pyes", "Daxili"]
+  },
+  {
+    "mainWord": "Daxili Monoloq",
+    "forbiddenWords": ["Şüur axını", "Personajın fikirləri", "Gizli", "Pərdəarxası", "Subyektiv"]
+  },
+  {
+    "mainWord": "Epiloq",
+    "forbiddenWords": ["Son söz", "Nəticə", "Əsərin sonu", "Gələcək", "Proloq əksi"]
+  },
+  {
+    "mainWord": "Proloq",
+    "forbiddenWords": ["Giriş sözü", "Ön söz", "Əsərin əvvəli", "Müqəddimə", "Epiloq əksi"]
+  },
+  {
+    "mainWord": "Müqəddimə",
+    "forbiddenWords": ["Giriş", "Ön söz", "Başlanğıc", "İzah", "Proloq"]
+  },
+  {
+    "mainWord": "Fəsil",
+    "forbiddenWords": ["Bölüm", "Roman", "Kitab", "Hissə", "Ayırma"]
+  },
+  {
+    "mainWord": "Səhnə",
+    "forbiddenWords": ["Pərdə", "Teatr", "Pyes", "Məkan", "Hadisə yeri"]
+  },
+  {
+    "mainWord": "Pərdə",
+    "forbiddenWords": ["Akt", "Teatr", "Pyes", "Bölüm", "Səhnə"]
+  },
+  {
+    "mainWord": "Remarka",
+    "forbiddenWords": ["Səhnə göstərişi", "Pyes", "Müəllif qeydi", "Personaj hərəkəti", "Təlimat"]
+  },
+  {
+    "mainWord": "Obraz",
+    "forbiddenWords": ["Personaj", "Tip", "Xarakter", "Təsvir", "Fiqur"]
+  },
+  {
+    "mainWord": "Arxetip",
+    "forbiddenWords": ["İlk nümunə", "Prototip", "Kollektiv şüursuzluq", "Yunq", "Simvol"]
+  },
+  {
+    "mainWord": "Leitmotiv",
+    "forbiddenWords": ["Təkrarlanan motiv", "Əsas fikir", "Musiqi", "Ədəbiyyat", "Simvolik"]
+  },
+  {
+    "mainWord": "Grotesk",
+    "forbiddenWords": ["Qəribə", "Mübaliğəli", "Eybecər", "Komik və qorxulu", "Satira"]
+  },
+  {
+    "mainWord": "Metafiksiya",
+    "forbiddenWords": ["Özünü ifşa edən əsər", "Hekayə içində hekayə", "Müəllif müdaxiləsi", "Postmodernizm", "Oyun"]
+  },
+  {
+    "mainWord": "İntertekstuallıq",
+    "forbiddenWords": ["Mətnlər arası əlaqə", "Başqa əsərə istinad", "Sitat", "Allüziya", "Əlaqə"]
+  },
+  {
+    "mainWord": "Pastiş",
+    "forbiddenWords": ["Təqlid", "Üslub yamsılama", "Başqa müəllif", "Parodiya", "Hörmət"]
+  },
+  {
+    "mainWord": "Mif",
+    "forbiddenWords": ["Əsatir", "Tanrılar", "Qədim", "İzah", "Xalq yaradıcılığı"]
+  },
+  {
+    "mainWord": "Əfsanə",
+    "forbiddenWords": ["Rəvayət", "Qəhrəman", "Tarixi hadisə", "Mübaliğə", "Xalq yaradıcılığı"]
+  },
+  {
+    "mainWord": "Nağıl",
+    "forbiddenWords": ["Xəyali", "Sehr", "Heyvanlar", "Yaxşı və pis", "Uşaq"]
+  },
+  {
+    "mainWord": "Lətifə",
+    "forbiddenWords": ["Gülməli hekayə", "Molla Nəsrəddin", "Yumor", "Qısa", "Hikmət"]
+  },
+  {
+    "mainWord": "Atalar sözü",
+    "forbiddenWords": ["Hikmətli söz", "Xalq müdrikliyi", "Nəsihət", "Qısa", "Məcazi"]
+  },
+  {
+    "mainWord": "Məsəl",
+    "forbiddenWords": ["Təmsil", "Heyvanlar", "İbrətamiz", "Nəsihət", "Ezop"]
+  },
+  {
+    "mainWord": "Publisistika",
+    "forbiddenWords": ["Jurnalistika", "Məqalə", "Aktual mövzu", "İctimai fikir", "Qəzet"]
+  },
+  {
+    "mainWord": "Tənqid",
+    "forbiddenWords": ["Qiymətləndirmə", "Əsər təhlili", "Nöqsan", "Müzakirə", "Ədəbiyyatşünaslıq"]
+  },
+  {
+    "mainWord": "Memuar",
+    "forbiddenWords": ["Xatirə", "Avtobioqrafiya", "Keçmiş hadisələr", "Şəxsi təcrübə", "Yaddaş"]
+  },
+  {
+    "mainWord": "Elegiya",
+    "forbiddenWords": ["Kədərli şeir", "Matəm", "Ölüm", "Həsrət", "Lirika"]
+  },
+  {
+    "mainWord": "Oda",
+    "forbiddenWords": ["Təntənəli şeir", "Mədh", "Yüksək pafos", "Qəhrəmanlıq", "Lirika"]
+  },
+  {
+    "mainWord": "Sonet",
+    "forbiddenWords": ["Şeir forması", "On dörd misra", "Qafiyə sxemi", "Petrarka", "Şekspir"]
+  },
+  {
+    "mainWord": "Ballada",
+    "forbiddenWords": ["Nəqli şeir", "Musiqili", "Əfsanəvi", "Romantik", "Qəhrəmanlıq"]
+  },
+  {
+    "mainWord": "Rübai",
+    "forbiddenWords": ["Dördlük", "Fəlsəfi", "Ömər Xəyyam", "Qafiyə (aaba)", "Şərq poeziyası"]
+  },
+  {
+    "mainWord": "Qəzəl",
+    "forbiddenWords": ["Lirik şeir", "Şərq poeziyası", "Sevgi", "Füzuli", "Beyt"]
+  },
+  {
+    "mainWord": "Müxəmməs",
+    "forbiddenWords": ["Beşlik", "Şeir forması", "Şərq poeziyası", "Qafiyəli", "Bənd"]
+  },
+  {
+    "mainWord": "Məsnəvi",
+    "forbiddenWords": ["Didaktik poema", "İkihərflik", "Şərq poeziyası", "Nizami", "Rumi"]
+  },
+  {
+    "mainWord": "Təkrir",
+    "forbiddenWords": ["Təkrar", "Söz və ya ifadə", "Qüvvətləndirmə", "Ritorik fiqur", "Şeir"]
+  },
+  {
+    "mainWord": "Antiteza",
+    "forbiddenWords": ["Əkslik", "Ziddiyyət", "Qarşılaşdırma", "Müqayisə", "Fikir"]
+  },
+  {
+    "mainWord": "Oksimoron",
+    "forbiddenWords": ["Zidd mənalı sözlər", "Qəribə birləşmə", "Canlı meyit", "Şirin acı", "Paradoks"]
+  },
+  {
+    "mainWord": "Paradoks",
+    "forbiddenWords": ["Ziddiyyətli fikir", "Gözlənilməz", "Məntiqə zidd", "Dərin məna", "Fəlsəfi"]
+  },
+  {
+    "mainWord": "Evfemizm",
+    "forbiddenWords": ["Yumşaltma", "Kobud söz əvəzi", "Nəzakətli ifadə", "Örtülü", "Dolayı"]
+  },
+  {
+    "mainWord": "Məcaz",
+    "forbiddenWords": ["Köçürmə", "Bədii ifadə", "Metafora", "Simvol", "Dolayı məna"]
+  },
+  {
+    "mainWord": "Anaxronizm",
+    "forbiddenWords": ["Zaman uyğunsuzluğu", "Tarixi səhv", "Keçmişdə müasir əşya", "Məntiqsizlik", "Dövr"]
+  },
+  {
+    "mainWord": "Retrospeksiya",
+    "forbiddenWords": ["Geriyə baxış", "Keçmişə qayıdış", "Xatirə", "Flashback", "Nəql"]
+  },
+  {
+    "mainWord": "Proqnozlaşdırma",
+    "forbiddenWords": ["Öncədən xəbər vermə", "İşarə", "Gələcək", "Süjet elementi", "Foreshadowing"]
+  },
+  {
+    "mainWord": "Katarzis",
+    "forbiddenWords": ["Təmizlənmə", "Duyğu boşalması", "Tragediya", "Aristotel", "Tamaşaçı"]
+  },
+  {
+    "mainWord": "Hamartia",
+    "forbiddenWords": ["Tragik qüsur", "Səhv", "Qəhrəman", "Tragediya", "Aristotel"]
+  },
+  {
+    "mainWord": "Hubris",
+    "forbiddenWords": ["Həddini aşmaq", "Təkəbbür", "Qürur", "Tragediya qəhrəmanı", "Tanrılara qarşı"]
+  },
+  {
+    "mainWord": "Motiv",
+    "forbiddenWords": ["Təkrarlanan element", "Simvolik məna", "Tema", "Leitmotiv", "Fikir"]
+  },
+  {
+    "mainWord": "Peyzaj",
+    "forbiddenWords": ["Mənzərə təsviri", "Təbiət", "Məkan", "Atmosfer", "Nəsr"]
+  },
+  {
+    "mainWord": "Portret",
+    "forbiddenWords": ["Personaj təsviri", "Xarici görünüş", "Xarakter", "Obraz", "Nəsr"]
+  },
+  {
+    "mainWord": "Realizm",
+    "forbiddenWords": ["Həqiqətə uyğunluq", "Gerçəklik", "Təsvir", "XIX əsr", "Ədəbi cərəyan"]
+  },
+  {
+    "mainWord": "Romantizm",
+    "forbiddenWords": ["Duyğusallıq", "Xəyalpərəstlik", "İdealizm", "Təbiət", "Ədəbi cərəyan"]
+  },
+  {
+    "mainWord": "Klassisizm",
+    "forbiddenWords": ["Antik", "Qayda", "Ağlın üstünlüyü", "Harmoniya", "Ədəbi cərəyan"]
+  },
+  {
+    "mainWord": "Modernizm",
+    "forbiddenWords": ["Yenilik", "Ənənədən qopma", "XX əsr", "Eksperiment", "Ədəbi cərəyan"]
+  },
+  {
+    "mainWord": "Postmodernizm",
+    "forbiddenWords": ["Modernizmdən sonra", "Oyun", "İroniya", "Metafiksiya", "Ədəbi cərəyan"]
+  },
+  {
+    "mainWord": "Sentimentalizm",
+    "forbiddenWords": ["Həssaslıq", "Duyğusallıq", "Əxlaq", "XVIII əsr", "Ədəbi cərəyan"]
+  },
+  {
+    "mainWord": "Naturalizm",
+    "forbiddenWords": ["Realizmin ifrat forması", "Təbiət qanunları", "İrsi", "Mühit", "Ədəbi cərəyan"]
+  },
+  {
+    "mainWord": "Simvolizm",
+    "forbiddenWords": ["Simvol", "Rəmz", "Gizli məna", "Duyğu", "Ədəbi cərəyan"]
+  },
+  {
+    "mainWord": "Futurizm",
+    "forbiddenWords": ["Gələcək", "Texnika", "Sürət", "Dinamizm", "Ədəbi cərəyan"]
+  },
+  {
+    "mainWord": "Akmeizm",
+    "forbiddenWords": ["Rus poeziyası", "Aydınlıq", "Maddilik", "Simvolizmə qarşı", "Ədəbi cərəyan"]
+  },
+  {
+    "mainWord": "İmaginizm",
+    "forbiddenWords": ["Obraz", "Təsvir", "Konkretlik", "Ezra Pound", "Ədəbi cərəyan"]
+  },
+  {
+    "mainWord": "Sürrealizm",
+    "forbiddenWords": ["Şüuraltı", "Yuxu", "Qeyri-məntiqi", "Avtomatik yazı", "Ədəbi cərəyan"]
+  },
+  {
+    "mainWord": "Ekzistensializm",
+    "forbiddenWords": ["Varoluş", "Fərd", "Azadlıq", "Məsuliyyət", "Fəlsəfi cərəyan"]
+  },
+  {
+    "mainWord": "Struktur",
+    "forbiddenWords": ["Quruluş", "Kompozisiya", "Forma", "Hissələr", "Əsər"]
+  },
+  {
+    "mainWord": "Kompozisiya",
+    "forbiddenWords": ["Quruluş", "Tərkib", "Elementlərin düzülüşü", "Süjet", "Struktur"]
+  },
+  {
+    "mainWord": "Müəllif",
+    "forbiddenWords": ["Yazıçı", "Şair", "Yaradan", "Əsər sahibi", "İmza"]
+  },
+  {
+    "mainWord": "Oxucu",
+    "forbiddenWords": ["Mütaliə edən", "Əsəri qəbul edən", "Tamaşaçı", "Dinləyici", "Təəssürat"]
+  },
+  {
+    "mainWord": "Mətn",
+    "forbiddenWords": ["Yazılı əsər", "Sözlər", "Cümlələr", "Ədəbi parça", "Kontekst"]
+  },
+  {
+    "mainWord": "Kontekst",
+    "forbiddenWords": ["Əhatə", "Mühit", "Tarixi şərait", "Əlaqə", "Məna"]
+  },
+  {
+    "mainWord": "Nəsr",
+    "forbiddenWords": ["Epika", "Hekayə", "Roman", "Povest", "Qeyri-şeir"]
+  },
+  {
+    "mainWord": "Poeziya",
+    "forbiddenWords": ["Şeir", "Lirika", "Misra", "Qafiyə", "Nəzm"]
+  },
+  {
+    "mainWord": "Novella",
+    "forbiddenWords": ["Nəsr", "Hekayədən uzun", "Gözlənilməz son", "Qısa roman", "Süjet"]
+  },
+  {
+    "mainWord": "Pamflet",
+    "forbiddenWords": ["Publisistika", "Tənqidi yazı", "İfşa", "Kəskin", "Siyasi"]
+  },
+  {
+    "mainWord": "Reportaj",
+    "forbiddenWords": ["Jurnalistika", "Hadisə yeri", "Müşahidə", "Fakt", "Xəbər"]
+  },
+  {
+    "mainWord": "Felyeton",
+    "forbiddenWords": ["Qəzet yazısı", "Satirik", "Yumoristik", "Kiçik həcmli", "Tənqid"]
+  },
+  {
+    "mainWord": "Xatirə",
+    "forbiddenWords": ["Memuar", "Yaddaş", "Keçmiş", "Şəxsi təcrübə", "Hadisə"]
+  },
+  {
+    "mainWord": "Poema",
+    "forbiddenWords": ["Uzun şeir", "Nəqli", "Lirik-epik", "Süjetli", "Qəhrəmanlıq"]
+  },
+  {
+    "mainWord": "Didaktika",
+    "forbiddenWords": ["Öyrədici", "Nəsihət", "Əxlaq", "Məqsəd", "Tərbiyəvi"]
+  },
+  {
+    "mainWord": "Lirik qəhrəman",
+    "forbiddenWords": ["Şeirdəki 'mən'", "Duyğu daşıyıcısı", "Şairin obrazı", "Subyektiv", "Lirika"]
+  },
+  {
+    "mainWord": "Təsvir",
+    "forbiddenWords": ["Nəql", "Peyzaj", "Portret", "Əşya", "Məkan"]
+  },
+  {
+    "mainWord": "Təzad",
+    "forbiddenWords": ["Antiteza", "Əkslik", "Ziddiyyət", "Qarşılaşdırma", "Müqayisə"]
+  },
+  {
+    "mainWord": "İntriqa",
+    "forbiddenWords": ["Gizli plan", "Süjet gedişi", "Maraq", "Gərginlik", "Dolaşıqlıq"]
+  },
+  {
+    "mainWord": "Məcazilik",
+    "forbiddenWords": ["Figurativlik", "Köçürmə", "Obrazlılıq", "Bədii dil", "Məcaz"]
+  },
+  {
+    "mainWord": "Bəlağət",
+    "forbiddenWords": ["Gözəl danışıq", "Nitq məharəti", "Ritorika", "Təsirli", "İnandırıcı"]
+  },
+  {
+    "mainWord": "Ritorik sual",
+    "forbiddenWords": ["Cavab tələb etməyən", "Fikri qüvvətləndirmə", "Sual", "Bəlağət", "Emosiya"]
+  },
+  {
+    "mainWord": "Dekadans",
+    "forbiddenWords": ["Ədəbi cərəyan", "Tənəzzül", "Bədbinlik", "Simvolizm", "XIX əsr sonu"]
+  },
+  {
+    "mainWord": "Avangard",
+    "forbiddenWords": ["Yenilikçi", "Eksperimental", "Ənənəyə zidd", "Modernizm", "İnqilabi"]
+  },
+  {
+    "mainWord": "Klassika",
+    "forbiddenWords": ["Nümunəvi əsər", "Zamanın sınağı", "Qəbul edilmiş", "Dəyərli", "Əbədi"]
+  },
+  {
+    "mainWord": "Folklor",
+    "forbiddenWords": ["Xalq yaradıcılığı", "Şifahi ədəbiyyat", "Nağıl", "Bayatı", "Əfsanə"]
+  },
+  {
+    "mainWord": "Bayatı",
+    "forbiddenWords": ["Xalq şeiri", "Dördlük", "Heca vəzni", "Lirik", "Qadın yaradıcılığı"]
+  },
+  {
+    "mainWord": "Aşıq ədəbiyyatı",
+    "forbiddenWords": ["Saz", "Şifahi", "Qoşma", "Gəraylı", "Xalq"]
+  },
+  {
+    "mainWord": "Qoşma",
+    "forbiddenWords": ["Aşıq şeiri", "Heca vəzni", "11 hecalı", "Sevgi", "Qəhrəmanlıq"]
+  },
+  {
+    "mainWord": "Gəraylı",
+    "forbiddenWords": ["Aşıq şeiri", "Heca vəzni", "8 hecalı", "Lirik", "Sevgi"]
+  },
+  {
+    "mainWord": "Təcnis",
+    "forbiddenWords": ["Aşıq şeiri", "Cinaslı qafiyə", "Söz oyunu", "Məharət", "Forma"]
+  },
+  {
+    "mainWord": "Divan",
+    "forbiddenWords": ["Şeir külliyatı", "Klassik ədəbiyyat", "Füzuli", "Nəsimi", "Qəzəl"]
+  },
+  {
+    "mainWord": "Mərsiyə",
+    "forbiddenWords": ["Ağı", "Matəm şeiri", "Kədər", "Ölüm", "Yas"]
+  },
+  {
+    "mainWord": "Həcv",
+    "forbiddenWords": ["Satirik şeir", "İfşa", "Tənqid", "Şəxsi hücum", "Sabir"]
+  },
+  {
+    "mainWord": "Libretto",
+    "forbiddenWords": ["Opera mətni", "Musiqili əsər", "Ssenari", "Dialoq", "Mahnı sözləri"]
+  },
+  {
+    "mainWord": "Ssenari",
+    "forbiddenWords": ["Film mətni", "Kino", "Rejissor", "Hadisələrin təsviri", "Dialoqlar"]
+  },
+  {
+    "mainWord": "Təhlil",
+    "forbiddenWords": ["Analiz", "Əsəri araşdırma", "Tənqid", "Qiymətləndirmə", "Komponentlər"]
+  },
+  {
+    "mainWord": "İnterpretasiya",
+    "forbiddenWords": ["Yozum", "Şərh", "Məna vermə", "Fərdi yanaşma", "Əsər"]
+  },
+  {
+    "mainWord": "Tərcümə",
+    "forbiddenWords": ["Başqa dilə çevirmə", "Dilçilik", "Adaptasiya", "Məna", "Ekvivalentlik"]
+  },
+  {
+    "mainWord": "Plagiat",
+    "forbiddenWords": ["Oğurluq", "Başqasının əsərini mənimsəmə", "Müəllif hüququ", "Köçürmə", "Qeyri-etik"]
+  },
+  {
+    "mainWord": "Nəşr",
+    "forbiddenWords": ["Çap etmə", "Kitab", "Jurnal", "Yaymaq", "Mətbəə"]
+  },
+  {
+    "mainWord": "Redaktə",
+    "forbiddenWords": ["Düzəliş", "Mətn üzərində iş", "Səhvləri aradan qaldırma", "Üslub", "Korrektura"]
+  },
+  {
+    "mainWord": "Əlyazma",
+    "forbiddenWords": ["Müəllifin əl yazısı", "Orijinal mətn", "Nəşrə qədər", "Arxiv", "Qədim"]
+  },
+  {
+    "mainWord": "Kanon",
+    "forbiddenWords": ["Qəbul edilmiş əsərlər", "Nümunəvi siyahı", "Ədəbiyyat tarixi", "Klassik", "Standart"]
+  },
+  {
+    "mainWord": "Apokrif",
+    "forbiddenWords": ["Qeyri-kanonik", "Şübhəli", "Dini mətnlər", "Saxta", "Gizli"]
+  },
+  {
+    "mainWord": "Pastoral",
+    "forbiddenWords": ["Çoban həyatı", "Kənd", "Təbiət", "İdilya", "Sadəlik"]
+  },
+  {
+    "mainWord": "İdilya",
+    "forbiddenWords": ["Sakit həyat tərzi", "Kənd mənzərəsi", "Mükəmməl", "Pastoral", "Hüzur"]
+  },
+  {
+    "mainWord": "Burlesk",
+    "forbiddenWords": ["Komik təqlid", "Yüksək üslubda alçaq mövzu", "Karikatura", "Parodiya", "Satira"]
+  },
+  {
+    "mainWord": "Kinayə",
+    "forbiddenWords": ["Üstüörtülü söz", "İmalı danışıq", "İroniya", "Eyham", "Sarkazm"]
+  },
+  {
+    "mainWord": "Epifora",
+    "forbiddenWords": ["Misra sonu təkrarı", "Söz", "Ritorik fiqur", "Anafora əksi", "Qüvvətləndirmə"]
+  },
+  {
+    "mainWord": "Anafora",
+    "forbiddenWords": ["Misra əvvəli təkrarı", "Söz", "Ritorik fiqur", "Epifora əksi", "Qüvvətləndirmə"]
+  },
+  {
+    "mainWord": "Qradasiya",
+    "forbiddenWords": ["Pilləli artım/azalma", "Qüvvətləndirmə", "Gərginlik", "Kulminasiya", "Ritorik fiqur"]
+  },
+  {
+    "mainWord": "Paralelizm",
+    "forbiddenWords": ["Sintaktik oxşarlıq", "Cümlə quruluşu", "Təkrar", "Ritorik fiqur", "Müqayisə"]
+  },
+  {
+    "mainWord": "İnversiya",
+    "forbiddenWords": ["Söz sırasının dəyişməsi", "Bədii üslub", "Vurğu", "Şeir dili", "Tərsinə çevirmə"]
+  },
+  {
+    "mainWord": "Metonimiya",
+    "forbiddenWords": ["Ad dəyişmə", "Əlaqəli anlayış", "Tac (hakimiyyət)", "Məcaz", "Köçürmə"]
+  },
+  {
+    "mainWord": "Sinekdoxa",
+    "forbiddenWords": ["Hissə ilə bütövü ifadə", "Bütöv ilə hissəni ifadə", "Məcaz", "Metonimiya növü", "Yelkən (gəmi)"]
+  },
+  {
+    "mainWord": "Perifraza",
+    "forbiddenWords": ["Dolayı ifadə", "Ad yerinə təsvir", "Ormanlar kralı (aslan)", "Bədii dil", "Evfemizm"]
+  },
+  {
+    "mainWord": "Arxaizm",
+    "forbiddenWords": ["Köhnəlmiş söz", "Tarixi", "İstifadədən düşmüş", "Üslub", "Dil"]
+  },
+  {
+    "mainWord": "Neologizm",
+    "forbiddenWords": ["Yeni söz", "İxtira", "Müasir", "Dilin zənginləşməsi", "Texnologiya"]
+  },
+  {
+    "mainWord": "Dialektizm",
+    "forbiddenWords": ["Şivə sözü", "Yerli danışıq", "Məhəlli", "Ədəbi dilə zidd", "Obraz dili"]
+  },
+  {
+    "mainWord": "Varvarizm",
+    "forbiddenWords": ["Başqa dildən alınma söz", "Yad", "Lüzumsuz", "Dilin təmizliyi", "Üslub"]
+  },
+  {
+    "mainWord": "Jarqon",
+    "forbiddenWords": ["Müəyyən qrup dili", "Peşə", "Gizli", "Anlaşılmaz", "Slenq"]
+  },
+  {
+    "mainWord": "Slenq",
+    "forbiddenWords": ["Qeyri-rəsmi dil", "Danışıq", "Gənclər", "Küçə dili", "Jarqon"]
+  },
+  {
+    "mainWord": "Ekzotizm",
+    "forbiddenWords": ["Yad ölkə təsviri", "Qeyri-adi", "Mədəniyyət", "Səyahət ədəbiyyatı", "Rəngarənglik"]
+  },
+  {
+    "mainWord": "Mifologiya",
+    "forbiddenWords": ["Miflər toplusu", "Əsatir", "Tanrılar", "Qədim dünya", "İzah"]
+  },
+  {
+    "mainWord": "İllüstrasiya",
+    "forbiddenWords": ["Şəkilli təsvir", "Kitab", "Rəsm", "Vizual", "Mətni tamamlama"]
+  },
+  {
+    "mainWord": "Prototip",
+    "forbiddenWords": ["Obrazın ilkin nümunəsi", "Real şəxs", "Ədəbi qəhrəman", "Arxetip", "İlham mənbəyi"]
+  },
+  {
+    "mainWord": "Tipleşdirmə",
+    "forbiddenWords": ["Ümumiləşdirmə", "Tipik obraz yaratma", "Realizm", "Cəmiyyət", "Xarakter"]
+  },
+  {
+    "mainWord": "Məzmun",
+    "forbiddenWords": ["Mündəricat", "Əsərin içi", "Tema", "İdeya", "Hadisələr"]
+  },
+  {
+    "mainWord": "Forma",
+    "forbiddenWords": ["Quruluş", "Struktur", "Janr", "Vəzn", "Kompozisiya"]
+  },
+  {
+    "mainWord": "Üslub",
+    "forbiddenWords": ["Yazı tərzi", "Dil xüsusiyyəti", "Müəllifə məxsus", "Fərdi", "Bədii"]
+  },
+  {
+    "mainWord": "Antroponim",
+    "forbiddenWords": ["Ad", "Personaj adı", "Məna", "Seçim", "Onomastika"]
+  },
+  {
+    "mainWord": "Toponim",
+    "forbiddenWords": ["Yer adı", "Məkan", "Coğrafiya", "Əsərdə", "Onomastika"]
+  },
+  {
+    "mainWord": "Ədəbiyyatşünaslıq",
+    "forbiddenWords": ["Ədəbiyyat elmi", "Təhlil", "Tarix", "Nəzəriyyə", "Tənqid"]
+  },
+  {
+    "mainWord": "Sərbəst şeir",
+    "forbiddenWords": ["Vəznsiz", "Qafiyəsiz", "Modern", "Ritm", "Poeziya"]
+  },
+  {
+    "mainWord": "Didaktik ədəbiyyat",
+    "forbiddenWords": ["Öyrədici", "Nəsihətamiz", "Əxlaqi", "Məqsədli", "Janr"]
+  },
+  {
+    "mainWord": "Mənzum hekayə",
+    "forbiddenWords": ["Şeirlə yazılmış", "Hekayə", "Süjetli", "Nəqli", "Poeziya"]
+  },
+  {
+    "mainWord": "Mənzum dram",
+    "forbiddenWords": ["Şeirlə yazılmış", "Pyes", "Dialoq", "Səhnə", "Teatr"]
+  },
+  {
+    "mainWord": "Lirik-epik növ",
+    "forbiddenWords": ["Qarışıq janr", "Hiss və hadisə", "Poema", "Ballada", "Nəqli şeir"]
+  }
+]
