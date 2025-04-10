@@ -1,0 +1,1138 @@
+[
+  {
+    "mainWord": "Konstitusiya",
+    "forbiddenWords": ["Əsas Qanun", "Dövlət", "Hüquq", "Quruluş", "Ali"]
+  },
+  {
+    "mainWord": "Qanun",
+    "forbiddenWords": ["Norma", "Məcəllə", "Parlament", "Qüvvədə", "Məcburi"]
+  },
+  {
+    "mainWord": "Məcəllə",
+    "forbiddenWords": ["Qanunlar Toplusu", "Cinayət", "Mülki", "Sistemli", "Bölmə"]
+  },
+  {
+    "mainWord": "Cinayət",
+    "forbiddenWords": ["Qanun pozuntusu", "Cəza", "Məhkəmə", "Təqsir", "Zərər"]
+  },
+  {
+    "mainWord": "Mülki Hüquq",
+    "forbiddenWords": ["Şəxsi hüquq", "Müqavilə", "Öhdəlik", "Əmlak", "Borc"]
+  },
+  {
+    "mainWord": "Məhkəmə",
+    "forbiddenWords": ["Hakim", "Mübahisə", "Qərar", "İddia", "Proses"]
+  },
+  {
+    "mainWord": "Hakim",
+    "forbiddenWords": ["Məhkəmə", "Qərar", "Ədalət", "Proses", "Mantiya"]
+  },
+  {
+    "mainWord": "Vəkil",
+    "forbiddenWords": ["Müdafiə", "Hüquqşünas", "Məhkəmə", "Təmsilçi", "Müştəri"]
+  },
+  {
+    "mainWord": "Prokuror",
+    "forbiddenWords": ["Dövlət ittihamçısı", "Cinayət işi", "İstintaq", "Məhkəmə", "Cəza"]
+  },
+  {
+    "mainWord": "İddia",
+    "forbiddenWords": ["Tələb", "Məhkəmə", "Ərizə", "Mübahisə", "Şikayət"]
+  },
+  {
+    "mainWord": "Apellyasiya",
+    "forbiddenWords": ["Şikayət", "Məhkəmə qərarı", "Yuxarı instansiya", "Narazılıq", "Proses"]
+  },
+  {
+    "mainWord": "Kassasiya",
+    "forbiddenWords": ["Şikayət", "Ali Məhkəmə", "Qanun pozuntusu", "Qərarın ləğvi", "Proses"]
+  },
+  {
+    "mainWord": "Qərar",
+    "forbiddenWords": ["Məhkəmə", "Hakim", "Nəticə", "Hökm", "Akt"]
+  },
+  {
+    "mainWord": "Hökm",
+    "forbiddenWords": ["Cinayət işi", "Məhkəmə qərarı", "Cəza", "Təqsirli", "Bəraət"]
+  },
+  {
+    "mainWord": "Cəza",
+    "forbiddenWords": ["Cinayət", "Məhkum", "Həbs", "Cərimə", "Məhrumiyyət"]
+  },
+  {
+    "mainWord": "Həbs",
+    "forbiddenWords": ["Azadlıqdan məhrumetmə", "Cəza", "Məhkum", "Həbsxana", "Qapalı"]
+  },
+  {
+    "mainWord": "Müqavilə",
+    "forbiddenWords": ["Razılaşma", "Tərəflər", "Öhdəlik", "Şərtlər", "İmza"]
+  },
+  {
+    "mainWord": "Öhdəlik",
+    "forbiddenWords": ["Borc", "Vəzifə", "Müqavilə", "İcra", "Məsuliyyət"]
+  },
+  {
+    "mainWord": "Mülkiyyət",
+    "forbiddenWords": ["Əmlak", "Sahiblik", "Hüquq", "Xüsusi", "Dövlət"]
+  },
+  {
+    "mainWord": "Əmlak",
+    "forbiddenWords": ["Mal", "Şey", "Mülkiyyət", "Daşınar", "Daşınmaz"]
+  },
+  {
+    "mainWord": "Vərəsəlik",
+    "forbiddenWords": ["Miras", "Ölüm", "Varis", "Qanun", "Vəsiyyətnamə"]
+  },
+  {
+    "mainWord": "Vəsiyyətnamə",
+    "forbiddenWords": ["Miras", "Sənəd", "Ölümdən sonra", "Varis", "Notarius"]
+  },
+  {
+    "mainWord": "Notarius",
+    "forbiddenWords": ["Təsdiq", "Sənəd", "Müqavilə", "İmza", "Hüquqi"]
+  },
+  {
+    "mainWord": "İnzibati Hüquq",
+    "forbiddenWords": ["Dövlət idarəetməsi", "İcra hakimiyyəti", "Qayda pozuntusu", "Cərimə", "Protokol"]
+  },
+  {
+    "mainWord": "Cinayət Prosessual Məcəlləsi",
+    "forbiddenWords": ["İstintaq", "Məhkəmə prosesi", "Qaydalar", "Müdafiə", "İttiham"]
+  },
+  {
+    "mainWord": "Mülki Prosessual Məcəlləsi",
+    "forbiddenWords": ["Mülki iş", "Məhkəmə prosesi", "Qaydalar", "İddiaçı", "Cavabdeh"]
+  },
+  {
+    "mainWord": "Ailə Məcəlləsi",
+    "forbiddenWords": ["Nikah", "Boşanma", "Övlad", "Valideyn", "Qəyyumluq"]
+  },
+  {
+    "mainWord": "Əmək Məcəlləsi",
+    "forbiddenWords": ["İşçi", "İşəgötürən", "Müqavilə", "Məzuniyyət", "Əmək haqqı"]
+  },
+  {
+    "mainWord": "Vergi Məcəlləsi",
+    "forbiddenWords": ["Vergi", "Ödəniş", "Dövlət", "Büdcə", "Faiz"]
+  },
+  {
+    "mainWord": "Təqsir",
+    "forbiddenWords": ["Günah", "Cinayət", "Səhv", "Məsuliyyət", "Sübut"]
+  },
+  {
+    "mainWord": "Sübut",
+    "forbiddenWords": ["Dəlil", "Fakt", "İstintaq", "Məhkəmə", "Təsdiq"]
+  },
+  {
+    "mainWord": "Şahid",
+    "forbiddenWords": ["Görmək", "Eşitmək", "İfadə", "Məhkəmə", "Hadisə"]
+  },
+  {
+    "mainWord": "Zərərçəkən",
+    "forbiddenWords": ["Qurban", "Ziyan", "Cinayət", "Hüquq", "Müdafiə"]
+  },
+  {
+    "mainWord": "Təqsirləndirilən şəxs",
+    "forbiddenWords": ["Şübhəli", "İttiham olunan", "Cinayət işi", "Məhkəmə", "Müdafiə"]
+  },
+  {
+    "mainWord": "İttiham",
+    "forbiddenWords": ["Təqsirləndirmə", "Prokuror", "Cinayət işi", "Məhkəmə", "Sübut"]
+  },
+  {
+    "mainWord": "Bəraət",
+    "forbiddenWords": ["Təqsirsizlik", "Məhkəmə qərarı", "Hökm", "Sübutsuzluq", "Azad"]
+  },
+  {
+    "mainWord": "Amnistiya",
+    "forbiddenWords": ["Əfv", "Cəzadan azadetmə", "Kütləvi", "Parlament", "Qanun"]
+  },
+  {
+    "mainWord": "Əfv",
+    "forbiddenWords": ["Bağışlama", "Prezident", "Cəzanın yüngülləşdirilməsi", "Fərdi", "Amnistiya"]
+  },
+  {
+    "mainWord": "Hüquq pozuntusu",
+    "forbiddenWords": ["Qanuna zidd", "Hərəkət", "Məsuliyyət", "Cərimə", "Protokol"]
+  },
+  {
+    "mainWord": "İnsan hüquqları",
+    "forbiddenWords": ["Fundamental", "Beynəlxalq", "Qorunma", "Azadlıq", "Bəyannamə"]
+  },
+  {
+    "mainWord": "Mülkiyyət hüququ",
+    "forbiddenWords": ["Sahiblik", "Sərəncam", "İstifadə", "Əmlak", "Qanun"]
+  },
+  {
+    "mainWord": "Müəllif hüququ",
+    "forbiddenWords": ["Əsər", "Yaradıcı", "Qorunma", "İcazəsiz istifadə", "Əqli mülkiyyət"]
+  },
+  {
+    "mainWord": "Patent",
+    "forbiddenWords": ["İxtira", "Hüquq", "Müəlliflik", "Qorunma", "Texnologiya"]
+  },
+  {
+    "mainWord": "Lisenziya",
+    "forbiddenWords": ["İcazə", "Fəaliyyət", "Dövlət", "Sənəd", "Hüquq"]
+  },
+  {
+    "mainWord": "Beynəlxalq hüquq",
+    "forbiddenWords": ["Dövlətlərarası", "Müqavilə", "Konvensiya", "BMT", "Normalar"]
+  },
+  {
+    "mainWord": "Konvensiya",
+    "forbiddenWords": ["Beynəlxalq müqavilə", "Razılaşma", "Dövlətlər", "Hüquq", "Normalar"]
+  },
+  {
+    "mainWord": "Arbitraj",
+    "forbiddenWords": ["Mübahisə həlli", "Məhkəmə xarici", "Vasitəçi", "Qərar", "Kommersiya"]
+  },
+  {
+    "mainWord": "Mediasiya",
+    "forbiddenWords": ["Barışdırıcı", "Vasitəçi", "Mübahisə həlli", "Razılıq", "Könüllü"]
+  },
+  {
+    "mainWord": "Ekspertiza",
+    "forbiddenWords": ["Mütəxəssis rəyi", "Araşdırma", "Sübut", "Tibbi", "Kriminalistika"]
+  },
+  {
+    "mainWord": "Kriminalistika",
+    "forbiddenWords": ["Cinayət araşdırması", "Sübut toplama", "İz", "Ekspertiza", "Elm"]
+  },
+  {
+    "mainWord": "Prezident",
+    "forbiddenWords": ["Dövlət başçısı", "İcra hakimiyyəti", "Seçki", "Səlahiyyət", "Respublika"]
+  },
+  {
+    "mainWord": "Parlament",
+    "forbiddenWords": ["Qanunverici orqan", "Milli Məclis", "Deputat", "Qanun qəbulu", "Seçki"]
+  },
+  {
+    "mainWord": "Deputat",
+    "forbiddenWords": ["Millət vəkili", "Parlament üzvü", "Seçilmiş", "Təmsilçi", "Qanunvericilik"]
+  },
+  {
+    "mainWord": "Nazirlər Kabineti",
+    "forbiddenWords": ["Hökumət", "İcra hakimiyyəti", "Baş nazir", "Nazir", "Qərar"]
+  },
+  {
+    "mainWord": "Ombudsman",
+    "forbiddenWords": ["İnsan hüquqları müvəkkili", "Müdafiəçi", "Şikayət", "Vətəndaş", "Hüquq pozuntusu"]
+  },
+  {
+    "mainWord": "Korrupsiya",
+    "forbiddenWords": ["Rüşvət", "Vəzifədən sui-istifadə", "Qanunsuz", "Mənimsəmə", "Cinayət"]
+  },
+  {
+    "mainWord": "Rüşvət",
+    "forbiddenWords": ["Pul", "Qanunsuz ödəniş", "Vəzifəli şəxs", "Korrupsiya", "Cinayət"]
+  },
+  {
+    "mainWord": "Mənimsəmə",
+    "forbiddenWords": ["Oğurluq", "Etibardan sui-istifadə", "Pul", "Əmlak", "Cinayət"]
+  },
+  {
+    "mainWord": "Dələduzluq",
+    "forbiddenWords": ["Aldatma", "Yalan", "Mülkiyyət əldə etmə", "Cinayət", "Hiylə"]
+  },
+  {
+    "mainWord": "Cinayət Məsuliyyəti",
+    "forbiddenWords": ["Cəza", "Qanun", "Məhkumiyyət", "Təqsir", "Nəticə"]
+  },
+  {
+    "mainWord": "Mülki Məsuliyyət",
+    "forbiddenWords": ["Zərərin ödənilməsi", "Borc", "Müqavilə pozuntusu", "Təzminat", "Öhdəlik"]
+  },
+  {
+    "mainWord": "İnzibati Məsuliyyət",
+    "forbiddenWords": ["Cərimə", "Xəbərdarlıq", "Qayda pozuntusu", "Protokol", "Dövlət orqanı"]
+  },
+  {
+    "mainWord": "Təqsirsizlik prezumpsiyası",
+    "forbiddenWords": ["Məhkəmə qərarına qədər", "Günahsızlıq", "Hüquq prinsipi", "Sübut", "İttiham"]
+  },
+  {
+    "mainWord": "Hüquqi şəxs",
+    "forbiddenWords": ["Təşkilat", "Şirkət", "Qeydiyyat", "Mülkiyyət", "Fiziki şəxs əksi"]
+  },
+  {
+    "mainWord": "Fiziki şəxs",
+    "forbiddenWords": ["İnsan", "Vətəndaş", "Fərd", "Hüquq subyekti", "Hüquqi şəxs əksi"]
+  },
+  {
+    "mainWord": "Vətəndaşlıq",
+    "forbiddenWords": ["Dövlət", "Mənsubiyyət", "Pasport", "Hüquq və vəzifələr", "Təbəəlik"]
+  },
+  {
+    "mainWord": "Səlahiyyət",
+    "forbiddenWords": ["Hüquq", "Vəzifə", "İcazə", "Dairə", "Orqan"]
+  },
+  {
+    "mainWord": "Mandat",
+    "forbiddenWords": ["Səlahiyyət sənədi", "Deputat", "Nümayəndəlik", "Etibarnamə", "Seçki"]
+  },
+  {
+    "mainWord": "Etibarnamə",
+    "forbiddenWords": ["Səlahiyyət vermə", "Təmsilçilik", "Notarius", "Sənəd", "İmza"]
+  },
+  {
+    "mainWord": "Precedent",
+    "forbiddenWords": ["Əvvəlki məhkəmə qərarı", "Nümunə", "Hüquq sistemi", "İngilis-sakson", "Məcburi"]
+  },
+  {
+    "mainWord": "Normativ Akt",
+    "forbiddenWords": ["Hüquq norması", "Qanun", "Fərman", "Qərar", "Məcburi göstəriş"]
+  },
+  {
+    "mainWord": "Sanksiya",
+    "forbiddenWords": ["Cəza tədbiri", "Qanun pozuntusu nəticəsi", "Məhrumiyyət", "Beynəlxalq", "Cərimə"]
+  },
+  {
+    "mainWord": "Hüquqşünas",
+    "forbiddenWords": ["Vəkil", "Hüquq təhsilli", "Mütəxəssis", "Qanun", "Məsləhət"]
+  },
+  {
+    "mainWord": "Konstitusiya Məhkəməsi",
+    "forbiddenWords": ["Ali məhkəmə", "Konstitusiyaya uyğunluq", "Şərh", "Qanun", "Nəzarət"]
+  },
+  {
+    "mainWord": "Ali Məhkəmə",
+    "forbiddenWords": ["Ən yuxarı instansiya", "Kassasiya", "Qərarların yekunluğu", "Ədalət", "Məhkəmə sistemi"]
+  },
+  {
+    "mainWord": "Qəyyumluq",
+    "forbiddenWords": ["Himayə", "Uşaq", "Fəaliyyət qabiliyyəti olmayan", "Məhkəmə", "Məsuliyyət"]
+  },
+  {
+    "mainWord": "Övladlığa götürmə",
+    "forbiddenWords": ["Uşaq", "Valideyn", "Ailə", "Məhkəmə", "Qanuni"]
+  },
+  {
+    "mainWord": "Nikah",
+    "forbiddenWords": ["Evlilik", "Ailə", "Kişi və qadın", "Qeydiyyat", "Rəsmi"]
+  },
+  {
+    "mainWord": "Boşanma",
+    "forbiddenWords": ["Nikahın pozulması", "Ayrılma", "Məhkəmə", "VVAQ", "Ailə"]
+  },
+  {
+    "mainWord": "Aliment",
+    "forbiddenWords": ["Saxlama pulu", "Uşaq", "Valideyn", "Ödəniş", "Boşanma"]
+  },
+  {
+    "mainWord": "İpoteka",
+    "forbiddenWords": ["Daşınmaz əmlak girovu", "Kredit", "Bank", "Ev", "Borc"]
+  },
+  {
+    "mainWord": "Girov",
+    "forbiddenWords": ["Təminat", "Borc", "Əmlak", "Müqavilə", "Öhdəlik"]
+  },
+  {
+    "mainWord": "Müsadirə",
+    "forbiddenWords": ["Əmlakın alınması", "Dövlət", "Cinayət", "Cəza", "Qanunsuz"]
+  },
+  {
+    "mainWord": "Referendum",
+    "forbiddenWords": ["Ümumxalq səsverməsi", "Qanun", "Konstitusiya", "Seçki", "Qərar"]
+  },
+  {
+    "mainWord": "Suverenitet",
+    "forbiddenWords": ["Müstəqillik", "Ali hakimiyyət", "Dövlət", "Ərazi", "Başqa dövlətdən asılı olmama"]
+  },
+  {
+    "mainWord": "Yurisdiksiya",
+    "forbiddenWords": ["Məhkəmə aidiyyəti", "Səlahiyyət dairəsi", "Ərazi", "Qanunların tətbiqi", "Məhkəmə sistemi"]
+  },
+  {
+    "mainWord": "Ekstradisiya",
+    "forbiddenWords": ["Cinayətkarın verilməsi", "Dövlətlərarası", "Müqavilə", "Təhvil vermə", "Qanun"]
+  },
+  {
+    "mainWord": "Hüquqi Nihilizm",
+    "forbiddenWords": ["Hüququn inkarı", "Qanuna etinasızlıq", "Anarxiya", "Qaydasızlıq", "Mənfi münasibət"]
+  },
+  {
+    "mainWord": "Məhkəmə Ekspertizası",
+    "forbiddenWords": ["Mütəxəssis rəyi", "Sübut", "Araşdırma", "Elmi", "Məhkəmə prosesi"]
+  },
+  {
+    "mainWord": "Probasiya",
+    "forbiddenWords": ["Şərti məhkumetmə", "Nəzarət", "Sınaq müddəti", "Cəza çəkmədən", "Davranış"]
+  },
+  {
+    "mainWord": "Residivist",
+    "forbiddenWords": ["Təkrar cinayət törədən", "Məhkum", "Cinayətkar", "Qanun pozuntusu", "Adətkar"]
+  },
+  {
+    "mainWord": "Cinayət Tərkibi",
+    "forbiddenWords": ["Cinayətin elementləri", "Obyekt", "Subyekt", "Obyektiv tərəf", "Subyektiv tərəf"]
+  },
+  {
+    "mainWord": "Obyektiv Tərəf",
+    "forbiddenWords": ["Cinayətin xarici əlamətləri", "Hərəkət", "Hərəkətsizlik", "Nəticə", "Səbəbli əlaqə"]
+  },
+  {
+    "mainWord": "Subyektiv Tərəf",
+    "forbiddenWords": ["Cinayətkarın daxili münasibəti", "Təqsir", "Qəsd", "Ehtiyatsızlıq", "Motiv"]
+  },
+  {
+    "mainWord": "Qəsd",
+    "forbiddenWords": ["Bilərəkdən", "Şüurlu", "Cinayət törətmək istəyi", "Təqsir forması", "Niyyət"]
+  },
+  {
+    "mainWord": "Ehtiyatsızlıq",
+    "forbiddenWords": ["Diqqətsizlik", "Məsuliyyətsizlik", "Nəticəni görməmək", "Təqsir forması", "Qayda pozuntusu"]
+  },
+  {
+    "mainWord": "Zəruri Müdafiə",
+    "forbiddenWords": ["Hücumdan qorunma", "Hüquq", "Müdafiə həddi", "Zərər vurma", "Cinayət olmayan"]
+  },
+  {
+    "mainWord": "Son Zərurət",
+    "forbiddenWords": ["Təhlükədən qaçma", "Başqa marağa zərər vurma", "Hüquq", "Fövqəladə", "Cinayət olmayan"]
+  },
+  {
+    "mainWord": "Məhkumluq",
+    "forbiddenWords": ["Cinayət törətmə nəticəsi", "Məhkəmə hökmü", "Hüquqi vəziyyət", "Nəticələr", "Ödənilmə"]
+  },
+  {
+    "mainWord": "Şərti Məhkumetmə",
+    "forbiddenWords": ["Probasiya", "Cəzadan azad olma", "Sınaq müddəti", "Nəzarət", "Yaxşı davranış"]
+  },
+  {
+    "mainWord": "Cəzadan Şərti Olaraq Vaxtından Əvvəl Azad Etmə",
+    "forbiddenWords": ["Həbsdən tez çıxma", "Yaxşı davranış", "Məhkəmə qərarı", "Nəzarət", "Cəzanın bir hissəsi"]
+  },
+  {
+    "mainWord": "Cinayət İşinin Başlanması",
+    "forbiddenWords": ["İstintaqın ilk mərhələsi", "Prokuror", "Müstəntiq", "Qərar", "Araşdırma"]
+  },
+  {
+    "mainWord": "İbtidai İstintaq",
+    "forbiddenWords": ["Cinayət araşdırması", "Sübut toplama", "Müstəntiq", "Prokuror", "Məhkəməyə qədər"]
+  },
+  {
+    "mainWord": "İttiham Aktı",
+    "forbiddenWords": ["İstintaqın yekunu", "Prokuror", "Məhkəməyə göndərmə", "Təqsirləndirmə", "Sənəd"]
+  },
+  {
+    "mainWord": "Məhkəmə İstintaqı",
+    "forbiddenWords": ["Məhkəmə prosesi mərhələsi", "Sübutların tədqiqi", "Şahidlərin dindirilməsi", "Hakim", "Tərəflər"]
+  },
+  {
+    "mainWord": "Məhkəmə Çıxışları",
+    "forbiddenWords": ["Prokurorun nitqi", "Vəkilin nitqi", "Tərəflərin mövqeyi", "Müzakirə", "Məhkəmə prosesi"]
+  },
+  {
+    "mainWord": "Son Söz",
+    "forbiddenWords": ["Təqsirləndirilən şəxsin nitqi", "Məhkəmə prosesi sonu", "Hökmə qədər", "Hüquq", "Müdafiə"]
+  },
+  {
+    "mainWord": "Hökmün Elan Edilməsi",
+    "forbiddenWords": ["Məhkəmə qərarının oxunması", "Hakim", "Nəticə", "Cəza və ya bəraət", "Prosesin sonu"]
+  },
+  {
+    "mainWord": "Qəsdən Adamöldürmə",
+    "forbiddenWords": ["Cinayət", "Ölüm", "Niyyət", "Silah", "Həyatdan məhrumetmə"]
+  },
+  {
+    "mainWord": "Ehtiyatsızlıqdan Adamöldürmə",
+    "forbiddenWords": ["Cinayət", "Ölüm", "Səhlənkarlıq", "Qəza", "Diqqətsizlik"]
+  },
+  {
+    "mainWord": "Oğurluq",
+    "forbiddenWords": ["Cinayət", "Əmlak", "Gizli", "Mənimsəmə", "Pul"]
+  },
+  {
+    "mainWord": "Soyğunçuluq",
+    "forbiddenWords": ["Cinayət", "Əmlak", "Açıq", "Zorakılıq tətbiq etmədən", "Talama"]
+  },
+  {
+    "mainWord": "Quldurluq",
+    "forbiddenWords": ["Cinayət", "Əmlak", "Hücum", "Zorakılıq", "Silah"]
+  },
+  {
+    "mainWord": "Xuliqanlıq",
+    "forbiddenWords": ["Cinayət", "İctimai qayda", "Kobudluq", "Zorakılıq", "Təhqir"]
+  },
+  {
+    "mainWord": "Rüşvətxorluq",
+    "forbiddenWords": ["Korrupsiya", "Pul", "Vəzifəli şəxs", "Qanunsuz", "Alan və verən"]
+  },
+  {
+    "mainWord": "Şərləmə",
+    "forbiddenWords": ["Yalan ittiham", "Cinayət", "Böhtan", "İfşa etmək (yalandan)", "Qəsd"]
+  },
+  {
+    "mainWord": "Böhtan",
+    "forbiddenWords": ["Yalan məlumat yayma", "Şərəf və ləyaqət", "Ləkələmə", "Cinayət", "Şifahi və ya yazılı"]
+  },
+  {
+    "mainWord": "Bədənə Xəsarət Yetirmə",
+    "forbiddenWords": ["Cinayət", "Zədə", "Sağlamlıq", "Qəsdən", "Ehtiyatsızlıqdan"]
+  },
+  {
+    "mainWord": "Zəruri Müdafiə Həddini Aşma",
+    "forbiddenWords": ["Hücum", "Qorunma", "Zərər", "Aşırı", "Cinayət"]
+  },
+  {
+    "mainWord": "Cinayətə Hazırlıq",
+    "forbiddenWords": ["Niyyət", "Planlaşdırma", "Başlamamış", "Mərhələ", "Cəhdə qədər"]
+  },
+  {
+    "mainWord": "Cinayətə Cəhd",
+    "forbiddenWords": ["Başlanmış", "Bitməmiş", "İradə xaricində səbəb", "Mərhələ", "Cəza"]
+  },
+  {
+    "mainWord": "İştirakçılıq",
+    "forbiddenWords": ["Cinayətdə iştirak", "Bir neçə nəfər", "Təşkilatçı", "İcraçı", "Şərik"]
+  },
+  {
+    "mainWord": "Təşkilatçı",
+    "forbiddenWords": ["Cinayət iştirakçısı", "Planlaşdıran", "Rəhbərlik edən", "Qrup", "Lider"]
+  },
+  {
+    "mainWord": "İcraçı",
+    "forbiddenWords": ["Cinayət iştirakçısı", "Birbaşa törədən", "Hərəkəti edən", "Əsas", "Törədən"]
+  },
+  {
+    "mainWord": "Təhrikçi",
+    "forbiddenWords": ["Cinayət iştirakçısı", "Yoldan çıxaran", "Sövq edən", "Razı salan", "Fitva"]
+  },
+  {
+    "mainWord": "Yardımçı",
+    "forbiddenWords": ["Cinayət iştirakçısı", "Kömək edən", "Maneələri aradan qaldıran", "Vəsait verən", "Şərait yaradan"]
+  },
+  {
+    "mainWord": "Yetkinlik Yaşına Çatmama",
+    "forbiddenWords": ["Uşaq", "Cinayət məsuliyyəti", "Yaş həddi", "Yüngülləşdirici hal", "Cəza"]
+  },
+  {
+    "mainWord": "Anlaqsızlıq",
+    "forbiddenWords": ["Psixi xəstəlik", "Cinayət məsuliyyətindən azad", "Dərk etməmək", "İdarə edə bilməmək", "Ekspertiza"]
+  },
+  {
+    "mainWord": "Ziyan",
+    "forbiddenWords": ["Zərər", "Maddi", "Mənəvi", "Ödənilmə", "Təzminat"]
+  },
+  {
+    "mainWord": "Mənəvi Zərər",
+    "forbiddenWords": ["Əzab", "Həyəcan", "Psixoloji", "Şərəf və ləyaqət", "Təzminat"]
+  },
+  {
+    "mainWord": "Təzminat",
+    "forbiddenWords": ["Zərərin əvəzi", "Ödəniş", "Məhkəmə", "Pul", "Kompensasiya"]
+  },
+  {
+    "mainWord": "İddia Müddəti",
+    "forbiddenWords": ["Məhkəməyə müraciət vaxtı", "Zaman həddi", "Hüququn itirilməsi", "Qanun", "Müddət"]
+  },
+  {
+    "mainWord": "Etibarsız Əqd",
+    "forbiddenWords": ["Qanuna zidd müqavilə", "Hüquqi qüvvəsi olmayan", "Ləğv edilmə", "Nəticə", "Batil"]
+  },
+  {
+    "mainWord": "Şifahi Əqd",
+    "forbiddenWords": ["Sözlə bağlanan müqavilə", "Yazılı olmayan", "Kiçik məbləğ", "İcra", "Razılaşma"]
+  },
+  {
+    "mainWord": "Yazılı Əqd",
+    "forbiddenWords": ["Sənədli müqavilə", "İmza", "Təsdiq", "Notarius", "Forma"]
+  },
+  {
+    "mainWord": "Daşınmaz Əmlak",
+    "forbiddenWords": ["Torpaq", "Bina", "Ev", "Yerindən tərpənməyən", "Qeydiyyat"]
+  },
+  {
+    "mainWord": "Servitut",
+    "forbiddenWords": ["Özgə əmlakından istifadə hüququ", "Məhdudiyyət", "Yol", "Su", "Daşınmaz əmlak"]
+  },
+  {
+    "mainWord": "Uzufrukt",
+    "forbiddenWords": ["Özgə əmlakından bəhrələnmə hüququ", "Gəlir", "İstifadə", "Mülkiyyətçi olmayan", "Müddətli"]
+  },
+  {
+    "mainWord": "Yüksək Təhlükə Mənbəyi",
+    "forbiddenWords": ["Avtomobil", "Tikinti", "Zərər riski", "Məsuliyyət", "Sahib"]
+  },
+  {
+    "mainWord": "Müqavilə Azadlığı",
+    "forbiddenWords": ["İstədiyi ilə bağlamaq", "Şərtləri müəyyən etmək", "Mülki hüquq prinsipi", "Məcburiyyət yox", "Sərbəstlik"]
+  },
+  {
+    "mainWord": "Şərəf və Ləyaqət",
+    "forbiddenWords": ["Mənəvi dəyər", "Hörmət", "Nüfuz", "Müdafiə", "Təhqir"]
+  },
+  {
+    "mainWord": "İşgüzar Nüfuz",
+    "forbiddenWords": ["Reputasiya", "Şirkət", "Sahibkar", "Etibar", "Müdafiə"]
+  },
+  {
+    "mainWord": "İddia Ərizəsi",
+    "forbiddenWords": ["Məhkəməyə müraciət", "Tələb", "Yazılı", "Forma", "Sənəd"]
+  },
+  {
+    "mainWord": "Cavabdeh",
+    "forbiddenWords": ["İddia irəli sürülən tərəf", "Məhkəmədə qarşı tərəf", "Müdafiə olunmalı", "Proses iştirakçısı", "Borclu"]
+  },
+  {
+    "mainWord": "Üçüncü Şəxs",
+    "forbiddenWords": ["Mübahisədə marağı olan", "Prosesə cəlb edilən", "Tərəf olmayan", "Hüquqlarına təsir edən", "Müstəqil"]
+  },
+  {
+    "mainWord": "Vəsatət",
+    "forbiddenWords": ["Xahiş", "Məhkəməyə müraciət", "Prosesual hərəkət", "Tələb", "Yazılı və ya şifahi"]
+  },
+  {
+    "mainWord": "Sübutetmə Yükü",
+    "forbiddenWords": ["İddianı əsaslandırma vəzifəsi", "Dəlil təqdim etmə", "Tərəf", "Məhkəmə", "Məsuliyyət"]
+  },
+  {
+    "mainWord": "Məhkəmə İclası",
+    "forbiddenWords": ["Prosesin keçirildiyi yer", "Hakim", "Tərəflər", "Dinləmə", "Şifahi"]
+  },
+  {
+    "mainWord": "Protokol",
+    "forbiddenWords": ["İclasın yazılı qeydi", "Katib", "Məhkəmə", "İnzibati xəta", "Sənəd"]
+  },
+  {
+    "mainWord": "Qiyabi İcraat",
+    "forbiddenWords": ["Tərəfin iştirakı olmadan", "Məhkəmə prosesi", "Qərar", "Bildiriş", "Etiraz"]
+  },
+  {
+    "mainWord": "Xüsusi İcraat",
+    "forbiddenWords": ["Mübahisə olmayan işlər", "Faktların təsdiqi", "Övladlığa götürmə", "Məhkəmə", "Prosedur"]
+  },
+  {
+    "mainWord": "İcra Məmuru",
+    "forbiddenWords": ["Məhkəmə qərarını icra edən", "Borcun alınması", "Əmlakın satışı", "Dövlət qulluqçusu", "Məcburi"]
+  },
+  {
+    "mainWord": "İcra Vərəqəsi",
+    "forbiddenWords": ["Məhkəmə sənədi", "Qərarın məcburi icrası üçün", "İcra məmuruna verilən", "Borc", "Tələb"]
+  },
+  {
+    "mainWord": "Məhkəmə Xərcləri",
+    "forbiddenWords": ["Dövlət rüsumu", "Vəkil haqqı", "Ekspertiza pulu", "Proseslə bağlı", "Ödəniş"]
+  },
+  {
+    "mainWord": "Seçki Hüququ",
+    "forbiddenWords": ["Səsvermə", "Seçmək", "Seçilmək", "Vətəndaş", "Konstitusiya"]
+  },
+  {
+    "mainWord": "Sərbəst Toplaşmaq Azadlığı",
+    "forbiddenWords": ["Mitinq", "Nümayiş", "Yürüş", "İcazə", "Konstitusiya"]
+  },
+  {
+    "mainWord": "Söz Azadlığı",
+    "forbiddenWords": ["Fikir ifadə etmə", "Mətbuat", "İnformasiya", "Məhdudiyyət", "Konstitusiya"]
+  },
+  {
+    "mainWord": "Vicdan Azadlığı",
+    "forbiddenWords": ["Din", "Etiqad", "İnanmaq", "İnanmamaq", "Konstitusiya"]
+  },
+  {
+    "mainWord": "Müraciət Hüququ",
+    "forbiddenWords": ["Dövlət orqanına yazmaq", "Şikayət", "Ərizə", "Təklif", "Vətəndaş"]
+  },
+  {
+    "mainWord": "Hakimiyyət Bölgüsü",
+    "forbiddenWords": ["Qanunverici", "İcraedici", "Məhkəmə", "Monteskye", "Konstitusiya"]
+  },
+  {
+    "mainWord": "Qanunvericilik Təşəbbüsü",
+    "forbiddenWords": ["Qanun layihəsi təqdim etmə hüququ", "Prezident", "Deputat", "Ali Məhkəmə", "Parlament"]
+  },
+  {
+    "mainWord": "İmpiçment",
+    "forbiddenWords": ["Prezidenti vəzifədən kənarlaşdırma", "İttiham", "Parlament", "Prosedur", "ABŞ"]
+  },
+  {
+    "mainWord": "Veto",
+    "forbiddenWords": ["Prezidentin qanunu imzalamaması", "Qadağa", "Parlamentə qaytarma", "Səlahiyyət", "Razılaşmamaq"]
+  },
+  {
+    "mainWord": "İnzibati Xəta",
+    "forbiddenWords": ["Qayda pozuntusu", "Cərimə", "Protokol", "Məsuliyyət", "Cinayət deyil"]
+  },
+  {
+    "mainWord": "İnzibati Həbs",
+    "forbiddenWords": ["Qısa müddətli həbs", "İnzibati xəta cəzası", "Məhkəmə qərarı", "Qayda pozuntusu", "Azadlıqdan məhrumetmə"]
+  },
+  {
+    "mainWord": "İctimai İşlər",
+    "forbiddenWords": ["Cəza növü", "Ödənişsiz iş", "Cəmiyyətə fayda", "Məhkəmə", "Əmək"]
+  },
+  {
+    "mainWord": "Dövlət Qulluğu",
+    "forbiddenWords": ["Dövlət orqanında iş", "Məmur", "Qanun", "Müsabiqə", "Vəzifə"]
+  },
+  {
+    "mainWord": "Lisenziyalaşdırma",
+    "forbiddenWords": ["Fəaliyyətə icazə", "Dövlət", "Qaydalar", "Nəzarət", "Sənəd"]
+  },
+  {
+    "mainWord": "Nəzarət",
+    "forbiddenWords": ["Yoxlama", "Qanuna uyğunluq", "Dövlət orqanı", "Monitorinq", "Müfəttiş"]
+  },
+  {
+    "mainWord": "Şikayət (İnzibati Qaydada)",
+    "forbiddenWords": ["Dövlət orqanının hərəkətindən narazılıq", "Yuxarı orqana müraciət", "Qərar", "Hüququn bərpası", "Prosedur"]
+  },
+  {
+    "mainWord": "Nikah Müqaviləsi",
+    "forbiddenWords": ["Ər-arvad", "Əmlak rejimi", "Evlənmədən əvvəl və ya sonra", "Notarius", "Razılaşma"]
+  },
+  {
+    "mainWord": "Valideynlik Hüququndan Məhrumetmə",
+    "forbiddenWords": ["Uşağa pis baxma", "Məhkəmə qərarı", "Vəzifələri yerinə yetirməmə", "Son tədbir", "Alkoqolizm"]
+  },
+  {
+    "mainWord": "Aliment Öhdəliyi",
+    "forbiddenWords": ["Uşağı saxlamaq", "Pul ödəmək", "Boşanma", "Məhkəmə", "Valideyn"]
+  },
+  {
+    "mainWord": "Əmlak Bölgüsü (Boşanma)",
+    "forbiddenWords": ["Ər-arvadın birgə mülkiyyəti", "Bərabər pay", "Məhkəmə", "Müqavilə", "Nikah dövrü"]
+  },
+  {
+    "mainWord": "Qəyyumluq və Himayəçilik",
+    "forbiddenWords": ["Yetim uşaqlar", "Fəaliyyət qabiliyyəti olmayanlar", "Qayğı", "Məhkəmə", "Dövlət"]
+  },
+  {
+    "mainWord": "Əmək Müqaviləsi",
+    "forbiddenWords": ["İşçi və işəgötürən arasında", "Şərtlər", "Əmək haqqı", "İş vaxtı", "Yazılı"]
+  },
+  {
+    "mainWord": "İş Vaxtı",
+    "forbiddenWords": ["Gündəlik/Həftəlik iş saatı", "Norma", "Əmək Məcəlləsi", "Fasilə", "İstirahət"]
+  },
+  {
+    "mainWord": "İstirahət Vaxtı",
+    "forbiddenWords": ["Fasilə", "Həftə sonu", "Bayram günləri", "Məzuniyyət", "Əmək Məcəlləsi"]
+  },
+  {
+    "mainWord": "Məzuniyyət",
+    "forbiddenWords": ["İllik istirahət", "Ödənişli", "Əmək Məcəlləsi", "İş stajı", "Hüquq"]
+  },
+  {
+    "mainWord": "Əmək Haqqı",
+    "forbiddenWords": ["Maaş", "İşə görə ödəniş", "Minimum", "Vaxtında ödənmə", "Əmək müqaviləsi"]
+  },
+  {
+    "mainWord": "İntizam Tənbehi",
+    "forbiddenWords": ["İş qaydalarını pozma", "Töhmət", "Xəbərdarlıq", "İşdən çıxarma", "Cəza"]
+  },
+  {
+    "mainWord": "İşdən Azadetmə",
+    "forbiddenWords": ["Əmək müqaviləsinin ləğvi", "Səbəb", "Qanun", "Kompenasasiya", "Xəbərdarlıq"]
+  },
+  {
+    "mainWord": "Beynəlxalq Müqavilə",
+    "forbiddenWords": ["Dövlətlərarası razılaşma", "Konvensiya", "Pakt", "Hüquq", "Məcburi"]
+  },
+  {
+    "mainWord": "Ratifikasiya",
+    "forbiddenWords": ["Beynəlxalq müqavilənin təsdiqi", "Parlament", "Qanuni qüvvəyə minmə", "Dövlət", "Prosedur"]
+  },
+  {
+    "mainWord": "Denonsasiya",
+    "forbiddenWords": ["Beynəlxalq müqavilədən çıxma", "Ləğv etmə", "Bildiriş", "Dövlət", "Prosedur"]
+  },
+  {
+    "mainWord": "Diplomatik İmmunitet",
+    "forbiddenWords": ["Diplomat", "Toxunulmazlıq", "Yerli qanunlardan azad", "Beynəlxalq hüquq", "Səfir"]
+  },
+  {
+    "mainWord": "Konsulluq",
+    "forbiddenWords": ["Xarici ölkədə nümayəndəlik", "Vətəndaşlara yardım", "Viza", "Sənədlər", "Diplomatik olmayan"]
+  },
+  {
+    "mainWord": "Beynəlxalq Məhkəmə",
+    "forbiddenWords": ["Dövlətlərarası mübahisələr", "Haaqa", "BMT", "Ədalət Divanı", "Hüquq"]
+  },
+  {
+    "mainWord": "Hüquq Mədəniyyəti",
+    "forbiddenWords": ["Qanuna hörmət", "Hüquqi bilik", "Cəmiyyət", "Davranış", "Maarifləndirmə"]
+  },
+  {
+    "mainWord": "Hüquqi Maarifləndirmə",
+    "forbiddenWords": ["Hüquqları öyrətmək", "Vətəndaş", "Bilikləndirmə", "Təbliğat", "Seminar"]
+  },
+  {
+    "mainWord": "Qanunun Aliliyi",
+    "forbiddenWords": ["Hamının qanun qarşısında bərabərliyi", "Hüquqi dövlət prinsipi", "İstisna yox", "Üstünlük", "Konstitusiya"]
+  },
+  {
+    "mainWord": "Hüquqi Dövlət",
+    "forbiddenWords": ["Qanunun aliliyi", "İnsan hüquqları", "Hakimiyyət bölgüsü", "Demokratik", "Konstitusiya"]
+  },
+  {
+    "mainWord": "Ədalət Mühakiməsi",
+    "forbiddenWords": ["Məhkəmə prosesi", "Ədalətli", "Qərəzsiz", "Hüquqların təminatı", "Müstəqil"]
+  },
+  {
+    "mainWord": "Qanun",
+    "forbiddenWords": ["Hüquq", "Məcəllə", "Norma", "Qaydalar", "Akt"]
+  },
+  {
+    "mainWord": "Məhkəmə",
+    "forbiddenWords": ["Hakim", "İş", "Qərar", "Proses", "Zal"]
+  },
+  {
+    "mainWord": "Hakim",
+    "forbiddenWords": ["Məhkəmə", "Qərar", "Yargı", "Münsif", "Sədr"]
+  },
+  {
+    "mainWord": "Vəkil",
+    "forbiddenWords": ["Müdafiəçi", "Hüquqşünas", "Məhkəmə", "Müştəri", "İddia"]
+  },
+  {
+    "mainWord": "Şahid",
+    "forbiddenWords": ["Görən", "İfadə", "Məhkəmə", "Sübut", "Dinləmə"]
+  },
+  {
+    "mainWord": "Cinayət",
+    "forbiddenWords": ["Qanun pozuntusu", "Cəza", "Polis", "Təqsir", "İş"]
+  },
+  {
+    "mainWord": "Cəza",
+    "forbiddenWords": ["Sanksiya", "Həbs", "Cərimə", "Məhkəmə", "Qanun"]
+  },
+  {
+    "mainWord": "İttiham",
+    "forbiddenWords": ["Suçlama", "Prokuror", "Cinayət", "Məhkəmə", "İddia"]
+  },
+  {
+    "mainWord": "Müdafiə",
+    "forbiddenWords": ["Vəkil", "Hüquq", "Məhkəmə", "İddia", "Qoruma"]
+  },
+  {
+    "mainWord": "Sübut",
+    "forbiddenWords": ["Dəlil", "Fakt", "Məhkəmə", "İfadə", "Şahid"]
+  },
+  {
+    "mainWord": "İfadə",
+    "forbiddenWords": ["Bəyanat", "Şahid", "Məhkəmə", "Söz", "Dinləmə"]
+  },
+  {
+    "mainWord": "Prokuror",
+    "forbiddenWords": ["İttihamçı", "Məhkəmə", "Cinayət", "Dövlət", "Hüquqşünas"]
+  },
+  {
+    "mainWord": "Hökm",
+    "forbiddenWords": ["Qərar", "Məhkəmə", "Cəza", "Hakim", "Yekun"]
+  },
+  {
+    "mainWord": "Apellyasiya",
+    "forbiddenWords": ["Şikayət", "Yuxarı instansiya", "Qərar", "Məhkəmə", "Yenidən baxış"]
+  },
+  {
+    "mainWord": "İcra",
+    "forbiddenWords": ["Tətbiq", "Qərar", "Məhkəmə", "Proses", "Yerinə yetirmə"]
+  },
+  {
+    "mainWord": "İcraçı",
+    "forbiddenWords": ["İcra məmuru", "Məhkəmə", "Tətbiq", "Qərar", "Məcburiyyət"]
+  },
+  {
+    "mainWord": "İddia",
+    "forbiddenWords": ["Proses", "Məhkəmə", "Təqsir", "Hüquq", "Cinayət"]
+  },
+  {
+    "mainWord": "İcra məmuru",
+    "forbiddenWords": ["İcraçı", "Məhkəmə", "Yardımçı", "Həbs", "Qərar"]
+  },
+  {
+    "mainWord": "Həbs",
+    "forbiddenWords": ["Azadlıq", "Cəza", "İcarə", "Polis", "Əfv"]
+  },
+  {
+    "mainWord": "Əfv",
+    "forbiddenWords": ["Müqəddəs", "Həbs", "Cəza", "Azadlıq", "Qərar"]
+  },
+  {
+    "mainWord": "Qərar",
+    "forbiddenWords": ["Məhkəmə", "Cəza", "Hakim", "Yekun", "İttiham"]
+  },
+  {
+    "mainWord": "Məcəllə",
+    "forbiddenWords": ["Qanun", "Hüquq", "Qaydalar", "Norma", "Qanunvericilik"]
+  },
+
+
+
+  [
+  {
+    "mainWord": "Təqsirləndirilən",
+    "forbiddenWords": ["Cinayət", "Məhkəmə", "Cəza", "İttiham", "İstintaq"]
+  },
+  {
+    "mainWord": "Zərərçəkmiş",
+    "forbiddenWords": ["Şahid", "Sübut", "Qurban", "Məhkəmə", "Hüquq"]
+  },
+  {
+    "mainWord": "Əmlak",
+    "forbiddenWords": ["Mülkiyyət", "Satış", "İcarə", "İsraf", "Hüquq"]
+  },
+  {
+    "mainWord": "Ərizə",
+    "forbiddenWords": ["Məhkəmə", "Tələblər", "Şikayət", "Yazılı", "Təqdim etmək"]
+  },
+  {
+    "mainWord": "Daxili İşlər",
+    "forbiddenWords": ["Polis", "Qanun", "Təhlükəsizlik", "Şikayət", "İstintaq"]
+  },
+  {
+    "mainWord": "Dəlil",
+    "forbiddenWords": ["Sübut", "Fakt", "Şahid", "Məhkəmə", "İfadə"]
+  },
+  {
+    "mainWord": "Təhqiqat",
+    "forbiddenWords": ["İstintaq", "Cinayət", "Polis", "Araşdırma", "Sübut"]
+  },
+  {
+    "mainWord": "İstintaq",
+    "forbiddenWords": ["Təhqiqat", "Cinayət", "Polis", "Sübut", "Hüquq"]
+  },
+  {
+    "mainWord": "Qətnamə",
+    "forbiddenWords": ["Məhkəmə", "Qərar", "Hökm", "İcra", "İttiham"]
+  },
+  {
+    "mainWord": "Mübahisə",
+    "forbiddenWords": ["Çəkişmə", "Məhkəmə", "Hüquq", "İddia", "Razılaşma"]
+  },
+  {
+    "mainWord": "Notariat",
+    "forbiddenWords": ["Rəsmi sənəd", "İmzalama", "Vəkil", "Hüquq", "Şahid"]
+  },
+  {
+    "mainWord": "Konstitusiya",
+    "forbiddenWords": ["Əsas qanun", "Hüquq", "Beynəlxalq", "Müqavilə", "Məcəllə"]
+  },
+  {
+    "mainWord": "Norma",
+    "forbiddenWords": ["Qanun", "Qayda", "Məcəllə", "Akt", "Hüquq"]
+  },
+  {
+    "mainWord": "Qaydalar",
+    "forbiddenWords": ["Norma", "Qanun", "Hüquq", "Əsas", "Tətbiq"]
+  },
+  {
+    "mainWord": "Etiraz",
+    "forbiddenWords": ["Şikayət", "Qarşı çıxmaq", "Rədd", "Məhkəmə", "İddia"]
+  },
+  {
+    "mainWord": "Şikayət",
+    "forbiddenWords": ["Etiraz", "Məhkəmə", "Tələb", "İddia", "Zərər"]
+  },
+  {
+    "mainWord": "Təqsir",
+    "forbiddenWords": ["Cinayət", "Cəza", "İttiham", "Məhkəmə", "İstintaq"]
+  },
+  {
+    "mainWord": "Rəsmi sənəd",
+    "forbiddenWords": ["Notariat", "İmza", "Vəkil", "Şahid", "Məhkəmə"]
+  },
+  {
+    "mainWord": "Qanunvericilik",
+    "forbiddenWords": ["Qanun", "Norma", "Qaydalar", "Məcəllə", "Təhlükəsizlik"]
+  },
+  {
+    "mainWord": "Təhlükəsizlik",
+    "forbiddenWords": ["Qanun", "Hüquq", "Tədbir", "Sahə", "Müdafiə"]
+  },
+  {
+    "mainWord": "İnzibati",
+    "forbiddenWords": ["Cəza", "Hüquq", "Ədalət", "Proses", "Məhkəmə"]
+  },
+  {
+    "mainWord": "Mülkiyyət",
+    "forbiddenWords": ["Əmlak", "Sahiblik", "Hüquq", "İcarə", "Satış"]
+  },
+  {
+    "mainWord": "Hüquqşünas",
+    "forbiddenWords": ["Vəkil", "Mütəxəssis", "Məhkəmə", "Konsultasiya", "Qanun"]
+  },
+  {
+    "mainWord": "Məhkəmə qərarı",
+    "forbiddenWords": ["Hökm", "Qərar", "Hakim", "Məhkəmə", "İcra"]
+  },
+  {
+    "mainWord": "İttihamnamə",
+    "forbiddenWords": ["İttiham", "Prokuror", "Cinayət", "Qanun", "Məhkəmə"]
+  },
+  {
+    "mainWord": "Şəxsiyyətin təhqiri",
+    "forbiddenWords": ["Cinayət", "İtibar", "Qanun", "Hakim", "Hüquq"]
+  },
+  {
+    "mainWord": "Həbsxana",
+    "forbiddenWords": ["Cəza", "Həbs", "Azadlıq", "Məhkəmə", "Qanun"]
+  },
+  {
+    "mainWord": "İcra məmuru",
+    "forbiddenWords": ["İcraçı", "Tətbiq", "Qərar", "Məhkəmə", "Zorla"]
+  },
+  {
+    "mainWord": "İslah edilmə",
+    "forbiddenWords": ["Cəza", "Həbsxana", "Qanun", "Əfv", "Məhkəmə"]
+  },
+  {
+    "mainWord": "Zərərçəkmiş şəxs",
+    "forbiddenWords": ["İttihamçı", "Qurban", "Məhkəmə", "Şahid", "Cinayət"]
+  },
+  {
+    "mainWord": "Səlahiyyət",
+    "forbiddenWords": ["Hüquq", "İcra", "Qanun", "Qərar", "Məhkəmə"]
+  },
+  {
+    "mainWord": "Ədalətsizlik",
+    "forbiddenWords": ["Hüquq", "Qanun", "Ədalət", "Məhkəmə", "İnjustisiya"]
+  },
+  {
+    "mainWord": "Hüquq pozuntusu",
+    "forbiddenWords": ["Cinayət", "Qanun", "İttiham", "Cəza", "Məhkəmə"]
+  },
+  {
+    "mainWord": "Əfv etmək",
+    "forbiddenWords": ["Cəza", "Məhkəmə", "Həbs", "Qərar", "Əfv"]
+  },
+  {
+    "mainWord": "Cəza mühakiməsi",
+    "forbiddenWords": ["Cinayət", "İttiham", "Məhkəmə", "Hökm", "Zərər"]
+  },
+  {
+    "mainWord": "Vəkillik",
+    "forbiddenWords": ["Vəkil", "Müdafiə", "Qanun", "Məhkəmə", "Mütəxəssis"]
+  },
+  {
+    "mainWord": "Rədd etmək",
+    "forbiddenWords": ["Məhkəmə", "Şikayət", "Təqsir", "Hüquq", "Qarşı çıxmaq"]
+  },
+  {
+    "mainWord": "Hüquq bərpa etmək",
+    "forbiddenWords": ["İttiham", "Məhkəmə", "Zərər", "Cəza", "Müdafiə"]
+  },
+  {
+    "mainWord": "İzahat",
+    "forbiddenWords": ["İfadə", "Şahid", "Məhkəmə", "Sübut", "İttiham"]
+  },
+  {
+    "mainWord": "Məhkəmə prosesi",
+    "forbiddenWords": ["Hakim", "Qərar", "Şahid", "İddia", "Hökm"]
+  },
+  {
+    "mainWord": "İstintaq müdirliyi",
+    "forbiddenWords": ["Polis", "İstintaq", "Cinayət", "Araşdırma", "İcra"]
+  },
+  {
+    "mainWord": "Sosial hüquq",
+    "forbiddenWords": ["Hüquq", "İnsan haqları", "Ədalət", "Qanun", "Beynəlxalq"]
+  },
+  {
+    "mainWord": "İcra edilməli",
+    "forbiddenWords": ["Qərar", "Məhkəmə", "Tətbiq", "Sübut", "İttiham"]
+  },
+  {
+    "mainWord": "Təhqiqatçı",
+    "forbiddenWords": ["İstintaq", "Polis", "Cinayət", "İz", "Sübut"]
+  },
+  {
+    "mainWord": "Hüquq mühafizə orqanları",
+    "forbiddenWords": ["Polis", "Prokuror", "Məhkəmə", "Cinayət", "Zərər"]
+  },
+  {
+    "mainWord": "İcazə",
+    "forbiddenWords": ["Rəsmi", "Tədbir", "Ərizə", "Şikayət", "Məhkəmə"]
+  },
+  {
+    "mainWord": "Beynəlxalq hüquq",
+    "forbiddenWords": ["Hüquq", "Konstitusiya", "Qanun", "Müqavilə", "İnsan haqları"]
+  },
+  {
+    "mainWord": "İlkin iclas",
+    "forbiddenWords": ["Məhkəmə", "Hakim", "İddia", "Proses", "Qərar"]
+  },
+  {
+    "mainWord": "Mülki iddia",
+    "forbiddenWords": ["Cəza", "Məhkəmə", "Hüquq", "İttiham", "Sübut"]
+  },
+  {
+    "mainWord": "Ailə hüququ",
+    "forbiddenWords": ["Evlilik", "Vəkil", "Məhkəmə", "Təhlükəsizlik", "Bölüşdürmə"]
+  },
+  {
+    "mainWord": "Cinayət hüququ",
+    "forbiddenWords": ["Cəza", "İttiham", "Polis", "Prokuror", "Məhkəmə"]
+  },
+  {
+    "mainWord": "Hüquq müdafiəçisi",
+    "forbiddenWords": ["Vəkil", "İnsan haqları", "Məhkəmə", "Ədalət", "Təşkilat"]
+  },
+  {
+    "mainWord": "Cəza hüququ",
+    "forbiddenWords": ["Cinayət", "Məhkəmə", "Qanun", "İttiham", "Hökm"]
+  },
+  {
+    "mainWord": "Şəxsiyyətin qorunması",
+    "forbiddenWords": ["Hüquq", "Qanun", "Məhkəmə", "Müdafiə", "Təhlükəsizlik"]
+  },
+  {
+    "mainWord": "Hüquqi mübahisə",
+    "forbiddenWords": ["Məhkəmə", "İttiham", "Şikayət", "Qanun", "Birləşmə"]
+  },
+  {
+    "mainWord": "Vəkil mübahisəsi",
+    "forbiddenWords": ["Hüquq", "Qanun", "Məhkəmə", "Sahib", "Müdafiəçi"]
+  },
+  {
+    "mainWord": "Qanun pozuntusu",
+    "forbiddenWords": ["Cinayət", "İttiham", "Cəza", "Məhkəmə", "Qayda"]
+  },
+  {
+    "mainWord": "Hüquq pozuntusu",
+    "forbiddenWords": ["Qanun", "Məhkəmə", "Cəza", "İttiham", "İş"]
+  },
+  {
+    "mainWord": "Ədalətli mühakimə",
+    "forbiddenWords": ["Məhkəmə", "Hakim", "Qərar", "Cəza", "Hüquq"]
+  },
+  {
+    "mainWord": "Təhlükəsizlik tədbirləri",
+    "forbiddenWords": ["Hüquq", "Məhkəmə", "Müdafiə", "Cəza", "Zərər"]
+  },
+  {
+    "mainWord": "Məhkəmə iclası",
+    "forbiddenWords": ["Qərar", "Hakim", "Proses", "Sübut", "İttiham"]
+  },
+  {
+    "mainWord": "İnsan haqları",
+    "forbiddenWords": ["Hüquq", "Ədalət", "Beynəlxalq", "Məhkəmə", "Qanun"]
+  },
+  {
+    "mainWord": "Sosial hüquqlar",
+    "forbiddenWords": ["Beynəlxalq", "İnsan haqları", "Qanun", "Ədalət", "Müqavilə"]
+  },
+  {
+    "mainWord": "Qanun aliliyi",
+    "forbiddenWords": ["Hüquq", "Qanun", "Ədalət", "Məhkəmə", "İnsan haqları"]
+  },
+  {
+    "mainWord": "Məhkəmə qərarı",
+    "forbiddenWords": ["Hökm", "İttiham", "Proses", "Məhkəmə", "İcra"]
+  },
+  {
+    "mainWord": "Ətraflı araşdırma",
+    "forbiddenWords": ["Təhqiqat", "Cinayət", "İstintaq", "Polis", "İz"]
+  },
+  {
+    "mainWord": "Sosial ədalət",
+    "forbiddenWords": ["İnsan haqları", "Ədalət", "Qanun", "Hüquq", "Məhkəmə"]
+  },
+  {
+    "mainWord": "Ədalət mühakiməsi",
+    "forbiddenWords": ["Hüquq", "Qanun", "Cəza", "Məhkəmə", "İttiham"]
+  }
+]
