@@ -1,0 +1,5182 @@
+[
+  {
+    "mainWord": "Baba",
+    "forbiddenWords": ["Mafya", "Corleone", "Brando", "Coppola", "Suç"]
+  },
+  {
+    "mainWord": "Kazablanka",
+    "forbiddenWords": ["Bogart", "Bergman", "Rick'in Cafe'si", "Paris", "II. Dünya Savaşı"]
+  },
+  {
+    "mainWord": "Yurttaş Kane",
+    "forbiddenWords": ["Welles", "Rosebud", "Gazete", "Xanadu", "Kızak"]
+  },
+  {
+    "mainWord": "Rüzgar Gibi Geçti",
+    "forbiddenWords": ["Scarlett", "Rhett", "İç Savaş", "Tara", "Gable"]
+  },
+  {
+    "mainWord": "Sapık",
+    "forbiddenWords": ["Hitchcock", "Duş", "Bates Motel", "Anne", "Norman"]
+  },
+  {
+    "mainWord": "Arabistanlı Lawrence",
+    "forbiddenWords": ["Çöl", "O'Toole", "Arabistan", "I. Dünya Savaşı", "Lean"]
+  },
+  {
+    "mainWord": "2001: Bir Uzay Destanı",
+    "forbiddenWords": ["Kubrick", "HAL 9000", "Uzay", "Monolit", "Yıldız Çocuk"]
+  },
+  {
+    "mainWord": "Yağmur Altında",
+    "forbiddenWords": ["Kelly", "Müzikal", "Sessiz Film", "Hollywood", "Dans"]
+  },
+  {
+    "mainWord": "Şahane Hayat",
+    "forbiddenWords": ["Stewart", "Capra", "Melek", "George Bailey", "İntihar"]
+  },
+  {
+    "mainWord": "Sunset Bulvarı",
+    "forbiddenWords": ["Swanson", "Holden", "Sessiz Yıldız", "Hollywood", "Havuz"]
+  },
+  {
+    "mainWord": "Yükseklik Korkusu",
+    "forbiddenWords": ["Hitchcock", "Stewart", "Yükseklik", "Spiral", "San Francisco"]
+  },
+  {
+    "mainWord": "Gizli Teşkilat",
+    "forbiddenWords": ["Hitchcock", "Grant", "Mısır Tarlası", "Yanlış Kimlik", "Rushmore"]
+  },
+  {
+    "mainWord": "Arka Pencere",
+    "forbiddenWords": ["Hitchcock", "Stewart", "Komşu", "Dürbün", "Kırık Bacak"]
+  },
+  {
+    "mainWord": "Ben-Hur",
+    "forbiddenWords": ["Heston", "At Arabası Yarışı", "Roma", "İsa", "Epik"]
+  },
+  {
+    "mainWord": "Dr. Garipaşk",
+    "forbiddenWords": ["Kubrick", "Sellers", "Bomba", "Soğuk Savaş", "Satir"]
+  },
+  {
+    "mainWord": "Kıyamet",
+    "forbiddenWords": ["Coppola", "Vietnam", "Kurtz", "Brando", "Savaş"]
+  },
+  {
+    "mainWord": "Taksi Şoförü",
+    "forbiddenWords": ["De Niro", "Scorsese", "Taksi", "New York", "Travis Bickle"]
+  },
+  {
+    "mainWord": "Kızgın Boğa",
+    "forbiddenWords": ["De Niro", "Scorsese", "Boks", "LaMotta", "Siyah Beyaz"]
+  },
+  {
+    "mainWord": "Sıkı Dostlar",
+    "forbiddenWords": ["Scorsese", "Mafya", "Pesci", "Liotta", "Gangster"]
+  },
+  {
+    "mainWord": "Çin Mahallesi",
+    "forbiddenWords": ["Nicholson", "Polanski", "Su", "Los Angeles", "Dedektif"]
+  },
+  {
+    "mainWord": "Guguk Kuşu",
+    "forbiddenWords": ["Nicholson", "Hemşire Ratched", "Akıl Hastanesi", "McMurphy", "Forman"]
+  },
+  {
+    "mainWord": "Mezun",
+    "forbiddenWords": ["Hoffman", "Bayan Robinson", "Plastik", "Simon & Garfunkel", "Havuz"]
+  },
+  {
+    "mainWord": "Annie Hall",
+    "forbiddenWords": ["Allen", "Keaton", "New York", "Komedi", "İlişki"]
+  },
+  {
+    "mainWord": "Şebeke",
+    "forbiddenWords": ["Finch", "Haberler", "Çok Kızgınım", "Chayefsky", "Televizyon"]
+  },
+  {
+    "mainWord": "Perde Açılıyor",
+    "forbiddenWords": ["Davis", "Mankiewicz", "Tiyatro", "Aktris", "Hırslı"]
+  },
+  {
+    "mainWord": "Kwai Köprüsü",
+    "forbiddenWords": ["Guinness", "Lean", "II. Dünya Savaşı", "Savaş Esiri", "Islık"]
+  },
+  {
+    "mainWord": "Garsoniyer",
+    "forbiddenWords": ["Lemmon", "Wilder", "MacLaine", "Ofis", "Anahtar"]
+  },
+  {
+    "mainWord": "Bazıları Sıcak Sever",
+    "forbiddenWords": ["Monroe", "Lemmon", "Curtis", "Kadın Kılığı", "Komedi"]
+  },
+  {
+    "mainWord": "Kahraman Şerif",
+    "forbiddenWords": ["Cooper", "Western", "Saat", "Tren", "Şerif"]
+  },
+  {
+    "mainWord": "Affedilmeyen",
+    "forbiddenWords": ["Eastwood", "Western", "Freeman", "Hackman", "Ödül Avcısı"]
+  },
+  {
+    "mainWord": "Bıçak Sırtı",
+    "forbiddenWords": ["Ford", "Scott", "Replikant", "Bilim Kurgu", "Gelecek"]
+  },
+  {
+    "mainWord": "Çöl Aslanı",
+    "forbiddenWords": ["Wayne", "Ford", "Western", "Natalie Wood", "Komançi"]
+  },
+  {
+    "mainWord": "Ördek Çorbası",
+    "forbiddenWords": ["Marx Kardeşler", "Freedonia", "Savaş", "Komedi", "Ayna"]
+  },
+  {
+    "mainWord": "Şehir Işıkları",
+    "forbiddenWords": ["Chaplin", "Serseri", "Kör Kız", "Çiçek", "Sessiz"]
+  },
+  {
+    "mainWord": "Asri Zamanlar",
+    "forbiddenWords": ["Chaplin", "Serseri", "Fabrika", "Makine", "Sessiz"]
+  },
+  {
+    "mainWord": "Altına Hücum",
+    "forbiddenWords": ["Chaplin", "Serseri", "Alaska", "Kulübe", "Ayakkabı"]
+  },
+  {
+    "mainWord": "Büyük Diktatör",
+    "forbiddenWords": ["Chaplin", "Hynkel", "Hitler", "Konuşma", "Satir"]
+  },
+  {
+    "mainWord": "Metropolis",
+    "forbiddenWords": ["Lang", "Robot", "Gelecek", "Sessiz", "Alman"]
+  },
+  {
+    "mainWord": "Oz Büyücüsü",
+    "forbiddenWords": ["Garland", "Dorothy", "Zümrüt Şehir", "Sarı Tuğlalı Yol", "Kansas"]
+  },
+  {
+    "mainWord": "Frankenstein",
+    "forbiddenWords": ["Karloff", "Canavar", "Bilim Adamı", "Şato", "Elektrik"]
+  },
+  {
+    "mainWord": "Drakula",
+    "forbiddenWords": ["Lugosi", "Vampir", "Transilvanya", "Kan", "Şato"]
+  },
+  {
+    "mainWord": "King Kong",
+    "forbiddenWords": ["Goril", "New York", "Empire State Binası", "Ada", "Güzel"]
+  },
+  {
+    "mainWord": "Pamuk Prenses ve Yedi Cüceler",
+    "forbiddenWords": ["Disney", "Prenses", "Elma", "Kraliçe", "Animasyon"]
+  },
+  {
+    "mainWord": "Pinokyo",
+    "forbiddenWords": ["Disney", "Kukla", "Burun", "Balina", "Jiminy Cricket"]
+  },
+  {
+    "mainWord": "Fantasia",
+    "forbiddenWords": ["Disney", "Müzik", "Mickey Mouse", "Klasik", "Animasyon"]
+  },
+  {
+    "mainWord": "Dumbo",
+    "forbiddenWords": ["Disney", "Fil", "Kulaklar", "Sirk", "Uçmak"]
+  },
+  {
+    "mainWord": "Bambi",
+    "forbiddenWords": ["Disney", "Geyik", "Orman", "Anne", "Animasyon"]
+  },
+  {
+    "mainWord": "Cehennem Dönüşü",
+    "forbiddenWords": ["Wayne", "Ford", "Western", "Apaçi", "Yolcular"]
+  },
+  {
+    "mainWord": "Malta Şahini",
+    "forbiddenWords": ["Bogart", "Huston", "Dedektif", "Heykel", "Kara Film"]
+  },
+  {
+    "mainWord": "Çifte Tazminat",
+    "forbiddenWords": ["Wilder", "Stanwyck", "Sigorta", "Cinayet", "Kara Film"]
+  },
+  {
+    "mainWord": "Rebecca",
+    "forbiddenWords": ["Hitchcock", "Olivier", "Fontaine", "Manderley", "Bayan Danvers"]
+  },
+  {
+    "mainWord": "Philadelphia Hikayesi",
+    "forbiddenWords": ["Hepburn", "Grant", "Stewart", "Düğün", "Komedi"]
+  },
+  {
+    "mainWord": "Tehlikeli Bebek",
+    "forbiddenWords": ["Hepburn", "Grant", "Leopar", "Komedi", "Dinozor"]
+  },
+  {
+    "mainWord": "Onun Kızı Cuma",
+    "forbiddenWords": ["Grant", "Russell", "Gazete", "Komedi", "Hızlı Konuşma"]
+  },
+  {
+    "mainWord": "Bay Smith Washington'a Gidiyor",
+    "forbiddenWords": ["Stewart", "Capra", "Senato", "Filibuster", "Politika"]
+  },
+  {
+    "mainWord": "Uğultulu Tepeler",
+    "forbiddenWords": ["Olivier", "Oberon", "Heathcliff", "Fundalık", "Brontë"]
+  },
+  {
+    "mainWord": "Gazap Üzümleri",
+    "forbiddenWords": ["Fonda", "Ford", "Büyük Buhran", "Oklahoma", "Joad Ailesi"]
+  },
+  {
+    "mainWord": "Sierra Madre Hazineleri",
+    "forbiddenWords": ["Bogart", "Huston", "Altın", "Meksika", "Açgözlülük"]
+  },
+  {
+    "mainWord": "Afrika Kraliçesi",
+    "forbiddenWords": ["Bogart", "Hepburn", "Tekne", "Nehir", "I. Dünya Savaşı"]
+  },
+  {
+    "mainWord": "Rıhtımlar Üzerinde",
+    "forbiddenWords": ["Brando", "Kazan", "Liman", "Sendika", "Yarışmacı"]
+  },
+  {
+    "mainWord": "Asi Gençlik",
+    "forbiddenWords": ["Dean", "Wood", "Ergen", "Bunalım", "Araba Yarışı"]
+  },
+  {
+    "mainWord": "Devlerin Aşkı",
+    "forbiddenWords": ["Dean", "Taylor", "Hudson", "Teksas", "Petrol"]
+  },
+  {
+    "mainWord": "İhtiras Tramvayı",
+    "forbiddenWords": ["Brando", "Leigh", "New Orleans", "Stanley", "Stella"]
+  },
+  {
+    "mainWord": "Kızgın Damdaki Kedi",
+    "forbiddenWords": ["Taylor", "Newman", "Williams", "Güney", "Maggie"]
+  },
+  {
+    "mainWord": "On Emir",
+    "forbiddenWords": ["Heston", "DeMille", "Musa", "Mısır", "İncil"]
+  },
+  {
+    "mainWord": "Spartaküs",
+    "forbiddenWords": ["Douglas", "Kubrick", "Gladyatör", "Roma", "İsyan"]
+  },
+  {
+    "mainWord": "Kuşlar",
+    "forbiddenWords": ["Hitchcock", "Hedren", "Saldırı", "Kargalar", "Bodega Bay"]
+  },
+  {
+    "mainWord": "Tiffany'de Kahvaltı",
+    "forbiddenWords": ["Hepburn", "Peppard", "New York", "Kedi", "Holly Golightly"]
+  },
+  {
+    "mainWord": "Bülbülü Öldürmek",
+    "forbiddenWords": ["Peck", "Finch", "Scout", "Irkçılık", "Güney"]
+  },
+  {
+    "mainWord": "Mary Poppins",
+    "forbiddenWords": ["Andrews", "Van Dyke", "Dadı", "Şemsiye", "Londra"]
+  },
+  {
+    "mainWord": "Neşeli Günler",
+    "forbiddenWords": ["Andrews", "Plummer", "Avusturya", "Şarkı Söylemek", "Naziler"]
+  },
+  {
+    "mainWord": "Sonsuz Ölüm",
+    "forbiddenWords": ["Newman", "Redford", "Western", "Haydutlar", "Bolivya"]
+  },
+  {
+    "mainWord": "Geceyarısı Kovboyu",
+    "forbiddenWords": ["Hoffman", "Voight", "New York", "Erkek Fahişe", "Dostluk"]
+  },
+  {
+    "mainWord": "Easy Rider",
+    "forbiddenWords": ["Fonda", "Hopper", "Motosiklet", "Yolculuk", "Karşı Kültür"]
+  },
+  {
+    "mainWord": "Cephede Eğlence",
+    "forbiddenWords": ["Altman", "Kore", "Savaş", "Hastane", "Komedi"]
+  },
+  {
+    "mainWord": "Kanunun Gücü",
+    "forbiddenWords": ["Hackman", "Friedkin", "Uyuşturucu", "New York", "Araba Takibi"]
+  },
+  {
+    "mainWord": "Kirli Adam",
+    "forbiddenWords": ["Eastwood", "Callahan", "San Francisco", "Polis", ".44 Magnum"]
+  },
+  {
+    "mainWord": "Otomatik Portakal",
+    "forbiddenWords": ["Kubrick", "McDowell", "Drooglar", "Şiddet", "Gelecek"]
+  },
+  {
+    "mainWord": "Kurtuluş",
+    "forbiddenWords": ["Reynolds", "Voight", "Nehir", "Banjo", "Hayatta Kalma"]
+  },
+  {
+    "mainWord": "Belalılar",
+    "forbiddenWords": ["Newman", "Redford", "Dolandırıcılar", "Chicago", "Piyano Rag"]
+  },
+  {
+    "mainWord": "Gençlik Yılları",
+    "forbiddenWords": ["Lucas", "Arabalar", "1960'lar", "Ergenler", "Kaliforniya"]
+  },
+  {
+    "mainWord": "Şeytan",
+    "forbiddenWords": ["Friedkin", "Blair", "İblis", "Rahip", "Korku"]
+  },
+  {
+    "mainWord": "Denizin Dişleri",
+    "forbiddenWords": ["Spielberg", "Köpekbalığı", "Plaj", "Amity Adası", "Tekne"]
+  },
+  {
+    "mainWord": "Rocky",
+    "forbiddenWords": ["Stallone", "Boks", "Philadelphia", "Mazlum", "Antrenman"]
+  },
+  {
+    "mainWord": "Üçüncü Türden Yakınlaşmalar",
+    "forbiddenWords": ["Spielberg", "UFO", "Uzaylılar", "Patates Püresi", "Müzik"]
+  },
+  {
+    "mainWord": "Yıldız Savaşları: Yeni Bir Umut",
+    "forbiddenWords": ["Lucas", "Skywalker", "Vader", "Jedi", "Bilim Kurgu"]
+  },
+  {
+    "mainWord": "Cumartesi Gecesi Ateşi",
+    "forbiddenWords": ["Travolta", "Disko", "Dans", "Brooklyn", "Bee Gees"]
+  },
+  {
+    "mainWord": "Grease",
+    "forbiddenWords": ["Travolta", "Newton-John", "Müzikal", "Lise", "1950'ler"]
+  },
+  {
+    "mainWord": "Çılgınlar Okulu",
+    "forbiddenWords": ["Belushi", "Komedi", "Kolej", "Kardeşlik", "Toga Partisi"]
+  },
+  {
+    "mainWord": "Cadılar Bayramı",
+    "forbiddenWords": ["Carpenter", "Myers", "Slasher", "Maske", "Korku"]
+  },
+  {
+    "mainWord": "Avcı",
+    "forbiddenWords": ["De Niro", "Cimino", "Vietnam", "Rus Ruleti", "Savaş"]
+  },
+  {
+    "mainWord": "Kramer Kramer'e Karşı",
+    "forbiddenWords": ["Hoffman", "Streep", "Boşanma", "Velayet", "Oğul"]
+  },
+  {
+    "mainWord": "Yaratık",
+    "forbiddenWords": ["Scott", "Weaver", "Uzay", "Canavar", "Bilim Kurgu Korku"]
+  },
+  {
+    "mainWord": "Cinnet",
+    "forbiddenWords": ["Kubrick", "Nicholson", "Otel", "Overlook", "Korku"]
+  },
+  {
+    "mainWord": "Uçak!",
+    "forbiddenWords": ["Komedi", "Zucker", "Parodi", "Felaket Filmi", "Leslie Nielsen"]
+  },
+  {
+    "mainWord": "İmparator",
+    "forbiddenWords": ["Yıldız Savaşları", "Vader", "Luke", "Yoda", "Hoth"]
+  },
+  {
+    "mainWord": "Kutsal Hazine Avcıları",
+    "forbiddenWords": ["Ford", "Spielberg", "Indiana Jones", "Sandık", "Macera"]
+  },
+  {
+    "mainWord": "E.T.",
+    "forbiddenWords": ["Spielberg", "Uzaylı", "Bisiklet", "Ev Telefonu", "Reese's Pieces"]
+  },
+  {
+    "mainWord": "Gandhi",
+    "forbiddenWords": ["Attenborough", "Kingsley", "Hindistan", "Bağımsızlık", "Şiddetsizlik"]
+  },
+  {
+    "mainWord": "Tootsie",
+    "forbiddenWords": ["Hoffman", "Lange", "Aktör", "Kadın Kılığı", "Komedi"]
+  },
+  {
+    "mainWord": "Sevgi Sözcükleri",
+    "forbiddenWords": ["MacLaine", "Winger", "Anne-Kız", "Kanser", "Brooks"]
+  },
+  {
+    "mainWord": "Yaralı Yüz",
+    "forbiddenWords": ["Pacino", "De Palma", "Gangster", "Miami", "Kokain"]
+  },
+  {
+    "mainWord": "Hayalet Avcıları",
+    "forbiddenWords": ["Murray", "Aykroyd", "Ramis", "Doğaüstü", "Komedi"]
+  },
+  {
+    "mainWord": "Amadeus",
+    "forbiddenWords": ["Forman", "Mozart", "Salieri", "Müzik", "Viyana"]
+  },
+  {
+    "mainWord": "Geleceğe Dönüş",
+    "forbiddenWords": ["Fox", "Lloyd", "DeLorean", "Zaman Yolculuğu", "McFly"]
+  },
+  {
+    "mainWord": "Kahvaltı Kulübü",
+    "forbiddenWords": ["Hughes", "Ergenler", "Ceza", "Lise", "Kalıplar"]
+  },
+  {
+    "mainWord": "Brazil",
+    "forbiddenWords": ["Gilliam", "Distopya", "Bürokrasi", "Gelecek", "Bilim Kurgu"]
+  },
+  {
+    "mainWord": "Benim Afrikam",
+    "forbiddenWords": ["Streep", "Redford", "Kenya", "Anı", "Pollack"]
+  },
+  {
+    "mainWord": "Yaratıklar",
+    "forbiddenWords": ["Cameron", "Weaver", "Uzay Denizcileri", "Devam Filmi", "Aksiyon"]
+  },
+  {
+    "mainWord": "Müfreze",
+    "forbiddenWords": ["Stone", "Sheen", "Dafoe", "Vietnam", "Savaş"]
+  },
+  {
+    "mainWord": "Ferris Bueller'la Bir Gün",
+    "forbiddenWords": ["Broderick", "Hughes", "Okuldan Kaçmak", "Chicago", "Komedi"]
+  },
+  {
+    "mainWord": "Top Gun",
+    "forbiddenWords": ["Cruise", "Scott", "Savaş Pilotu", "Donanma", "Maverick"]
+  },
+  {
+    "mainWord": "Benimle Kal",
+    "forbiddenWords": ["Reiner", "King", "Çocuklar", "Macera", "Ceset"]
+  },
+  {
+    "mainWord": "Mavi Kadife",
+    "forbiddenWords": ["Lynch", "MacLachlan", "Rossellini", "Kulak", "Gizem"]
+  },
+  {
+    "mainWord": "RoboCop",
+    "forbiddenWords": ["Verhoeven", "Murphy", "Sayborg", "Detroit", "Bilim Kurgu Aksiyon"]
+  },
+  {
+    "mainWord": "Full Metal Jacket",
+    "forbiddenWords": ["Kubrick", "Vietnam", "Denizciler", "Acemi Birliği", "Savaş"]
+  },
+  {
+    "mainWord": "Cehennem Silahı",
+    "forbiddenWords": ["Gibson", "Glover", "Polis İkilisi", "Aksiyon", "Ahbap Filmi"]
+  },
+  {
+    "mainWord": "Prenses Gelin",
+    "forbiddenWords": ["Reiner", "Fantastik", "Komedi", "Romantizm", "Inigo Montoya"]
+  },
+  {
+    "mainWord": "Öldüren Cazibe",
+    "forbiddenWords": ["Douglas", "Close", "İlişki", "Tavşan", "Gerilim"]
+  },
+  {
+    "mainWord": "Borsa",
+    "forbiddenWords": ["Douglas", "Sheen", "Stone", "Açgözlülük", "Finans"]
+  },
+  {
+    "mainWord": "Günaydın Vietnam",
+    "forbiddenWords": ["Williams", "Levinson", "Radyo DJ", "Savaş", "Komedi"]
+  },
+  {
+    "mainWord": "Zor Ölüm",
+    "forbiddenWords": ["Willis", "Rickman", "Nakatomi Plaza", "Terörist", "Aksiyon"]
+  },
+  {
+    "mainWord": "Yağmur Adam",
+    "forbiddenWords": ["Hoffman", "Cruise", "Otizm", "Kardeşler", "Yolculuk"]
+  },
+  {
+    "mainWord": "Masum Sanık Roger Rabbit",
+    "forbiddenWords": ["Zemeckis", "Çizgi Film", "İnsan", "Dedektif", "Toontown"]
+  },
+  {
+    "mainWord": "Ölü Ozanlar Derneği",
+    "forbiddenWords": ["Williams", "Weir", "Okul", "Şiir", "Carpe Diem"]
+  },
+  {
+    "mainWord": "Doğruyu Seç",
+    "forbiddenWords": ["Lee", "Brooklyn", "Irkçılık", "Sıcaklık", "Pizzacı"]
+  },
+  {
+    "mainWord": "Harry Sally ile Tanışınca",
+    "forbiddenWords": ["Crystal", "Ryan", "Reiner", "Romantizm", "Komedi"]
+  },
+  {
+    "mainWord": "Batman (1989)",
+    "forbiddenWords": ["Keaton", "Nicholson", "Burton", "Joker", "Gotham"]
+  },
+  {
+    "mainWord": "Düşler Tarlası",
+    "forbiddenWords": ["Costner", "Beyzbol", "Iowa", "Hayaletler", "İnşa et"]
+  },
+  {
+    "mainWord": "Bayan Daisy'nin Şoförü",
+    "forbiddenWords": ["Tandy", "Freeman", "Güney", "Şoför", "Dostluk"]
+  },
+  {
+    "mainWord": "Kurtlarla Dans",
+    "forbiddenWords": ["Costner", "Western", "Kızılderililer", "İç Savaş", "Sioux"]
+  },
+  {
+    "mainWord": "Evde Tek Başına",
+    "forbiddenWords": ["Culkin", "Columbus", "Hırsızlar", "Noel", "Kevin"]
+  },
+  {
+    "mainWord": "Özel Bir Kadın",
+    "forbiddenWords": ["Gere", "Roberts", "Fahişe", "Romantizm", "Beverly Hills"]
+  },
+  {
+    "mainWord": "Kuzuların Sessizliği",
+    "forbiddenWords": ["Hopkins", "Foster", "Lecter", "FBI", "Yamyam"]
+  },
+  {
+    "mainWord": "Terminatör 2: Mahşer Günü",
+    "forbiddenWords": ["Schwarzenegger", "Cameron", "Sayborg", "Devam Filmi", "Aksiyon"]
+  },
+  {
+    "mainWord": "Güzel ve Çirkin",
+    "forbiddenWords": ["Disney", "Animasyon", "Prenses", "Lanet", "Müzikal"]
+  },
+  {
+    "mainWord": "JFK",
+    "forbiddenWords": ["Stone", "Costner", "Kennedy", "Suikast", "Komplo"]
+  },
+  {
+    "mainWord": "Rezervuar Köpekleri",
+    "forbiddenWords": ["Tarantino", "Soygun", "Gangsterler", "Renkler", "Kulak"]
+  },
+  {
+    "mainWord": "Aladdin",
+    "forbiddenWords": ["Disney", "Williams", "Cin", "Sihirli Halı", "Animasyon"]
+  },
+  {
+    "mainWord": "Birkaç İyi Adam",
+    "forbiddenWords": ["Cruise", "Nicholson", "Moore", "Askeri", "Mahkeme"]
+  },
+  {
+    "mainWord": "Malcolm X",
+    "forbiddenWords": ["Lee", "Washington", "İnsan Hakları", "Biyografi", "İslam Milleti"]
+  },
+  {
+    "mainWord": "Schindler'in Listesi",
+    "forbiddenWords": ["Spielberg", "Neeson", "Holokost", "Yahudiler", "Nazi"]
+  },
+  {
+    "mainWord": "Jurassic Park",
+    "forbiddenWords": ["Spielberg", "Dinozorlar", "Ada", "Tema Parkı", "DNA"]
+  },
+  {
+    "mainWord": "Bugün Aslında Dündü",
+    "forbiddenWords": ["Murray", "Ramis", "Zaman Döngüsü", "Punxsutawney", "Komedi"]
+  },
+  {
+    "mainWord": "Kaçak",
+    "forbiddenWords": ["Ford", "Jones", "Doktor", "Kaçış", "İnsan Avı"]
+  },
+  {
+    "mainWord": "Ucuz Roman",
+    "forbiddenWords": ["Tarantino", "Travolta", "Jackson", "Doğrusal Olmayan", "Suç"]
+  },
+  {
+    "mainWord": "Forrest Gump",
+    "forbiddenWords": ["Hanks", "Zemeckis", "Çikolatalar", "Koşmak", "Tarih"]
+  },
+  {
+    "mainWord": "Esaretin Bedeli",
+    "forbiddenWords": ["Robbins", "Freeman", "Hapishane", "Kaçış", "Umut"]
+  },
+  {
+    "mainWord": "Aslan Kral",
+    "forbiddenWords": ["Disney", "Animasyon", "Afrika", "Simba", "Hakuna Matata"]
+  },
+  {
+    "mainWord": "Sevginin Gücü",
+    "forbiddenWords": ["Reno", "Portman", "Besson", "Kiralık Katil", "Kız"]
+  },
+  {
+    "mainWord": "Dört Nikah Bir Cenaze",
+    "forbiddenWords": ["Grant", "MacDowell", "İngiliz", "Komedi", "Romantizm"]
+  },
+  {
+    "mainWord": "Tezgahtarlar",
+    "forbiddenWords": ["Smith", "Market", "Siyah Beyaz", "Komedi", "Bağımsız"]
+  },
+  {
+    "mainWord": "Yedi",
+    "forbiddenWords": ["Fincher", "Pitt", "Freeman", "Seri Katil", "Günahlar"]
+  },
+  {
+    "mainWord": "Oyuncak Hikayesi",
+    "forbiddenWords": ["Pixar", "Hanks", "Allen", "Animasyon", "Oyuncaklar"]
+  },
+  {
+    "mainWord": "Cesur Yürek",
+    "forbiddenWords": ["Gibson", "İskoçya", "Özgürlük", "William Wallace", "Savaş"]
+  },
+  {
+    "mainWord": "Apollo 13",
+    "forbiddenWords": ["Hanks", "Howard", "Uzay", "Ay Görevi", "Problem"]
+  },
+  {
+    "mainWord": "Büyük Hesaplaşma",
+    "forbiddenWords": ["Pacino", "De Niro", "Mann", "Soygun", "Polisler ve Soyguncular"]
+  },
+  {
+    "mainWord": "Olağan Şüpheliler",
+    "forbiddenWords": ["Singer", "Spacey", "Keyser Söze", "Suç", "Şaşırtıcı Son"]
+  },
+  {
+    "mainWord": "Casino",
+    "forbiddenWords": ["Scorsese", "De Niro", "Pesci", "Las Vegas", "Mafya"]
+  },
+  {
+    "mainWord": "Fargo",
+    "forbiddenWords": ["Coen Kardeşler", "McDormand", "Minnesota", "Kaçırma", "Kıyma Makinesi"]
+  },
+  {
+    "mainWord": "Trainspotting",
+    "forbiddenWords": ["Boyle", "McGregor", "İskoçya", "Uyuşturucu", "Bağımlılık"]
+  },
+  {
+    "mainWord": "Kurtuluş Günü",
+    "forbiddenWords": ["Emmerich", "Smith", "Uzaylılar", "İstila", "Beyaz Saray"]
+  },
+  {
+    "mainWord": "Yeni Bir Başlangıç",
+    "forbiddenWords": ["Cruise", "Zellweger", "Crowe", "Spor Menajeri", "Parayı göster"]
+  },
+  {
+    "mainWord": "Çığlık",
+    "forbiddenWords": ["Craven", "Williamson", "Korku", "Slasher", "Hayalet Surat"]
+  },
+  {
+    "mainWord": "Titanik",
+    "forbiddenWords": ["Cameron", "DiCaprio", "Winslet", "Gemi", "Buzdağı"]
+  },
+  {
+    "mainWord": "Los Angeles Sırları",
+    "forbiddenWords": ["Hanson", "Crowe", "Spacey", "Pearce", "Kara Film"]
+  },
+  {
+    "mainWord": "Can Dostum",
+    "forbiddenWords": ["Damon", "Affleck", "Williams", "Matematik", "Boston"]
+  },
+  {
+    "mainWord": "Ateşli Geceler",
+    "forbiddenWords": ["Anderson", "Wahlberg", "Reynolds", "Porno Endüstrisi", "1970'ler"]
+  },
+  {
+    "mainWord": "Siyah Giyen Adamlar",
+    "forbiddenWords": ["Smith", "Jones", "Sonnenfeld", "Uzaylılar", "Bilim Kurgu Komedi"]
+  },
+  {
+    "mainWord": "Avanak Ajan",
+    "forbiddenWords": ["Myers", "Komedi", "Ajan", "Parodi", "1960'lar"]
+  },
+  {
+    "mainWord": "Büyük Lebowski",
+    "forbiddenWords": ["Coen Kardeşler", "Bridges", "Bowling", "Ahbap", "Halı"]
+  },
+  {
+    "mainWord": "Er Ryan'ı Kurtarmak",
+    "forbiddenWords": ["Spielberg", "Hanks", "II. Dünya Savaşı", "D-Day", "Normandiya"]
+  },
+  {
+    "mainWord": "Ah Mary Vah Mary",
+    "forbiddenWords": ["Farrelly Kardeşler", "Diaz", "Stiller", "Komedi", "Saç Jölesi"]
+  },
+  {
+    "mainWord": "Geçmişin Gölgesinde",
+    "forbiddenWords": ["Norton", "Kaye", "Irkçılık", "Neo-Nazi", "Kefaret"]
+  },
+  {
+    "mainWord": "Hayat Güzeldir",
+    "forbiddenWords": ["Benigni", "Holokost", "İtalya", "Baba-Oğul", "Komedi-Dram"]
+  },
+  {
+    "mainWord": "Matrix",
+    "forbiddenWords": ["Wachowskiler", "Reeves", "Fishburne", "Bilim Kurgu", "Sanal Gerçeklik"]
+  },
+  {
+    "mainWord": "Dövüş Kulübü",
+    "forbiddenWords": ["Fincher", "Pitt", "Norton", "Sabun", "Anarşi"]
+  },
+  {
+    "mainWord": "Altıncı His",
+    "forbiddenWords": ["Shyamalan", "Willis", "Osment", "Hayaletler", "Şaşırtıcı Son"]
+  },
+  {
+    "mainWord": "Amerikan Güzeli",
+    "forbiddenWords": ["Mendes", "Spacey", "Bening", "Banliyö", "Orta Yaş Krizi"]
+  },
+  {
+    "mainWord": "Ofis Alanı",
+    "forbiddenWords": ["Judge", "Komedi", "İşyeri", "TPS Raporları", "Zımba"]
+  },
+  {
+    "mainWord": "Manolya",
+    "forbiddenWords": ["Anderson", "Ansambl Kadro", "Los Angeles", "Birbirine Bağlı Hikayeler", "Kurbağalar"]
+  },
+  {
+    "mainWord": "John Malkovich Olmak",
+    "forbiddenWords": ["Jonze", "Kaufman", "Cusack", "Portal", "Kuklacı"]
+  },
+  {
+    "mainWord": "Gladyatör",
+    "forbiddenWords": ["Scott", "Crowe", "Phoenix", "Roma", "Maximus"]
+  },
+  {
+    "mainWord": "Akıl Defteri",
+    "forbiddenWords": ["Nolan", "Pearce", "Amnezi", "Dövmeler", "Geriye Doğru"]
+  },
+  {
+    "mainWord": "Kaplan ve Ejderha",
+    "forbiddenWords": ["Lee", "Chow Yun-fat", "Yeoh", "Dövüş Sanatları", "Wuxia"]
+  },
+  {
+    "mainWord": "Şöhrete Bir Adım",
+    "forbiddenWords": ["Crowe", "Hudson", "Fugit", "Rock Grubu", "Rolling Stone"]
+  },
+  {
+    "mainWord": "Bir Rüya İçin Ağıt",
+    "forbiddenWords": ["Aronofsky", "Leto", "Connelly", "Uyuşturucu", "Bağımlılık"]
+  },
+  {
+    "mainWord": "Nerdesin Be Birader?",
+    "forbiddenWords": ["Coen Kardeşler", "Clooney", "Odysseia", "Güney", "Müzik"]
+  },
+  {
+    "mainWord": "Trafik",
+    "forbiddenWords": ["Soderbergh", "Douglas", "Del Toro", "Zeta-Jones", "Uyuşturucu"]
+  },
+  {
+    "mainWord": "Akıl Oyunları",
+    "forbiddenWords": ["Howard", "Crowe", "Connelly", "Nash", "Şizofreni"]
+  },
+  {
+    "mainWord": "Amelie",
+    "forbiddenWords": ["Jeunet", "Tautou", "Paris", "Tuhaf", "Romantizm"]
+  },
+  {
+    "mainWord": "Donnie Darko",
+    "forbiddenWords": ["Kelly", "Gyllenhaal", "Tavşan", "Zaman Yolculuğu", "Kült Film"]
+  },
+  {
+    "mainWord": "Mulholland Çıkmazı",
+    "forbiddenWords": ["Lynch", "Watts", "Harring", "Gizem", "Hollywood"]
+  },
+  {
+    "mainWord": "Yüzüklerin Efendisi: Yüzük Kardeşliği",
+    "forbiddenWords": ["Jackson", "Tolkien", "Frodo", "Yüzük", "Fantastik"]
+  },
+  {
+    "mainWord": "Ruhların Kaçışı",
+    "forbiddenWords": ["Miyazaki", "Animasyon", "Japonya", "Ruhlar", "Hamam"]
+  },
+  {
+    "mainWord": "İlk Gün",
+    "forbiddenWords": ["Fuqua", "Washington", "Hawke", "Polis", "Yolsuzluk"]
+  },
+  {
+    "mainWord": "Ocean's Eleven",
+    "forbiddenWords": ["Soderbergh", "Clooney", "Pitt", "Damon", "Soygun"]
+  },
+  {
+    "mainWord": "Sevimli Canavarlar",
+    "forbiddenWords": ["Pixar", "Animasyon", "Sulley", "Mike", "Boo"]
+  },
+  {
+    "mainWord": "Şrek",
+    "forbiddenWords": ["Animasyon", "Myers", "Murphy", "Ogre", "Eşek"]
+  },
+  {
+    "mainWord": "Harry Potter ve Felsefe Taşı",
+    "forbiddenWords": ["Radcliffe", "Grint", "Watson", "Sihir", "Hogwarts"]
+  },
+  {
+    "mainWord": "Yüzüklerin Efendisi: İki Kule",
+    "forbiddenWords": ["Jackson", "Tolkien", "Miğfer Dibi", "Entler", "Fantastik"]
+  },
+  {
+    "mainWord": "Chicago",
+    "forbiddenWords": ["Marshall", "Zellweger", "Gere", "Zeta-Jones", "Müzikal"]
+  },
+  {
+    "mainWord": "Piyanist",
+    "forbiddenWords": ["Polanski", "Brody", "Holokost", "Varşova", "Müzik"]
+  },
+  {
+    "mainWord": "New York Çeteleri",
+    "forbiddenWords": ["Scorsese", "DiCaprio", "Day-Lewis", "New York", "19. Yüzyıl"]
+  },
+  {
+    "mainWord": "Sıkıysa Yakala",
+    "forbiddenWords": ["Spielberg", "DiCaprio", "Hanks", "Dolandırıcı", "FBI"]
+  },
+  {
+    "mainWord": "Örümcek Adam (2002)",
+    "forbiddenWords": ["Raimi", "Maguire", "Dunst", "Süper Kahraman", "Marvel"]
+  },
+  {
+    "mainWord": "Tanrıkent",
+    "forbiddenWords": ["Meirelles", "Brezilya", "Favela", "Çeteler", "Suç"]
+  },
+  {
+    "mainWord": "İhtiyar Delikanlı (2003)",
+    "forbiddenWords": ["Park Chan-wook", "Güney Kore", "İntikam", "Çekiç", "Şaşırtıcı"]
+  },
+  {
+    "mainWord": "Yüzüklerin Efendisi: Kralın Dönüşü",
+    "forbiddenWords": ["Jackson", "Tolkien", "Oscar", "Mordor", "Fantastik"]
+  },
+  {
+    "mainWord": "Bir Konuşabilse",
+    "forbiddenWords": ["Coppola", "Murray", "Johansson", "Tokyo", "Bağlantı"]
+  },
+  {
+    "mainWord": "Kayıp Balık Nemo",
+    "forbiddenWords": ["Pixar", "Animasyon", "Balık", "Okyanus", "Marlin"]
+  },
+  {
+    "mainWord": "Karayip Korsanları: Siyah İnci'nin Laneti",
+    "forbiddenWords": ["Depp", "Bloom", "Knightley", "Sparrow", "Gemi"]
+  },
+  {
+    "mainWord": "Kill Bill: Vol. 1",
+    "forbiddenWords": ["Tarantino", "Thurman", "İntikam", "Kılıç", "Gelin"]
+  },
+  {
+    "mainWord": "Gizemli Nehir",
+    "forbiddenWords": ["Eastwood", "Penn", "Robbins", "Bacon", "Cinayet"]
+  },
+  {
+    "mainWord": "Sil Baştan",
+    "forbiddenWords": ["Gondry", "Carrey", "Winslet", "Hafıza", "Silmek"]
+  },
+  {
+    "mainWord": "Milyonluk Bebek",
+    "forbiddenWords": ["Eastwood", "Swank", "Freeman", "Boks", "Ötanazi"]
+  },
+  {
+    "mainWord": "İnanılmaz Aile",
+    "forbiddenWords": ["Pixar", "Animasyon", "Süper Kahramanlar", "Aile", "Parr"]
+  },
+  {
+    "mainWord": "Zombilerin Şafağı",
+    "forbiddenWords": ["Wright", "Pegg", "Frost", "Zombiler", "Komedi"]
+  },
+  {
+    "mainWord": "Sideways",
+    "forbiddenWords": ["Payne", "Giamatti", "Church", "Şarap", "Yolculuk"]
+  },
+  {
+    "mainWord": "Gün Batmadan",
+    "forbiddenWords": ["Linklater", "Hawke", "Delpy", "Paris", "Devam Filmi"]
+  },
+  {
+    "mainWord": "Napolyon Dinamit",
+    "forbiddenWords": ["Hess", "Heder", "Idaho", "Komedi", "Pedro'ya Oy Ver"]
+  },
+  {
+    "mainWord": "Göklerin Hakimi",
+    "forbiddenWords": ["Scorsese", "DiCaprio", "Hughes", "Uçaklar", "OKB"]
+  },
+  {
+    "mainWord": "Çarpışma (2004)",
+    "forbiddenWords": ["Haggis", "Ansambl Kadro", "Los Angeles", "Irkçılık", "Birbirine Bağlı"]
+  },
+  {
+    "mainWord": "Batman Başlıyor",
+    "forbiddenWords": ["Nolan", "Bale", "Cillian Murphy", "Süper Kahraman", "Köken"]
+  },
+  {
+    "mainWord": "Brokeback Dağı",
+    "forbiddenWords": ["Lee", "Ledger", "Gyllenhaal", "Kovboylar", "Romantizm"]
+  },
+  {
+    "mainWord": "Günah Şehri",
+    "forbiddenWords": ["Rodriguez", "Miller", "Willis", "Rourke", "Kara Film"]
+  },
+  {
+    "mainWord": "Sınırları Aşmak",
+    "forbiddenWords": ["Mangold", "Phoenix", "Witherspoon", "Johnny Cash", "Müzik Biyografi"]
+  },
+  {
+    "mainWord": "V for Vendetta",
+    "forbiddenWords": ["Wachowskiler", "Portman", "Weaving", "Distopya", "Maske"]
+  },
+  {
+    "mainWord": "Köstebek",
+    "forbiddenWords": ["Scorsese", "DiCaprio", "Damon", "Nicholson", "Gizli Polis"]
+  },
+  {
+    "mainWord": "Pan'ın Labirenti",
+    "forbiddenWords": ["del Toro", "Fantastik", "İspanya", "Faun", "Savaş"]
+  },
+  {
+    "mainWord": "Küçük Gün Işığım",
+    "forbiddenWords": ["Dayton", "Faris", "Carell", "Breslin", "Güzellik Yarışması"]
+  },
+  {
+    "mainWord": "Son Umut",
+    "forbiddenWords": ["Cuarón", "Owen", "Moore", "Distopya", "Kısırlık"]
+  },
+  {
+    "mainWord": "Prestij",
+    "forbiddenWords": ["Nolan", "Bale", "Jackman", "Sihir", "Rekabet"]
+  },
+  {
+    "mainWord": "Casino Royale",
+    "forbiddenWords": ["Campbell", "Craig", "Green", "James Bond", "Poker"]
+  },
+  {
+    "mainWord": "Borat",
+    "forbiddenWords": ["Charles", "Baron Cohen", "Sahte Belgesel", "Kazakistan", "Komedi"]
+  },
+  {
+    "mainWord": "İhtiyarlara Yer Yok",
+    "forbiddenWords": ["Coen Kardeşler", "Brolin", "Bardem", "Jones", "Kiralık Katil"]
+  },
+  {
+    "mainWord": "Kan Dökülecek",
+    "forbiddenWords": ["Anderson", "Day-Lewis", "Petrol", "Arayıcı", "Milkshake"]
+  },
+  {
+    "mainWord": "Zodiac",
+    "forbiddenWords": ["Fincher", "Gyllenhaal", "Ruffalo", "Downey Jr.", "Seri Katil"]
+  },
+  {
+    "mainWord": "Juno",
+    "forbiddenWords": ["Reitman", "Page", "Cera", "Hamilelik", "Komedi-Dram"]
+  },
+  {
+    "mainWord": "Ratatouille",
+    "forbiddenWords": ["Pixar", "Animasyon", "Fare", "Aşçılık", "Paris"]
+  },
+  {
+    "mainWord": "Yolun Sonu",
+    "forbiddenWords": ["Penn", "Hirsch", "Alaska", "Doğa", "Gerçek Hikaye"]
+  },
+  {
+    "mainWord": "Çok Fena",
+    "forbiddenWords": ["Mottola", "Hill", "Cera", "Rogen", "Lise Komedisi"]
+  },
+  {
+    "mainWord": "Kara Şövalye",
+    "forbiddenWords": ["Nolan", "Bale", "Ledger", "Joker", "Gotham"]
+  },
+  {
+    "mainWord": "VOL-İ",
+    "forbiddenWords": ["Pixar", "Animasyon", "Robot", "Gelecek", "Dünya"]
+  },
+  {
+    "mainWord": "Milyoner",
+    "forbiddenWords": ["Boyle", "Patel", "Pinto", "Hindistan", "Yarışma Programı"]
+  },
+  {
+    "mainWord": "Demir Adam",
+    "forbiddenWords": ["Favreau", "Downey Jr.", "Paltrow", "Süper Kahraman", "Marvel"]
+  },
+  {
+    "mainWord": "Gran Torino",
+    "forbiddenWords": ["Eastwood", "Western", "Detroit", "Hmong", "Araba"]
+  },
+  {
+    "mainWord": "Tropik Fırtına",
+    "forbiddenWords": ["Stiller", "Downey Jr.", "Black", "Komedi", "Savaş Filmi Parodisi"]
+  },
+  {
+    "mainWord": "In Bruges",
+    "forbiddenWords": ["McDonagh", "Farrell", "Gleeson", "Fiennes", "Belçika"]
+  },
+  {
+    "mainWord": "Milk",
+    "forbiddenWords": ["Van Sant", "Penn", "Biyografi", "Eşcinsel Hakları", "San Francisco"]
+  },
+  {
+    "mainWord": "Benjamin Button'ın Tuhaf Hikayesi",
+    "forbiddenWords": ["Fincher", "Pitt", "Blanchett", "Geriye Yaşlanma", "Romantizm"]
+  },
+  {
+    "mainWord": "Avatar",
+    "forbiddenWords": ["Cameron", "Bilim Kurgu", "Pandora", "Na'vi", "3D"]
+  },
+  {
+    "mainWord": "Soysuzlar Çetesi",
+    "forbiddenWords": ["Tarantino", "Pitt", "Waltz", "II. Dünya Savaşı", "Naziler"]
+  },
+  {
+    "mainWord": "Yukarı Bak",
+    "forbiddenWords": ["Pixar", "Animasyon", "Balonlar", "Ev", "Macera"]
+  },
+  {
+    "mainWord": "Yasak Bölge 9",
+    "forbiddenWords": ["Blomkamp", "Bilim Kurgu", "Güney Afrika", "Uzaylılar", "Apartheid"]
+  },
+  {
+    "mainWord": "Felekten Bir Gece",
+    "forbiddenWords": ["Phillips", "Cooper", "Helms", "Galifianakis", "Las Vegas"]
+  },
+  {
+    "mainWord": "Uzay Yolu (2009)",
+    "forbiddenWords": ["Abrams", "Pine", "Quinto", "Bilim Kurgu", "Yeniden Başlatma"]
+  },
+  {
+    "mainWord": "Watchmen",
+    "forbiddenWords": ["Snyder", "Çizgi Roman", "Süper Kahramanlar", "Alternatif Tarih", "Rorschach"]
+  },
+  {
+    "mainWord": "Aşkın (500) Günü",
+    "forbiddenWords": ["Webb", "Gordon-Levitt", "Deschanel", "Romantizm", "Doğrusal Olmayan"]
+  },
+  {
+    "mainWord": "Başlangıç",
+    "forbiddenWords": ["Nolan", "DiCaprio", "Page", "Rüyalar", "Soygun"]
+  },
+  {
+    "mainWord": "Sosyal Ağ",
+    "forbiddenWords": ["Fincher", "Eisenberg", "Garfield", "Timberlake", "Facebook"]
+  },
+  {
+    "mainWord": "Oyuncak Hikayesi 3",
+    "forbiddenWords": ["Pixar", "Animasyon", "Kolej", "Kaçış", "Yakma Fırını"]
+  },
+  {
+    "mainWord": "Siyah Kuğu",
+    "forbiddenWords": ["Aronofsky", "Portman", "Kunis", "Bale", "Gerilim"]
+  },
+  {
+    "mainWord": "Zoraki Kral",
+    "forbiddenWords": ["Hooper", "Firth", "Rush", "Bonham Carter", "Kekemelik"]
+  },
+  {
+    "mainWord": "İz Peşinde (2010)",
+    "forbiddenWords": ["Coen Kardeşler", "Bridges", "Damon", "Steinfeld", "Western"]
+  },
+  {
+    "mainWord": "Scott Pilgrim Dünyaya Karşı",
+    "forbiddenWords": ["Wright", "Cera", "Winstead", "Video Oyunu", "Eski Sevgililer"]
+  },
+  {
+    "mainWord": "Zindan Adası",
+    "forbiddenWords": ["Scorsese", "DiCaprio", "Ruffalo", "Akıl Hastanesi", "Şaşırtıcı"]
+  },
+  {
+    "mainWord": "Sürücü",
+    "forbiddenWords": ["Refn", "Gosling", "Mulligan", "Şoför", "Neo-Noir"]
+  },
+  {
+    "mainWord": "Duyguların Rengi",
+    "forbiddenWords": ["Taylor", "Stone", "Davis", "Spencer", "İnsan Hakları"]
+  },
+  {
+    "mainWord": "Kazanma Sanatı",
+    "forbiddenWords": ["Miller", "Pitt", "Hill", "Beyzbol", "İstatistik"]
+  },
+  {
+    "mainWord": "Nedimeler",
+    "forbiddenWords": ["Feig", "Wiig", "McCarthy", "Komedi", "Düğün"]
+  },
+  {
+    "mainWord": "Paris'te Gece Yarısı",
+    "forbiddenWords": ["Allen", "Wilson", "McAdams", "Zaman Yolculuğu", "Yazarlar"]
+  },
+  {
+    "mainWord": "Artist",
+    "forbiddenWords": ["Hazanavicius", "Dujardin", "Bejo", "Sessiz Film", "Siyah Beyaz"]
+  },
+  {
+    "mainWord": "Harry Potter ve Ölüm Yadigârları: Bölüm 2",
+    "forbiddenWords": ["Yates", "Radcliffe", "Grint", "Watson", "Son Savaş"]
+  },
+  {
+    "mainWord": "Bir Ayrılık",
+    "forbiddenWords": ["Farhadi", "İran", "Boşanma", "Dram", "Oscar"]
+  },
+  {
+    "mainWord": "Can Dostum (Fransa)",
+    "forbiddenWords": ["Nakache", "Toledano", "Sy", "Cluzet", "Fransa"]
+  },
+  {
+    "mainWord": "Zincirsiz",
+    "forbiddenWords": ["Tarantino", "Foxx", "Waltz", "DiCaprio", "Western"]
+  },
+  {
+    "mainWord": "Operasyon: Argo",
+    "forbiddenWords": ["Affleck", "Cranston", "Goodman", "İran Rehine Krizi", "CIA"]
+  },
+  {
+    "mainWord": "Pi'nin Yaşamı",
+    "forbiddenWords": ["Lee", "Sharma", "Kaplan", "Okyanus", "Hayatta Kalma"]
+  },
+  {
+    "mainWord": "Umut Işığım",
+    "forbiddenWords": ["Russell", "Cooper", "Lawrence", "Akıl Sağlığı", "Dans"]
+  },
+  {
+    "mainWord": "Zero Dark Thirty",
+    "forbiddenWords": ["Bigelow", "Chastain", "Bin Ladin", "CIA", "Av"]
+  },
+  {
+    "mainWord": "Yenilmezler",
+    "forbiddenWords": ["Whedon", "Downey Jr.", "Evans", "Hemsworth", "Süper Kahraman Takımı"]
+  },
+  {
+    "mainWord": "Skyfall",
+    "forbiddenWords": ["Mendes", "Craig", "Bardem", "Dench", "James Bond"]
+  },
+  {
+    "mainWord": "Sefiller",
+    "forbiddenWords": ["Hooper", "Jackman", "Crowe", "Hathaway", "Müzikal"]
+  },
+  {
+    "mainWord": "12 Yıllık Esaret",
+    "forbiddenWords": ["McQueen", "Ejiofor", "Fassbender", "Nyong'o", "Kölelik"]
+  },
+  {
+    "mainWord": "Yerçekimi",
+    "forbiddenWords": ["Cuarón", "Bullock", "Clooney", "Uzay", "Hayatta Kalma"]
+  },
+  {
+    "mainWord": "Para Avcısı",
+    "forbiddenWords": ["Scorsese", "DiCaprio", "Hill", "Finans", "Aşırılık"]
+  },
+  {
+    "mainWord": "Aşk",
+    "forbiddenWords": ["Jonze", "Phoenix", "Johansson", "Yapay Zeka", "Romantizm"]
+  },
+  {
+    "mainWord": "Karlar Ülkesi",
+    "forbiddenWords": ["Disney", "Animasyon", "Kız Kardeşler", "Aldırma Gönül", "Kar Kraliçesi"]
+  },
+  {
+    "mainWord": "Tutsak",
+    "forbiddenWords": ["Villeneuve", "Jackman", "Gyllenhaal", "Kaçırma", "Gerilim"]
+  },
+  {
+    "mainWord": "Sınırsızlar Kulübü",
+    "forbiddenWords": ["Vallée", "McConaughey", "Leto", "AIDS", "Teksas"]
+  },
+  {
+    "mainWord": "Düzenbaz",
+    "forbiddenWords": ["Russell", "Bale", "Adams", "Cooper", "Lawrence"]
+  },
+  {
+    "mainWord": "Çocukluk",
+    "forbiddenWords": ["Linklater", "Hawke", "Arquette", "Coltrane", "12 Yıl Boyunca Çekildi"]
+  },
+  {
+    "mainWord": "Whiplash",
+    "forbiddenWords": ["Chazelle", "Simmons", "Teller", "Caz", "Davul"]
+  },
+  {
+    "mainWord": "Büyük Budapeşte Oteli",
+    "forbiddenWords": ["Anderson", "Fiennes", "Revolori", "Otel", "Komedi"]
+  },
+  {
+    "mainWord": "Galaksinin Koruyucuları",
+    "forbiddenWords": ["Gunn", "Pratt", "Saldana", "Bautista", "Süper Kahraman Uzay Operası"]
+  },
+  {
+    "mainWord": "Yıldızlararası",
+    "forbiddenWords": ["Nolan", "McConaughey", "Hathaway", "Chastain", "Uzay Yolculuğu"]
+  },
+  {
+    "mainWord": "Kayıp Kız",
+    "forbiddenWords": ["Fincher", "Pike", "Affleck", "Gerilim", "Kayıp Eş"]
+  },
+  {
+    "mainWord": "Birdman",
+    "forbiddenWords": ["Iñárritu", "Keaton", "Norton", "Stone", "Tiyatro"]
+  },
+  {
+    "mainWord": "Selma",
+    "forbiddenWords": ["DuVernay", "Oyelowo", "İnsan Hakları Yürüyüşü", "Martin Luther King Jr."]
+  },
+  {
+    "mainWord": "Yapay Oyun",
+    "forbiddenWords": ["Tyldum", "Cumberbatch", "Knightley", "Turing", "Enigma"]
+  },
+  {
+    "mainWord": "Mad Max: Öfkeli Yollar",
+    "forbiddenWords": ["Miller", "Hardy", "Theron", "Aksiyon", "Kıyamet Sonrası"]
+  },
+  {
+    "mainWord": "Spotlight",
+    "forbiddenWords": ["McCarthy", "Ruffalo", "Keaton", "McAdams", "Gazetecilik"]
+  },
+  {
+    "mainWord": "Diriliş",
+    "forbiddenWords": ["Iñárritu", "DiCaprio", "Hardy", "Ayı Saldırısı", "Hayatta Kalma"]
+  },
+  {
+    "mainWord": "Gizli Dünya",
+    "forbiddenWords": ["Abrahamson", "Larson", "Tremblay", "Esaret", "Kaçış"]
+  },
+  {
+    "mainWord": "Büyük Açık",
+    "forbiddenWords": ["McKay", "Bale", "Carell", "Gosling", "Finansal Kriz"]
+  },
+  {
+    "mainWord": "Sicario",
+    "forbiddenWords": ["Villeneuve", "Blunt", "Del Toro", "Brolin", "Uyuşturucu Savaşı"]
+  },
+  {
+    "mainWord": "Yıldız Savaşları: Güç Uyanıyor",
+    "forbiddenWords": ["Abrams", "Ridley", "Boyega", "Ford", "Devam Üçlemesi"]
+  },
+  {
+    "mainWord": "Geliş",
+    "forbiddenWords": ["Villeneuve", "Adams", "Renner", "Uzaylılar", "Dil"]
+  },
+  {
+    "mainWord": "Ay Işığı",
+    "forbiddenWords": ["Jenkins", "Ali", "Harris", "Chiron", "Büyüme Hikayesi"]
+  },
+  {
+    "mainWord": "Aşıklar Şehri",
+    "forbiddenWords": ["Chazelle", "Gosling", "Stone", "Müzikal", "Los Angeles"]
+  },
+  {
+    "mainWord": "Yaşamın Kıyısında",
+    "forbiddenWords": ["Lonergan", "Affleck", "Williams", "Hedges", "Keder"]
+  },
+  {
+    "mainWord": "Savaş Vadisi",
+    "forbiddenWords": ["Gibson", "Garfield", "Vaughn", "II. Dünya Savaşı", "Sıhhiyeci"]
+  },
+  {
+    "mainWord": "İki Eli Kanda",
+    "forbiddenWords": ["Mackenzie", "Pine", "Foster", "Bridges", "Banka Soygunu"]
+  },
+  {
+    "mainWord": "Zootropolis: Hayvanlar Şehri",
+    "forbiddenWords": ["Disney", "Animasyon", "Hayvanlar", "Şehir", "Önyargı"]
+  },
+  {
+    "mainWord": "Kapan",
+    "forbiddenWords": ["Peele", "Kaluuya", "Williams", "Korku", "Irkçılık"]
+  },
+  {
+    "mainWord": "Suyun Sesi",
+    "forbiddenWords": ["del Toro", "Hawkins", "Shannon", "Jenkins", "Yaratık"]
+  },
+  {
+    "mainWord": "Dunkirk",
+    "forbiddenWords": ["Nolan", "Hardy", "Rylance", "Styles", "II. Dünya Savaşı Tahliyesi"]
+  },
+  {
+    "mainWord": "Uğur Böceği",
+    "forbiddenWords": ["Gerwig", "Ronan", "Metcalf", "Büyüme Hikayesi", "Sacramento"]
+  },
+  {
+    "mainWord": "Beni Adınla Çağır",
+    "forbiddenWords": ["Guadagnino", "Chalamet", "Hammer", "İtalya", "Romantizm"]
+  },
+  {
+    "mainWord": "Üç Billboard Ebbing Çıkışı, Missouri",
+    "forbiddenWords": ["McDonagh", "McDormand", "Harrelson", "Rockwell", "Billboardlar"]
+  },
+  {
+    "mainWord": "Bıçak Sırtı 2049",
+    "forbiddenWords": ["Villeneuve", "Gosling", "Ford", "Bilim Kurgu", "Devam Filmi"]
+  },
+  {
+    "mainWord": "Koko",
+    "forbiddenWords": ["Pixar", "Animasyon", "Meksika", "Ölüler Günü", "Müzik"]
+  },
+  {
+    "mainWord": "O (2017)",
+    "forbiddenWords": ["Muschietti", "Skarsgård", "King", "Palyaço", "Korku"]
+  },
+  {
+    "mainWord": "Wonder Woman",
+    "forbiddenWords": ["Jenkins", "Gadot", "Pine", "Süper Kahraman", "I. Dünya Savaşı"]
+  },
+  {
+    "mainWord": "Logan",
+    "forbiddenWords": ["Mangold", "Jackman", "Stewart", "Dafne Keen", "Wolverine"]
+  },
+  {
+    "mainWord": "Thor: Ragnarok",
+    "forbiddenWords": ["Waititi", "Hemsworth", "Hiddleston", "Blanchett", "Komedi"]
+  },
+  {
+    "mainWord": "Örümcek-Adam: Eve Dönüş",
+    "forbiddenWords": ["Watts", "Holland", "Keaton", "Zendaya", "Süper Kahraman"]
+  },
+  {
+    "mainWord": "Yeşil Rehber",
+    "forbiddenWords": ["Farrelly", "Mortensen", "Ali", "Güney", "Irkçılık"]
+  },
+  {
+    "mainWord": "Roma",
+    "forbiddenWords": ["Cuarón", "Aparicio", "de Tavira", "Meksiko Şehri", "Hizmetçi"]
+  },
+  {
+    "mainWord": "Bohemian Rhapsody",
+    "forbiddenWords": ["Singer", "Malek", "Queen", "Freddie Mercury", "Müzik Biyografi"]
+  },
+  {
+    "mainWord": "Bir Yıldız Doğuyor (2018)",
+    "forbiddenWords": ["Cooper", "Gaga", "Müzik", "Romantizm", "Yeniden Çevrim"]
+  },
+  {
+    "mainWord": "Black Panther",
+    "forbiddenWords": ["Coogler", "Boseman", "Jordan", "Nyong'o", "Wakanda"]
+  },
+  {
+    "mainWord": "Yenilmezler: Sonsuzluk Savaşı",
+    "forbiddenWords": ["Russo Kardeşler", "Thanos", "Parmak Şıklatma", "Süper Kahraman Takımı", "Marvel"]
+  },
+  {
+    "mainWord": "Örümcek-Adam: Örümcek Evreninde",
+    "forbiddenWords": ["Persichetti", "Ramsey", "Rothman", "Animasyon", "Miles Morales"]
+  },
+  {
+    "mainWord": "Parazit",
+    "forbiddenWords": ["Bong Joon-ho", "Güney Kore", "Sosyal Gerilim", "Oscar En İyi Film", "Kim Ailesi"]
+  },
+  {
+    "mainWord": "Joker",
+    "forbiddenWords": ["Phillips", "Phoenix", "DC Comics", "Kötü Adam Kökeni", "Akıl Hastalığı"]
+  },
+  {
+    "mainWord": "Bir Zamanlar Hollywood'da",
+    "forbiddenWords": ["Tarantino", "DiCaprio", "Pitt", "Robbie", "1969"]
+  },
+  {
+    "mainWord": "1917",
+    "forbiddenWords": ["Mendes", "MacKay", "Chapman", "I. Dünya Savaşı", "Tek Çekim Tekniği"]
+  },
+  {
+    "mainWord": "The Irishman",
+    "forbiddenWords": ["Scorsese", "De Niro", "Pacino", "Pesci", "Mafya"]
+  },
+  {
+    "mainWord": "Evlilik Hikayesi",
+    "forbiddenWords": ["Baumbach", "Driver", "Johansson", "Boşanma", "Dram"]
+  },
+  {
+    "mainWord": "Bıçaklar Çekildi",
+    "forbiddenWords": ["Johnson", "Craig", "Evans", "de Armas", "Katil Kim?"]
+  },
+  {
+    "mainWord": "Asfaltın Kralları",
+    "forbiddenWords": ["Mangold", "Damon", "Bale", "Yarış", "Le Mans"]
+  },
+  {
+    "mainWord": "Küçük Kadınlar (2019)",
+    "forbiddenWords": ["Gerwig", "Ronan", "Chalamet", "Pugh", "March Kardeşler"]
+  },
+  {
+    "mainWord": "Tavşan Jojo",
+    "forbiddenWords": ["Waititi", "Davis", "Johansson", "Hitler", "Satir"]
+  },
+  {
+    "mainWord": "Yenilmezler: Son Oyun",
+    "forbiddenWords": ["Russo Kardeşler", "Zaman Yolculuğu", "Son Savaş", "Demir Adam", "Marvel"]
+  },
+  {
+    "mainWord": "Nomadland",
+    "forbiddenWords": ["Zhao", "McDormand", "Karavan Hayatı", "Amerikan Batısı", "Oscar En İyi Film"]
+  },
+  {
+    "mainWord": "Soul",
+    "forbiddenWords": ["Pixar", "Animasyon", "Caz", "Ahiret", "Foxx"]
+  },
+  {
+    "mainWord": "Yetenekli Genç Kadın",
+    "forbiddenWords": ["Fennell", "Mulligan", "Gerilim", "İntikam", "#MeToo"]
+  },
+  {
+    "mainWord": "Minari",
+    "forbiddenWords": ["Chung", "Yeun", "Han", "Koreli-Amerikan Ailesi", "Arkansas"]
+  },
+  {
+    "mainWord": "Metalin Sesi",
+    "forbiddenWords": ["Marder", "Ahmed", "Davulcu", "İşitme Kaybı", "Sağır Topluluğu"]
+  },
+  {
+    "mainWord": "Judas ve Siyah Mesih",
+    "forbiddenWords": ["King", "Kaluuya", "Stanfield", "Siyah Panter Partisi", "FBI Muhbiri"]
+  },
+  {
+    "mainWord": "Baba (The Father)",
+    "forbiddenWords": ["Zeller", "Hopkins", "Colman", "Demans", "Oyun Uyarlaması"]
+  },
+  {
+    "mainWord": "Körkütük",
+    "forbiddenWords": ["Vinterberg", "Mikkelsen", "İçki Deneyi", "Danimarka", "Orta Yaş Krizi"]
+  },
+  {
+    "mainWord": "Ma Rainey: Blues'un Annesi",
+    "forbiddenWords": ["Wolfe", "Davis", "Boseman", "Blues Şarkıcısı", "1920'ler Chicago"]
+  },
+  {
+    "mainWord": "Mank",
+    "forbiddenWords": ["Fincher", "Oldman", "Seyfried", "Yurttaş Kane Senaristi", "Hollywood"]
+  },
+  {
+    "mainWord": "Dune: Çöl Gezegeni (2021)",
+    "forbiddenWords": ["Villeneuve", "Chalamet", "Ferguson", "Isaac", "Bilim Kurgu Epik"]
+  },
+  {
+    "mainWord": "CODA",
+    "forbiddenWords": ["Heder", "Jones", "Matlin", "Sağır Aile", "Şarkı Söylemek"]
+  },
+  {
+    "mainWord": "Köpeğin Pençesi",
+    "forbiddenWords": ["Campion", "Cumberbatch", "Dunst", "Plemons", "Western"]
+  },
+  {
+    "mainWord": "Belfast",
+    "forbiddenWords": ["Branagh", "Dornan", "Balfe", "Hill", "Kuzey İrlanda Sorunları"]
+  },
+  {
+    "mainWord": "Batı Yakası'nın Hikayesi (2021)",
+    "forbiddenWords": ["Spielberg", "Elgort", "Zegler", "Müzikal Yeniden Çevrim", "Jetler vs Köpekbalıkları"]
+  },
+  {
+    "mainWord": "Licorice Pizza",
+    "forbiddenWords": ["Anderson", "Haim", "Hoffman", "San Fernando Vadisi", "1970'ler"]
+  },
+  {
+    "mainWord": "Yukarı Bakma",
+    "forbiddenWords": ["McKay", "DiCaprio", "Lawrence", "Kuyruklu Yıldız", "Satir"]
+  },
+  {
+    "mainWord": "Kral Richard",
+    "forbiddenWords": ["Green", "Smith", "Williams Kardeşler", "Tenis Biyografi", "Oscar"]
+  },
+  {
+    "mainWord": "Kabus Sokağı",
+    "forbiddenWords": ["del Toro", "Cooper", "Blanchett", "Mara", "Kara Film Gerilim"]
+  },
+  {
+    "mainWord": "Spencer",
+    "forbiddenWords": ["Larraín", "Stewart", "Prenses Diana", "Kraliyet Ailesi", "Biyografi"]
+  },
+  {
+    "mainWord": "Tick, Tick... Boom!",
+    "forbiddenWords": ["Miranda", "Garfield", "Jonathan Larson", "Müzikal Biyografi", "Rent"]
+  },
+  {
+    "mainWord": "Her Şey Her Yerde Aynı Anda",
+    "forbiddenWords": ["Daniels", "Yeoh", "Quan", "Hsu", "Çoklu Evren"]
+  },
+  {
+    "mainWord": "Top Gun: Maverick",
+    "forbiddenWords": ["Kosinski", "Cruise", "Teller", "Connelly", "Devam Filmi"]
+  },
+  {
+    "mainWord": "Avatar: Suyun Yolu",
+    "forbiddenWords": ["Cameron", "Worthington", "Saldana", "Weaver", "Devam Filmi"]
+  },
+  {
+    "mainWord": "The Banshees of Inisherin",
+    "forbiddenWords": ["McDonagh", "Farrell", "Gleeson", "Condon", "İrlanda"]
+  },
+  {
+    "mainWord": "Elvis (2022)",
+    "forbiddenWords": ["Luhrmann", "Butler", "Hanks", "Müzik Biyografi", "Presley"]
+  },
+  {
+    "mainWord": "Tár",
+    "forbiddenWords": ["Field", "Blanchett", "Orkestra Şefi", "İptal Kültürü", "Psikolojik Dram"]
+  },
+  {
+    "mainWord": "Batı Cephesinde Yeni Bir Şey Yok (2022)",
+    "forbiddenWords": ["Berger", "I. Dünya Savaşı", "Alman Perspektifi", "Yeniden Çevrim", "Savaş"]
+  },
+  {
+    "mainWord": "Hüzün Üçgeni",
+    "forbiddenWords": ["Östlund", "Dickinson", "Dean", "Satir", "Yolcu Gemisi"]
+  },
+  {
+    "mainWord": "Kadınlar Konuşuyor",
+    "forbiddenWords": ["Polley", "Mara", "Foy", "McDormand", "Mennonit Kolonisi"]
+  },
+  {
+    "mainWord": "Balina",
+    "forbiddenWords": ["Aronofsky", "Fraser", "Sink", "Hong Chau", "Obezite"]
+  },
+  {
+    "mainWord": "Guillermo del Toro’s Pinokyo",
+    "forbiddenWords": ["del Toro", "Stop-Motion Animasyon", "Yeniden Çevrim", "Faşist İtalya", "Kukla"]
+  },
+  {
+    "mainWord": "Bıçaklar Çekildi: Gizemli Bir Serüven",
+    "forbiddenWords": ["Johnson", "Craig", "Norton", "Hudson", "Devam Filmi"]
+  },
+  {
+    "mainWord": "RRR",
+    "forbiddenWords": ["Rajamouli", "Rama Rao Jr.", "Charan", "Hindistan", "Aksiyon Epik"]
+  },
+  {
+    "mainWord": "Oppenheimer",
+    "forbiddenWords": ["Nolan", "Murphy", "Blunt", "Damon", "Atom Bombası"]
+  },
+  {
+    "mainWord": "Barbie",
+    "forbiddenWords": ["Gerwig", "Robbie", "Gosling", "Komedi", "Fantastik"]
+  },
+  {
+    "mainWord": "Dolunay Katilleri",
+    "forbiddenWords": ["Scorsese", "DiCaprio", "De Niro", "Gladstone", "Osage Cinayetleri"]
+  },
+  {
+    "mainWord": "Zavallılar",
+    "forbiddenWords": ["Lanthimos", "Stone", "Ruffalo", "Dafoe", "Frankenstein"]
+  },
+  {
+    "mainWord": "Bir Düşüşün Anatomisi",
+    "forbiddenWords": ["Triet", "Hüller", "Fransız Alpleri", "Mahkeme Draması", "Altın Palmiye"]
+  },
+  {
+    "mainWord": "Başka Bir Hayatta",
+    "forbiddenWords": ["Song", "Lee", "Yoo", "Magaro", "Romantizm Dram"]
+  },
+  {
+    "mainWord": "Kalanlar",
+    "forbiddenWords": ["Payne", "Giamatti", "Sessa", "Randolph", "Yatılı Okul"]
+  },
+  {
+    "mainWord": "Maestro",
+    "forbiddenWords": ["Cooper", "Mulligan", "Bernstein", "Müzik", "Şeflik"]
+  },
+  {
+    "mainWord": "Amerikan Romanı",
+    "forbiddenWords": ["Jefferson", "Wright", "Brown", "Komedi-Dram", "Satir"]
+  },
+  {
+    "mainWord": "Saltburn",
+    "forbiddenWords": ["Fennell", "Keoghan", "Elordi", "Rosamund Pike", "Gerilim"]
+  },
+  {
+    "mainWord": "İlgi Alanı",
+    "forbiddenWords": ["Glazer", "Hüller", "Friedel", "Holokost Draması", "Auschwitz"]
+  },
+  {
+    "mainWord": "Bir Skandalın Peşinde",
+    "forbiddenWords": ["Haynes", "Portman", "Moore", "Melton", "Dram"]
+  },
+  {
+    "mainWord": "Air",
+    "forbiddenWords": ["Affleck", "Damon", "Davis", "Jordan Ayakkabıları", "Nike"]
+  },
+  {
+    "mainWord": "Asteroid Şehri",
+    "forbiddenWords": ["Anderson", "Schwartzman", "Johansson", "Hanks", "1950'ler Bilim Kurgu"]
+  },
+  {
+    "mainWord": "John Wick: Bölüm 4",
+    "forbiddenWords": ["Stahelski", "Reeves", "Aksiyon", "Kiralık Katil", "Devam Filmi"]
+  },
+  {
+    "mainWord": "Galaksinin Koruyucuları Vol. 3",
+    "forbiddenWords": ["Gunn", "Pratt", "Saldana", "Cooper", "Son Bölüm"]
+  },
+  {
+    "mainWord": "Örümcek-Adam: Örümcek Evrenine Geçiş",
+    "forbiddenWords": ["Dos Santos", "Powers", "Thompson", "Animasyon Devamı", "Çoklu Evren"]
+  },
+  {
+    "mainWord": "Yedi Samuray",
+    "forbiddenWords": ["Kurosawa", "Mifune", "Japonya", "Ronin", "Köy"]
+  },
+  {
+    "mainWord": "Ran",
+    "forbiddenWords": ["Kurosawa", "Japonya", "Shakespeare", "Kral Lear", "Savaş"]
+  },
+  {
+    "mainWord": "Raşomon",
+    "forbiddenWords": ["Kurosawa", "Mifune", "Japonya", "Farklı Bakış Açıları", "Cinayet"]
+  },
+  {
+    "mainWord": "Bisiklet Hırsızları",
+    "forbiddenWords": ["De Sica", "İtalya", "Neorealizm", "Yoksulluk", "Baba-Oğul"]
+  },
+  {
+    "mainWord": "8½",
+    "forbiddenWords": ["Fellini", "Mastroianni", "İtalya", "Yönetmen", "Rüyalar"]
+  },
+  {
+    "mainWord": "Tatlı Hayat",
+    "forbiddenWords": ["Fellini", "Mastroianni", "Roma", "Gazeteci", "Çeşme"]
+  },
+  {
+    "mainWord": "Persona",
+    "forbiddenWords": ["Bergman", "Ullmann", "Andersson", "İsveç", "Kimlik"]
+  },
+  {
+    "mainWord": "Yedinci Mühür",
+    "forbiddenWords": ["Bergman", "von Sydow", "Ölüm", "Satranç", "Veba"]
+  },
+  {
+    "mainWord": "Yaban Çilekleri",
+    "forbiddenWords": ["Bergman", "Sjöström", "İsveç", "Yaşlılık", "Anılar"]
+  },
+  {
+    "mainWord": "400 Darbe",
+    "forbiddenWords": ["Truffaut", "Léaud", "Fransız Yeni Dalgası", "Çocukluk", "Paris"]
+  },
+  {
+    "mainWord": "Serseri Aşıklar",
+    "forbiddenWords": ["Godard", "Belmondo", "Seberg", "Fransız Yeni Dalgası", "Paris"]
+  },
+  {
+    "mainWord": "Aguirre, Tanrının Gazabı",
+    "forbiddenWords": ["Herzog", "Kinski", "Amazon", "Fetihçi", "Delilik"]
+  },
+  {
+    "mainWord": "Andrei Rublev",
+    "forbiddenWords": ["Tarkovsky", "Rusya", "İkon Ressamı", "Orta Çağ", "Sanat"]
+  },
+  {
+    "mainWord": "Solaris",
+    "forbiddenWords": ["Tarkovsky", "Rusya", "Bilim Kurgu", "Uzay İstasyonu", "Okyanus"]
+  },
+  {
+    "mainWord": "Stalker",
+    "forbiddenWords": ["Tarkovsky", "Rusya", "Bölge", "Dilek Odası", "Bilim Kurgu"]
+  },
+  {
+    "mainWord": "Cennet Sineması",
+    "forbiddenWords": ["Tornatore", "İtalya", "Film Aşkı", "Projeksiyoncu", "Çocukluk"]
+  },
+  {
+    "mainWord": "Das Boot",
+    "forbiddenWords": ["Petersen", "Almanya", "Denizaltı", "II. Dünya Savaşı", "Savaş"]
+  },
+  {
+    "mainWord": "Başkalarının Hayatı",
+    "forbiddenWords": ["von Donnersmarck", "Almanya", "Doğu Almanya", "Stasi", "Gözetleme"]
+  },
+  {
+    "mainWord": "M",
+    "forbiddenWords": ["Lang", "Lorre", "Almanya", "Seri Katil", "Çocuk"]
+  },
+  {
+    "mainWord": "Tokyo Hikayesi",
+    "forbiddenWords": ["Ozu", "Japonya", "Aile", "Yaşlılık", "Nesiller"]
+  },
+  {
+    "mainWord": "Prenses Mononoke",
+    "forbiddenWords": ["Miyazaki", "Animasyon", "Japonya", "Orman Ruhu", "Doğa"]
+  },
+  {
+    "mainWord": "Ateşböceklerinin Mezarı",
+    "forbiddenWords": ["Takahata", "Animasyon", "Japonya", "II. Dünya Savaşı", "Kardeşler"]
+  },
+  {
+    "mainWord": "Cesur Kız",
+    "forbiddenWords": ["Animasyon", "Pixar", "İskoçya", "Okçuluk", "Ayı"]
+  },
+  {
+    "mainWord": "Karmakarışık",
+    "forbiddenWords": ["Animasyon", "Disney", "Rapunzel", "Saç", "Kule"]
+  },
+  {
+    "mainWord": "Moana",
+    "forbiddenWords": ["Animasyon", "Disney", "Polinezya", "Okyanus", "Yarı Tanrı"]
+  },
+  {
+    "mainWord": "Ejderhanı Nasıl Eğitirsin",
+    "forbiddenWords": ["Animasyon", "DreamWorks", "Viking", "Ejderha", "Dostluk"]
+  },
+  {
+    "mainWord": "Kung Fu Panda",
+    "forbiddenWords": ["Animasyon", "DreamWorks", "Panda", "Dövüş Sanatları", "Komedi"]
+  },
+  {
+    "mainWord": "Ters Yüz",
+    "forbiddenWords": ["Animasyon", "Pixar", "Duygular", "Zihin", "Büyümek"]
+  },
+  {
+    "mainWord": "Vol.İ",
+    "forbiddenWords": ["Animasyon", "Pixar", "Robot", "Aşk", "Çöp"]
+  },
+  {
+    "mainWord": "Süper Kahraman 6",
+    "forbiddenWords": ["Animasyon", "Disney", "Robot", "Kardeş", "San Fransokyo"]
+  },
+  {
+    "mainWord": "Cesur",
+    "forbiddenWords": ["Pixar", "İskoçya", "Okçu", "Prenses", "Ayı"]
+  },
+  {
+    "mainWord": "Wall-E",
+    "forbiddenWords": ["Pixar", "Robot", "Uzay", "Aşk", "Çöp"]
+  },
+  {
+    "mainWord": " Yukarı Bak",
+    "forbiddenWords": ["Pixar", "Ev", "Balonlar", "Macera", "Köpek"]
+  },
+  {
+    "mainWord": "Kayıp Balık Dori",
+    "forbiddenWords": ["Pixar", "Balık", "Unutkanlık", "Okyanus", "Devam"]
+  },
+  {
+    "mainWord": " Arabalar",
+    "forbiddenWords": ["Pixar", "Yarış", "Araba", "Kasaba", "McQueen"]
+  },
+  {
+    "mainWord": "Sevimli Canavarlar Üniversitesi",
+    "forbiddenWords": ["Pixar", "Canavarlar", "Kolej", "Korkutma", "Ön Bölüm"]
+  },
+  {
+    "mainWord": "Ratatuy",
+    "forbiddenWords": ["Pixar", "Fare", "Aşçı", "Paris", "Restoran"]
+  },
+  {
+    "mainWord": "İnanılmaz Aile 2",
+    "forbiddenWords": ["Pixar", "Süper Kahramanlar", "Aile", "Bebek", "Devam"]
+  },
+  {
+    "mainWord": "Ev",
+    "forbiddenWords": ["DreamWorks", "Uzaylı", "Kız", "Dostluk", "Renk Değiştirme"]
+  },
+  {
+    "mainWord": "Crood'lar",
+    "forbiddenWords": ["DreamWorks", "Mağara Adamı", "Aile", "Macera", "Yeni Dünya"]
+  },
+  {
+    "mainWord": "Megazeka",
+    "forbiddenWords": ["DreamWorks", "Kötü Adam", "Kahraman", "Komedi", "Mavi Kafa"]
+  },
+  {
+    "mainWord": "Madagaskar",
+    "forbiddenWords": ["DreamWorks", "Hayvanat Bahçesi", "Kaçış", "Ada", "Lemur"]
+  },
+  {
+    "mainWord": "Çizmeli Kedi",
+    "forbiddenWords": ["DreamWorks", "Kedi", "Şrek", "Kılıç", "Macera"]
+  },
+  {
+    "mainWord": "Orman Çocuğu (2016)",
+    "forbiddenWords": ["Disney", "Canlı Aksiyon", "Mowgli", "Ayı", "Kaplan"]
+  },
+  {
+    "mainWord": "Malefiz",
+    "forbiddenWords": ["Disney", "Jolie", "Uyuyan Güzel", "Kötü Peri", "Kanatlar"]
+  },
+  {
+    "mainWord": "Alice Harikalar Diyarında (2010)",
+    "forbiddenWords": ["Burton", "Depp", "Wasikowska", "Kraliçe", "Çay Partisi"]
+  },
+  {
+    "mainWord": "Charlie'nin Çikolata Fabrikası",
+    "forbiddenWords": ["Burton", "Depp", "Çikolata", "Fabrika", "Wonka"]
+  },
+  {
+    "mainWord": "Edward Makaseller",
+    "forbiddenWords": ["Burton", "Depp", "Ryder", "Makas", "Banliyö"]
+  },
+  {
+    "mainWord": "Beterböcek",
+    "forbiddenWords": ["Burton", "Keaton", "Ryder", "Hayalet", "Komedi"]
+  },
+  {
+    "mainWord": "Noel Gecesi Kabusu",
+    "forbiddenWords": ["Burton", "Stop-Motion", "Jack Skellington", "Noel", "Cadılar Bayramı"]
+  },
+  {
+    "mainWord": "Ölü Gelin",
+    "forbiddenWords": ["Burton", "Stop-Motion", "Depp", "Bonham Carter", "Evlilik"]
+  },
+  {
+    "mainWord": "Yüzüklerin Efendisi: Kralın Dönüşü",
+    "forbiddenWords": ["Jackson", "Oscar", "Fantastik", "Orta Dünya", "Yüzük"]
+  },
+  {
+    "mainWord": "Hobbit: Beklenmedik Yolculuk",
+    "forbiddenWords": ["Jackson", "Freeman", "Cüceler", "Ejderha", "Orta Dünya"]
+  },
+  {
+    "mainWord": "Hobbit: Smaug'un Çorak Toprakları",
+    "forbiddenWords": ["Jackson", "Freeman", "Ejderha", "Göl Kasabası", "Orta Dünya"]
+  },
+  {
+    "mainWord": "Hobbit: Beş Ordunun Savaşı",
+    "forbiddenWords": ["Jackson", "Freeman", "Savaş", "Orklar", "Orta Dünya"]
+  },
+  {
+    "mainWord": "Harry Potter ve Sırlar Odası",
+    "forbiddenWords": ["Radcliffe", "Yılan", "Günlük", "Hogwarts", "Sihir"]
+  },
+  {
+    "mainWord": "Harry Potter ve Azkaban Tutsağı",
+    "forbiddenWords": ["Radcliffe", "Cuarón", "Sirius Black", "Ruh Emici", "Hogwarts"]
+  },
+  {
+    "mainWord": "Harry Potter ve Ateş Kadehi",
+    "forbiddenWords": ["Radcliffe", "Turnuva", "Ejderha", "Voldemort", "Hogwarts"]
+  },
+  {
+    "mainWord": "Harry Potter ve Zümrüdüanka Yoldaşlığı",
+    "forbiddenWords": ["Radcliffe", "Umbridge", "Dumbledore'un Ordusu", "Kehanet", "Hogwarts"]
+  },
+  {
+    "mainWord": "Harry Potter ve Melez Prens",
+    "forbiddenWords": ["Radcliffe", "Snape", "Dumbledore", "Hortkuluk", "Hogwarts"]
+  },
+  {
+    "mainWord": "Harry Potter ve Ölüm Yadigârları: Bölüm 1",
+    "forbiddenWords": ["Radcliffe", "Hortkuluk Avı", "Kaçış", "Kamp", "Sihir"]
+  },
+  {
+    "mainWord": "Açlık Oyunları",
+    "forbiddenWords": ["Lawrence", "Hutcherson", "Hemsworth", "Distopya", "Arena"]
+  },
+  {
+    "mainWord": "Açlık Oyunları: Ateşi Yakalamak",
+    "forbiddenWords": ["Lawrence", "Tur", "İsyan", "Arena", "Distopya"]
+  },
+  {
+    "mainWord": "Açlık Oyunları: Alaycı Kuş - Bölüm 1",
+    "forbiddenWords": ["Lawrence", "İsyan", "Propaganda", "Bölge 13", "Distopya"]
+  },
+  {
+    "mainWord": "Açlık Oyunları: Alaycı Kuş - Bölüm 2",
+    "forbiddenWords": ["Lawrence", "Capitol", "Savaş", "Son", "Distopya"]
+  },
+  {
+    "mainWord": "Alacakaranlık",
+    "forbiddenWords": ["Stewart", "Pattinson", "Vampir", "Aşk", "Kurt Adam"]
+  },
+  {
+    "mainWord": "Uyumsuz",
+    "forbiddenWords": ["Woodley", "James", "Distopya", "Fraksiyonlar", "Seçim"]
+  },
+  {
+    "mainWord": "Labirent: Ölümcül Kaçış",
+    "forbiddenWords": ["O'Brien", "Scodelario", "Distopya", "Labirent", "Hafıza Kaybı"]
+  },
+  {
+    "mainWord": "Aynı Yıldızın Altında",
+    "forbiddenWords": ["Woodley", "Elgort", "Kanser", "Aşk", "Kitap Uyarlaması"]
+  },
+  {
+    "mainWord": "Titanların Savaşı (2010)",
+    "forbiddenWords": ["Worthington", "Neeson", "Fiennes", "Mitoloji", "Kraken"]
+  },
+  {
+    "mainWord": "300 Spartalı",
+    "forbiddenWords": ["Butler", "Snyder", "Sparta", "Persler", "Termopylae"]
+  },
+  {
+    "mainWord": "Truva",
+    "forbiddenWords": ["Pitt", "Bloom", "Bana", "Mitoloji", "Akhilleus"]
+  },
+  {
+    "mainWord": "Mumya (1999)",
+    "forbiddenWords": ["Fraser", "Weisz", "Vosloo", "Mısır", "Macera"]
+  },
+  {
+    "mainWord": "Kefaret",
+    "forbiddenWords": ["Wright", "Knightley", "McAvoy", "Ronan", "II. Dünya Savaşı"]
+  },
+  {
+    "mainWord": "Not Defteri",
+    "forbiddenWords": ["Gosling", "McAdams", "Sparks", "Aşk", "Yaşlılık"]
+  },
+  {
+    "mainWord": "Aşk ve Gurur (2005)",
+    "forbiddenWords": ["Wright", "Knightley", "Macfadyen", "Austen", "İngiltere"]
+  },
+  {
+    "mainWord": "Mamma Mia!",
+    "forbiddenWords": ["Streep", "Seyfried", "ABBA", "Müzikal", "Yunanistan"]
+  },
+  {
+    "mainWord": "Moulin Rouge!",
+    "forbiddenWords": ["Luhrmann", "Kidman", "McGregor", "Müzikal", "Paris"]
+  },
+  {
+    "mainWord": "Hayalet",
+    "forbiddenWords": ["Swayze", "Moore", "Goldberg", "Aşk", "Ölüm"]
+  },
+  {
+    "mainWord": "Dirty Dancing",
+    "forbiddenWords": ["Swayze", "Grey", "Dans", "Yaz Kampı", "Aşk"]
+  },
+  {
+    "mainWord": "Ayak İzi",
+    "forbiddenWords": ["Bacon", "Dans", "Kasaba", "Yasak", "Müzik"]
+  },
+  {
+    "mainWord": "Geleceğe Dönüş 2",
+    "forbiddenWords": ["Fox", "Lloyd", "Zaman Yolculuğu", "Uçan Kaykay", "2015"]
+  },
+  {
+    "mainWord": "Geleceğe Dönüş 3",
+    "forbiddenWords": ["Fox", "Lloyd", "Zaman Yolculuğu", "Vahşi Batı", "Tren"]
+  },
+  {
+    "mainWord": "Evde Tek Başına 2: New York'ta Kayıp",
+    "forbiddenWords": ["Culkin", "Pesci", "Stern", "New York", "Noel"]
+  },
+  {
+    "mainWord": "Indiana Jones ve Kristal Kafatası Krallığı",
+    "forbiddenWords": ["Ford", "Spielberg", "LaBeouf", "Uzaylılar", "Amazon"]
+  },
+  {
+    "mainWord": "Indiana Jones ve Kader Kadranı",
+    "forbiddenWords": ["Ford", "Mangold", "Waller-Bridge", "Arkeoloji", "Son Macera"]
+  },
+  {
+    "mainWord": "Jurassic World",
+    "forbiddenWords": ["Pratt", "Howard", "Dinozorlar", "Tema Parkı", "Kaos"]
+  },
+  {
+    "mainWord": "Mission: Impossible",
+    "forbiddenWords": ["Cruise", "De Palma", "Ajan", "Casusluk", "IMF"]
+  },
+  {
+    "mainWord": "Jason Bourne",
+    "forbiddenWords": ["Damon", "Greengrass", "Ajan", "Hafıza Kaybı", "CIA"]
+  },
+  {
+    "mainWord": "X-Men",
+    "forbiddenWords": ["Singer", "Jackman", "Stewart", "McKellen", "Mutantlar"]
+  },
+  {
+    "mainWord": "Deadpool",
+    "forbiddenWords": ["Reynolds", "Anti-Kahraman", "Komedi", "Dördüncü Duvar", "Marvel"]
+  },
+  {
+    "mainWord": "Hızlı ve Öfkeli",
+    "forbiddenWords": ["Diesel", "Walker", "Araba Yarışı", "Soygun", "Aile"]
+  },
+  {
+    "mainWord": "Transformers",
+    "forbiddenWords": ["Bay", "LaBeouf", "Fox", "Robotlar", "Arabalar"]
+  },
+  {
+    "mainWord": "Testere",
+    "forbiddenWords": ["Wan", "Whannell", "Jigsaw", "Oyun", "Korku"]
+  },
+  {
+    "mainWord": "Paranormal Aktivite",
+    "forbiddenWords": ["Peli", "Buluntu Görüntü", "Hayalet", "Ev", "Korku"]
+  },
+  {
+    "mainWord": "Korku Seansı",
+    "forbiddenWords": ["Wan", "Wilson", "Farmiga", "Warrenlar", "Doğaüstü"]
+  },
+  {
+    "mainWord": "Halka",
+    "forbiddenWords": ["Verbinski", "Watts", "Video Kaset", "Samara", "Korku"]
+  },
+  {
+    "mainWord": "Altıncı His",
+    "forbiddenWords": ["Shyamalan", "Willis", "Osment", "Hayalet", "Sürpriz Son"]
+  },
+  {
+    "mainWord": "İşaretler",
+    "forbiddenWords": ["Shyamalan", "Gibson", "Phoenix", "Uzaylılar", "Mısır Tarlası"]
+  },
+  {
+    "mainWord": "Köy",
+    "forbiddenWords": ["Shyamalan", "Howard", "Phoenix", "İzole", "Yaratıklar"]
+  },
+  {
+    "mainWord": "Zor Baba",
+    "forbiddenWords": ["Stiller", "De Niro", "Komedi", "Aile", "Tanışma"]
+  },
+  {
+    "mainWord": "Salak ile Avanak",
+    "forbiddenWords": ["Farrelly Kardeşler", "Carrey", "Daniels", "Komedi", "Yolculuk"]
+  },
+  {
+    "mainWord": "Truman Show",
+    "forbiddenWords": ["Weir", "Carrey", "Reality TV", "Kubbe", "Gerçeklik"]
+  },
+  {
+    "mainWord": "Maske",
+    "forbiddenWords": ["Carrey", "Diaz", "Yeşil", "Komedi", "Süper Güç"]
+  },
+  {
+    "mainWord": "Aman Tanrım!",
+    "forbiddenWords": ["Carrey", "Freeman", "Aniston", "Tanrı", "Güçler"]
+  },
+  {
+    "mainWord": "Yalancı Yalancı",
+    "forbiddenWords": ["Carrey", "Tierney", "Avukat", "Yalan Söyleyememe", "Komedi"]
+  },
+  {
+    "mainWord": "Bay Evet",
+    "forbiddenWords": ["Carrey", "Deschanel", "Her Şeye Evet", "Komedi", "Değişim"]
+  },
+  {
+    "mainWord": "Kadınlar Ne İster",
+    "forbiddenWords": ["Gibson", "Hunt", "Zihin Okuma", "Reklamcılık", "Komedi"]
+  },
+  {
+    "mainWord": "Aşk Doktoru",
+    "forbiddenWords": ["Smith", "Mendes", "İlişki Uzmanı", "Komedi", "Romantizm"]
+  },
+  {
+    "mainWord": "Umudunu Kaybetme",
+    "forbiddenWords": ["Smith", "Jaden Smith", "Evsizlik", "Baba-Oğul", "Borsa"]
+  },
+  {
+    "mainWord": "Ben Efsaneyim",
+    "forbiddenWords": ["Smith", "Lawrence", "Kıyamet Sonrası", "Virüs", "Köpek"]
+  },
+  {
+    "mainWord": "Ada",
+    "forbiddenWords": ["Bay", "McGregor", "Johansson", "Klonlar", "Kaçış"]
+  },
+  {
+    "mainWord": "Azınlık Raporu",
+    "forbiddenWords": ["Spielberg", "Cruise", "Farrell", "Gelecek", "Suç Öngörüsü"]
+  },
+  {
+    "mainWord": "Yapay Zeka",
+    "forbiddenWords": ["Spielberg", "Osment", "Law", "Robot Çocuk", "Aşk"]
+  },
+  {
+    "mainWord": "Dünyalar Savaşı (2005)",
+    "forbiddenWords": ["Spielberg", "Cruise", "Fanning", "Uzaylı İstilası", "Tripodlar"]
+  },
+  {
+    "mainWord": "Savaş Atı",
+    "forbiddenWords": ["Spielberg", "Irvine", "At", "I. Dünya Savaşı", "Dostluk"]
+  },
+  {
+    "mainWord": "Lincoln",
+    "forbiddenWords": ["Spielberg", "Day-Lewis", "Field", "İç Savaş", "Kölelik"]
+  },
+  {
+    "mainWord": "Casuslar Köprüsü",
+    "forbiddenWords": ["Spielberg", "Hanks", "Rylance", "Soğuk Savaş", "Avukat"]
+  },
+  {
+    "mainWord": "The Post",
+    "forbiddenWords": ["Spielberg", "Hanks", "Streep", "Gazete", "Pentagon Belgeleri"]
+  },
+  {
+    "mainWord": "Ready Player One",
+    "forbiddenWords": ["Spielberg", "Sheridan", "Cooke", "Sanal Gerçeklik", "Oyun"]
+  },
+  {
+    "mainWord": "Kanca",
+    "forbiddenWords": ["Spielberg", "Williams", "Hoffman", "Peter Pan", "Korsan"]
+  },
+  {
+    "mainWord": "Schindler'in Listesi",
+    "forbiddenWords": ["Spielberg", "Neeson", "Holokost", "Nazi", "Kurtuluş"]
+  },
+  {
+    "mainWord": "Esaretin Bedeli",
+    "forbiddenWords": ["Darabont", "Robbins", "Freeman", "Hapishane", "Umut"]
+  },
+  {
+    "mainWord": "Yeşil Yol",
+    "forbiddenWords": ["Darabont", "Hanks", "Duncan", "Hapishane", "Mucize"]
+  },
+  {
+    "mainWord": "Yüzüklerin Efendisi: İki Kule",
+    "forbiddenWords": ["Jackson", "Fantastik", "Orta Dünya", "Yüzük", "Savaş"]
+  },
+  {
+    "mainWord": "Geleceğe Dönüş",
+    "forbiddenWords": ["Zemeckis", "Fox", "Lloyd", "Zaman Makinesi", "1955"]
+  },
+  {
+    "mainWord": "Forrest Gump",
+    "forbiddenWords": ["Zemeckis", "Hanks", "Koşu", "Hayat", "Çikolata"]
+  },
+  {
+    "mainWord": "Yeni Hayat",
+    "forbiddenWords": ["Zemeckis", "Hanks", "Issız Ada", "Wilson", "Hayatta Kalma"]
+  },
+  {
+    "mainWord": "Kutup Ekspresi",
+    "forbiddenWords": ["Zemeckis", "Hanks", "Animasyon", "Noel", "Tren"]
+  },
+  {
+    "mainWord": "Guguk Kuşu",
+    "forbiddenWords": ["Forman", "Nicholson", "Akıl Hastanesi", "Hemşire", "İsyan"]
+  },
+  {
+    "mainWord": "Amadeus",
+    "forbiddenWords": ["Forman", "Mozart", "Salieri", "Müzik", "Viyana"]
+  },
+  {
+    "mainWord": "Larry Flynt: Skandalın Adı",
+    "forbiddenWords": ["Forman", "Harrelson", "Love", "Norton", "Porno"]
+  },
+  {
+    "mainWord": "Ay'daki Adam",
+    "forbiddenWords": ["Forman", "Carrey", "Kaufman", "Komedyen", "Biyografi"]
+  },
+  {
+    "mainWord": "Kıyamet",
+    "forbiddenWords": ["Coppola", "Vietnam", "Savaş", "Brando", "Delilik"]
+  },
+  {
+    "mainWord": "Baba 2",
+    "forbiddenWords": ["Coppola", "Pacino", "De Niro", "Mafya", "Aile"]
+  },
+  {
+    "mainWord": "Baba 3",
+    "forbiddenWords": ["Coppola", "Pacino", "Garcia", "Mafya", "Vatikan"]
+  },
+  {
+    "mainWord": "Konuşma",
+    "forbiddenWords": ["Coppola", "Hackman", "Gözetleme", "Paranoya", "Kayıt"]
+  },
+  {
+    "mainWord": "Drakula (1992)",
+    "forbiddenWords": ["Coppola", "Oldman", "Ryder", "Hopkins", "Vampir"]
+  },
+  {
+    "mainWord": "Bir Konuşabilse",
+    "forbiddenWords": ["Sofia Coppola", "Murray", "Johansson", "Tokyo", "Yalnızlık"]
+  },
+  {
+    "mainWord": "Marie Antoinette",
+    "forbiddenWords": ["Sofia Coppola", "Dunst", "Schwartzman", "Fransa Kraliçesi", "Versay"]
+  },
+  {
+    "mainWord": "Pulp Fiction",
+    "forbiddenWords": ["Tarantino", "Travolta", "Jackson", "Suç", "Doğrusal Olmayan"]
+  },
+  {
+    "mainWord": "Rezervuar Köpekleri",
+    "forbiddenWords": ["Tarantino", "Soygun", "Gangster", "Renkler", "Kulak"]
+  },
+  {
+    "mainWord": "Jackie Brown",
+    "forbiddenWords": ["Tarantino", "Grier", "Jackson", "Forster", "Suç"]
+  },
+  {
+    "mainWord": "Kill Bill: Vol. 2",
+    "forbiddenWords": ["Tarantino", "Thurman", "Carradine", "İntikam", "Dövüş"]
+  },
+  {
+    "mainWord": "Ölüm Geçirmez",
+    "forbiddenWords": ["Tarantino", "Russell", "Dawson", "Araba", "Slasher"]
+  },
+  {
+    "mainWord": "Soysuzlar Çetesi",
+    "forbiddenWords": ["Tarantino", "Pitt", "Waltz", "II. Dünya Savaşı", "Nazi"]
+  },
+  {
+    "mainWord": "Zincirsiz",
+    "forbiddenWords": ["Tarantino", "Foxx", "Waltz", "DiCaprio", "Kölelik"]
+  },
+  {
+    "mainWord": "The Hateful Eight",
+    "forbiddenWords": ["Tarantino", "Russell", "Jackson", "Leigh", "Western"]
+  },
+  {
+    "mainWord": "Bir Zamanlar... Hollywood'da",
+    "forbiddenWords": ["Tarantino", "DiCaprio", "Pitt", "Robbie", "1969"]
+  },
+  {
+    "mainWord": "Kara Şövalye",
+    "forbiddenWords": ["Nolan", "Bale", "Ledger", "Joker", "Gotham"]
+  },
+  {
+    "mainWord": "Batman Başlıyor",
+    "forbiddenWords": ["Nolan", "Bale", "Caine", "Neeson", "Köken"]
+  },
+  {
+    "mainWord": "Kara Şövalye Yükseliyor",
+    "forbiddenWords": ["Nolan", "Bale", "Hardy", "Hathaway", "Bane"]
+  },
+  {
+    "mainWord": "Akıl Defteri",
+    "forbiddenWords": ["Nolan", "Pearce", "Moss", "Pantoliano", "Hafıza Kaybı"]
+  },
+  {
+    "mainWord": "Prestij",
+    "forbiddenWords": ["Nolan", "Bale", "Jackman", "Sihirbaz", "Rekabet"]
+  },
+  {
+    "mainWord": "Başlangıç",
+    "forbiddenWords": ["Nolan", "DiCaprio", "Page", "Rüya", "Soygun"]
+  },
+  {
+    "mainWord": "Yıldızlararası",
+    "forbiddenWords": ["Nolan", "McConaughey", "Hathaway", "Uzay", "Solucan Deliği"]
+  },
+  {
+    "mainWord": "Dunkirk",
+    "forbiddenWords": ["Nolan", "Hardy", "Styles", "II. Dünya Savaşı", "Tahliye"]
+  },
+  {
+    "mainWord": "Tenet",
+    "forbiddenWords": ["Nolan", "Washington", "Pattinson", "Zaman", "Casusluk"]
+  },
+  {
+    "mainWord": "Oppenheimer",
+    "forbiddenWords": ["Nolan", "Murphy", "Blunt", "Atom Bombası", "Biyografi"]
+  },
+  {
+    "mainWord": "Parazit",
+    "forbiddenWords": ["Bong Joon-ho", "Güney Kore", "Sınıf Farkı", "Gerilim", "Oscar"]
+  },
+  {
+    "mainWord": "Kar Küreyici",
+    "forbiddenWords": ["Bong Joon-ho", "Evans", "Swinton", "Tren", "Distopya"]
+  },
+  {
+    "mainWord": "Okja",
+    "forbiddenWords": ["Bong Joon-ho", "Seo-hyun", "Gyllenhaal", "Süper Domuz", "Hayvan Hakları"]
+  },
+  {
+    "mainWord": "Yaratık: İlk Temas",
+    "forbiddenWords": ["Bong Joon-ho", "Kang-ho", "Nehir Canavarı", "Güney Kore", "Aile"]
+  },
+  {
+    "mainWord": "Cinayet Günlüğü",
+    "forbiddenWords": ["Bong Joon-ho", "Kang-ho", "Seri Katil", "Güney Kore", "Gerçek Hikaye"]
+  },
+  {
+    "mainWord": "Her Şey Her Yerde Aynı Anda",
+    "forbiddenWords": ["Daniels", "Yeoh", "Quan", "Çoklu Evren", "Aksiyon Komedi"]
+  },
+  {
+    "mainWord": "Körkütük",
+    "forbiddenWords": ["Vinterberg", "Mikkelsen", "İçki", "Danimarka", "Öğretmenler"]
+  },
+  {
+    "mainWord": "Onur Savaşı",
+    "forbiddenWords": ["Vinterberg", "Mikkelsen", "Yanlış Suçlama", "Pedofili", "Kasaba"]
+  },
+  {
+    "mainWord": "Pan'ın Labirenti",
+    "forbiddenWords": ["del Toro", "Fantastik", "İspanya İç Savaşı", "Faun", "Masal"]
+  },
+  {
+    "mainWord": "Suyun Sesi",
+    "forbiddenWords": ["del Toro", "Hawkins", "Yaratık", "Soğuk Savaş", "Aşk"]
+  },
+  {
+    "mainWord": "Hellboy",
+    "forbiddenWords": ["del Toro", "Perlman", "Şeytan", "Süper Kahraman", "BPRD"]
+  },
+  {
+    "mainWord": "Pasifik Savaşı",
+    "forbiddenWords": ["del Toro", "Hunnam", "Kikuchi", "Dev Robotlar", "Kaiju"]
+  },
+  {
+    "mainWord": "Kabus Sokağı",
+    "forbiddenWords": ["del Toro", "Cooper", "Blanchett", "Karnaval", "Kara Film"]
+  },
+  {
+    "mainWord": "Guillermo del Toro’s Pinokyo",
+    "forbiddenWords": ["del Toro", "Stop-Motion", "Faşist İtalya", "Kukla", "Animasyon"]
+  },
+  {
+    "mainWord": "Örümcek-Adam: Eve Dönüş Yok",
+    "forbiddenWords": ["Watts", "Holland", "Zendaya", "Maguire", "Garfield"]
+  },
+  {
+    "mainWord": "Doktor Strange Çoklu Evren Çılgınlığında",
+    "forbiddenWords": ["Raimi", "Cumberbatch", "Olsen", "Çoklu Evren", "Marvel"]
+  },
+  {
+    "mainWord": "Thor: Aşk ve Gök Gürültüsü",
+    "forbiddenWords": ["Waititi", "Hemsworth", "Portman", "Bale", "Marvel"]
+  },
+  {
+    "mainWord": "Black Panther: Yaşasın Wakanda",
+    "forbiddenWords": ["Coogler", "Wright", "Gurira", "Bassett", "Marvel"]
+  },
+  {
+    "mainWord": "Ant-Man ve Wasp: Quantumania",
+    "forbiddenWords": ["Reed", "Rudd", "Lilly", "Majors", "Marvel"]
+  },
+  {
+    "mainWord": "Bıçaklar Çekildi: Gizemli Bir Serüven",
+    "forbiddenWords": ["Johnson", "Craig", "Katil Kim?", "Mizah", "Devam Filmi"]
+  },
+  {
+    "mainWord": "Aşkın (500) Günü",
+    "forbiddenWords": ["Gordon-Levitt", "Deschanel", "Romantik Komedi", "Beklentiler", "Gerçeklik"]
+  },
+  {
+    "mainWord": "Amelie",
+    "forbiddenWords": ["Tautou", "Paris", "Hayalperest", "İyilik", "Fransız"]
+  },
+  {
+    "mainWord": "Cennet Sineması",
+    "forbiddenWords": ["Tornatore", "İtalya", "Sinema Aşkı", "Çocukluk", "Nostalji"]
+  },
+  {
+    "mainWord": "Hayat Güzeldir",
+    "forbiddenWords": ["Benigni", "Holokost", "Baba", "Oyun", "İtalya"]
+  },
+  {
+    "mainWord": "Piyanist",
+    "forbiddenWords": ["Polanski", "Brody", "Varşova Gettosu", "Müzik", "Hayatta Kalma"]
+  },
+  {
+    "mainWord": "Leon: Sevginin Gücü",
+    "forbiddenWords": ["Besson", "Reno", "Portman", "Kiralık Katil", "Koruma"]
+  },
+  {
+    "mainWord": "Dövüşçü",
+    "forbiddenWords": ["Russell", "Wahlberg", "Bale", "Adams", "Boks"]
+  },
+  {
+    "mainWord": "Zindan Adası",
+    "forbiddenWords": ["Scorsese", "DiCaprio", "Akıl Hastanesi", "Soruşturma", "Şaşırtıcı Son"]
+  },
+  {
+    "mainWord": "Yeşil Rehber",
+    "forbiddenWords": ["Mortensen", "Ali", "Piyanist", "Şoför", "Irkçılık"]
+  },
+  {
+    "mainWord": "Ay Işığı",
+    "forbiddenWords": ["Jenkins", "Büyüme", "Kimlik", "Miami", "Oscar"]
+  },
+  {
+    "mainWord": "Uğur Böceği",
+    "forbiddenWords": ["Gerwig", "Ronan", "Anne-Kız", "Lise", "Sacramento"]
+  },
+  {
+    "mainWord": "Parazit",
+    "forbiddenWords": ["Bong Joon-ho", "Güney Kore", "Sınıf", "Aile", "Oscar"]
+  },
+  {
+    "mainWord": "Joker",
+    "forbiddenWords": ["Phoenix", "Akıl Sağlığı", "Gotham", "Palyaço", "DC"]
+  },
+  {
+    "mainWord": "Bir Zamanlar... Hollywood'da",
+    "forbiddenWords": ["Tarantino", "DiCaprio", "Pitt", "1969", "Manson"]
+  },
+  {
+    "mainWord": "1917",
+    "forbiddenWords": ["Mendes", "I. Dünya Savaşı", "Tek Çekim", "Mesaj", "Siper"]
+  },
+  {
+    "mainWord": "Jojo Rabbit",
+    "forbiddenWords": ["Waititi", "Hitler", "Hayali Arkadaş", "II. Dünya Savaşı", "Satir"]
+  },
+  {
+    "mainWord": "Küçük Kadınlar",
+    "forbiddenWords": ["Gerwig", "Ronan", "Kız Kardeşler", "İç Savaş Dönemi", "Büyüme"]
+  },
+  {
+    "mainWord": "Ford v Ferrari",
+    "forbiddenWords": ["Mangold", "Bale", "Damon", "Le Mans", "Yarış"]
+  },
+  {
+    "mainWord": "Nomadland",
+    "forbiddenWords": ["Zhao", "McDormand", "Göçebe", "Karavan", "Amerika"]
+  },
+  {
+    "mainWord": "Minari",
+    "forbiddenWords": ["Chung", "Yeun", "Koreli Aile", "Çiftlik", "Arkansas"]
+  },
+  {
+    "mainWord": "Metalin Sesi",
+    "forbiddenWords": ["Ahmed", "Davulcu", "Sağırlık", "Müzik", "Bağımlılık"]
+  },
+  {
+    "mainWord": "Baba (The Father)",
+    "forbiddenWords": ["Hopkins", "Colman", "Demans", "Yaşlılık", "Hafıza"]
+  },
+  {
+    "mainWord": "Judas ve Siyah Mesih",
+    "forbiddenWords": ["Kaluuya", "Stanfield", "Siyah Panterler", "FBI", "İhanet"]
+  },
+  {
+    "mainWord": "Körkütük",
+    "forbiddenWords": ["Mikkelsen", "Alkol", "Deney", "Danimarka", "Öğretmen"]
+  },
+  {
+    "mainWord": "Dune: Çöl Gezegeni",
+    "forbiddenWords": ["Villeneuve", "Chalamet", "Bilim Kurgu", "Arrakis", "Baharat"]
+  },
+  {
+    "mainWord": "CODA",
+    "forbiddenWords": ["Sağır Aile", "Şarkı Söyleme", "Balıkçılık", "Büyüme", "Oscar"]
+  },
+  {
+    "mainWord": "Köpeğin Pençesi",
+    "forbiddenWords": ["Campion", "Cumberbatch", "Western", "Erkeklik", "Çiftlik"]
+  },
+  {
+    "mainWord": "Belfast",
+    "forbiddenWords": ["Branagh", "Çocukluk", "Kuzey İrlanda", "Siyah Beyaz", "Sorunlar"]
+  },
+  {
+    "mainWord": "Batı Yakası'nın Hikayesi",
+    "forbiddenWords": ["Spielberg", "Müzikal", "Çeteler", "New York", "Aşk"]
+  },
+  {
+    "mainWord": "Licorice Pizza",
+    "forbiddenWords": ["Anderson", "Haim", "70'ler", "Los Angeles", "Büyüme"]
+  },
+  {
+    "mainWord": "Kral Richard: Yükselen Şampiyonlar",
+    "forbiddenWords": ["Smith", "Williams Kardeşler", "Tenis", "Baba", "Antrenör"]
+  },
+  {
+    "mainWord": "Her Şey Her Yerde Aynı Anda",
+    "forbiddenWords": ["Yeoh", "Quan", "Çoklu Evren", "Vergi", "Aksiyon"]
+  },
+  {
+    "mainWord": "Top Gun: Maverick",
+    "forbiddenWords": ["Cruise", "Pilot", "Donanma", "Aksiyon", "Devam Filmi"]
+  },
+  {
+    "mainWord": "Avatar: Suyun Yolu",
+    "forbiddenWords": ["Cameron", "Pandora", "Na'vi", "Okyanus", "3D"]
+  },
+  {
+    "mainWord": "The Banshees of Inisherin",
+    "forbiddenWords": ["Farrell", "Gleeson", "İrlanda", "Arkadaşlık", "Kara Mizah"]
+  },
+  {
+    "mainWord": "Elvis",
+    "forbiddenWords": ["Butler", "Hanks", "Müzik", "Biyografi", "Rock and Roll"]
+  },
+  {
+    "mainWord": "Tár",
+    "forbiddenWords": ["Blanchett", "Orkestra Şefi", "Klasik Müzik", "Güç", "Psikolojik"]
+  },
+  {
+    "mainWord": "Hüzün Üçgeni",
+    "forbiddenWords": ["Östlund", "Yat", "Zenginler", "Satir", "Hayatta Kalma"]
+  },
+  {
+    "mainWord": "Balina",
+    "forbiddenWords": ["Fraser", "Aronofsky", "Obezite", "Baba", "Dram"]
+  },
+  {
+    "mainWord": "Oppenheimer",
+    "forbiddenWords": ["Nolan", "Murphy", "Atom Bombası", "Bilim Adamı", "Tarihi"]
+  },
+  {
+    "mainWord": "Barbie",
+    "forbiddenWords": ["Robbie", "Gosling", "Oyuncak Bebek", "Pembe", "Komedi"]
+  },
+  {
+    "mainWord": "Dolunay Katilleri",
+    "forbiddenWords": ["Scorsese", "DiCaprio", "De Niro", "Osage", "Petrol"]
+  },
+  {
+    "mainWord": "Zavallılar",
+    "forbiddenWords": ["Stone", "Lanthimos", "Frankenstein", "Feminist", "Tuhaf"]
+  },
+  {
+    "mainWord": "Bir Düşüşün Anatomisi",
+    "forbiddenWords": ["Triet", "Hüller", "Mahkeme", "Cinayet", "Fransız"]
+  },
+  {
+    "mainWord": "Başka Bir Hayatta",
+    "forbiddenWords": ["Song", "Aşk", "Kore", "Kader", "Çocukluk"]
+  },
+  {
+    "mainWord": "Kalanlar",
+    "forbiddenWords": ["Payne", "Giamatti", "Yatılı Okul", "Noel", "Öğretmen"]
+  },
+  {
+    "mainWord": "Maestro",
+    "forbiddenWords": ["Cooper", "Bernstein", "Müzik", "Biyografi", "Orkestra Şefi"]
+  },
+  {
+    "mainWord": "Amerikan Romanı",
+    "forbiddenWords": ["Wright", "Yazar", "Irk", "Satir", "Komedi"]
+  },
+  {
+    "mainWord": "İlgi Alanı",
+    "forbiddenWords": ["Glazer", "Auschwitz", "Holokost", "Komutan", "Aile"]
+  },
+  {
+    "mainWord": "Örümcek-Adam: Örümcek Evrenine Geçiş",
+    "forbiddenWords": ["Animasyon", "Miles Morales", "Çoklu Evren", "Devam", "Görsel"]
+  },
+  {
+    "mainWord": "Galaksinin Koruyucuları Vol. 3",
+    "forbiddenWords": ["Gunn", "Marvel", "Uzay", "Takım", "Rocket"]
+  },
+  {
+    "mainWord": "John Wick 4",
+    "forbiddenWords": ["Reeves", "Aksiyon", "Kiralık Katil", "Dövüş", "Yüksek Masa"]
+  },
+  {
+    "mainWord": "Asteroid Şehri",
+    "forbiddenWords": ["Wes Anderson", "Simetri", "Pastel Renkler", "1950'ler", "Uzaylı"]
+  },
+  {
+    "mainWord": "Air",
+    "forbiddenWords": ["Affleck", "Damon", "Nike", "Michael Jordan", "Ayakkabı"]
+  },
+  {
+    "mainWord": "Godzilla Minus One",
+    "forbiddenWords": ["Japonya", "Canavar", "Nükleer", "Savaş Sonrası", "Yıkım"]
+  },
+  {
+    "mainWord": "Wonka",
+    "forbiddenWords": ["Chalamet", "Müzikal", "Çikolata", "Fabrika", "Köken Hikayesi"]
+  },
+  {
+    "mainWord": "Napoleon",
+    "forbiddenWords": ["Ridley Scott", "Phoenix", "Kirby", "Fransa", "İmparator"]
+  },
+  {
+    "mainWord": "Renfield",
+    "forbiddenWords": ["Hoult", "Cage", "Drakula", "Yardımcı", "Komedi Korku"]
+  },
+  {
+    "mainWord": "Sisu",
+    "forbiddenWords": ["Finlandiya", "II. Dünya Savaşı", "Altın", "Nazi", "Aksiyon"]
+  },
+  {
+    "mainWord": "M3GAN",
+    "forbiddenWords": ["Oyuncak Bebek", "Yapay Zeka", "Korku", "Dans", "Koruyucu"]
+  },
+  {
+    "mainWord": "The Menu",
+    "forbiddenWords": ["Fiennes", "Taylor-Joy", "Hoult", "Restoran", "Kara Mizah"]
+  },
+  {
+    "mainWord": "Babylon",
+    "forbiddenWords": ["Chazelle", "Pitt", "Robbie", "Hollywood", "Sessiz Film Dönemi"]
+  },
+  {
+    "mainWord": "Black Adam",
+    "forbiddenWords": ["Dwayne Johnson", "DC", "Anti-Kahraman", "Antik Mısır", "Süper Güç"]
+  },
+  {
+    "mainWord": "Amsterdam",
+    "forbiddenWords": ["Russell", "Bale", "Robbie", "Washington", "Tarihi Gizem"]
+  },
+  {
+    "mainWord": "Smile",
+    "forbiddenWords": ["Bacon", "Gülümseme", "Lanet", "Korku", "Travma"]
+  },
+  {
+    "mainWord": "Nope",
+    "forbiddenWords": ["Peele", "Kaluuya", "Palmer", "UFO", "At Çiftliği"]
+  },
+  {
+    "mainWord": "Bullet Train",
+    "forbiddenWords": ["Pitt", "Leitch", "Tren", "Kiralık Katiller", "Aksiyon Komedi"]
+  },
+  {
+    "mainWord": "The Gray Man",
+    "forbiddenWords": ["Russo Kardeşler", "Gosling", "Evans", "CIA", "Aksiyon Gerilim"]
+  },
+  {
+    "mainWord": "The Northman",
+    "forbiddenWords": ["Eggers", "Skarsgård", "Kidman", "Viking", "İntikam"]
+  },
+  {
+    "mainWord": "The Batman",
+    "forbiddenWords": ["Reeves", "Pattinson", "Kravitz", "Gotham", "Dedektif"]
+  },
+  {
+    "mainWord": "Uncharted",
+    "forbiddenWords": ["Holland", "Wahlberg", "Video Oyunu", "Hazine Avı", "Macera"]
+  },
+  {
+    "mainWord": "Scream (2022)",
+    "forbiddenWords": ["Campbell", "Cox", "Arquette", "Hayalet Surat", "Slasher Devamı"]
+  },
+  {
+    "mainWord": "The Matrix Resurrections",
+    "forbiddenWords": ["Wachowski", "Reeves", "Moss", "Sanal Gerçeklik", "Devam Filmi"]
+  },
+  {
+    "mainWord": "Don't Look Up",
+    "forbiddenWords": ["DiCaprio", "Lawrence", "Kuyruklu Yıldız", "Felaket", "Satir"]
+  },
+  {
+    "mainWord": "House of Gucci",
+    "forbiddenWords": ["Ridley Scott", "Gaga", "Driver", "Moda", "Cinayet"]
+  },
+  {
+    "mainWord": "Eternals",
+    "forbiddenWords": ["Zhao", "Jolie", "Hayek", "Marvel", "Ölümsüzler"]
+  },
+  {
+    "mainWord": "No Time to Die",
+    "forbiddenWords": ["Fukunaga", "Craig", "Malek", "Seydoux", "James Bond"]
+  },
+  {
+    "mainWord": "Shang-Chi ve On Halka Efsanesi",
+    "forbiddenWords": ["Cretton", "Liu", "Leung", "Awkwafina", "Marvel"]
+  },
+  {
+    "mainWord": "The Suicide Squad",
+    "forbiddenWords": ["Gunn", "Robbie", "Elba", "Cena", "DC"]
+  },
+  {
+    "mainWord": "Black Widow",
+    "forbiddenWords": ["Shortland", "Johansson", "Pugh", "Harbour", "Marvel"]
+  },
+  {
+    "mainWord": "Cruella",
+    "forbiddenWords": ["Gillespie", "Stone", "Thompson", "Disney", "Moda"]
+  },
+  {
+    "mainWord": "Nobody",
+    "forbiddenWords": ["Odenkirk", "Aksiyon", "Baba", "Gizli Geçmiş", "John Wick Tarzı"]
+  },
+  {
+    "mainWord": "Zack Snyder's Justice League",
+    "forbiddenWords": ["Snyder Cut", "Affleck", "Cavill", "Gadot", "DC"]
+  },
+  {
+    "mainWord": "Raya ve Son Ejderha",
+    "forbiddenWords": ["Disney", "Animasyon", "Ejderha", "Güneydoğu Asya", "Savaşçı"]
+  },
+  {
+    "mainWord": "Wonder Woman 1984",
+    "forbiddenWords": ["Jenkins", "Gadot", "Pine", "Pascal", "1980'ler"]
+  },
+  {
+    "mainWord": "Birds of Prey",
+    "forbiddenWords": ["Yan", "Robbie", "Harley Quinn", "Kadın Takımı", "DC"]
+  },
+  {
+    "mainWord": "Star Wars: Skywalker'ın Yükselişi",
+    "forbiddenWords": ["Abrams", "Ridley", "Driver", "Palpatine", "Son Bölüm"]
+  },
+  {
+    "mainWord": "Frozen II",
+    "forbiddenWords": ["Disney", "Animasyon", "Elsa", "Anna", "Orman"]
+  },
+  {
+    "mainWord": "Malefiz: Kötülüğün Gücü",
+    "forbiddenWords": ["Rønning", "Jolie", "Fanning", "Pfeiffer", "Devam Filmi"]
+  },
+  {
+    "mainWord": "IT: Chapter Two",
+    "forbiddenWords": ["Muschietti", "McAvoy", "Chastain", "Skarsgård", "Pennywise"]
+  },
+  {
+    "mainWord": "Aslan Kral (2019)",
+    "forbiddenWords": ["Favreau", "Canlı Aksiyon", "Simba", "Afrika", "Disney"]
+  },
+  {
+    "mainWord": "Örümcek-Adam: Evden Uzakta",
+    "forbiddenWords": ["Watts", "Holland", "Gyllenhaal", "Zendaya", "Avrupa"]
+  },
+  {
+    "mainWord": "Oyuncak Hikayesi 4",
+    "forbiddenWords": ["Pixar", "Animasyon", "Woody", "Buzz", "Forky"]
+  },
+  {
+    "mainWord": "Aladdin (2019)",
+    "forbiddenWords": ["Ritchie", "Smith", "Massoud", "Scott", "Cin"]
+  },
+  {
+    "mainWord": "Detective Pikachu",
+    "forbiddenWords": ["Letterman", "Reynolds", "Pokemon", "Canlı Aksiyon", "Dedektif"]
+  },
+  {
+    "mainWord": "Shazam!",
+    "forbiddenWords": ["Sandberg", "Levi", "Angel", "Süper Kahraman", "DC"]
+  },
+  {
+    "mainWord": "Captain Marvel",
+    "forbiddenWords": ["Boden", "Fleck", "Larson", "Jackson", "Kree"]
+  },
+  {
+    "mainWord": "Aquaman",
+    "forbiddenWords": ["Wan", "Momoa", "Heard", "Kidman", "Atlantis"]
+  },
+  {
+    "mainWord": "Mary Poppins: Sihirli Dadı",
+    "forbiddenWords": ["Marshall", "Blunt", "Miranda", "Banks", "Devam Filmi"]
+  },
+  {
+    "mainWord": "Fantastik Canavarlar: Grindelwald'ın Suçları",
+    "forbiddenWords": ["Yates", "Redmayne", "Depp", "Law", "Harry Potter Evreni"]
+  },
+  {
+    "mainWord": "Venom",
+    "forbiddenWords": ["Fleischer", "Hardy", "Simbiyot", "Anti-Kahraman", "Marvel"]
+  },
+  {
+    "mainWord": "İnanılmaz Aile 2",
+    "forbiddenWords": ["Bird", "Pixar", "Animasyon", "Süper Kahraman", "Aile"]
+  },
+  {
+    "mainWord": "Jurassic World: Yıkılmış Krallık",
+    "forbiddenWords": ["Bayona", "Pratt", "Howard", "Dinozorlar", "Ada"]
+  },
+  {
+    "mainWord": "Deadpool 2",
+    "forbiddenWords": ["Leitch", "Reynolds", "Brolin", "X-Force", "Komedi"]
+  },
+  {
+    "mainWord": "Solo: Bir Star Wars Hikayesi",
+    "forbiddenWords": ["Howard", "Ehrenreich", "Glover", "Harrelson", "Han Solo"]
+  },
+  {
+    "mainWord": "Ready Player One",
+    "forbiddenWords": ["Spielberg", "Sanal Gerçeklik", "Oyun", "80'ler", "Paskalya Yumurtası"]
+  },
+  {
+    "mainWord": "Tomb Raider (2018)",
+    "forbiddenWords": ["Uthaug", "Vikander", "Lara Croft", "Macera", "Video Oyunu"]
+  },
+  {
+    "mainWord": "Star Wars: Son Jedi",
+    "forbiddenWords": ["Johnson", "Ridley", "Driver", "Hamill", "Fisher"]
+  },
+  {
+    "mainWord": "Justice League",
+    "forbiddenWords": ["Snyder", "Affleck", "Cavill", "Gadot", "Steppenwolf"]
+  },
+  {
+    "mainWord": "Coco",
+    "forbiddenWords": ["Pixar", "Meksika", "Ölüler Günü", "Müzik", "Aile"]
+  },
+  {
+    "mainWord": "Blade Runner 2049",
+    "forbiddenWords": ["Villeneuve", "Gosling", "Ford", "Replikant", "Bilim Kurgu"]
+  },
+  {
+    "mainWord": "Kingsman: Altın Çember",
+    "forbiddenWords": ["Vaughn", "Egerton", "Firth", "Strong", "Ajan"]
+  },
+  {
+    "mainWord": "Dunkirk",
+    "forbiddenWords": ["Nolan", "II. Dünya Savaşı", "Tahliye", "Plaj", "Gerilim"]
+  },
+  {
+    "mainWord": "Maymunlar Cehennemi: Savaş",
+    "forbiddenWords": ["Reeves", "Serkis", "Harrelson", "Sezar", "Kıyamet Sonrası"]
+  },
+  {
+    "mainWord": "Baby Driver",
+    "forbiddenWords": ["Wright", "Elgort", "James", "Müzik", "Soygun Şoförü"]
+  },
+  {
+    "mainWord": "Transformers: Son Şövalye",
+    "forbiddenWords": ["Bay", "Wahlberg", "Hopkins", "Robotlar", "Kral Arthur"]
+  },
+  {
+    "mainWord": "Karayip Korsanları: Salazar'ın İntikamı",
+    "forbiddenWords": ["Rønning", "Sandberg", "Depp", "Bardem", "Sparrow"]
+  },
+  {
+    "mainWord": "Alien: Covenant",
+    "forbiddenWords": ["Ridley Scott", "Fassbender", "Waterston", "Uzay", "Yaratık"]
+  },
+  {
+    "mainWord": "Galaksinin Koruyucuları Vol. 2",
+    "forbiddenWords": ["Gunn", "Pratt", "Saldana", "Russell", "Ego"]
+  },
+  {
+    "mainWord": "Hızlı ve Öfkeli 8",
+    "forbiddenWords": ["Gray", "Diesel", "Johnson", "Statham", "Theron"]
+  },
+  {
+    "mainWord": "Güzel ve Çirkin (2017)",
+    "forbiddenWords": ["Condon", "Watson", "Stevens", "Evans", "Canlı Aksiyon"]
+  },
+  {
+    "mainWord": "Kong: Kafatası Adası",
+    "forbiddenWords": ["Vogt-Roberts", "Hiddleston", "Larson", "Jackson", "Goril"]
+  },
+  {
+    "mainWord": "John Wick: Bölüm 2",
+    "forbiddenWords": ["Stahelski", "Reeves", "Common", "Ruby Rose", "Kiralık Katil"]
+  },
+  {
+    "mainWord": "La La Land",
+    "forbiddenWords": ["Chazelle", "Gosling", "Stone", "Müzikal", "Los Angeles"]
+  },
+  {
+    "mainWord": "Rogue One: Bir Star Wars Hikayesi",
+    "forbiddenWords": ["Edwards", "Jones", "Luna", "Mikkelsen", "Ölüm Yıldızı Planları"]
+  },
+  {
+    "mainWord": "Moana",
+    "forbiddenWords": ["Clements", "Musker", "Cravalho", "Johnson", "Polinezya"]
+  },
+  {
+    "mainWord": "Fantastik Canavarlar Nelerdir, Nerede Bulunurlar?",
+    "forbiddenWords": ["Yates", "Redmayne", "Waterston", "Fogler", "Newt Scamander"]
+  },
+  {
+    "mainWord": "Doktor Strange",
+    "forbiddenWords": ["Derrickson", "Cumberbatch", "Swinton", "Ejiofor", "Sihir"]
+  },
+  {
+    "mainWord": "Suicide Squad: Gerçek Kötüler",
+    "forbiddenWords": ["Ayer", "Smith", "Robbie", "Leto", "DC"]
+  },
+  {
+    "mainWord": "Jason Bourne (2016)",
+    "forbiddenWords": ["Greengrass", "Damon", "Vikander", "Jones", "CIA"]
+  },
+  {
+    "mainWord": "Star Trek Sonsuzluk",
+    "forbiddenWords": ["Lin", "Pine", "Quinto", "Elba", "Uzay"]
+  },
+  {
+    "mainWord": "Hayalet Avcıları (2016)",
+    "forbiddenWords": ["Feig", "McCarthy", "Wiig", "Jones", "McKinnon"]
+  },
+  {
+    "mainWord": "Kayıp Balık Dori",
+    "forbiddenWords": ["Stanton", "DeGeneres", "Brooks", "Pixar", "Unutkanlık"]
+  },
+  {
+    "mainWord": "Sihirbazlar Çetesi 2",
+    "forbiddenWords": ["Chu", "Eisenberg", "Ruffalo", "Harrelson", "Sihir"]
+  },
+  {
+    "mainWord": "X-Men: Apocalypse",
+    "forbiddenWords": ["Singer", "McAvoy", "Fassbender", "Lawrence", "Isaac"]
+  },
+  {
+    "mainWord": "Kaptan Amerika: Kahramanların Savaşı",
+    "forbiddenWords": ["Russo Kardeşler", "Evans", "Downey Jr.", "Johansson", "İç Savaş"]
+  },
+  {
+    "mainWord": "Orman Çocuğu",
+    "forbiddenWords": ["Favreau", "Sethi", "Kingsley", "Johansson", "Canlı Aksiyon"]
+  },
+  {
+    "mainWord": "Batman v Superman: Adaletin Şafağı",
+    "forbiddenWords": ["Snyder", "Affleck", "Cavill", "Gadot", "DC"]
+  },
+  {
+    "mainWord": "Zootropolis",
+    "forbiddenWords": ["Howard", "Moore", "Goodwin", "Bateman", "Animasyon"]
+  },
+  {
+    "mainWord": "Deadpool",
+    "forbiddenWords": ["Miller", "Reynolds", "Baccarin", "Anti-Kahraman", "Komedi"]
+  },
+  {
+    "mainWord": "Diriliş",
+    "forbiddenWords": ["Iñárritu", "DiCaprio", "Hardy", "Ayı", "Hayatta Kalma"]
+  },
+  {
+    "mainWord": "The Hateful Eight",
+    "forbiddenWords": ["Tarantino", "Russell", "Jackson", "Leigh", "Western"]
+  },
+  {
+    "mainWord": "Star Wars: Güç Uyanıyor",
+    "forbiddenWords": ["Abrams", "Ridley", "Boyega", "Ford", "İlk Bölüm"]
+  },
+  {
+    "mainWord": "Açlık Oyunları: Alaycı Kuş - Bölüm 2",
+    "forbiddenWords": ["Lawrence", "Hutcherson", "Hemsworth", "Capitol", "Son Savaş"]
+  },
+  {
+    "mainWord": "Spectre",
+    "forbiddenWords": ["Mendes", "Craig", "Waltz", "Seydoux", "James Bond"]
+  },
+  {
+    "mainWord": "Marslı",
+    "forbiddenWords": ["Ridley Scott", "Damon", "Chastain", "Mars", "Hayatta Kalma"]
+  },
+  {
+    "mainWord": "Casuslar Köprüsü",
+    "forbiddenWords": ["Spielberg", "Hanks", "Rylance", "Soğuk Savaş", "Avukat"]
+  },
+  {
+    "mainWord": "Steve Jobs",
+    "forbiddenWords": ["Boyle", "Fassbender", "Winslet", "Rogen", "Apple"]
+  },
+  {
+    "mainWord": "Sicario",
+    "forbiddenWords": ["Villeneuve", "Blunt", "Del Toro", "Brolin", "Uyuşturucu Karteli"]
+  },
+  {
+    "mainWord": "Ant-Man",
+    "forbiddenWords": ["Reed", "Rudd", "Douglas", "Lilly", "Küçülme"]
+  },
+  {
+    "mainWord": "Mission: Impossible - Rogue Nation",
+    "forbiddenWords": ["McQuarrie", "Cruise", "Ferguson", "Pegg", "IMF"]
+  },
+  {
+    "mainWord": "Terminatör: Genisys",
+    "forbiddenWords": ["Taylor", "Schwarzenegger", "Clarke", "Courtney", "Zaman Yolculuğu"]
+  },
+  {
+    "mainWord": "Jurassic World",
+    "forbiddenWords": ["Trevorrow", "Pratt", "Howard", "Dinozor Parkı", "Kaos"]
+  },
+  {
+    "mainWord": "Ters Yüz",
+    "forbiddenWords": ["Docter", "Rivera", "Pixar", "Duygular", "Zihin"]
+  },
+  {
+    "mainWord": "Mad Max: Fury Road",
+    "forbiddenWords": ["Miller", "Hardy", "Theron", "Kıyamet Sonrası", "Aksiyon"]
+  },
+  {
+    "mainWord": "Yenilmezler: Ultron Çağı",
+    "forbiddenWords": ["Whedon", "Downey Jr.", "Evans", "Spader", "Yapay Zeka"]
+  },
+  {
+    "mainWord": "Hızlı ve Öfkeli 7",
+    "forbiddenWords": ["Wan", "Diesel", "Walker", "Statham", "Paul Walker'a Veda"]
+  },
+  {
+    "mainWord": "Kingsman: Gizli Servis",
+    "forbiddenWords": ["Vaughn", "Egerton", "Firth", "Strong", "Ajan Komedi"]
+  },
+  {
+    "mainWord": "Grinin Elli Tonu",
+    "forbiddenWords": ["Taylor-Johnson", "Johnson", "Dornan", "Romantizm", "BDSM"]
+  },
+  {
+    "mainWord": "Keskin Nişancı",
+    "forbiddenWords": ["Eastwood", "Cooper", "Miller", "Irak Savaşı", "Keskin Nişancı"]
+  },
+  {
+    "mainWord": "Yapay Oyun",
+    "forbiddenWords": ["Tyldum", "Cumberbatch", "Knightley", "Alan Turing", "Enigma"]
+  },
+  {
+    "mainWord": "Birdman veya (Cahilliğin Umulmayan Erdemi)",
+    "forbiddenWords": ["Iñárritu", "Keaton", "Norton", "Tiyatro", "Tek Çekim"]
+  },
+  {
+    "mainWord": "Hobbit: Beş Ordunun Savaşı",
+    "forbiddenWords": ["Jackson", "Freeman", "Armitage", "Savaş", "Orta Dünya"]
+  },
+  {
+    "mainWord": "Büyük Gözler",
+    "forbiddenWords": ["Burton", "Adams", "Waltz", "Keane", "Sanatçı"]
+  },
+  {
+    "mainWord": "Exodus: Tanrılar ve Krallar",
+    "forbiddenWords": ["Ridley Scott", "Bale", "Ejiofor", "Musa", "Mısır"]
+  },
+  {
+    "mainWord": "Galaksinin Koruyucuları",
+    "forbiddenWords": ["Gunn", "Pratt", "Saldana", "Star-Lord", "Marvel"]
+  },
+  {
+    "mainWord": "Lucy",
+    "forbiddenWords": ["Besson", "Johansson", "Freeman", "Beyin Kapasitesi", "Aksiyon"]
+  },
+  {
+    "mainWord": "Maymunlar Cehennemi: Şafak Vakti",
+    "forbiddenWords": ["Reeves", "Serkis", "Clarke", "Oldman", "Sezar"]
+  },
+  {
+    "mainWord": "Transformers: Kayıp Çağ",
+    "forbiddenWords": ["Bay", "Wahlberg", "Tucci", "Dinobotlar", "Robotlar"]
+  },
+  {
+    "mainWord": "Malefiz",
+    "forbiddenWords": ["Stromberg", "Jolie", "Fanning", "Uyuyan Güzel", "Kötü Peri"]
+  },
+  {
+    "mainWord": "Yarının Sınırında",
+    "forbiddenWords": ["Liman", "Cruise", "Blunt", "Zaman Döngüsü", "Uzaylılar"]
+  },
+  {
+    "mainWord": "X-Men: Geçmiş Günler Gelecek",
+    "forbiddenWords": ["Singer", "McAvoy", "Fassbender", "Jackman", "Zaman Yolculuğu"]
+  },
+  {
+    "mainWord": "Godzilla (2014)",
+    "forbiddenWords": ["Edwards", "Taylor-Johnson", "Olsen", "Cranston", "Canavar"]
+  },
+  {
+    "mainWord": "İnanılmaz Örümcek-Adam 2",
+    "forbiddenWords": ["Webb", "Garfield", "Stone", "Foxx", "Electro"]
+  },
+  {
+    "mainWord": "Kaptan Amerika: Kış Askeri",
+    "forbiddenWords": ["Russo Kardeşler", "Evans", "Johansson", "Stan", "Hydra"]
+  },
+  {
+    "mainWord": "Noah: Büyük Tufan",
+    "forbiddenWords": ["Aronofsky", "Crowe", "Watson", "Connelly", "Nuh'un Gemisi"]
+  },
+  {
+    "mainWord": "Uyumsuz",
+    "forbiddenWords": ["Burger", "Woodley", "James", "Distopya", "Fraksiyonlar"]
+  },
+  {
+    "mainWord": "300: Bir İmparatorluğun Yükselişi",
+    "forbiddenWords": ["Murro", "Stapleton", "Green", "Persler", "Deniz Savaşı"]
+  },
+  {
+    "mainWord": "Lego Filmi",
+    "forbiddenWords": ["Lord", "Miller", "Pratt", "Arnett", "Animasyon"]
+  },
+  {
+    "mainWord": "RoboCop (2014)",
+    "forbiddenWords": ["Padilha", "Kinnaman", "Oldman", "Keaton", "Yeniden Çevrim"]
+  },
+  {
+    "mainWord": "Para Avcısı",
+    "forbiddenWords": ["Scorsese", "DiCaprio", "Hill", "Borsa", "Wall Street"]
+  },
+  {
+    "mainWord": "Hobbit: Smaug'un Çorak Toprakları",
+    "forbiddenWords": ["Jackson", "Freeman", "Cumberbatch", "Ejderha", "Orta Dünya"]
+  },
+  {
+    "mainWord": "Açlık Oyunları: Ateşi Yakalamak",
+    "forbiddenWords": ["Lawrence", "Lawrence", "Hutcherson", "Hemsworth", "Arena"]
+  },
+  {
+    "mainWord": "Thor: Karanlık Dünya",
+    "forbiddenWords": ["Taylor", "Hemsworth", "Portman", "Hiddleston", "Malekith"]
+  },
+  {
+    "mainWord": "Yerçekimi",
+    "forbiddenWords": ["Cuarón", "Bullock", "Clooney", "Uzay", "Hayatta Kalma"]
+  },
+  {
+    "mainWord": "Kaptan Phillips",
+    "forbiddenWords": ["Greengrass", "Hanks", "Barkhad Abdi", "Korsanlar", "Somali"]
+  },
+  {
+    "mainWord": "Tutsak",
+    "forbiddenWords": ["Villeneuve", "Jackman", "Gyllenhaal", "Kaçırma", "Gerilim"]
+  },
+  {
+    "mainWord": "Zafere Hücum",
+    "forbiddenWords": ["Howard", "Hemsworth", "Brühl", "Formula 1", "Hunt vs Lauda"]
+  },
+  {
+    "mainWord": "Wolverine",
+    "forbiddenWords": ["Mangold", "Jackman", "Japonya", "Samuray", "Mutant"]
+  },
+  {
+    "mainWord": "Pasifik Savaşı",
+    "forbiddenWords": ["del Toro", "Hunnam", "Kikuchi", "Dev Robotlar", "Kaiju"]
+  },
+  {
+    "mainWord": "Man of Steel",
+    "forbiddenWords": ["Snyder", "Cavill", "Adams", "Shannon", "Superman"]
+  },
+  {
+    "mainWord": "Sihirbazlar Çetesi",
+    "forbiddenWords": ["Leterrier", "Eisenberg", "Ruffalo", "Harrelson", "Sihirbazlık"]
+  },
+  {
+    "mainWord": "Hızlı ve Öfkeli 6",
+    "forbiddenWords": ["Lin", "Diesel", "Walker", "Johnson", "Londra"]
+  },
+  {
+    "mainWord": "Muhteşem Gatsby",
+    "forbiddenWords": ["Luhrmann", "DiCaprio", "Maguire", "Mulligan", "1920'ler"]
+  },
+  {
+    "mainWord": "Star Trek Bilinmeze Doğru",
+    "forbiddenWords": ["Abrams", "Pine", "Quinto", "Cumberbatch", "Khan"]
+  },
+  {
+    "mainWord": "Demir Adam 3",
+    "forbiddenWords": ["Black", "Downey Jr.", "Paltrow", "Kingsley", "Mandarin"]
+  },
+  {
+    "mainWord": "Oblivion",
+    "forbiddenWords": ["Kosinski", "Cruise", "Kurylenko", "Freeman", "Kıyamet Sonrası"]
+  },
+  {
+    "mainWord": "Zincirsiz",
+    "forbiddenWords": ["Tarantino", "Foxx", "Waltz", "DiCaprio", "Kölelik"]
+  },
+  {
+    "mainWord": "Sefiller (2012)",
+    "forbiddenWords": ["Hooper", "Jackman", "Crowe", "Hathaway", "Müzikal"]
+  },
+  {
+    "mainWord": "Hobbit: Beklenmedik Yolculuk",
+    "forbiddenWords": ["Jackson", "Freeman", "McKellen", "Cüceler", "Orta Dünya"]
+  },
+  {
+    "mainWord": "Pi'nin Yaşamı",
+    "forbiddenWords": ["Ang Lee", "Sharma", "Kaplan", "Okyanus", "Hayatta Kalma"]
+  },
+  {
+    "mainWord": "Alacakaranlık Efsanesi: Şafak Vakti Bölüm 2",
+    "forbiddenWords": ["Condon", "Stewart", "Pattinson", "Lautner", "Son Film"]
+  },
+  {
+    "mainWord": "Skyfall",
+    "forbiddenWords": ["Mendes", "Craig", "Bardem", "Dench", "James Bond"]
+  },
+  {
+    "mainWord": "Operasyon Argo",
+    "forbiddenWords": ["Affleck", "Cranston", "Goodman", "İran Rehine Krizi", "CIA"]
+  },
+  {
+    "mainWord": "Taken 2",
+    "forbiddenWords": ["Megaton", "Neeson", "Janssen", "Grace", "İstanbul"]
+  },
+  {
+    "mainWord": "Usta",
+    "forbiddenWords": ["Anderson", "Phoenix", "Hoffman", "Adams", "Tarikat"]
+  },
+  {
+    "mainWord": "Ted",
+    "forbiddenWords": ["MacFarlane", "Wahlberg", "Kunis", "Oyuncak Ayı", "Komedi"]
+  },
+  {
+    "mainWord": "Kara Şövalye Yükseliyor",
+    "forbiddenWords": ["Nolan", "Bale", "Hardy", "Hathaway", "Bane"]
+  },
+  {
+    "mainWord": "İnanılmaz Örümcek-Adam",
+    "forbiddenWords": ["Webb", "Garfield", "Stone", "Ifans", "Kertenkele"]
+  },
+  {
+    "mainWord": "Cesur",
+    "forbiddenWords": ["Chapman", "Andrews", "Pixar", "İskoçya", "Okçu"]
+  },
+  {
+    "mainWord": "Prometheus",
+    "forbiddenWords": ["Ridley Scott", "Rapace", "Fassbender", "Theron", "Alien Evreni"]
+  },
+  {
+    "mainWord": "Madagaskar 3: Avrupa'nın En Çok Arananları",
+    "forbiddenWords": ["Darnell", "McGrath", "Vernon", "Animasyon", "Sirk"]
+  },
+  {
+    "mainWord": "Pamuk Prenses ve Avcı",
+    "forbiddenWords": ["Sanders", "Stewart", "Theron", "Hemsworth", "Fantastik"]
+  },
+  {
+    "mainWord": "Siyah Giyen Adamlar 3",
+    "forbiddenWords": ["Sonnenfeld", "Smith", "Jones", "Brolin", "Zaman Yolculuğu"]
+  },
+  {
+    "mainWord": "Moonrise Kingdom",
+    "forbiddenWords": ["Wes Anderson", "Willis", "Norton", "Murray", "Çocuklar"]
+  },
+  {
+    "mainWord": "Karanlık Gölgeler",
+    "forbiddenWords": ["Burton", "Depp", "Pfeiffer", "Green", "Vampir"]
+  },
+  {
+    "mainWord": "Yenilmezler",
+    "forbiddenWords": ["Whedon", "Downey Jr.", "Evans", "Ruffalo", "Marvel Takımı"]
+  },
+  {
+    "mainWord": "Amerikan Pastası: Buluşma",
+    "forbiddenWords": ["Hurwitz", "Schlossberg", "Biggs", "Scott", "Lise Buluşması"]
+  },
+  {
+    "mainWord": "Titanların Öfkesi",
+    "forbiddenWords": ["Liebesman", "Worthington", "Neeson", "Fiennes", "Mitoloji"]
+  },
+  {
+    "mainWord": "Açlık Oyunları",
+    "forbiddenWords": ["Ross", "Lawrence", "Hutcherson", "Hemsworth", "Arena"]
+  },
+  {
+    "mainWord": "John Carter",
+    "forbiddenWords": ["Stanton", "Kitsch", "Collins", "Dafoe", "Mars"]
+  },
+  {
+    "mainWord": "Hayalet Sürücü 2: İntikam Ateşi",
+    "forbiddenWords": ["Neveldine", "Taylor", "Cage", "Ciaran Hinds", "Şeytan"]
+  },
+  {
+    "mainWord": "Artist",
+    "forbiddenWords": ["Hazanavicius", "Dujardin", "Bejo", "Sessiz Film", "Oscar"]
+  },
+  {
+    "mainWord": "Aşk",
+    "forbiddenWords": ["Haneke", "Trintignant", "Riva", "Yaşlı Çift", "Hastalık"]
+  },
+  {
+    "mainWord": "Sürücü",
+    "forbiddenWords": ["Refn", "Gosling", "Mulligan", "Şoför", "Soygun"]
+  },
+  {
+    "mainWord": "Hugo",
+    "forbiddenWords": ["Scorsese", "Butterfield", "Moretz", "Kingsley", "Paris"]
+  },
+  {
+    "mainWord": "Ejderha Dövmeli Kız",
+    "forbiddenWords": ["Fincher", "Mara", "Craig", "Salander", "İsveç"]
+  },
+  {
+    "mainWord": "Sherlock Holmes: Gölge Oyunları",
+    "forbiddenWords": ["Ritchie", "Downey Jr.", "Law", "Rapace", "Moriarty"]
+  },
+  {
+    "mainWord": "Mission: Impossible - Hayalet Protokol",
+    "forbiddenWords": ["Bird", "Cruise", "Pegg", "Renner", "Dubai"]
+  },
+  {
+    "mainWord": "Alacakaranlık Efsanesi: Şafak Vakti Bölüm 1",
+    "forbiddenWords": ["Condon", "Stewart", "Pattinson", "Lautner", "Düğün"]
+  },
+  {
+    "mainWord": "Ölümsüzler: Tanrıların Savaşı",
+    "forbiddenWords": ["Singh", "Cavill", "Pinto", "Rourke", "Mitoloji"]
+  },
+  {
+    "mainWord": "Çizmeli Kedi (2011)",
+    "forbiddenWords": ["Miller", "Banderas", "Hayek", "Galifianakis", "Animasyon"]
+  },
+  {
+    "mainWord": "Paranormal Aktivite 3",
+    "forbiddenWords": ["Joost", "Schulman", "Buluntu Görüntü", "Geçmiş", "Korku"]
+  },
+  {
+    "mainWord": "Çelik Yumruklar",
+    "forbiddenWords": ["Levy", "Jackman", "Lilly", "Goyo", "Robot Boksu"]
+  },
+  {
+    "mainWord": "Contagion",
+    "forbiddenWords": ["Soderbergh", "Damon", "Winslet", "Law", "Salgın"]
+  },
+  {
+    "mainWord": "Warrior",
+    "forbiddenWords": ["O'Connor", "Hardy", "Edgerton", "Nolte", "MMA"]
+  },
+  {
+    "mainWord": "Duyguların Rengi",
+    "forbiddenWords": ["Taylor", "Stone", "Davis", "Spencer", "Irkçılık"]
+  },
+  {
+    "mainWord": "Maymunlar Cehennemi: Başlangıç",
+    "forbiddenWords": ["Wyatt", "Franco", "Pinto", "Serkis", "Sezar"]
+  },
+  {
+    "mainWord": "Kovboylar ve Uzaylılar",
+    "forbiddenWords": ["Favreau", "Craig", "Ford", "Wilde", "Western Bilim Kurgu"]
+  },
+  {
+    "mainWord": "Kaptan Amerika: İlk Yenilmez",
+    "forbiddenWords": ["Johnston", "Evans", "Atwell", "Weaving", "II. Dünya Savaşı"]
+  },
+  {
+    "mainWord": "Transformers: Ay'ın Karanlık Yüzü",
+    "forbiddenWords": ["Bay", "LaBeouf", "Huntington-Whiteley", "Duhamel", "Ay"]
+  },
+  {
+    "mainWord": "Arabalar 2",
+    "forbiddenWords": ["Lasseter", "Pixar", "McQueen", "Mater", "Casusluk"]
+  },
+  {
+    "mainWord": "Yeşil Fener",
+    "forbiddenWords": ["Campbell", "Reynolds", "Lively", "Strong", "DC"]
+  },
+  {
+    "mainWord": "Super 8",
+    "forbiddenWords": ["Abrams", "Fanning", "Courtney", "Uzaylı", "1979"]
+  },
+  {
+    "mainWord": "X-Men: Birinci Sınıf",
+    "forbiddenWords": ["Vaughn", "McAvoy", "Fassbender", "Lawrence", "Köken Hikayesi"]
+  },
+  {
+    "mainWord": "Felekten Bir Gece Daha",
+    "forbiddenWords": ["Phillips", "Cooper", "Helms", "Galifianakis", "Bangkok"]
+  },
+  {
+    "mainWord": "Kung Fu Panda 2",
+    "forbiddenWords": ["Yuh Nelson", "Black", "Jolie", "Oldman", "Animasyon"]
+  },
+  {
+    "mainWord": "Karayip Korsanları: Gizemli Denizlerde",
+    "forbiddenWords": ["Marshall", "Depp", "Cruz", "Rush", "Gençlik Pınarı"]
+  },
+  {
+    "mainWord": "Thor",
+    "forbiddenWords": ["Branagh", "Hemsworth", "Portman", "Hopkins", "Asgard"]
+  },
+  {
+    "mainWord": "Hızlı ve Öfkeli 5: Rio Soygunu",
+    "forbiddenWords": ["Lin", "Diesel", "Walker", "Johnson", "Rio de Janeiro"]
+  },
+  {
+    "mainWord": "Rio",
+    "forbiddenWords": ["Saldanha", "Eisenberg", "Hathaway", "Animasyon", "Papağan"]
+  },
+  {
+    "mainWord": "Limit Yok",
+    "forbiddenWords": ["Burger", "Cooper", "De Niro", "Cornish", "İlaç"]
+  },
+  {
+    "mainWord": "Rango",
+    "forbiddenWords": ["Verbinski", "Depp", "Fisher", "Animasyon", "Bukalemun"]
+  },
+  {
+    "mainWord": "Paul",
+    "forbiddenWords": ["Mottola", "Pegg", "Frost", "Wiig", "Uzaylı Komedi"]
+  },
+  {
+    "mainWord": "Kara Şövalye",
+    "forbiddenWords": ["Nolan", "Bale", "Ledger", "Joker", "Gotham"]
+  },
+  {
+    "mainWord": "Esaretin Bedeli",
+    "forbiddenWords": ["Robbins", "Freeman", "Hapishane", "Kaçış", "Umut"]
+  },
+  {
+    "mainWord": "Ucuz Roman",
+    "forbiddenWords": ["Tarantino", "Travolta", "Jackson", "Suç", "Kült"]
+  },
+  {
+    "mainWord": "Baba",
+    "forbiddenWords": ["Coppola", "Brando", "Pacino", "Mafya", "Aile"]
+  },
+  {
+    "mainWord": "Yüzüklerin Efendisi: Kralın Dönüşü",
+    "forbiddenWords": ["Jackson", "Tolkien", "Fantastik", "Oscar", "Orta Dünya"]
+  },
+  {
+    "mainWord": "Dövüş Kulübü",
+    "forbiddenWords": ["Fincher", "Pitt", "Norton", "Sabun", "Anarşi"]
+  },
+  {
+    "mainWord": "Başlangıç",
+    "forbiddenWords": ["Nolan", "DiCaprio", "Rüya", "Soygun", "Bilim Kurgu"]
+  },
+  {
+    "mainWord": "Yüzüklerin Efendisi: Yüzük Kardeşliği",
+    "forbiddenWords": ["Jackson", "Tolkien", "Fantastik", "Frodo", "Orta Dünya"]
+  },
+  {
+    "mainWord": "Forrest Gump",
+    "forbiddenWords": ["Hanks", "Zemeckis", "Hayat", "Koşu", "Tarih"]
+  },
+  {
+    "mainWord": "Matrix",
+    "forbiddenWords": ["Wachowskiler", "Reeves", "Bilim Kurgu", "Sanal Gerçeklik", "Neo"]
+  },
+  {
+    "mainWord": "Yüzüklerin Efendisi: İki Kule",
+    "forbiddenWords": ["Jackson", "Tolkien", "Fantastik", "Savaş", "Orta Dünya"]
+  },
+  {
+    "mainWord": "Sıkı Dostlar",
+    "forbiddenWords": ["Scorsese", "De Niro", "Pesci", "Mafya", "Gangster"]
+  },
+  {
+    "mainWord": "Yıldız Savaşları: İmparator",
+    "forbiddenWords": ["Lucas", "Hamill", "Ford", "Fisher", "Vader"]
+  },
+  {
+    "mainWord": "Guguk Kuşu",
+    "forbiddenWords": ["Nicholson", "Forman", "Akıl Hastanesi", "İsyan", "Hemşire"]
+  },
+  {
+    "mainWord": "Yedi Samuray",
+    "forbiddenWords": ["Kurosawa", "Mifune", "Japonya", "Samuray", "Köy"]
+  },
+  {
+    "mainWord": "Yedi",
+    "forbiddenWords": ["Fincher", "Pitt", "Freeman", "Seri Katil", "Günahlar"]
+  },
+  {
+    "mainWord": "Yıldız Savaşları: Yeni Bir Umut",
+    "forbiddenWords": ["Lucas", "Hamill", "Ford", "Fisher", "Güç"]
+  },
+  {
+    "mainWord": "Kuzuların Sessizliği",
+    "forbiddenWords": ["Hopkins", "Foster", "Lecter", "FBI", "Yamyam"]
+  },
+  {
+    "mainWord": "Hayat Güzeldir",
+    "forbiddenWords": ["Benigni", "Holokost", "Baba-Oğul", "İtalya", "Oyun"]
+  },
+  {
+    "mainWord": "Tanrıkent",
+    "forbiddenWords": ["Meirelles", "Brezilya", "Favela", "Çete", "Suç"]
+  },
+  {
+    "mainWord": "Er Ryan'ı Kurtarmak",
+    "forbiddenWords": ["Spielberg", "Hanks", "II. Dünya Savaşı", "Normandiya", "Asker"]
+  },
+  {
+    "mainWord": "Yıldızlararası",
+    "forbiddenWords": ["Nolan", "McConaughey", "Uzay", "Solucan Deliği", "Bilim Kurgu"]
+  },
+  {
+    "mainWord": "Ruhların Kaçışı",
+    "forbiddenWords": ["Miyazaki", "Animasyon", "Japonya", "Ruhlar", "Fantastik"]
+  },
+  {
+    "mainWord": "Yeşil Yol",
+    "forbiddenWords": ["Hanks", "Duncan", "Hapishane", "Mucize", "Elektrikli Sandalye"]
+  },
+  {
+    "mainWord": "Piyanist",
+    "forbiddenWords": ["Polanski", "Brody", "Varşova", "Holokost", "Müzik"]
+  },
+  {
+    "mainWord": "Parazit",
+    "forbiddenWords": ["Bong Joon-ho", "Güney Kore", "Sınıf", "Gerilim", "Oscar"]
+  },
+  {
+    "mainWord": "Terminatör 2: Mahşer Günü",
+    "forbiddenWords": ["Cameron", "Schwarzenegger", "Robot", "Aksiyon", "Devam"]
+  },
+  {
+    "mainWord": "Geleceğe Dönüş",
+    "forbiddenWords": ["Zemeckis", "Fox", "Lloyd", "Zaman Makinesi", "DeLorean"]
+  },
+  {
+    "mainWord": "Whiplash",
+    "forbiddenWords": ["Chazelle", "Simmons", "Teller", "Davul", "Caz"]
+  },
+  {
+    "mainWord": "Gladyatör",
+    "forbiddenWords": ["Scott", "Crowe", "Roma", "İntikam", "Arena"]
+  },
+  {
+    "mainWord": "Köstebek",
+    "forbiddenWords": ["Scorsese", "DiCaprio", "Damon", "Gizli Polis", "Mafya"]
+  },
+  {
+    "mainWord": "Prestij",
+    "forbiddenWords": ["Nolan", "Bale", "Jackman", "Sihirbaz", "Rekabet"]
+  },
+  {
+    "mainWord": "Aslan Kral",
+    "forbiddenWords": ["Disney", "Animasyon", "Simba", "Afrika", "Müzikal"]
+  },
+  {
+    "mainWord": "Apocalypse Now",
+    "forbiddenWords": ["Coppola", "Vietnam", "Savaş", "Brando", "Kurtz"]
+  },
+  {
+    "mainWord": "Yaratık",
+    "forbiddenWords": ["Scott", "Weaver", "Uzay", "Canavar", "Korku"]
+  },
+  {
+    "mainWord": "Sunset Bulvarı",
+    "forbiddenWords": ["Wilder", "Swanson", "Hollywood", "Sessiz Film Yıldızı", "Kara Film"]
+  },
+  {
+    "mainWord": "Dr. Garipaşk",
+    "forbiddenWords": ["Kubrick", "Sellers", "Soğuk Savaş", "Bomba", "Satir"]
+  },
+  {
+    "mainWord": "Büyük Diktatör",
+    "forbiddenWords": ["Chaplin", "Hitler", "Satir", "Konuşma", "Sessiz Dönem Sonrası"]
+  },
+  {
+    "mainWord": "Cennet Sineması",
+    "forbiddenWords": ["Tornatore", "İtalya", "Film", "Aşk", "Nostalji"]
+  },
+  {
+    "mainWord": "Das Boot",
+    "forbiddenWords": ["Petersen", "Denizaltı", "II. Dünya Savaşı", "Almanya", "Gerilim"]
+  },
+  {
+    "mainWord": "Cesur Yürek",
+    "forbiddenWords": ["Gibson", "İskoçya", "Özgürlük", "Wallace", "Tarihi"]
+  },
+  {
+    "mainWord": "İhtiyarlara Yer Yok",
+    "forbiddenWords": ["Coen Kardeşler", "Bardem", "Kiralık Katil", "Western", "Gerilim"]
+  },
+  {
+    "mainWord": "Oyuncak Hikayesi",
+    "forbiddenWords": ["Pixar", "Animasyon", "Woody", "Buzz", "Oyuncaklar"]
+  },
+  {
+    "mainWord": "Yaratıklar",
+    "forbiddenWords": ["Cameron", "Weaver", "Uzay Denizcileri", "Aksiyon", "Devam"]
+  },
+  {
+    "mainWord": "Amelie",
+    "forbiddenWords": ["Jeunet", "Tautou", "Paris", "Romantik Komedi", "İyimserlik"]
+  },
+  {
+    "mainWord": "Bir Zamanlar Amerika'da",
+    "forbiddenWords": ["Leone", "De Niro", "Woods", "Gangster", "New York"]
+  },
+  {
+    "mainWord": "Prenses Mononoke",
+    "forbiddenWords": ["Miyazaki", "Animasyon", "Japonya", "Doğa", "Ruhlar"]
+  },
+  {
+    "mainWord": "İhtiyar Delikanlı",
+    "forbiddenWords": ["Park Chan-wook", "Güney Kore", "İntikam", "Aksiyon", "Şaşırtıcı"]
+  },
+  {
+    "mainWord": "Kefaret",
+    "forbiddenWords": ["Wright", "Knightley", "McAvoy", "Yalan", "II. Dünya Savaşı"]
+  },
+  {
+    "mainWord": "Reservoir Dogs",
+    "forbiddenWords": ["Tarantino", "Soygun", "Takım Elbise", "Şiddet", "Bağımsız"]
+  },
+  {
+    "mainWord": "Can Dostum",
+    "forbiddenWords": ["Williams", "Damon", "Affleck", "Matematik Dehası", "Terapi"]
+  },
+  {
+    "mainWord": "Ölü Ozanlar Derneği",
+    "forbiddenWords": ["Williams", "Weir", "Okul", "Şiir", "Carpe Diem"]
+  },
+  {
+    "mainWord": "Monty Python ve Kutsal Kase",
+    "forbiddenWords": ["Komedi", "İngiliz Mizahı", "Kral Arthur", "Şövalyeler", "Absürt"]
+  },
+  {
+    "mainWord": "Brian'ın Hayatı",
+    "forbiddenWords": ["Monty Python", "Komedi", "İsa", "Din", "Satir"]
+  },
+  {
+    "mainWord": "Kill Bill: Vol. 1",
+    "forbiddenWords": ["Tarantino", "Thurman", "Gelin", "Kılıç", "İntikam"]
+  },
+  {
+    "mainWord": "V for Vendetta",
+    "forbiddenWords": ["Maske", "Anarşi", "Distopya", "Londra", "Patlama"]
+  },
+  {
+    "mainWord": "Casino Royale",
+    "forbiddenWords": ["James Bond", "Craig", "Poker", "Ajan", "Aksiyon"]
+  },
+  {
+    "mainWord": "Donnie Darko",
+    "forbiddenWords": ["Gyllenhaal", "Tavşan", "Zaman Yolculuğu", "Psikolojik", "Kült"]
+  },
+  {
+    "mainWord": "Pan'ın Labirenti",
+    "forbiddenWords": ["del Toro", "Fantastik", "İspanya", "Masal", "Karanlık"]
+  },
+  {
+    "mainWord": "Kan Dökülecek",
+    "forbiddenWords": ["Anderson", "Day-Lewis", "Petrol", "Hırs", "Drama"]
+  },
+  {
+    "mainWord": "Juno",
+    "forbiddenWords": ["Page", "Hamilelik", "Ergen", "Komedi-Dram", "Bağımsız"]
+  },
+  {
+    "mainWord": "Soysuzlar Çetesi",
+    "forbiddenWords": ["Tarantino", "Pitt", "Waltz", "II. Dünya Savaşı", "Nazi Avı"]
+  },
+  {
+    "mainWord": "Kara Şövalye Yükseliyor",
+    "forbiddenWords": ["Nolan", "Bale", "Hardy", "Bane", "Son Bölüm"]
+  },
+  {
+    "mainWord": "Kazanma Sanatı",
+    "forbiddenWords": ["Pitt", "Hill", "Beyzbol", "İstatistik", "Spor"]
+  },
+  {
+    "mainWord": "Ejderha Dövmeli Kız",
+    "forbiddenWords": ["Fincher", "Mara", "Craig", "Hacker", "Gizem"]
+  },
+  {
+    "mainWord": "Sefiller",
+    "forbiddenWords": ["Jackman", "Hathaway", "Müzikal", "Fransa", "Devrim"]
+  },
+  {
+    "mainWord": "12 Yıllık Esaret",
+    "forbiddenWords": ["McQueen", "Ejiofor", "Kölelik", "Tarihi", "Drama"]
+  },
+  {
+    "mainWord": "Aşk",
+    "forbiddenWords": ["Phoenix", "Johansson", "Yapay Zeka", "Romantizm", "Gelecek"]
+  },
+  {
+    "mainWord": "Büyük Budapeşte Oteli",
+    "forbiddenWords": ["Wes Anderson", "Fiennes", "Otel", "Macera", "Komedi"]
+  },
+  {
+    "mainWord": "Boyhood",
+    "forbiddenWords": ["Linklater", "Büyüme", "Aile", "Zaman", "12 Yıl"]
+  },
+  {
+    "mainWord": "Spotlight",
+    "forbiddenWords": ["Gazetecilik", "Kilise", "Skandal", "Araştırma", "Boston"]
+  },
+  {
+    "mainWord": "Diriliş",
+    "forbiddenWords": ["DiCaprio", "Hardy", "Ayı", "Hayatta Kalma", "İntikam"]
+  },
+  {
+    "mainWord": "Gizli Dünya",
+    "forbiddenWords": ["Larson", "Tremblay", "Kaçırılma", "Anne-Oğul", "Oda"]
+  },
+  {
+    "mainWord": "Geliş",
+    "forbiddenWords": ["Adams", "Uzaylılar", "Dilbilim", "İletişim", "Bilim Kurgu"]
+  },
+  {
+    "mainWord": "Yaşamın Kıyısında",
+    "forbiddenWords": ["Affleck", "Williams", "Keder", "Dram", "Kasaba"]
+  },
+  {
+    "mainWord": "Kapan",
+    "forbiddenWords": ["Peele", "Korku", "Irkçılık", "Gerilim", "Hipnoz"]
+  },
+  {
+    "mainWord": "Üç Billboard Ebbing Çıkışı, Missouri",
+    "forbiddenWords": ["McDormand", "Rockwell", "İntikam", "Cinayet", "Kara Mizah"]
+  },
+  {
+    "mainWord": "Lady Bird",
+    "forbiddenWords": ["Ronan", "Gerwig", "Büyüme", "Lise", "Sacramento"]
+  },
+  {
+    "mainWord": "Suyun Sesi",
+    "forbiddenWords": ["del Toro", "Hawkins", "Yaratık", "Aşk", "Soğuk Savaş"]
+  },
+  {
+    "mainWord": "Roma",
+    "forbiddenWords": ["Cuarón", "Meksika", "Hizmetçi", "Siyah Beyaz", "Aile"]
+  },
+  {
+    "mainWord": "Örümcek-Adam: Örümcek Evreninde",
+    "forbiddenWords": ["Animasyon", "Miles Morales", "Çoklu Evren", "Süper Kahraman", "Görsel Şölen"]
+  },
+  {
+    "mainWord": "The Irishman",
+    "forbiddenWords": ["Scorsese", "De Niro", "Pacino", "Mafya", "Yaşlanma"]
+  },
+  {
+    "mainWord": "Evlilik Hikayesi",
+    "forbiddenWords": ["Driver", "Johansson", "Boşanma", "Dram", "New York"]
+  },
+  {
+    "mainWord": "Bıçaklar Çekildi",
+    "forbiddenWords": ["Craig", "Evans", "Katil Kim?", "Gizem", "Komedi"]
+  },
+  {
+    "mainWord": "Yetenekli Genç Kadın",
+    "forbiddenWords": ["Mulligan", "İntikam", "Feminizm", "Gerilim", "Kara Mizah"]
+  },
+  {
+    "mainWord": "Soul",
+    "forbiddenWords": ["Pixar", "Animasyon", "Caz", "Ahiret", "Hayatın Anlamı"]
+  },
+  {
+    "mainWord": "Eşkıya",
+    "forbiddenWords": ["Yavuz Turgul", "Şener Şen", "Uğur Yücel", "Dağ", "Hapishane"]
+  },
+  {
+    "mainWord": "Babam ve Oğlum",
+    "forbiddenWords": ["Çağan Irmak", "Fikret Kuşkan", "Çetin Tekindor", "Aile", "Ege"]
+  },
+  {
+    "mainWord": "G.O.R.A.",
+    "forbiddenWords": ["Cem Yılmaz", "Uzay", "Komedi", "Arif", "Robot"]
+  },
+  {
+    "mainWord": "Hababam Sınıfı",
+    "forbiddenWords": ["Ertem Eğilmez", "Kemal Sunal", "Münir Özkul", "Okul", "Öğrenci"]
+  },
+  {
+    "mainWord": "Selvi Boylum Al Yazmalım",
+    "forbiddenWords": ["Atıf Yılmaz", "Kadir İnanır", "Türkan Şoray", "Kamyon", "Aşk"]
+  },
+  {
+    "mainWord": "Vizontele",
+    "forbiddenWords": ["Yılmaz Erdoğan", "Demet Akbağ", "Televizyon", "Köy", "Sinema"]
+  },
+  {
+    "mainWord": "Muhsin Bey",
+    "forbiddenWords": ["Yavuz Turgul", "Şener Şen", "Uğur Yücel", "Müzik", "Organizatör"]
+  },
+  {
+    "mainWord": "Canım Kardeşim",
+    "forbiddenWords": ["Ertem Eğilmez", "Tarık Akan", "Halit Akçatepe", "Kanser", "Çocuk"]
+  },
+  {
+    "mainWord": "Issız Adam",
+    "forbiddenWords": ["Çağan Irmak", "Cemal Hünal", "Melis Birkan", "Aşk", "Aşçı"]
+  },
+  {
+    "mainWord": "Kış Uykusu",
+    "forbiddenWords": ["Nuri Bilge Ceylan", "Haluk Bilginer", "Demet Akbağ", "Kapadokya", "Otel"]
+  },
+  {
+    "mainWord": "Bir Zamanlar Anadolu'da",
+    "forbiddenWords": ["Nuri Bilge Ceylan", "Muhammet Uzuner", "Yılmaz Erdoğan", "Doktor", "Savcı"]
+  },
+  {
+    "mainWord": "Yol",
+    "forbiddenWords": ["Yılmaz Güney", "Şerif Gören", "Hapishane", "İzin", "Anadolu"]
+  },
+  {
+    "mainWord": "Duvara Karşı",
+    "forbiddenWords": ["Fatih Akın", "Birol Ünel", "Sibel Kekilli", "Almanya", "Evlilik"]
+  },
+  {
+    "mainWord": "Susuz Yaz",
+    "forbiddenWords": ["Metin Erksan", "Erol Taş", "Hülya Koçyiğit", "Su", "Köy"]
+  },
+  {
+    "mainWord": "Organize İşler",
+    "forbiddenWords": ["Yılmaz Erdoğan", "Demet Akbağ", "Cem Yılmaz", "Dolandırıcılık", "İstanbul"]
+  },
+  {
+    "mainWord": "Uçurtmayı Vurmasınlar",
+    "forbiddenWords": ["Tunç Başaran", "Nur Sürer", "Ozan Bilen", "Hapishane", "Çocuk"]
+  },
+  {
+    "mainWord": "Masumiyet",
+    "forbiddenWords": ["Zeki Demirkubuz", "Haluk Bilginer", "Derya Alabora", "Güven Kıraç", "Otel"]
+  },
+  {
+    "mainWord": "Kader",
+    "forbiddenWords": ["Zeki Demirkubuz", "Vildan Atasever", "Ufuk Bayraktar", "Aşk", "Takip"]
+  },
+  {
+    "mainWord": "Mustang",
+    "forbiddenWords": ["Deniz Gamze Ergüven", "Kız Kardeşler", "Ev Hapsi", "Karadeniz", "Özgürlük"]
+  },
+  {
+    "mainWord": "Kelebeğin Rüyası",
+    "forbiddenWords": ["Yılmaz Erdoğan", "Kıvanç Tatlıtuğ", "Mert Fırat", "Şair", "Zonguldak"]
+  },
+  {
+    "mainWord": "Ayla",
+    "forbiddenWords": ["Can Ulkay", "İsmail Hacıoğlu", "Çetin Tekindor", "Kore Savaşı", "Yetim"]
+  },
+  {
+    "mainWord": "Fetih 1453",
+    "forbiddenWords": ["Faruk Aksoy", "Devrim Evin", "İbrahim Çelikkol", "İstanbul", "Fatih Sultan Mehmet"]
+  },
+  {
+    "mainWord": "Tosun Paşa",
+    "forbiddenWords": ["Kartal Tibet", "Kemal Sunal", "Şener Şen", "Adile Naşit", "Mısır"]
+  },
+  {
+    "mainWord": "Süt Kardeşler",
+    "forbiddenWords": ["Ertem Eğilmez", "Kemal Sunal", "Şener Şen", "Halit Akçatepe", "Gulyabani"]
+  },
+  {
+    "mainWord": "Çöpçüler Kralı",
+    "forbiddenWords": ["Zeki Ökten", "Kemal Sunal", "Şener Şen", "Ayşen Gruda", "Apartman"]
+  },
+  {
+    "mainWord": "Kibar Feyzo",
+    "forbiddenWords": ["Atıf Yılmaz", "Kemal Sunal", "Müjde Ar", "Şener Şen", "Ağalık"]
+  },
+  {
+    "mainWord": "Züğürt Ağa",
+    "forbiddenWords": ["Nesli Çölgeçen", "Şener Şen", "Erdal Özyağcılar", "Köy", "İstanbul"]
+  },
+  {
+    "mainWord": "Gönül Yarası",
+    "forbiddenWords": ["Yavuz Turgul", "Şener Şen", "Meltem Cumbul", "Türkücü", "Öğretmen"]
+  },
+  {
+    "mainWord": "Propaganda",
+    "forbiddenWords": ["Sinan Çetin", "Kemal Sunal", "Metin Akpınar", "Sınır", "Köy"]
+  },
+  {
+    "mainWord": "Beynelmilel",
+    "forbiddenWords": ["Sırrı Süreyya Önder", "Muharrem Gülmez", "Özgü Namal", "Cezmi Baskın", "12 Eylül"]
+  },
+  {
+    "mainWord": "Takva",
+    "forbiddenWords": ["Özer Kızıltan", "Erkan Can", "Güven Kıraç", "Tarikat", "Din"]
+  },
+  {
+    "mainWord": "Gemide",
+    "forbiddenWords": ["Serdar Akar", "Erkan Can", "Haldun Boysan", "Uyuşturucu", "Gemi"]
+  },
+  {
+    "mainWord": "Anayurt Oteli",
+    "forbiddenWords": ["Ömer Kavur", "Macit Koper", "Şahika Tekand", "Yalnızlık", "Otel"]
+  },
+  {
+    "mainWord": "Hakkari'de Bir Mevsim",
+    "forbiddenWords": ["Erden Kıral", "Genco Erkal", "Şerif Sezer", "Öğretmen", "Doğu Anadolu"]
+  },
+  {
+    "mainWord": "Uzak",
+    "forbiddenWords": ["Nuri Bilge Ceylan", "Muzaffer Özdemir", "Mehmet Emin Toprak", "İstanbul", "Fotoğrafçı"]
+  },
+  {
+    "mainWord": "İklimler",
+    "forbiddenWords": ["Nuri Bilge Ceylan", "Ebru Ceylan", "İlişki", "Ayrılık", "Kar"]
+  },
+  {
+    "mainWord": "Üç Maymun",
+    "forbiddenWords": ["Nuri Bilge Ceylan", "Yavuz Bingöl", "Hatice Aslan", "Sır", "Aile"]
+  },
+  {
+    "mainWord": "Ahlat Ağacı",
+    "forbiddenWords": ["Nuri Bilge Ceylan", "Doğu Demirkol", "Murat Cemcir", "Yazar", "Baba-Oğul"]
+  },
+  {
+    "mainWord": "Bal",
+    "forbiddenWords": ["Semih Kaplanoğlu", "Bora Altaş", "Erdal Beşikçioğlu", "Arıcı", "Çocuk"]
+  },
+  {
+    "mainWord": "Süt",
+    "forbiddenWords": ["Semih Kaplanoğlu", "Melih Selçuk", "Başak Köklükaya", "Şair", "Anne"]
+  },
+  {
+    "mainWord": "Yumurta",
+    "forbiddenWords": ["Semih Kaplanoğlu", "Nejat İşler", "Saadet Aksoy", "Şair", "Köy"]
+  },
+  {
+    "mainWord": "Yaşamın Kıyısında",
+    "forbiddenWords": ["Fatih Akın", "Nurgül Yeşilçay", "Baki Davrak", "Almanya", "Türkiye"]
+  },
+  {
+    "mainWord": "Soul Kitchen",
+    "forbiddenWords": ["Fatih Akın", "Adam Bousdoukos", "Birol Ünel", "Restoran", "Hamburg"]
+  },
+  {
+    "mainWord": "Pandora'nın Kutusu",
+    "forbiddenWords": ["Yeşim Ustaoğlu", "Tsilla Chelton", "Derya Alabora", "Alzheimer", "Aile"]
+  },
+  {
+    "mainWord": "Kosmos",
+    "forbiddenWords": ["Reha Erdem", "Sermet Yeşil", "Türkü Turan", "Şifacı", "Sınır Kasabası"]
+  },
+  {
+    "mainWord": "Beş Vakit",
+    "forbiddenWords": ["Reha Erdem", "Çocuklar", "Köy", "Büyümek", "Doğa"]
+  },
+  {
+    "mainWord": "Korkuyorum Anne",
+    "forbiddenWords": ["Reha Erdem", "Ali Düşenkalkar", "Işıl Yücesoy", "Apartman", "Gizem"]
+  },
+  {
+    "mainWord": "Çoğunluk",
+    "forbiddenWords": ["Seren Yüce", "Bartu Küçükçağlayan", "Settar Tanrıöğen", "Baba-Oğul", "İstanbul"]
+  },
+  {
+    "mainWord": "Tepenin Ardı",
+    "forbiddenWords": ["Emin Alper", "Tamer Levent", "Reha Özcan", "Çiftlik", "Paranoya"]
+  },
+  {
+    "mainWord": "Abluka",
+    "forbiddenWords": ["Emin Alper", "Mehmet Özgür", "Berkay Ateş", "İstanbul", "Politik Gerilim"]
+  },
+  {
+    "mainWord": "Sarmaşık",
+    "forbiddenWords": ["Tolga Karaçelik", "Nadir Sarıbacak", "Özgür Emre Yıldırım", "Gemi", "Mürettebat"]
+  },
+  {
+    "mainWord": "Kelebekler",
+    "forbiddenWords": ["Tolga Karaçelik", "Bartu Küçükçağlayan", "Tuğçe Altuğ", "Kardeşler", "Köy"]
+  },
+  {
+    "mainWord": "Gişe Memuru",
+    "forbiddenWords": ["Tolga Karaçelik", "Serkan Ercan", "Nur Aysan", "Yalnızlık", "Hayal Gücü"]
+  },
+  {
+    "mainWord": "İtirazım Var",
+    "forbiddenWords": ["Onur Ünlü", "Serkan Keskin", "Hazal Kaya", "İmam", "Cinayet"]
+  },
+  {
+    "mainWord": "Sen Aydınlatırsın Geceyi",
+    "forbiddenWords": ["Onur Ünlü", "Ali Atay", "Demet Evgar", "Süper Güçler", "Kasaba"]
+  },
+  {
+    "mainWord": "Celal Tan ve Ailesinin Aşırı Acıklı Hikayesi",
+    "forbiddenWords": ["Onur Ünlü", "Selçuk Yöntem", "Bülent Emin Yarar", "Profesör", "Cinayet"]
+  },
+  {
+    "mainWord": "Güneşi Gördüm",
+    "forbiddenWords": ["Mahsun Kırmızıgül", "Aile", "Doğu Anadolu", "Göç", "Mayın"]
+  },
+  {
+    "mainWord": "Mucize",
+    "forbiddenWords": ["Mahsun Kırmızıgül", "Talat Bulut", "Mert Turak", "Öğretmen", "Engelli"]
+  },
+  {
+    "mainWord": "Nefes: Vatan Sağolsun",
+    "forbiddenWords": ["Levent Semerci", "Mete Horozoğlu", "İlker Kızmaz", "Asker", "Güneydoğu"]
+  },
+  {
+    "mainWord": "Dağ",
+    "forbiddenWords": ["Alper Çağlar", "Çağlar Ertuğrul", "Ufuk Bayraktar", "Asker", "Terör"]
+  },
+  {
+    "mainWord": "Dağ II",
+    "forbiddenWords": ["Alper Çağlar", "Çağlar Ertuğrul", "Ufuk Bayraktar", "Özel Kuvvetler", "Irak"]
+  },
+  {
+    "mainWord": "Kurtlar Vadisi: Irak",
+    "forbiddenWords": ["Serdar Akar", "Necati Şaşmaz", "Billy Zane", "Gürkan Uygun", "Polat Alemdar"]
+  },
+  {
+    "mainWord": "Av Mevsimi",
+    "forbiddenWords": ["Yavuz Turgul", "Şener Şen", "Cem Yılmaz", "Çetin Tekindor", "Polis"]
+  },
+  {
+    "mainWord": "Hokkabaz",
+    "forbiddenWords": ["Cem Yılmaz", "Ali Taner Baltacı", "Mazhar Alanson", "Sihirbaz", "Turne"]
+  },
+  {
+    "mainWord": "Pek Yakında",
+    "forbiddenWords": ["Cem Yılmaz", "Ozan Güven", "Zafer Algöz", "Film Çekmek", "Korsan DVD"]
+  },
+  {
+    "mainWord": "Arif V 216",
+    "forbiddenWords": ["Cem Yılmaz", "Ozan Güven", "Seda Bakan", "Robot", "Yeşilçam"]
+  },
+  {
+    "mainWord": "Yahşi Batı",
+    "forbiddenWords": ["Ömer Faruk Sorak", "Cem Yılmaz", "Ozan Güven", "Western", "Osmanlı"]
+  },
+  {
+    "mainWord": "Kabadayı",
+    "forbiddenWords": ["Ömer Vargı", "Şener Şen", "Kenan İmirzalıoğlu", "Eski Kabadayı", "İstanbul"]
+  },
+  {
+    "mainWord": "Yazı Tura",
+    "forbiddenWords": ["Uğur Yücel", "Kenan İmirzalıoğlu", "Olgun Şimşek", "Askerlik Sonrası", "Travma"]
+  },
+  {
+    "mainWord": "Ejder Kapanı",
+    "forbiddenWords": ["Uğur Yücel", "Kenan İmirzalıoğlu", "Nejat İşler", "Uğur Yücel", "Seri Katil"]
+  },
+  {
+    "mainWord": "İncir Reçeli",
+    "forbiddenWords": ["Aytaç Ağırlar", "Halil Sezai Paracıkoğlu", "Melike Güner", "Aşk", "Hastalık"]
+  },
+  {
+    "mainWord": "Kaybedenler Kulübü",
+    "forbiddenWords": ["Tolga Örnek", "Nejat İşler", "Yiğit Özşener", "Ahu Türkpençe", "Radyo Programı"]
+  },
+  {
+    "mainWord": "Aşk Tesadüfleri Sever",
+    "forbiddenWords": ["Ömer Faruk Sorak", "Mehmet Günsür", "Belçim Bilgin", "Tesadüf", "İstanbul"]
+  },
+  {
+    "mainWord": "Başka Dilde Aşk",
+    "forbiddenWords": ["İlksen Başarır", "Saadet Aksoy", "Mert Fırat", "Sağır", "Çağrı Merkezi"]
+  },
+  {
+    "mainWord": "Dedemin İnsanları",
+    "forbiddenWords": ["Çağan Irmak", "Çetin Tekindor", "Yiğit Özşener", "Girit Mübadelesi", "Ege"]
+  },
+  {
+    "mainWord": "Unutursam Fısılda",
+    "forbiddenWords": ["Çağan Irmak", "Hümeyra", "Kerem Bürsin", "Farah Zeynep Abdullah", "Müzik"]
+  },
+  {
+    "mainWord": "Nadide Hayat",
+    "forbiddenWords": ["Çağan Irmak", "Demet Akbağ", "Yetkin Dikinciler", "Üniversite", "İkinci Bahar"]
+  },
+  {
+    "mainWord": "Mutluluk",
+    "forbiddenWords": ["Abdullah Oğuz", "Özgü Namal", "Talat Bulut", "Murat Han", "Töre"]
+  },
+  {
+    "mainWord": "Gelin",
+    "forbiddenWords": ["Lütfi Akad", "Hülya Koçyiğit", "Kerem Yılmazer", "Göç", "İstanbul"]
+  },
+  {
+    "mainWord": "Düğün Dernek",
+    "forbiddenWords": ["Selçuk Aydemir", "Ahmet Kural", "Murat Cemcir", "Sivas", "Düğün"]
+  },
+  {
+    "mainWord": "Düğün Dernek 2: Sünnet",
+    "forbiddenWords": ["Selçuk Aydemir", "Ahmet Kural", "Murat Cemcir", "Rasim Öztekin", "Sünnet Töreni"]
+  },
+  {
+    "mainWord": "Çalgı Çengi",
+    "forbiddenWords": ["Selçuk Aydemir", "Ahmet Kural", "Murat Cemcir", "Müzisyen", "Mafya"]
+  },
+  {
+    "mainWord": "Aile Arasında",
+    "forbiddenWords": ["Ozan Açıktan", "Engin Günaydın", "Demet Evgar", "Gülse Birsel", "Sahte Aile"]
+  },
+  {
+    "mainWord": "Eyvah Eyvah",
+    "forbiddenWords": ["Hakan Algül", "Ata Demirer", "Demet Akbağ", "Klarnetçi", "Geyikli"]
+  },
+  {
+    "mainWord": "Eyvah Eyvah 2",
+    "forbiddenWords": ["Hakan Algül", "Ata Demirer", "Demet Akbağ", "Özge Borak", "Firuzan"]
+  },
+  {
+    "mainWord": "Eyvah Eyvah 3",
+    "forbiddenWords": ["Hakan Algül", "Ata Demirer", "Demet Akbağ", "Özge Borak", "Evlilik"]
+  },
+  {
+    "mainWord": "Berlin Kaplanı",
+    "forbiddenWords": ["Hakan Algül", "Ata Demirer", "Necati Bilgiç", "Boksör", "Almanya"]
+  },
+  {
+    "mainWord": "Recep İvedik",
+    "forbiddenWords": ["Togan Gökbakar", "Şahan Gökbakar", "Kaba Komedi", "Antisempatik", "Otel"]
+  },
+  {
+    "mainWord": "Recep İvedik 2",
+    "forbiddenWords": ["Togan Gökbakar", "Şahan Gökbakar", "Babaanne", "Tatil Köyü", "Komedi"]
+  },
+  {
+    "mainWord": "Recep İvedik 3",
+    "forbiddenWords": ["Togan Gökbakar", "Şahan Gökbakar", "Zeynep Çamcı", "Üniversite", "Depresyon"]
+  },
+  {
+    "mainWord": "Recep İvedik 4",
+    "forbiddenWords": ["Togan Gökbakar", "Şahan Gökbakar", "Survivor", "Ada", "Yarışma"]
+  },
+  {
+    "mainWord": "Recep İvedik 5",
+    "forbiddenWords": ["Togan Gökbakar", "Şahan Gökbakar", "Olimpiyatlar", "Milli Takım", "Spor"]
+  },
+  {
+    "mainWord": "Recep İvedik 6",
+    "forbiddenWords": ["Togan Gökbakar", "Şahan Gökbakar", "Nurullah Sağlam", "Kenya", "Safari"]
+  },
+  {
+    "mainWord": "Kolpaçino: Bir Şehir Efsanesi",
+    "forbiddenWords": ["Atıl İnaç", "Şafak Sezer", "Aydemir Akbaş", "Kumar", "Mafya"]
+  },
+  {
+    "mainWord": "Maskeli Beşler: İntikam Peşinde",
+    "forbiddenWords": ["Murat Aslan", "Şafak Sezer", "Peker Açıkalın", "Hırsızlık", "Komedi"]
+  },
+  {
+    "mainWord": "Hababam Sınıfı Askerde",
+    "forbiddenWords": ["Ferdi Eğilmez", "Mehmet Ali Erbil", "Halit Akçatepe", "Askerlik", "Komedi"]
+  },
+  {
+    "mainWord": "Kahpe Bizans",
+    "forbiddenWords": ["Gani Müjde", "Önder Açıkbaş", "Cem Davran", "Mehmet Ali Erbil", "Tarihi Parodi"]
+  },
+  {
+    "mainWord": "Amerikalılar Karadeniz'de 2",
+    "forbiddenWords": ["Kartal Tibet", "Metin Akpınar", "Peker Açıkalın", "Karadeniz", "Amerikan Askeri"]
+  },
+  {
+    "mainWord": "Kutsal Damacana",
+    "forbiddenWords": ["Kamil Çetin", "Şafak Sezer", "Ersin Korkut", "Papaz", "Komedi Korku"]
+  },
+  {
+    "mainWord": "Ağır Roman",
+    "forbiddenWords": ["Okan Bayülgen", "Müjde Ar", "Savaş Dinçel", "Kolera Mahallesi", "Kabadayı"]
+  },
+  {
+    "mainWord": "Tabutta Rövaşata",
+    "forbiddenWords": ["Derviş Zaim", "Ahmet Uğurlu", "Tuncel Kurtiz", "Araba Hırsızı", "Rumeli Hisarı"]
+  },
+  {
+    "mainWord": "Filler ve Çimen",
+    "forbiddenWords": ["Derviş Zaim", "Ali Sürmeli", "Sanem Çelik", "Derin Devlet", "Susurluk"]
+  },
+  {
+    "mainWord": "Nokta",
+    "forbiddenWords": ["Derviş Zaim", "Mehmet Ali Nuroğlu", "Hat Sanatı", "Cinayet", "Gizem"]
+  },
+  {
+    "mainWord": "Devrim Arabaları",
+    "forbiddenWords": ["Tolga Örnek", "Haluk Bilginer", "Taner Birsel", "İlk Yerli Otomobil", "Eskişehir"]
+  },
+  {
+    "mainWord": "Son Osmanlı Yandım Ali",
+    "forbiddenWords": ["Mustafa Şevki Doğan", "Kenan İmirzalıoğlu", "Cansu Dere", "İşgal Yılları", "Külhanbeyi"]
+  },
+  {
+    "mainWord": "Neredesin Firuze",
+    "forbiddenWords": ["Ezel Akay", "Haluk Bilginer", "Demet Akbağ", "Özcan Deniz", "Müzik Piyasası"]
+  },
+  {
+    "mainWord": "Vavien",
+    "forbiddenWords": ["Taylan Biraderler", "Engin Günaydın", "Binnur Kaya", "Elektrikçi", "Cinayet"]
+  },
+  {
+    "mainWord": "Güneşin Oğlu",
+    "forbiddenWords": ["Onur Saylak", "Haluk Bilginer", "Özgü Namal", "Fantastik", "Reenkarnasyon"]
+  },
+  {
+    "mainWord": "Kıskanmak",
+    "forbiddenWords": ["Zeki Demirkubuz", "Nergis Öztürk", "Serhat Tutumluer", "Zonguldak", "Tutku"]
+  },
+  {
+    "mainWord": "Yeraltı",
+    "forbiddenWords": ["Zeki Demirkubuz", "Engin Günaydın", "Serhat Tutumluer", "Dostoyevski", "Ankara"]
+  },
+  {
+    "mainWord": "Bulantı",
+    "forbiddenWords": ["Zeki Demirkubuz", "Kendisi", "Yönetmen", "Varoluşsal Kriz", "İstanbul"]
+  },
+  {
+    "mainWord": "Kor",
+    "forbiddenWords": ["Zeki Demirkubuz", "Aslıhan Gürbüz", "Caner Cindoruk", "Taner Birsel", "Aldatma"]
+  },
+  {
+    "mainWord": "Hayat",
+    "forbiddenWords": ["Zeki Demirkubuz", "Miray Daner", "Burak Dakak", "Osman Alkaş", "Kaçış"]
+  },
+  {
+    "mainWord": "Müslüm",
+    "forbiddenWords": ["Ketche", "Can Ulkay", "Timuçin Esen", "Zerrin Tekindor", "Müslüm Gürses"]
+  },
+  {
+    "mainWord": "Cep Herkülü: Naim Süleymanoğlu",
+    "forbiddenWords": ["Özer Feyzioğlu", "Hayat Van Eck", "Yetkin Dikinciler", "Halterci", "Biyografi"]
+  },
+  {
+    "mainWord": "Bizim İçin Şampiyon",
+    "forbiddenWords": ["Ahmet Katıksız", "Ekin Koç", "Farah Zeynep Abdullah", "Halis Karataş", "Bold Pilot"]
+  },
+  {
+    "mainWord": "7. Koğuştaki Mucize",
+    "forbiddenWords": ["Mehmet Ada Öztekin", "Aras Bulut İynemli", "Nisa Sofiya Aksongur", "Zihinsel Engelli", "Hapishane"]
+  },
+  {
+    "mainWord": "Organize İşler Sazan Sarmalı",
+    "forbiddenWords": ["Yılmaz Erdoğan", "Kıvanç Tatlıtuğ", "Ezgi Mola", "Dolandırıcılık", "Devam Filmi"]
+  },
+  {
+    "mainWord": "Karakomik Filmler",
+    "forbiddenWords": ["Cem Yılmaz", "Ozan Güven", "Özkan Uğur", "İki Film Birden", "Komedi"]
+  },
+  {
+    "mainWord": "Osman Pazarlama",
+    "forbiddenWords": ["Togan Gökbakar", "Şahan Gökbakar", "Demet Akalın", "Girişimci", "Komedi"]
+  },
+  {
+    "mainWord": "Celal ile Ceren",
+    "forbiddenWords": ["Togan Gökbakar", "Şahan Gökbakar", "Ezgi Mola", "Ayrılık", "Komedi"]
+  },
+  {
+    "mainWord": "Kayhan",
+    "forbiddenWords": ["Togan Gökbakar", "Şahan Gökbakar", "İrfan Kangı", "Lise", "İntikam"]
+  },
+  {
+    "mainWord": "Entelköy Efeköy'e Karşı",
+    "forbiddenWords": ["Yüksel Aksu", "Şahin Irmak", "Ayşe Bosse", "Ekolojik Köy", "Komedi"]
+  },
+  {
+    "mainWord": "Dondurmam Gaymak",
+    "forbiddenWords": ["Yüksel Aksu", "Turan Özdemir", "Muğla", "Dondurmacı", "Marka Savaşları"]
+  },
+  {
+    "mainWord": "Olanlar Oldu",
+    "forbiddenWords": ["Hakan Algül", "Ata Demirer", "Tuvana Türkay", "Anne", "Tekne"]
+  },
+  {
+    "mainWord": "Hedefim Sensin",
+    "forbiddenWords": ["Kıvanç Baruönü", "Ata Demirer", "Demet Akbağ", "Çiğ Köfteci", "Gökçeada"]
+  },
+  {
+    "mainWord": "Mandıra Filozofu",
+    "forbiddenWords": ["Müfit Can Saçıntı", "Rasim Öztekin", "Ayda Aksel", "Bodrum", "Minimalizm"]
+  },
+  {
+    "mainWord": "İftarlık Gazoz",
+    "forbiddenWords": ["Yüksel Aksu", "Cem Yılmaz", "Berat Efe Parlar", "Ege", "1970'ler"]
+  },
+  {
+    "mainWord": "Geniş Aile: Yapıştır",
+    "forbiddenWords": ["Ömer Uğur", "Ufuk Özkan", "Fırat Tanış", "Rojda Demirer", "Komedi"]
+  },
+  {
+    "mainWord": "Patron Mutlu Son İstiyor",
+    "forbiddenWords": ["Kıvanç Baruönü", "Tolga Çevik", "Ezgi Mola", "Senarist", "Kapadokya"]
+  },
+  {
+    "mainWord": "Sen Kiminle Dans Ediyorsun?",
+    "forbiddenWords": ["Burak Aksak", "Binnur Kaya", "Demet Özdemir", "Uraz Kaygılaroğlu", "Dans Yarışması"]
+  },
+  {
+    "mainWord": "Ay Lav Yu",
+    "forbiddenWords": ["Sermiyan Midyat", "Kendisi", "Fadik Sevin Atasoy", "Amerika", "Mardin"]
+  },
+  {
+    "mainWord": "Hükümet Kadın",
+    "forbiddenWords": ["Sermiyan Midyat", "Demet Akbağ", "Ercan Kesal", "Belediye Başkanı", "Güneydoğu"]
+  },
+  {
+    "mainWord": "Çok Filim Hareketler Bunlar",
+    "forbiddenWords": ["Ozan Açıktan", "BKM Mutfak Oyuncuları", "Skeçler", "Komedi", "Film"]
+  },
+  {
+    "mainWord": "Ekşi Elmalar",
+    "forbiddenWords": ["Yılmaz Erdoğan", "Farah Zeynep Abdullah", "Songül Öden", "Şükran Ovalı", "Hakkari"]
+  },
+  {
+    "mainWord": "Küçük Esnaf",
+    "forbiddenWords": ["Bedran Güzel", "İbrahim Büyükak", "Zeynep Koçak", "Çilingir", "Mafya"]
+  },
+  {
+    "mainWord": "Yol Arkadaşım",
+    "forbiddenWords": ["Bedran Güzel", "Oğuzhan Koç", "İbrahim Büyükak", "Yolculuk", "Komedi"]
+  },
+  {
+    "mainWord": "Yol Arkadaşım 2",
+    "forbiddenWords": ["Bedran Güzel", "Oğuzhan Koç", "İbrahim Büyükak", "Ezgi Eyüboğlu", "Turne"]
+  },
+  {
+    "mainWord": "Görümce",
+    "forbiddenWords": ["Kıvanç Baruönü", "Gupse Özay", "Buğra Gülsoy", "Eda Ece", "Kardeş Kıskançlığı"]
+  },
+  {
+    "mainWord": "Deliha",
+    "forbiddenWords": ["Hakan Algül", "Gupse Özay", "Derya Alabora", "Barış Arduç", "Komedi"]
+  },
+  {
+    "mainWord": "Deliha 2",
+    "forbiddenWords": ["Gupse Özay", "Kendisi", "Eda Ece", "Aksel Bonfil", "Aşçı"]
+  },
+  {
+    "mainWord": "Aykut Enişte",
+    "forbiddenWords": ["Onur Bilgetay", "Cem Gelinoğlu", "Melis Babadağ", "Ege Kökenli", "Komedi"]
+  },
+  {
+    "mainWord": "Aykut Enişte 2",
+    "forbiddenWords": ["Onur Bilgetay", "Cem Gelinoğlu", "Melis Babadağ", "Hakan Yılmaz", "Düğün"]
+  },
+  {
+    "mainWord": "Bayi Toplantısı",
+    "forbiddenWords": ["Bedran Güzel", "İbrahim Büyükak", "Onur Buldu", "Doğu Demirkol", "Komedi"]
+  },
+  {
+    "mainWord": "Göktaşı",
+    "forbiddenWords": ["Caner Özyurtlu", "Şahan Gökbakar", "Gürgen Öz", "Yasemin Sakallıoğlu", "Komedi"]
+  },
+  {
+    "mainWord": "Cici Babam",
+    "forbiddenWords": ["Meltem Bozoflu", "Onur Buldu", "Mahir İpek", "Yasemin Conka", "Üvey Baba"]
+  },
+  {
+    "mainWord": "Karakomik Filmler 2",
+    "forbiddenWords": ["Cem Yılmaz", "Kendisi", "Çağlar Çorumlu", "Özge Özpirinçci", "İki Film"]
+  },
+  {
+    "mainWord": "Azizler",
+    "forbiddenWords": ["Taylan Biraderler", "Engin Günaydın", "Haluk Bilginer", "Binnur Kaya", "Varoluşsal Komedi"]
+  },
+  {
+    "mainWord": "9 Kere Leyla",
+    "forbiddenWords": ["Ezel Akay", "Haluk Bilginer", "Demet Akbağ", "Elçin Sangu", "Fantastik Komedi"]
+  },
+  {
+    "mainWord": "Sen Hiç Ateşböceği Gördün mü? (Film)",
+    "forbiddenWords": ["Andaç Haznedaroğlu", "Ecem Erkek", "Yılmaz Erdoğan", "Üstün Zekalı Kız", "Politik"]
+  },
+  {
+    "mainWord": "Mücadele Çıkmazı",
+    "forbiddenWords": ["Can Ulkay", "Çağatay Ulusoy", "Emir Ali Doğrul", "Kağıt Toplayıcısı", "Çocuk"]
+  },
+  {
+    "mainWord": "Beni Çok Sev",
+    "forbiddenWords": ["Mehmet Ada Öztekin", "Sarp Akkaya", "Songül Öden", "Ercan Kesal", "Hapishane İzni"]
+  },
+  {
+    "mainWord": "Geçen Yaz",
+    "forbiddenWords": ["Ozan Açıktan", "Ece Çeşmioğlu", "Fatih Şahin", "Aslıhan Malbora", "Yaz Aşkı"]
+  },
+  {
+    "mainWord": "Aşkın Kıyameti",
+    "forbiddenWords": ["Hilal Saral", "Pınar Deniz", "Boran Kuzum", "Fırat Tanış", "Tarikat Kampı"]
+  },
+  {
+    "mainWord": "Sen Yaşamaya Bak",
+    "forbiddenWords": ["Ketche", "Aslı Enver", "Kaan Urgancıoğlu", "Tek Başına Anne", "Hastalık"]
+  },
+  {
+    "mainWord": "Ufo",
+    "forbiddenWords": ["Onur Bilgetay", "İpek Filiz Yazıcı", "Mert Ramazan Demir", "Motor Yarışı", "Adana"]
+  },
+  {
+    "mainWord": "Kül",
+    "forbiddenWords": ["Erdem Tepegöz", "Funda Eryiğit", "Alperen Duymaz", "Mehmet Günsür", "Yayınlanmamış Roman"]
+  },
+  {
+    "mainWord": "Bihter",
+    "forbiddenWords": ["Caner Alper", "Mehmet Binay", "Farah Zeynep Abdullah", "Boran Kuzum", "Aşk-ı Memnu Uyarlaması"]
+  },
+  {
+    "mainWord": "Malazgirt 1071",
+    "forbiddenWords": ["Özgür Bakar", "Bilal Kalyoncu", "Cengiz Coşkun", "Vildan Atasever", "Tarihi Savaş"]
+  },
+  {
+    "mainWord": "Hep Yek",
+    "forbiddenWords": ["Ali Yorgancıoğlu", "Fırat Tanış", "Gürkan Uygun", "İnan Ulaş Torun", "Komedi Serisi"]
+  },
+  {
+    "mainWord": "Adana İşi",
+    "forbiddenWords": ["Ali Adnan Özgür", "Murat Akkoyunlu", "Ceyda Ateş", "Melih Selçuk", "Soygun Komedi"]
+  },
+  {
+    "mainWord": "Deliormanlı",
+    "forbiddenWords": ["Murat Şeker", "Sarp Levendoğlu", "Birce Akalay", "Gürkan Uygun", "Boksör"]
+  },
+  {
+    "mainWord": "Hesapta Aşk",
+    "forbiddenWords": ["Gönenç Uyanık", "Meriç Aral", "Derya Şensoy", "Burak Tozkoparan", "Sosyal Medya"]
+  },
+  {
+    "mainWord": "Her Şey Aşktan",
+    "forbiddenWords": ["Andaç Haznedaroğlu", "Hande Doğandemir", "Şükrü Özyıldız", "Mithat Can Özer", "Romantik Komedi"]
+  },
+  {
+    "mainWord": "Güzelliğin Portresi",
+    "forbiddenWords": ["Umur Turagay", "Burçin Terzioğlu", "Birkan Sokullu", "Serkan Kesal", "Gerilim"]
+  },
+  {
+    "mainWord": "Türk İşi Dondurma",
+    "forbiddenWords": ["Can Ulkay", "Ali Atay", "Erkan Kolçak Köstendil", "Avustralya", "Çanakkale Savaşı"]
+  },
+  {
+    "mainWord": "Çiçero",
+    "forbiddenWords": ["Serdar Akar", "Erdal Beşikçioğlu", "Burcu Biricik", "Casus", "II. Dünya Savaşı"]
+  },
+  {
+    "mainWord": "Eltilerin Savaşı",
+    "forbiddenWords": ["Onur Bilgetay", "Gupse Özay", "Merve Dizdar", "Ferit Aktuğ", "Komedi"]
+  },
+  {
+    "mainWord": "Geniş Aile Komşu Kızı",
+    "forbiddenWords": ["Cüneyt İnay", "Ufuk Özkan", "Bülent Çolak", "Rojda Demirer", "Komedi"]
+  },
+  {
+    "mainWord": "Cephedeyiz",
+    "forbiddenWords": ["Oğuzhan Yıldız", "Araştırma", "Belgesel", "Tarih", "Savaş"]
+  },
+  {
+    "mainWord": "Bir Nefes Daha",
+    "forbiddenWords": ["Nisan Dağ", "Oktay Çubuk", "Hayal Köseoğlu", "Bonzai", "Rap Müzik"]
+  },
+  {
+    "mainWord": "Çatlak",
+    "forbiddenWords": ["Fikret Reyhan", "Hakan Salınmış", "Hakan Emre Ünal", "Aile Borcu", "Dram"]
+  },
+  {
+    "mainWord": "Gölgeler İçinde",
+    "forbiddenWords": ["Erdem Tepegöz", "Numan Acar", "Maden İşçileri", "Distopya", "Bilim Kurgu"]
+  },
+  {
+    "mainWord": "Hayaletler",
+    "forbiddenWords": ["Azra Deniz Okyay", "Nalan Kuruçim", "Dilayda Güneş", "İstanbul", "Kentsel Dönüşüm"]
+  },
+  {
+    "mainWord": "İnsanlar İkiye Ayrılır",
+    "forbiddenWords": ["Tunç Şahin", "Burcu Biricik", "Pınar Deniz", "Aras Aydın", "Borç Tahsilatı"]
+  },
+  {
+    "mainWord": "Sardunya",
+    "forbiddenWords": ["Çağıl Bocut", "Ali Seçkiner Alıcı", "Melisa Şenolsun", "Baba-Kız", "Kasaba"]
+  },
+  {
+    "mainWord": "Av",
+    "forbiddenWords": ["Emre Akay", "Billur Melis Koç", "Ahmet Rıfat Şungar", "Kadına Şiddet", "Gerilim"]
+  },
+  {
+    "mainWord": "Dirlik Düzenlik",
+    "forbiddenWords": ["Nesimi Yetik", "Asiye Dinçsoy", "Betül Aksoy", "Kardeşler", "Ev Satışı"]
+  },
+  {
+    "mainWord": "Nasipse Adayız",
+    "forbiddenWords": ["Ercan Kesal", "Kendisi", "İnanç Konukçu", "Belediye Başkan Adayı", "Politik Satir"]
+  },
+  {
+    "mainWord": "Kumbara",
+    "forbiddenWords": ["Ferit Karol", "Murat Kılıç", "Gülçin Kültür Şahin", "Borç", "Aile"]
+  },
+  {
+    "mainWord": "Gelincik",
+    "forbiddenWords": ["Orçun Benli", "Ahmet Mümtaz Taylan", "Kaan Yıldırım", "Yalnız Adam", "Orman"]
+  },
+  {
+    "mainWord": "Bilmemek",
+    "forbiddenWords": ["Leyla Yılmaz", "Senan Kara", "Yurdaer Okur", "Emir Özden", "Eşcinsellik Şüphesi"]
+  },
+  {
+    "mainWord": "Plaza",
+    "forbiddenWords": ["Anıl Gelberi", "Onur Berk Arslanoğlu", "Deniz Altan", "Plazalar", "İş Hayatı"]
+  },
+  {
+    "mainWord": "Kabahat",
+    "forbiddenWords": ["Ümran Safter", "Mina Demirtaş", "Ece Demirtürk", "Yaz Tatili", "Büyüme Hikayesi"]
+  },
+  {
+    "mainWord": "Aniden",
+    "forbiddenWords": ["Melisa Önel", "Defne Kayalar", "Öner Erkan", "Şehir Hayatı", "Kayboluş"]
+  },
+  {
+    "mainWord": "Öğretmen",
+    "forbiddenWords": ["Bilal Kalyoncu", "İsmail Hacıoğlu", "Kimya Gökçe Aytaç", "Öğretmen", "İdealizm"]
+  },
+  {
+    "mainWord": "Müstakbel Damat",
+    "forbiddenWords": ["İlker Ayrık", "Erdal Özyağcılar", "Hande Soral", "Kıbrıs", "Komedi"]
+  },
+  {
+    "mainWord": "Çakallarla Dans 6",
+    "forbiddenWords": ["Murat Şeker", "Şevket Çoruh", "İlker Ayrık", "Timur Acar", "Komedi Serisi"]
+  },
+  {
+    "mainWord": "Hazine",
+    "forbiddenWords": ["Canbert Yerguz", "Çağlar Çorumlu", "Boran Kuzum", "Şükran Ovalı", "Define Avı Komedi"]
+  },
+  {
+    "mainWord": "Mutluyuz",
+    "forbiddenWords": ["İbrahim Büyükak", "Yasemin Sakallıoğlu", "Anıl Tetik", "Çift Terapisi Komedi"]
+  },
+  {
+    "mainWord": "49",
+    "forbiddenWords": ["Hakan İnan", "İsmail Hacıoğlu", "Hande Doğandemir", "Kerem Alışık", "Musul Başkonsolosluğu Rehine Krizi"]
+  },
+  {
+    "mainWord": "Arap Kadri ve Tarzan",
+    "forbiddenWords": ["Emre Kavuk", "Ahmet Mümtaz Taylan", "Zeynep Çamcı", "Necip Memili", "Orman Komedisi"]
+  },
+  {
+    "mainWord": "Çok Aşk",
+    "forbiddenWords": ["Kıvanç Baruönü", "Hasan Can Kaya", "Büşra Pekin", "Korsan Film Satıcısı", "Komedi"]
+  },
+  {
+    "mainWord": "Daha İyi Bir Yarın",
+    "forbiddenWords": ["Emre Kavuk", "Hande Doğandemir", "Yağız Can Konyalı", "Gelecekten Gelen Mesaj", "Romantik Komedi"]
+  },
+  {
+    "mainWord": "Sadık Ahmet",
+    "forbiddenWords": ["Hakan Yonat", "Turgay Aydın", "Nur Fettahoğlu", "Batı Trakya Türk Lideri", "Biyografi"]
+  },
+  {
+    "mainWord": "Üçlü Pürüz",
+    "forbiddenWords": ["Vedat Uyar", "Okan Cabalar", "Emrah Kaman", "Müfit Kayacan", "Komedi, Yanlış Anlaşılmalar"]
+  },
+  {
+    "mainWord": "Cenazemize Hoş Geldiniz",
+    "forbiddenWords": ["Neslihan Yeşilyurt", "Serhat Kılıç", "Seda Türkmen", "Sinem Öztürk", "Cenaze Komedisi"]
+  },
+  {
+    "mainWord": "Kutsal Damacana 4",
+    "forbiddenWords": ["Kamil Çetin", "Şafak Sezer", "Ersin Korkut", "Papaz Fikret Devamı", "Komedi Korku"]
+  },
+  {
+    "mainWord": "Vatikan'ın Şifresi: Bir Temel Macerası",
+    "forbiddenWords": ["Okan Ege Ergüven", "Reşat Hacıahmetoğlu", "Ömür Arpacı", "Temel Fıkrası Uyarlaması", "Komedi"]
+  },
+  {
+    "mainWord": "Kolpaçino 4 4'lük",
+    "forbiddenWords": ["Kamil Çetin", "Şafak Sezer", "Aydemir Akbaş", "Kumar Mafyası Devamı", "Komedi"]
+  },
+  {
+    "mainWord": "Lohusa",
+    "forbiddenWords": ["Kıvanç Baruönü", "Gupse Özay", "Onur Gürçay", "Doğum Sonrası Depresyonu", "Komedi"]
+  },
+  {
+    "mainWord": "Kardeş Takımı",
+    "forbiddenWords": ["Mustafa Kotan", "Fırat Albayram", "Ceyda Kasabalı", "Çocuk Ajanlar", "Macera"]
+  },
+  {
+    "mainWord": "Zaferin Rengi",
+    "forbiddenWords": ["Abdullah Oğuz", "Kubilay Aka", "Gülper Özdemir", "Fenerbahçe", "Milli Mücadele"]
+  },
+  {
+    "mainWord": "Dumlupınar: Vatan Sağolsun",
+    "forbiddenWords": ["Can Ulkay", "Ali Atay", "Uğur Güneş", "Denizaltı Faciası", "Tarihi Dram"]
+  },
+  {
+    "mainWord": "3391 Kilometre",
+    "forbiddenWords": ["Deniz Enyüksek", "Derya Pınar Ak", "Ahmet Haktan Zavlak", "Uzak Mesafe İlişkisi", "Gençlik"]
+  },
+  {
+    "mainWord": "Cem Karaca’nın Gözyaşları",
+    "forbiddenWords": ["Yüksel Aksu", "İsmail Hacıoğlu", "Fikret Kuşkan", "Anadolu Rock Efsanesi", "Biyografi"]
+  },
+  {
+    "mainWord": "Arşın Mal Alan",
+    "forbiddenWords": ["Üzeyir Hacıbəyov", "Musiqili Komediya", "Rəşid Behbudov", "Leyla Bədirbəyli", "Tacir"]
+  },
+  {
+    "mainWord": "O Olmasın, Bu Olsun",
+    "forbiddenWords": ["Məşədi İbad", "Üzeyir Hacıbəyov", "Musiqili Komediya", "Qoçu", "Pul"]
+  },
+  {
+    "mainWord": "Bəxtiyar (Film)",
+    "forbiddenWords": ["Rəşid Behbudov", "Neftçi", "Mahnı", "Sevgi", "Fabrik"]
+  },
+  {
+    "mainWord": "Görüş (Film)",
+    "forbiddenWords": ["Leyla Bədirbəyli", "Pambıq", "Kənd Təsərrüfatı", "Rəqs", "Sovet"]
+  },
+  {
+    "mainWord": "Uzaq Sahillərdə",
+    "forbiddenWords": ["Mehdi Hüseynzadə", "Partizan", "İkinci Dünya Müharibəsi", "Kəşfiyyatçı", "İtaliya"]
+  },
+  {
+    "mainWord": "Əhməd Haradadır?",
+    "forbiddenWords": ["Siyavuş Aslan", "Lütfəli Abdullayev", "Komediya", "Evlənmək", "Axtarmaq"]
+  },
+  {
+    "mainWord": "Sehrli Xalat",
+    "forbiddenWords": ["Pioner", "Nağıl", "Zaman Səyahəti", "Uşaq", "Kino"]
+  },
+  {
+    "mainWord": "İstintaq",
+    "forbiddenWords": ["Rüstəm İbrahimbəyov", "Həsən Məmmədov", "Cinayət", "Müstəntiq", "Korrupsiya"]
+  },
+  {
+    "mainWord": "Doğma Sahillər",
+    "forbiddenWords": ["Sərhədçi", "Müharibə", "İran", "Casus", "Hərbi"]
+  },
+  {
+    "mainWord": "Bizim Cəbiş Müəllim",
+    "forbiddenWords": ["Müəllim", "Müharibə", "Bakı", "Uşaqlar", "Çətinlik"]
+  },
+  {
+    "mainWord": "Ad Günü (Film)",
+    "forbiddenWords": ["Rasim Ocaqov", "Şəfiqə Məmmədova", "Həsənağa Turabov", "Ailə", "Bayram"]
+  },
+  {
+    "mainWord": "Qayınana (Film)",
+    "forbiddenWords": ["Nəsibə Zeynalova", "Komediya", "Gəlin", "Ailə", "Zalım"]
+  },
+  {
+    "mainWord": "Dərviş Parisi Partladır",
+    "forbiddenWords": ["Mirzə Fətəli Axundov", "Komediya", "Fransa", "Səyahət", "Partlamaq"]
+  },
+  {
+    "mainWord": "Ögey Ana",
+    "forbiddenWords": ["Nəcibə Məlikova", "Ceyhun Mirzəyev", "İsmayıl", "Kənd", "Ailə"]
+  },
+  {
+    "mainWord": "Şərikli Çörək",
+    "forbiddenWords": ["Müharibə Sonrası", "Bakı", "Uşaqlar", "Çörək", "Yoxsulluq"]
+  },
+  {
+    "mainWord": "Axırıncı Aşırım",
+    "forbiddenWords": ["Kərbalayı İsmayıl", "Qəmlo", "Həsən Məmmədov", "Sovet Hakimiyyəti", "Kənd"]
+  },
+  {
+    "mainWord": "Yeddi Oğul İstərəm",
+    "forbiddenWords": ["Komsomolçu", "Bəxtiyar", "İnqilab", "Atışma", "Qırmızı"]
+  },
+  {
+    "mainWord": "Babək (Film)",
+    "forbiddenWords": ["Rasim Balayev", "Xürrəmilər Hərəkatı", "Ərəb Xilafəti", "Sərkərdə", "Tarixi"]
+  },
+  {
+    "mainWord": "Nəsimi (Film)",
+    "forbiddenWords": ["Rasim Balayev", "Şair", "Fəlsəfə", "Hürufizm", "Dərisi Soyulmaq"]
+  },
+  {
+    "mainWord": "Dədə Qorqud",
+    "forbiddenWords": ["Oğuz Eposu", "Həsən Məmmədov", "Rasim Balayev", "Qəhrəmanlıq", "Dastan"]
+  },
+  {
+    "mainWord": "Fəryad",
+    "forbiddenWords": ["Qarabağ Müharibəsi", "Ceyhun Mirzəyev", "Erməni Əsirliyi", "Ağdam", "Rejissor Özü Oynayır"]
+  },
+  {
+    "mainWord": "Yarasa",
+    "forbiddenWords": ["Ayaz Salayev", "Rasim Balayev", "Psixoloji Dram", "Bakı Gecələri", "Yuxu"]
+  },
+  {
+    "mainWord": "Yuxu (Film)",
+    "forbiddenWords": ["Fikrət Əliyev", "Nəsibə Zeynalova", "Komediya", "Röya Görmək", "Kənd"]
+  },
+  {
+    "mainWord": "Bəyin Oğurlanması",
+    "forbiddenWords": ["Ceyhun Mirzəyev", "Vaqif Mustafayev", "Komediya", "Toy", "Oğurlamaq"]
+  },
+  {
+    "mainWord": "Həm Ziyarət, Həm Ticarət",
+    "forbiddenWords": ["Rasim Ocaqov", "Komediya", "İran", "Səfər", "İş Adamı"]
+  },
+  {
+    "mainWord": "Papaq (Film)",
+    "forbiddenWords": ["Eldar Quliyev", "Rasim Balayev", "Həsənağa Turabov", "Sovet Kəndi", "Kolxoz"]
+  },
+  {
+    "mainWord": "Nabat (Film)",
+    "forbiddenWords": ["Elçin Musaoğlu", "Fatemeh Motamed-Arya", "Qarabağ Müharibəsi", "Tənha Qadın", "Kənd"]
+  },
+  {
+    "mainWord": "Buta (Film)",
+    "forbiddenWords": ["İlqar Nəcəf", "Rafiq Əzimov", "Tofiq Əliyev", "Naxış", "Uşaq"]
+  },
+  {
+    "mainWord": "Çölçü",
+    "forbiddenWords": ["Şamil Əliyev", "Vidadi Həsənov", "Salome Demuria", "Çöl", "Ata-Oğul"]
+  },
+  {
+    "mainWord": "Qırmızı Bağ",
+    "forbiddenWords": ["Mirbala Səlimli", "Maqsud Məmmədov", "Gülzar Qurbanova", "Nar", "Ailə Dramı"]
+  },
+  {
+    "mainWord": "Axınla Aşağı",
+    "forbiddenWords": ["Asif Rüstəmov", "Namiq Ağayev", "Mehriban Zəki", "Kür Çayı", "Ailə"]
+  },
+  {
+    "mainWord": "Xoca (Film)",
+    "forbiddenWords": ["Vahid Mustafayev", "Nigar Bahadırqızı", "Telman Əliyev", "Xocalı Soyqırımı", "Qarabağ Müharibəsi"]
+  },
+  {
+    "mainWord": "Dolu (Film)",
+    "forbiddenWords": ["Elxan Cəfərov", "Aqil M. Quliyev", "Müharibə", "Qarabağ", "Vətənpərvərlik"]
+  },
+  {
+    "mainWord": "Sahə",
+    "forbiddenWords": ["İlqar Safat", "Zaza Bejaşvili", "Melissa Papel", "Fotoqraf", "Psixoloji"]
+  },
+  {
+    "mainWord": "Əlvida, Cənub Şəhəri",
+    "forbiddenWords": ["Oleq Səfərəliyev", "Teymur Bədəlbəyli", "Elmira Şabanova", "Bakı", "1930-lar"]
+  },
+  {
+    "mainWord": "Qətl Günü",
+    "forbiddenWords": ["Yusif Səmədoğlu", "Gülağa Məmmədov", "Yavər Rzayev", "Stalinizm", "Repressiya"]
+  },
+  {
+    "mainWord": "Milli Bomba",
+    "forbiddenWords": ["Vaqif Mustafayev", "Arzu Ağayeva", "Avtandil Maxaradze", "Komediya", "Atom Bombası"]
+  },
+  {
+    "mainWord": "Ailə (Film)",
+    "forbiddenWords": ["Rüstəm İbrahimbəyov", "Mirzə Babayev", "Şəfiqə Məmmədova", "Səməndər Rzayev", "Sosial Dram"]
+  },
+  {
+    "mainWord": "Evləri Köndələn Yar",
+    "forbiddenWords": ["Ramiz Əzizbəyli", "Yaşar Nuri", "Səməndər Rzayev", "Komediya", "Kənd"]
+  },
+  {
+    "mainWord": "Mən Vulkana Doğru Gedirəm",
+    "forbiddenWords": ["Rasim Ocaqov", "Rasim Balayev", "Məlik Dadaşov", "Geoloq", "Vulkan"]
+  },
+  {
+    "mainWord": "İşarəni Dənizdən Gözləyin",
+    "forbiddenWords": ["Ceyhun Mirzəyev", "Fəxrəddin Manafov", "Fuad Poladov", "ADR", "Hərbi Dənizçilik"]
+  },
+  {
+    "mainWord": "Qorxma, Mən Səninləyəm",
+    "forbiddenWords": ["Polad Bülbüloğlu", "Lev Durov", "Muxtarbek Kantemirov", "Musiqili", "Macəra"]
+  },
+  {
+    "mainWord": "Bağlı Qapı",
+    "forbiddenWords": ["Rasim Ocaqov", "Fəxrəddin Manafov", "Larisa Xələfova", "Sosial Dram", "Qonşular"]
+  },
+  {
+    "mainWord": "Tehran-43",
+    "forbiddenWords": ["Alov Satayev", "Natalya Beloxvostikova", "Alen Delon", "Kəşfiyyat", "İkinci Dünya Müharibəsi"]
+  },
+  {
+    "mainWord": "Təhminə",
+    "forbiddenWords": ["Rasim Ocaqov", "Fəxrəddin Manafov", "Meral Konrat", "Sevgi", "Dram"]
+  },
+  {
+    "mainWord": "Qəzəlxan",
+    "forbiddenWords": ["Şahmar Ələkbərov", "Əliağa Vahid", "Şair", "Qəzəl", "Biyografi"]
+  },
+  {
+    "mainWord": "Oteldə Bir Gecə",
+    "forbiddenWords": ["Rasim Ocaqov", "Fəxrəddin Manafov", "Rəsmiyyə Nəsirova", "Detektiv", "Mehmanxana"]
+  },
+  {
+    "mainWord": "Pəncərə",
+    "forbiddenWords": ["Həsən Əbluc", "Yaşar Nuri", "Məlahət Abbasova", "Ailə", "Ev"]
+  },
+  {
+    "mainWord": "Qara Volqa",
+    "forbiddenWords": ["Elxan Cəfərov", "Aqil M. Quliyev", "Fuad Poladov", "Cinayət", "Detektiv"]
+  },
+  {
+    "mainWord": "Bomba",
+    "forbiddenWords": ["Rövşən İsax", "Fuad Poladov", "Məbud Məhərrəmov", "Komediya", "Partlayış"]
+  },
+  {
+    "mainWord": "Xüsusi Vəziyyət",
+    "forbiddenWords": ["Tofiq İsmayılov", "Şəfiqə Məmmədova", "Şahmar Ələkbərov", "Zavod", "Fəhlə"]
+  },
+  {
+    "mainWord": "Gümüşgöl Əfsanəsi",
+    "forbiddenWords": ["Eldar Quliyev", "Şükufə Yusupova", "Fəxrəddin Manafov", "Rəssam", "Göl"]
+  },
+  {
+    "mainWord": "Şahid Qız",
+    "forbiddenWords": ["Gülbəniz Əzimzadə", "Həmidə Ömərova", "Nuriyyə Əhmədova", "Cinayət", "Gənc"]
+  },
+  {
+    "mainWord": "Park (Film)",
+    "forbiddenWords": ["Rasim Ocaqov", "Fəxrəddin Manafov", "Qalina Belyayeva", "Dostluq", "Qısqanclıq"]
+  },
+  {
+    "mainWord": "Musiqi Müəllimi",
+    "forbiddenWords": ["Tofiq İsmayılov", "Şəfiqə Məmmədova", "Rasim Balayev", "Kənd", "Məktəb"]
+  },
+  {
+    "mainWord": "Bağ Mövsümü",
+    "forbiddenWords": ["Tofiq Tağızadə", "Həsən Məmmədov", "Səməndər Rzayev", "Bağ Evi", "Yay"]
+  },
+  {
+    "mainWord": "Yaramaz (Film)",
+    "forbiddenWords": ["Vaqif Mustafayev", "Mamuka Kikaleyşvili", "Hətəm", "Sovet Cəmiyyəti", "Tənqid"]
+  },
+  {
+    "mainWord": "Arxadan Vurulan Zərbə",
+    "forbiddenWords": ["Arif Babayev", "Şahmar Ələkbərov", "Yusif Vəliyev", "Detektiv", "Cinayət"]
+  },
+  {
+    "mainWord": "De ki, Məni Sevirsən!",
+    "forbiddenWords": ["Oqtay Mirqasımov", "Səməndər Rzayev", "Yelena Şanina", "Bakı", "Məhəbbət"]
+  },
+  {
+    "mainWord": "Alma almaya bənzər",
+    "forbiddenWords": ["Arif Babayev", "Hüseynağa Sadıqov", "İnarə Quliyeva", "Komediya", "Əkiz"]
+  },
+  {
+    "mainWord": "Bizi Bağışlayın",
+    "forbiddenWords": ["Arif Babayev", "Yaşar Nuri", "Hacı İsmayılov", "Dostlar", "Keçmiş"]
+  },
+  {
+    "mainWord": "Mozalan",
+    "forbiddenWords": ["Kinojurnal", "Satira", "Tənqid", "Qısa Filmlər", "Cəmiyyət"]
+  },
+  {
+    "mainWord": "Kuklalar",
+    "forbiddenWords": ["Çingiz Rəsulzadə", "Fəxrəddin Manafov", "Nərminə Zərbəliyeva", "Teatr", "Psixoloji"]
+  },
+  {
+    "mainWord": "Fransız",
+    "forbiddenWords": ["Vaqif Mustafayev", "Mamuka Kikaleyşvili", "Sənubər İsgəndərli", "Paris", "Bakı"]
+  },
+  {
+    "mainWord": "Hər Şey Yaxşılığa Doğru",
+    "forbiddenWords": ["Vaqif Mustafayev", "Yaşar Nuri", "Nasır Kərimov", "Komediya", "Ümid"]
+  },
+  {
+    "mainWord": "Qala (Film)",
+    "forbiddenWords": ["Şamil Nəcəfzadə", "Rasim Balayev", "Vidadi Həsənov", "İçərişəhər", "Qoruq"]
+  },
+  {
+    "mainWord": "Güllələnmə Təxirə Salınır",
+    "forbiddenWords": ["Əlisəttar Atakişiyev", "Tofiq Tağızadə", "Xanlar Muradov", "Mircəfər Bağırov", "Repressiya"]
+  },
+  {
+    "mainWord": "Sizi Dünyalar Qədər Sevirdim",
+    "forbiddenWords": ["Rasim İsmayılov", "Ramiz Əzizbəyli", "Həzi Aslanov", "İkinci Dünya Müharibəsi", "Tankçı"]
+  },
+  {
+    "mainWord": "Qəm Pəncərəsi",
+    "forbiddenWords": ["Anar", "Mirzə Cəlil Məmmədquluzadə", "Həsən Turabov", "İnarə Quliyeva", "Molla Nəsrəddin"]
+  },
+  {
+    "mainWord": "Sübhün Səfiri",
+    "forbiddenWords": ["Ramiz Həsənoğlu", "Teymur Bədəlbəyli", "Mirzə Fətəli Axundov", "Maarifçi", "Biyografi"]
+  },
+  {
+    "mainWord": "Cavid Ömrü",
+    "forbiddenWords": ["Ramiz Həsənoğlu", "Rasim Balayev", "Dilarə Əliyeva", "Hüseyn Cavid", "Repressiya"]
+  },
+  {
+    "mainWord": "Ovsunçu",
+    "forbiddenWords": ["Oqtay Mirqasımov", "Pərviz Məmmədrzayev", "Bəsti Cəfərova", "Mistika", "Kənd"]
+  },
+  {
+    "mainWord": "Qraf Krestovski",
+    "forbiddenWords": ["Ramiz Fətəliyev", "Hikmət Rəhimov", "Təhminə Rafaella", "Macəra", "Qraf"]
+  },
+  {
+    "mainWord": "Dərvişin Qeydləri",
+    "forbiddenWords": ["Eldar Quliyev", "Səid Rüstəmov", "Şəfiqə Məmmədova", "Dərviş", "Tarixi"]
+  },
+  {
+    "mainWord": "İstanbul Reysi",
+    "forbiddenWords": ["Şamil Mahmudbəyov", "Arif Quliyev", "Firəngiz Mütəllimova", "Komediya", "Səfər"]
+  },
+  {
+    "mainWord": "Məhəllə",
+    "forbiddenWords": ["Ramiz Fətəliyev", "Rafael İsgəndərov", "Coşqun Rəhimov", "Bakı", "Qonşular"]
+  },
+  {
+    "mainWord": "Məhəllə 2 Moskvada",
+    "forbiddenWords": ["İlham Qasımov", "Rafael İsgəndərov", "Coşqun Rəhimov", "Moskva", "Komediya"]
+  },
+  {
+    "mainWord": "Məhəllə 3",
+    "forbiddenWords": ["İlham Qasımov", "Rafael İsgəndərov", "Coşqun Rəhimov", "Komediya", "Davam"]
+  },
+  {
+    "mainWord": "Bozbash Pictures (Film)",
+    "forbiddenWords": ["İlham Qasımov", "İlkin Həsəni", "Ramil Babayev", "Şəmi", "Şöşü"]
+  },
+  {
+    "mainWord": "Axırıncı Yol",
+    "forbiddenWords": ["Emil Abdullayev", "Elcan Rəsulov", "Aqil M. Quliyev", "Komediya", "Mafya"]
+  },
+  {
+    "mainWord": "Naxox",
+    "forbiddenWords": ["Emil Abdullayev", "Elməddin Cəfərov", "Ağamehdi Abidov", "Komediya", "Cinayət"]
+  },
+  {
+    "mainWord": "Xənnas",
+    "forbiddenWords": ["Elvin Abdulla", "Pərvin Abıyeva", "Hicran Nəsirova", "Qorxu", "Cin"]
+  },
+  {
+    "mainWord": "Pərdə (Film)",
+    "forbiddenWords": ["Emil Quliyev", "Tural Əhməd", "Zaur Şəfiyev", "Sosial Dram", "Ailə"]
+  },
+  {
+    "mainWord": "İkinci Pərdə",
+    "forbiddenWords": ["Emil Quliyev", "Hikmət Rəhimov", "Günay Əhməd", "Davam Filmi", "Dram"]
+  },
+  {
+    "mainWord": "Nar Bağı",
+    "forbiddenWords": ["İlqar Nəcəf", "Qurban İsmayılov", "İlahə Həsənova", "Ailə", "Qayıdış"]
+  },
+  {
+    "mainWord": "Şəhidin Arzusu",
+    "forbiddenWords": ["Qarabağ", "Müharibə", "Vətənpərvərlik", "Əsgər", "Arzu"]
+  },
+  {
+    "mainWord": "Bayram Axşamı",
+    "forbiddenWords": ["Toğrul Məmmədov", "Fərda Xudaverdiyev", "İslam Mehrəliyev", "Yeni İl", "Komediya"]
+  },
+  {
+    "mainWord": "Axırıncı Şam Yeməyi",
+    "forbiddenWords": ["İlham Qasımov", "Elcan Rəsulov", "Pərvin Abıyeva", "Komediya", "Ailə"]
+  },
+  {
+    "mainWord": "Kəklikotu",
+    "forbiddenWords": ["Cavid Təvəkkül", "Elcan Rəsulov", "Müşfiq Şahverdiyev", "Komediya", "Kənd"]
+  },
+  {
+    "mainWord": "Hoqqa",
+    "forbiddenWords": ["Cavid Təvəkkül", "Dilarə Əliyeva", "Fərda Xudaverdiyev", "Komediya", "Toyuq"]
+  },
+  {
+    "mainWord": "Təsadüf",
+    "forbiddenWords": ["Pərviz Həsənov", "Anar Heybətov", "Tural Baxış", "Qısa Film", "Vətənpərvərlik"]
+  },
+  {
+    "mainWord": "Qayıdış",
+    "forbiddenWords": ["Kənan MM", "Anar Xəlilov", "Əbdülqəni Əliyev", "Müharibə", "Əsgər"]
+  },
+  {
+    "mainWord": "Sonuncu Pərdə",
+    "forbiddenWords": ["Emil Quliyev", "Hikmət Rəhimov", "Tural Əhməd", "Dram", "Trilogiya"]
+  },
+  {
+    "mainWord": "Olimpiya Yuxusu",
+    "forbiddenWords": ["İdman", "Uşaq", "Arzu", "Boks", "Motivasiya"]
+  },
+  {
+    "mainWord": "Əli və Nino",
+    "forbiddenWords": ["Asif Kapadia", "Adam Bakri", "Maria Valverde", "Qurban Səid", "Bakı"]
+  },
+  {
+    "mainWord": "İçəri Şəhər",
+    "forbiddenWords": ["İlqar Safat", "Təhminə Rafaella", "Firdovsi Atakişiyev", "Bakı", "Dram"]
+  },
+  {
+    "mainWord": "Şekspir",
+    "forbiddenWords": ["Teletamaşa", "Fuad Poladov", "Yaşar Nuri", "Teatr", "Klassik"]
+  },
+  {
+    "mainWord": "Qız Qalası Əfsanəsi",
+    "forbiddenWords": ["Animasiya", "Cizgi Filmi", "Bakı", "Qala", "Əfsanə"]
+  },
+  {
+    "mainWord": "Cin Mikrorayonda",
+    "forbiddenWords": ["Oqtay Mirqasımov", "Uşaq Filmi", "Komediya", "Bakı", "Mikrorayon"]
+  },
+  {
+    "mainWord": "Anlamaq İstəmirəm (Film)",
+    "forbiddenWords": ["Namiq Qaraçuxurlu", "Səidə Sultan", "Mahnı Uyarlaması", "Sevgi", "Dram"]
+  },
+  {
+    "mainWord": "Skripkanın Tənhalığı",
+    "forbiddenWords": ["Şamil Nəcəfzadə", "Rasim Balayev", "Violin", "Musiqi", "Tək"]
+  },
+  {
+    "mainWord": "Mənim Ağ Şəhərim",
+    "forbiddenWords": ["Hüseyn Mehdiyev", "Şəhər", "Ağ", "Bakı", "Xəyal"]
+  },
+  {
+    "mainWord": "Qobustan",
+    "forbiddenWords": ["Sənədli Film", "Qayaüstü Rəsmlər", "Tarix", "Mədəniyyət", "Daş"]
+  },
+  {
+    "mainWord": "Qocalar",
+    "forbiddenWords": ["Cavanşir Quliyev (rejissor)", "Yaşlı", "Kənd", "Həyat", "Ailə"]
+  },
+  {
+    "mainWord": "Tərsinə Çevrilən Dünya",
+    "forbiddenWords": ["Ənvər Əbluc", "Hacı İsmayılov", "Kazım Abdullayev", "Komediya", "Dünya"]
+  },
+  {
+    "mainWord": "Yol Əhvalatı",
+    "forbiddenWords": ["Teymur Bəkirzadə", "Səyavuş Aslan", "Yaşar Nuri", "Komediya", "Sürücü"]
+  },
+  {
+    "mainWord": "Bir Qalanın Sirri",
+    "forbiddenWords": ["Əlisəttar Atakişiyev", "Gündüz Abbasov", "Tamara Koko", "Nağıl", "Qala"]
+  },
+  {
+    "mainWord": "Leyli və Məcnun (1961)",
+    "forbiddenWords": ["Əlisəttar Atakişiyev", "Nodar Şaşıqoğlu", "Kima Məmmədova", "Opera", "Məhəbbət"]
+  },
+  {
+    "mainWord": "Mən ki gözəl deyildim",
+    "forbiddenWords": ["Tofiq Tağızadə", "Fərhad İsrafilov", "Səfurə İbrahimova", "Müharibə", "Gözəllik"]
+  },
+  {
+    "mainWord": "Ümid",
+    "forbiddenWords": ["Gülbəniz Əzimzadə", "Həmidə Ömərova", "Əbdül Mahmudov", "Qaçqın", "Qarabağ"]
+  },
+  {
+    "mainWord": "Qatil",
+    "forbiddenWords": ["Gülbəniz Əzimzadə", "Həsən Məmmədov", "Şükufə Yusupova", "Cinayət", "Dram"]
+  },
+  {
+    "mainWord": "Doğma Ürək",
+    "forbiddenWords": ["Xalq Nağılı", "Uşaq", "Ailə", "Sehr", "Axtarış"]
+  },
+  {
+    "mainWord": "Qızıl Uçurum",
+    "forbiddenWords": ["Fikrət Əliyev", "Həsən Məmmədov", "Ömür Nağıyev", "Neft", "Var-dövlət"]
+  },
+  {
+    "mainWord": "Bir Ailəlik Bağ Evi",
+    "forbiddenWords": ["Yuli Qusman", "İqor Kvaşa", "Larisa Xələfova", "Bağ", "Yay"]
+  },
+  {
+    "mainWord": "Sehirli Kürk",
+    "forbiddenWords": ["Nağıl", "Kürk", "Uşaq", "Sehr", "Qış"]
+  },
+  {
+    "mainWord": "Nə Gözəldir Bu Dünya",
+    "forbiddenWords": ["Eldar Quliyev", "Həsənağa Turabov", "Sədayə Mustafayeva", "Həyat", "Dram"]
+  },
+  {
+    "mainWord": "Gənc Qadının Kişisi",
+    "forbiddenWords": ["Cəmil Quliyev", "Fəxrəddin Manafov", "Məlahət Abbasova", "Sevgi", "Yaş Fərqi"]
+  },
+  {
+    "mainWord": "Nakəs",
+    "forbiddenWords": ["Vaqif Mustafayev", "Mamuka Kikaleyşvili", "Komediya", "Aldatma", "Xəyanət"]
+  },
+  {
+    "mainWord": "Baladadaşın İlk Məhəbbəti",
+    "forbiddenWords": ["Ənvər Əbluc", "Elxan Qasımov", "Komediya", "Sevgi", "Uşaqlıq"]
+  },
+  {
+    "mainWord": "Abşeron",
+    "forbiddenWords": ["Sənədli Film", "Yarımada", "Neft", "Dəniz", "Bakı"]
+  },
+  {
+    "mainWord": "Dairə",
+    "forbiddenWords": ["Zaur Qəhrəmanov", "Səmimi Səlimov", "Qısa Film", "Sosial", "Qərar"]
+  },
+  {
+    "mainWord": "Böyük Dayaq",
+    "forbiddenWords": ["Həbib İsmayılov", "Ələsgər Ələkbərov", "Leyla Bədirbəyli", "Kolxoz Sədri", "Kənd"]
+  },
+  {
+    "mainWord": "Telefonçu Qız",
+    "forbiddenWords": ["Həsən Seyidbəyli", "Raisa Nedaşkovskaya", "Nodar Şaşıqoğlu", "Telefon Stansiyası", "Sevgi"]
+  },
+  {
+    "mainWord": "Xatirələr Sahili",
+    "forbiddenWords": ["Şamil Mahmudbəyov", "Həsən Məmmədov", "Tamilla Ağamirova", "Müharibə", "Yaddaş"]
+  },
+  {
+    "mainWord": "Səmt Küləyi",
+    "forbiddenWords": ["Eldar Quliyev", "Həsən Məmmədov", "İnarə Quliyeva", "İnqilab", "Neft"]
+  },
+  {
+    "mainWord": "Gecə Qatarında Qətl",
+    "forbiddenWords": ["Əbdül Mahmudov", "Yaşar Nuri", "Həmidə Ömərova", "Detektiv", "Qatar"]
+  },
+  {
+    "mainWord": "Üzeyir Ömrü",
+    "forbiddenWords": ["Anar", "Hüseynağa Atakişiyev", "Yaşar Nuri", "Üzeyir Hacıbəyov", "Bəstəkar"]
+  },
+  {
+    "mainWord": "Niyyət",
+    "forbiddenWords": ["Tofiq İsmayılov", "Rasim Balayev", "Tamilla Ağamirova", "Elm", "Vicdan"]
+  },
+  {
+    "mainWord": "Qisas Almadan Ölmə",
+    "forbiddenWords": ["Gülbəniz Əzimzadə", "Fəxrəddin Manafov", "Nuriyyə Əhmədova", "İntiqam", "Dram"]
+  },
+  {
+    "mainWord": "Atları Yəhərləyin",
+    "forbiddenWords": ["Əbdül Mahmudov", "Həsən Turabov", "Rasim Balayev", "Qaçaq Nəbi", "Tarixi"]
+  },
+  {
+    "mainWord": "Özgə Ömür",
+    "forbiddenWords": ["Rasim Ocaqov", "Aleksandr Kalyagin", "Fəxrəddin Manafov", "Psixoloji", "Kimlik"]
+  },
+  {
+    "mainWord": "Nəriman Nərimanov",
+    "forbiddenWords": ["Eldar Quliyev", "Tofiq Mirzəyev", "Vəfa Fətullayeva", "İnqilabçı", "Biyografi"]
+  },
+  {
+    "mainWord": "Məhkumlar",
+    "forbiddenWords": ["Gülbəniz Əzimzadə", "Həmidə Ömərova", "Muxtar Maniyev", "Həbsxana", "Qadınlar"]
+  },
+  {
+    "mainWord": "Möcüzələr Adası",
+    "forbiddenWords": ["Əlisəttar Atakişiyev", "Oqtay Mirqasımov", "Nağıl", "Uşaq", "Ada"]
+  },
+  {
+    "mainWord": "Sən Nəğmə Qoşanda",
+    "forbiddenWords": ["Tofiq İsmayılov", "Müslüm Maqomayev", "Larisa Dolina", "Musiqi", "Estrada"]
+  },
+  {
+    "mainWord": "Gümüşü Furqon",
+    "forbiddenWords": ["Oqtay Mirqasımov", "Sənubər İsgəndərli", "Həmidə Ömərova", "Səyyar Sirk", "Dram"]
+  },
+  {
+    "mainWord": "Nizami (Film)",
+    "forbiddenWords": ["Eldar Quliyev", "Müslüm Maqomayev", "Həmidə Ömərova", "Şair", "Biyografi"]
+  },
+  {
+    "mainWord": "Qara Gölün Cəngavərləri",
+    "forbiddenWords": ["Ənvər Əbluc", "Ömür Nağıyev", "Hacımurad Yegizarov", "Neft", "İnqilab"]
+  },
+  {
+    "mainWord": "Kişi Sözü",
+    "forbiddenWords": ["Cahangir Mehdiyev", "Afət Fərmanqızı", "Ötkəm İsgəndərov", "Söz Vermək", "Kənd"]
+  },
+  {
+    "mainWord": "Qəribə Adam",
+    "forbiddenWords": ["Ənvər Əbluc", "Grigoriy Nalskyants", "İnarə Quliyeva", "Sosial", "Dram"]
+  },
+  {
+    "mainWord": "Ağ Atlı Oğlan",
+    "forbiddenWords": ["Ənvər Əbluc", "Hacı İsmayılov", "Leyla Şıxlinskaya", "Uşaq", "At"]
+  },
+  {
+    "mainWord": "İmtahan (Film)",
+    "forbiddenWords": ["Gülbəniz Əzimzadə", "Hamlet Xanızadə", "Larisa Xələfova", "Məktəb", "Şagird"]
+  },
+  {
+    "mainWord": "Sumqayıtın Gəncliyi",
+    "forbiddenWords": ["Sənədli Film", "Sumqayıt", "Şəhər", "Gənclər", "Sənaye"]
+  },
+  {
+    "mainWord": "Sarı Köynək",
+    "forbiddenWords": ["Tünzalə Ağayeva", "Mahnı Filmi", "Sevgi", "Rəqs", "Musiqi"]
+  },
+  {
+    "mainWord": "Ölüm Növbəsi",
+    "forbiddenWords": ["Fikrət Əliyev", "Həmidə Ömərova", "Nurəddin Mehdixanlı", "Cinayət", "Mafya"]
+  },
+  {
+    "mainWord": "Cansıxıcı Əhvalat",
+    "forbiddenWords": ["Samir Kərimoğlu", "Fuad Poladov", "Şamil Süleymanlı", "Dram", "Psixoloji"]
+  },
+  {
+    "mainWord": "Yurd",
+    "forbiddenWords": ["Şamil Əliyev", "Rasim Balayev", "Qurban İsmayılov", "Müharibə", "Ev"]
+  },
+  {
+    "mainWord": "Qatil",
+    "forbiddenWords": ["Kamran Şahmərdan", "Pərviz Məmmədrzayev", "Təranə Əliyeva", "Cinayət", "Teatr"]
+  },
+  {
+    "mainWord": "Döngələr",
+    "forbiddenWords": ["Cavanşir Quliyev (rejissor)", "Kazım Abdullayev", "Məlahət Abbasova", "Həyat", "Seçim"]
+  },
+  {
+    "mainWord": "Mehmanxana Sahibəsi",
+    "forbiddenWords": ["Lütfi Məmmədbəyli", "Teletamaşa", "Nəsibə Zeynalova", "İlham Namiq Kamal", "Komediya"]
+  },
+  {
+    "mainWord": "Azərbaycana Səyahət",
+    "forbiddenWords": ["Sənədli Film", "Ölkə", "Təbiət", "Mədəniyyət", "Gəzmək"]
+  },
+  {
+    "mainWord": "Nəfəs",
+    "forbiddenWords": ["Elçin Musaoğlu", "Vaqif İbrahimoğlu", "Fəxrəddin Manafov", "Dağ", "Tənhalıq"]
+  },
+  {
+    "mainWord": "Girov",
+    "forbiddenWords": ["Eldar Quliyev", "Həmidə Ömərova", "Rasim Balayev", "Qarabağ", "Əsir"]
+  },
+  {
+    "mainWord": "Məhkum",
+    "forbiddenWords": ["Mehriban Ələkbərzadə", "Fəxrəddin Manafov", "Rəşad Səfərov", "Həbsxana", "Dram"]
+  },
+  {
+    "mainWord": "Aktrisa",
+    "forbiddenWords": ["Rövşən İsax", "Aygün Kazımova", "Məbud Məhərrəmov", "Musiqili", "Teatr"]
+  },
+  {
+    "mainWord": "Oğlan Evi",
+    "forbiddenWords": ["İlham Qasımov", "Fərda Xudaverdiyev", "İslam Mehrəliyev", "Komediya", "Evlənmək"]
+  },
+  {
+    "mainWord": "Oğlan Evi 2",
+    "forbiddenWords": ["İlham Qasımov", "Fərda Xudaverdiyev", "İslam Mehrəliyev", "Komediya", "Davam"]
+  },
+  {
+    "mainWord": "Xoxan",
+    "forbiddenWords": ["Samir İmanov", "Fərda Xudaverdiyev", "Elməddin Cəfərov", "Komediya", "Qorxu Parodiyası"]
+  },
+  {
+    "mainWord": "My Name is İntiqam",
+    "forbiddenWords": ["Emil Abdullayev", "Müşfiq Şahverdiyev", "İlkin Misgərli", "Komediya", "İntiqam"]
+  },
+  {
+    "mainWord": "My Name is İntiqam 2: Moldova",
+    "forbiddenWords": ["Emil Abdullayev", "Müşfiq Şahverdiyev", "İlkin Misgərli", "Komediya", "Moldova"]
+  },
+  {
+    "mainWord": "Nabat",
+    "forbiddenWords": ["Elçin Musaoğlu", "Fatemeh Motamed-Arya", "Vidadi Əliyev", "Qarabağ", "Tənha Qadın"]
+  },
+  {
+    "mainWord": "Qaranlıq",
+    "forbiddenWords": ["İlqar Nəcəf", "Fəxrəddin Manafov", "Qısa Film", "Kor", "Fotoqraf"]
+  },
+  {
+    "mainWord": "Sarı Mercedes",
+    "forbiddenWords": ["Vaqif Mustafayev", "Həsənağa Turabov", "Komediya", "Almaniya", "Avtomobil"]
+  },
+  {
+    "mainWord": "Süni Tənəffüs",
+    "forbiddenWords": ["Ruslan Mollayev", "Rasim Balayev", "Qısa Film", "Sosial", "Dram"]
+  },
+  {
+    "mainWord": "Sikimpolis",
+    "forbiddenWords": ["Elmar İmanov", "Zaur Şəfiyev", "Məbud Məhərrəmov", "Qısa Film", "Polis"]
+  },
+  {
+    "mainWord": "Sonuncu",
+    "forbiddenWords": ["Sergey Pikalov", "Abbas Qəhrəmanov", "Dəniz", "Balıqçı", "Qısa Film"]
+  },
+  {
+    "mainWord": "Əlvida",
+    "forbiddenWords": ["Elvin Adıgözəl", "Ləman Əliyeva", "Rövşən Ağayev", "Ata-Qız", "Dram"]
+  },
+  {
+    "mainWord": "Səpələnmiş Ölümlər Arasında",
+    "forbiddenWords": ["Hilal Baydarov", "Orxan İskəndərli", "Rəna Əsgərova", "Meditativ", "Axtarış"]
+  },
+  {
+    "mainWord": "Qu",
+    "forbiddenWords": ["Teymur Hacıyev", "Həmidə Ömərova", "Rasim Cəfər", "Qısa Film", "Sual"]
+  },
+  {
+    "mainWord": "Mərmər Soyuğu",
+    "forbiddenWords": ["Asif Rüstəmov", "Elşən Rüstəmov", "Natavan Hacıyeva", "Həbsxana", "Rəssam"]
+  },
+  {
+    "mainWord": "Biləsuvar",
+    "forbiddenWords": ["Elvin Adıgözəl", "Arif Quliyev", "Sərhəd", "Qaçqın", "Dram"]
+  },
+  {
+    "mainWord": "Şollerin Arxivi",
+    "forbiddenWords": ["Cəlaləddin Qasımov", "Ajdar Hamidov", "Ramiz Novruz", "Alman", "Arxiv"]
+  },
+  {
+    "mainWord": "Kəndə Qayıdış",
+    "forbiddenWords": ["Vahid Mustafayev", "Sənədli Film", "Qarabağ", "İşğaldan Sonra", "Qayıdış"]
+  }
+]
