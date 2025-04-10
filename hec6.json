@@ -743,10 +743,6 @@
     "mainWord": "Eniak",
     "forbiddenWords": ["Argentina", "Keçmiş", "Elektrik", "Konsept", "Şəhər"]
   },
-  {
-    "mainWord": "Zanella",
-    "Argentina", "Motosiklet", "Yerli istehsal", "Ucuz", "Populyar"
-   },
    {
         "mainWord": "Agrale",
         "forbiddenWords": ["Braziliya", "Traktor", "Avtobus", "Yük maşını", "Kənd təsərrüfatı"]
