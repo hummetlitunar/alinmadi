@@ -1,0 +1,1266 @@
+[
+  {
+    "mainWord": "Bülbülü Öldürmək",
+    "forbiddenWords": ["Harper Li", "Skaut", "Attikus Finç", "Tom Robinson", "İrqçilik"]
+  },
+  {
+    "mainWord": "1984",
+    "forbiddenWords": ["Corc Oruell", "Böyük Qardaş", "Okeaniya", "Totalitarizm", "Vinston Smit"]
+  },
+  {
+    "mainWord": "Qürur və Qərəz",
+    "forbiddenWords": ["Ceyn Ostin", "Elizabet Bennet", "Mister Darsi", "Evlilik", "İngiltərə"]
+  },
+  {
+    "mainWord": "Mobi Dik",
+    "forbiddenWords": ["Herman Melvill", "Ağ Balina", "Kapitan Ahab", "İşmael", "Dəniz"]
+  },
+  {
+    "mainWord": "Hərb və Sülh",
+    "forbiddenWords": ["Lev Tolstoy", "Nataşa Rostova", "Pyer Bezuxov", "Napoleon Müharibələri", "Rusiya"]
+  },
+  {
+    "mainWord": "Anna Karenina",
+    "forbiddenWords": ["Lev Tolstoy", "Vronski", "Qatar", "Sevgi", "İntihar"]
+  },
+  {
+    "mainWord": "Cinayət və Cəza",
+    "forbiddenWords": ["Fyodor Dostoyevski", "Raskolnikov", "Balta", "Qoca qadın", "Peterburq"]
+  },
+  {
+    "mainWord": "Möhtəşəm Getsbi",
+    "forbiddenWords": ["F. Skott Fitscerald", "Cey Getsbi", "Deyzi Bükenen", "Caz Dövrü", "Yaşıl İşıq"]
+  },
+  {
+    "mainWord": "Harri Potter və Fəlsəfə Daşı",
+    "forbiddenWords": ["C. K. Roulinq", "Hoqvarts", "Sehrbaz", "Voldemort", "Daş"]
+  },
+  {
+    "mainWord": "Üzüklərin Hökmdarı",
+    "forbiddenWords": ["C. R. R. Tolkien", "Frodo Beqins", "Orta Dünya", "Sauron", "Bir Üzük"]
+  },
+  {
+    "mainWord": "Hobbit",
+    "forbiddenWords": ["C. R. R. Tolkien", "Bilbo Beqins", "Smauq", "Cücələr", "Tək Dağ"]
+  },
+  {
+    "mainWord": "Taxt Oyunları",
+    "forbiddenWords": ["Corc R. R. Martin", "Stark", "Lannister", "Əjdaha", "Vesteros"]
+  },
+  {
+    "mainWord": "Balaca Şahzadə",
+    "forbiddenWords": ["Antuan de Sent-Ekzüperi", "Təyyarəçi", "Planet", "Tülkü", "Qızılgül"]
+  },
+  {
+    "mainWord": "Alisa Möcüzələr Diyarında",
+    "forbiddenWords": ["Luis Kerroll", "Ağ Dovşan", "Ürəklər Kraliçası", "Çay Dəstgahı", "Xəyal"]
+  },
+  {
+    "mainWord": "Yüz İlin Tənhalığı",
+    "forbiddenWords": ["Qabriel Qarsia Markes", "Buendia Ailəsi", "Makondo", "Sehrli Realizm", "Kolumbiya"]
+  },
+  {
+    "mainWord": "Yad",
+    "forbiddenWords": ["Alber Kamyu", "Merso", "Əlcəzair", "Absurdizm", "Günəş"]
+  },
+  {
+    "mainWord": "Çevrilmə",
+    "forbiddenWords": ["Frans Kafka", "Qreqor Zamza", "Böcək", "Ailə", "Absurd"]
+  },
+  {
+    "mainWord": "Hamlet",
+    "forbiddenWords": ["Vilyam Şekspir", "Danimarka Şahzadəsi", "Ofeliya", "İntiqam", "Pyes"]
+  },
+  {
+    "mainWord": "Romeo və Cülyetta",
+    "forbiddenWords": ["Vilyam Şekspir", "Verona", "Monteqqi", "Kapuletti", "Sevgi Faciəsi"]
+  },
+  {
+    "mainWord": "Makbet",
+    "forbiddenWords": ["Vilyam Şekspir", "Şotlandiya", "Cadugərlər", "Kral Duncan", "Hakimiyyət Hərisliyi"]
+  },
+  {
+    "mainWord": "Don Kixot",
+    "forbiddenWords": ["Migel de Servantes", "La Mança", "Sanço Pansa", "Yel Dəyirmanları", "Cəngavər"]
+  },
+  {
+    "mainWord": "Frankenşteyn",
+    "forbiddenWords": ["Meri Şelli", "Viktor", "Canavar", "Elm", "Yaradılış"]
+  },
+  {
+    "mainWord": "Drakula",
+    "forbiddenWords": ["Brem Stoker", "Vampir", "Transilvaniya", "Conatan Harker", "Qraf"]
+  },
+  {
+    "mainWord": "Səfillər",
+    "forbiddenWords": ["Viktor Hüqo", "Jan Valjan", "Kozetta", "Javert", "Fransa İnqilabı"]
+  },
+  {
+    "mainWord": "Notrdam Katedrali",
+    "forbiddenWords": ["Viktor Hüqo", "Kvazimodo", "Esmeralda", "Paris", "Katedral"]
+  },
+  {
+    "mainWord": "Üç Müşketyor",
+    "forbiddenWords": ["Aleksandr Düma", "Atos", "Portos", "Aramis", "D'Artanyan"]
+  },
+  {
+    "mainWord": "Qraf Monte Kristo",
+    "forbiddenWords": ["Aleksandr Düma", "Edmon Dantes", "İntiqam", "Həbsxana", "Xəzinə"]
+  },
+  {
+    "mainWord": "Madam Bovari",
+    "forbiddenWords": ["Qustav Flober", "Emma", "Əyalət Həyatı", "Aldatma", "Realizm"]
+  },
+  {
+    "mainWord": "Dorian Qreyin Portreti",
+    "forbiddenWords": ["Oskar Uayld", "Portret", "Gənclik", "Estetizm", "Günah"]
+  },
+  {
+    "mainWord": "Ceyn Eyr",
+    "forbiddenWords": ["Şarlotta Bronte", "Roçester", "Yetim", "Qubernant", "Sevgi"]
+  },
+  {
+    "mainWord": "Uğultulu Tepeler",
+    "forbiddenWords": ["Emili Bronte", "Hitklif", "Katerin", "Fundalıq", "İntiqam"]
+  },
+  {
+    "mainWord": "Böyük Ümidlər",
+    "forbiddenWords": ["Çarlz Dikkens", "Pip", "Estella", "Miss Hevişem", "London"]
+  },
+  {
+    "mainWord": "Oliver Tvist",
+    "forbiddenWords": ["Çarlz Dikkens", "Yetim", "London", "Oğru Dəstəsi", "Fagin"]
+  },
+  {
+    "mainWord": "Devid Kopperfild",
+    "forbiddenWords": ["Çarlz Dikkens", "Avtobioqrafik", "Yetim", "Uşaqlıq", "Böyümə"]
+  },
+  {
+    "mainWord": "İki Şəhərin Hekayəsi",
+    "forbiddenWords": ["Çarlz Dikkens", "Paris", "London", "Fransa İnqilabı", "Sidney Karton"]
+  },
+  {
+    "mainWord": "Tərcüməçi",
+    "forbiddenWords": ["Nikolay Qoqol", "Peterburq Hekayələri", "Akaki Akakiyeviç", "Şinel", "Məmur"]
+  },
+  {
+    "mainWord": "Ölü Canlar",
+    "forbiddenWords": ["Nikolay Qoqol", "Çiçikov", "Satınalma", "Kəndli", "Rusiya"]
+  },
+  {
+    "mainWord": "Atalar və Oğullar",
+    "forbiddenWords": ["İvan Turgenyev", "Bazarov", "Nihilizm", "Nəsillər Arası Konflikt", "Rusiya"]
+  },
+  {
+    "mainWord": "Karamazov Qardaşları",
+    "forbiddenWords": ["Fyodor Dostoyevski", "Alyoşa", "İvan", "Dmitri", "Ata Qatili"]
+  },
+  {
+    "mainWord": "İdiot",
+    "forbiddenWords": ["Fyodor Dostoyevski", "Mışkin", "Nastasya Filippovna", "Saflıq", "Rusiya"]
+  },
+  {
+    "mainWord": "Tom Soyerin Macəraları",
+    "forbiddenWords": ["Mark Tven", "Heklberri Finn", "Missisipi Çayı", "Uşaqlıq", "Macəra"]
+  },
+  {
+    "mainWord": "Heklberri Finnin Macəraları",
+    "forbiddenWords": ["Mark Tven", "Cim", "Missisipi Çayı", "Qaçış", "Kölelik"]
+  },
+  {
+    "mainWord": "Robinson Kruzo",
+    "forbiddenWords": ["Daniel Defo", "Issız Ada", "Cümə", "Hayatta Kalma", "Gəmi Qəzası"]
+  },
+  {
+    "mainWord": "Qulliverin Səyahətləri",
+    "forbiddenWords": ["Conatan Svift", "Lilliputlar", "Nəhənglər", "Satira", "Səyahət"]
+  },
+  {
+    "mainWord": "Xəzinələr Adası",
+    "forbiddenWords": ["Robert Luis Stivenson", "Con Silver", "Korsanlar", "Xəritə", "Macəra"]
+  },
+  {
+    "mainWord": "Dəmir Maskalı Adam",
+    "forbiddenWords": ["Aleksandr Düma", "Əkiz Qardaş", "Həbsxana", "Müşketyorlar", "Fransa"]
+  },
+  {
+    "mainWord": "Şerlok Holmsun Macəraları",
+    "forbiddenWords": ["Artur Konan Doyl", "Dedektiv", "Doktor Vatson", "London", "Müəmma"]
+  },
+  {
+    "mainWord": "Baskervillərin İti",
+    "forbiddenWords": ["Artur Konan Doyl", "Şerlok Holms", "Bataqlıq", "İt", "Lənət"]
+  },
+  {
+    "mainWord": "Dünyanın Mərkəzinə Səyahət",
+    "forbiddenWords": ["Jül Vern", "Vulkan", "Professor Lidenbrok", "Macəra", "Yeraltı"]
+  },
+  {
+    "mainWord": "80 Gün Ərzində Dünya Ətrafında",
+    "forbiddenWords": ["Jül Vern", "Fileas Foqq", "Paspartu", "Səyahət", "Mərc"]
+  },
+  {
+    "mainWord": "Kapitan Nemonun Sirri (Dəniz Altında 20.000 Lyö)",
+    "forbiddenWords": ["Jül Vern", "Nautilus", "Dənizaltı", "Kapitan Nemo", "Okean"]
+  },
+  {
+    "mainWord": "Heyvan Ferması",
+    "forbiddenWords": ["Corc Oruell", "Donuzlar", "İnqilab", "Alleqoriya", "Sovet İttifaqı"]
+  },
+  {
+    "mainWord": "Cəsur Yeni Dünya",
+    "forbiddenWords": ["Oldos Haksli", "Distopiya", "Gələcək", "Kastalama", "Kondisiyalaşdırma"]
+  },
+  {
+    "mainWord": "Fahrenheit 451",
+    "forbiddenWords": ["Rey Bredberi", "Kitab Yandırma", "Distopiya", "Yanğınsöndürən", "Gələcək"]
+  },
+  {
+    "mainWord": "Milçəklər Tanrısı",
+    "forbiddenWords": ["Vilyam Qoldinq", "Issız Ada", "Uşaqlar", "Vəhşilik", "Alleqoriya"]
+  },
+  {
+    "mainWord": "Çovdarlıqda Uçurumdan Qoruyan",
+    "forbiddenWords": ["C. D. Selincer", "Holden Kolfild", "Yeniyetmə", "Məktəbdən Qovulma", "Nyu York"]
+  },
+  {
+    "mainWord": "Yolda",
+    "forbiddenWords": ["Cek Keruak", "Bit Nəsli", "Avtomobil Səyahəti", "Amerika", "Caz"]
+  },
+  {
+    "mainWord": "Lolita",
+    "forbiddenWords": ["Vladimir Nabokov", "Humbert Humbert", "Yeniyetmə Qız", "Obsesyon", "Mübahisəli"]
+  },
+  {
+    "mainWord": "Günəş də Doğar",
+    "forbiddenWords": ["Ernest Heminquey", "Paris", "İspaniya", "İtirilmiş Nəsil", "Öküz Döyüşü"]
+  },
+  {
+    "mainWord": "Əlvida, Silah",
+    "forbiddenWords": ["Ernest Heminquey", "I Dünya Müharibəsi", "İtaliya", "Sevgi", "Tibb Bacısı"]
+  },
+  {
+    "mainWord": "Qoca və Dəniz",
+    "forbiddenWords": ["Ernest Heminquey", "Balıqçı", "Kuba", "Böyük Balıq", "Mübarizə"]
+  },
+  {
+    "mainWord": "Zəng Kimin Üçün Çalınır",
+    "forbiddenWords": ["Ernest Heminquey", "İspaniya Vətəndaş Müharibəsi", "Partizan", "Körpü", "Sevgi"]
+  },
+  {
+    "mainWord": "Səs və Qəzəb",
+    "forbiddenWords": ["Vilyam Folkner", "Kompson Ailəsi", "Cənub", "Şüur Axını", "Tragik"]
+  },
+  {
+    "mainWord": "Avqust İşığı",
+    "forbiddenWords": ["Vilyam Folkner", "Cənub Qotiki", "İrq", "Kimlik", "Missisipi"]
+  },
+  {
+    "mainWord": "Gazap Üzümleri",
+    "forbiddenWords": ["Con Steynbek", "Böyük Depressiya", "Oklahoma", "Kaliforniya", "Miqrasiya"]
+  },
+  {
+    "mainWord": "Siçanlar və İnsanlar",
+    "forbiddenWords": ["Con Steynbek", "Lenni", "Corc", "Ferma İşçiləri", "Arzu"]
+  },
+  {
+    "mainWord": "Vəba",
+    "forbiddenWords": ["Alber Kamyu", "Oran Şəhəri", "Epidemiya", "Doktor Rie", "Absurdizm"]
+  },
+  {
+    "mainWord": "Bulantı",
+    "forbiddenWords": ["Jan-Pol Sartr", "Rokentin", "Ekzistensializm", "Fəlsəfi", "Gündəlik"]
+  },
+  {
+    "mainWord": "İtirilmiş Zamanın İzində",
+    "forbiddenWords": ["Marsel Prust", "Xatirə", "Madeleine Peçenyesi", "Subyektiv Zaman", "Uzun Roman"]
+  },
+  {
+    "mainWord": "Uillis",
+    "forbiddenWords": ["Ceyms Coys", "Dublin", "Leopold Blum", "Şüur Axını", "Bir Gün"]
+  },
+  {
+    "mainWord": "Mrs. Dalloway",
+    "forbiddenWords": ["Virciniya Vulf", "London", "Bir Gün", "Parti", "Şüur Axını"]
+  },
+  {
+    "mainWord": "Mayaka Doğru",
+    "forbiddenWords": ["Virciniya Vulf", "Ramsay Ailəsi", "İskoçya", "Zamanın Keçməsi", "Şüur Axını"]
+  },
+  {
+    "mainWord": "Ağ Diş",
+    "forbiddenWords": ["Cek London", "Qurd", "Alyaska", "Vəhşi Təbiət", "Hayatta Kalma"]
+  },
+  {
+    "mainWord": "Vəhşətin Çağırışı",
+    "forbiddenWords": ["Cek London", "İt", "Alyaska", "Qızıl Hərəkatı", "İnstinkt"]
+  },
+  {
+    "mainWord": "Qırmızı İşarə",
+    "forbiddenWords": ["Nataniel Hotorn", "Hester Prinn", "Püritan Cəmiyyəti", "Günah", "Aldatma"]
+  },
+  {
+    "mainWord": "Billy Budd",
+    "forbiddenWords": ["Herman Melvill", "Dənizçi", "Gəmi", "Günahsızlıq", "Ədalət"]
+  },
+  {
+    "mainWord": "Narnia Günlükləri: Aslan, Cadugər və Dolab",
+    "forbiddenWords": ["K. S. Luis", "Fantastika", "Uşaqlar", "Paralel Dünya", "Aslan"]
+  },
+  {
+    "mainWord": "Piter Pen",
+    "forbiddenWords": ["C. M. Barri", "Neverland", "Uçan Oğlan", "Kapitan Kruk", "İtirilmiş Uşaqlar"]
+  },
+  {
+    "mainWord": "Vini Pux",
+    "forbiddenWords": ["A. A. Miln", "Ayı", "Kristofer Robin", "Meşə", "Bal"]
+  },
+  {
+    "mainWord": "Şarlottanın Toru",
+    "forbiddenWords": ["E. B. Vayt", "Hörümçək", "Donuz Vilbur", "Ferma", "Dostluq"]
+  },
+  {
+    "mainWord": "Matilda",
+    "forbiddenWords": ["Roald Dal", "Ağıllı Qız", "Telekinez", "Müəllimə", "Ailə"]
+  },
+  {
+    "mainWord": "Çarli və Şokolad Fabriki",
+    "forbiddenWords": ["Roald Dal", "Villi Vonka", "Şokolad", "Fabrika", "Qızıl Bilet"]
+  },
+  {
+    "mainWord": "Gizli Bağça",
+    "forbiddenWords": ["Frensis Hocson Börnet", "Meri Lennox", "Bağ", "Yetim", "Sağalma"]
+  },
+  {
+    "mainWord": "Anne of Green Gables",
+    "forbiddenWords": ["L. M. Montqomeri", "Enn Şörli", "Yetim Qız", "Kanada", "Xəyalpərəst"]
+  },
+  {
+    "mainWord": "Heidi",
+    "forbiddenWords": ["Yohanna Spiri", "Alp Dağları", "Baba", "Qız", "İsveçrə"]
+  },
+  {
+    "mainWord": "Gümüşü Konkilər",
+    "forbiddenWords": ["Meri Meyps Doc", "Hollandiya", "Buz Pateni", "Yarış", "Qardaş-Bacı"]
+  },
+  {
+    "mainWord": "Adsız Üzük",
+    "forbiddenWords": ["J.R.R. Tolkien", "Epik", "Fantastik", "Orta Dünya", "Sauron"]
+  },
+  {
+    "mainWord": "Silmarillion",
+    "forbiddenWords": ["J.R.R. Tolkien", "Orta Dünya Tarixi", "Elflər", "Valar", "Mifologiya"]
+  },
+  {
+    "mainWord": "Dune",
+    "forbiddenWords": ["Frenk Herbert", "Arrakis", "Baharat", "Qum Qurdları", "Bilim Kurgu"]
+  },
+  {
+    "mainWord": "Vəqf",
+    "forbiddenWords": ["Ayzek Azimov", "Qalaktik İmperiya", "Gələcək", "Psixotarix", "Bilim Kurgu"]
+  },
+  {
+    "mainWord": "Mən, Robot",
+    "forbiddenWords": ["Ayzek Azimov", "Robot Qanunları", "Hekayələr Toplusu", "Süni Zəka", "Bilim Kurgu"]
+  },
+  {
+    "mainWord": "Qırmızı və Qara",
+    "forbiddenWords": ["Stendal", "Fransa", "Tarix", "Romantizm", "Roman"]
+  },
+  {
+    "mainWord": "Anna Karenina",
+    "forbiddenWords": ["Lev Tolstoy", "Rusya", "Romantik", "Roman", "Drama"]
+  },
+  {
+    "mainWord": "Savaş və Sülh",
+    "forbiddenWords": ["Lev Tolstoy", "Rusya", "Roman", "Tarix", "Drama"]
+  },
+  {
+    "mainWord": "1984",
+    "forbiddenWords": ["George Orwell", "Distopiya", "Totalitarizm", "Siyasi", "Roman"]
+  },
+  {
+    "mainWord": "Heyvanlar Kəndi",
+    "forbiddenWords": ["George Orwell", "Sosializm", "Fərdi azadlıq", "Siyasi", "Roman"]
+  },
+  {
+    "mainWord": "Fahrenheit 451",
+    "forbiddenWords": ["Ray Bradbury", "Distopiya", "Yanğın", "Kitablar", "Texnologiya"]
+  },
+  {
+    "mainWord": "Qürur və Təvəqqe",
+    "forbiddenWords": ["Jane Austen", "İngiltərə", "Romantik", "İctimai siniflər", "Kitab"]
+  },
+  {
+    "mainWord": "Cəhənnəm",
+    "forbiddenWords": ["Dante Alighieri", "İtaliya", "Mistik", "Cəhənnəm", "Şeir"]
+  },
+  {
+    "mainWord": "Məhəbbət və Ölüm",
+    "forbiddenWords": ["Tarkan", "Romantik", "Tragediya", "Aşk", "Ədəbiyyat"]
+  },
+  {
+    "mainWord": "Vətənsizlər",
+    "forbiddenWords": ["Mahmoud Darwish", "Ədəbiyyat", "Şeir", "Vətənsizlik", "İnsan haqları"]
+  },
+  {
+    "mainWord": "İki şəhərin hekayəsi",
+    "forbiddenWords": ["Charles Dickens", "Fransa", "İngiltərə", "Tarix", "Roman"]
+  },
+  {
+    "mainWord": "Müharibə və Sülh",
+    "forbiddenWords": ["Lev Tolstoy", "Rusya", "Tarix", "Roman", "Drama"]
+  },
+  {
+    "mainWord": "Uçan Class",
+    "forbiddenWords": ["J.K. Rowling", "Çocuklar", "Fantastik", "Gizli məktəb", "Macəra"]
+  },
+  {
+    "mainWord": "Hobbit",
+    "forbiddenWords": ["J.R.R. Tolkien", "Fantastik", "Macəra", "Fentezi", "Kitab"]
+  },
+  {
+    "mainWord": "Yüz İllik Yalnızlıq",
+    "forbiddenWords": ["Gabriel García Márquez", "Kolumbiya", "Magik realizm", "Roman", "Ailə"]
+  },
+  {
+    "mainWord": "Qızıl Balıq",
+    "forbiddenWords": ["Günay Vəliyeva", "Azərbaycan", "Roman", "Ailə", "İnsanın həyat yolu"]
+  },
+  {
+    "mainWord": "İstanbul Hatırası",
+    "forbiddenWords": ["Orhan Pamuk", "Türkiyə", "Tərcümə", "Roman", "Tarix"]
+  },
+  {
+    "mainWord": "Qartalın Gözləri",
+    "forbiddenWords": ["İsmayıl Şıxlı", "Azərbaycan", "Roman", "Tarix", "Müharibə"]
+  },
+  {
+    "mainWord": "Əli və Nino",
+    "forbiddenWords": ["Qasimov", "Azərbaycan", "Roman", "Sevgi", "Tarix"]
+  },
+  {
+    "mainWord": "Sonsuzluğa Yüksəlmək",
+    "forbiddenWords": ["Michele Forbes", "Roman", "Drama", "Tarix", "Həyat"]
+  },
+  {
+    "mainWord": "İçimdəki Səs",
+    "forbiddenWords": ["John Green", "Roman", "Sevgi", "Drama", "İnsanlıq"]
+  },
+  {
+    "mainWord": "Cənnətə Uçuş",
+    "forbiddenWords": ["Albert Camus", "Filozofiya", "İnsan", "Varoluş", "Drama"]
+  },
+  {
+    "mainWord": "Savaşın Cevabı",
+    "forbiddenWords": ["Ayn Rand", "Fəlsəfə", "Sosializm", "Roman", "İdealizm"]
+  },
+  {
+    "mainWord": "Gizli Bağlantılar",
+    "forbiddenWords": ["Dan Brown", "Triller", "Sirr", "Macəra", "Mədəniyyət"]
+  },
+  {
+    "mainWord": "Zəfər və Hüzn",
+    "forbiddenWords": ["Görkem İslamoglu", "Roman", "Sevgi", "Tarix", "Dünya"]
+  },
+  {
+    "mainWord": "Felsefe",
+    "forbiddenWords": ["Platon", "Aristotel", "Məntiq", "İnsanlıq", "Fəlsəfə"]
+  },
+  {
+    "mainWord": "Küçələrdəki Yağış",
+    "forbiddenWords": ["Marquez", "Kısa Hekayələr", "Kolumbiya", "Yazıçılıq", "Edebiyat"]
+  },
+  {
+    "mainWord": "Ayın Günləri",
+    "forbiddenWords": ["Virginia Woolf", "İngiltərə", "Feminist", "Psixoloji", "Drama"]
+  },
+  {
+    "mainWord": "Həyatın Anlamı",
+    "forbiddenWords": ["Viktor Frankl", "Fəlsəfə", "Psixologiya", "İnsanlıq", "Kitab"]
+  },
+  {
+    "mainWord": "Simyacı",
+    "forbiddenWords": ["Paulo Coelho", "Roman", "Fəlsəfə", "Mistik", "Arzular"]
+  },
+  {
+    "mainWord": "Bəlkə də Həyat",
+    "forbiddenWords": ["Mitch Albom", "Roman", "Fəlsəfə", "Tərcümə", "Drama"]
+  },
+  {
+    "mainWord": "Səhər",
+    "forbiddenWords": ["Karl Jung", "Psixologiya", "Həyat", "İnsanlıq", "Fəlsəfə"]
+  },
+  {
+    "mainWord": "Bu Dünya",
+    "forbiddenWords": ["Malcolm Gladwell", "Sosializm", "Fəlsəfə", "İnsan", "Kitab"]
+  },
+  {
+    "mainWord": "Köstebek",
+    "forbiddenWords": ["Joseph Heller", "Komediya", "Fəlakət", "Macəra", "Roman"]
+  },
+  {
+    "mainWord": "Qədim Düşüncələr",
+    "forbiddenWords": ["Confucius", "Fəlsəfə", "Düşüncə", "Həyat", "Kitab"]
+  },
+  {
+    "mainWord": "Yaralı Sənsiz",
+    "forbiddenWords": ["Buket Uzuner", "Türkiyə", "Roman", "Drama", "Sevgi"]
+  },
+  {
+    "mainWord": "Rəngli Qələm",
+    "forbiddenWords": ["İsmayıl Şıxlı", "Azərbaycan", "Tərcümə", "Roman", "Mədəniyyət"]
+  },
+  {
+    "mainWord": "Balans",
+    "forbiddenWords": ["Marie Kondo", "Təşkilat", "Yenilik", "Həyat", "Kitab"]
+  },
+  {
+    "mainWord": "Gizli Bağlantı",
+    "forbiddenWords": ["Dan Brown", "Triller", "Sirr", "Macəra", "Sosializm"]
+  },
+  {
+    "mainWord": "İçimdəki Yalnızlıq",
+    "forbiddenWords": ["Sylvia Plath", "Drama", "Feminist", "Şeir", "Kitab"]
+  },
+  {
+    "mainWord": "Şəhərlər",
+    "forbiddenWords": ["Istanbul", "Roman", "Kitab", "Tarix", "Drama"]
+  },
+  {
+    "mainWord": "Gecənin Gözləri",
+    "forbiddenWords": ["John Green", "Roman", "Drama", "Aşk", "Həyat"]
+  },
+  {
+    "mainWord": "Qumarbaz",
+    "forbiddenWords": ["Dostoyevski", "Ruletka", "Borc", "Polina", "Psixoloji"]
+  },
+  {
+    "mainWord": "Yeraltından Qeydlər",
+    "forbiddenWords": ["Dostoyevski", "Anti-qəhrəman", "Monoloq", "Peterburq", "Ekzistensializm"]
+  },
+  {
+    "mainWord": "Alçaldılmış və Təhqir Edilmişlər",
+    "forbiddenWords": ["Dostoyevski", "Nataşa İxmeneva", "Knyaz Valkovski", "Sevgi", "Peterburq"]
+  },
+  {
+    "mainWord": "Ecinnilər",
+    "forbiddenWords": ["Dostoyevski", "Stavrogin", "Nihilizm", "İnqilabçı", "Fəlsəfi Roman"]
+  },
+  {
+    "mainWord": "Diriliş",
+    "forbiddenWords": ["Tolstoy", "Nexlyudov", "Katyuşa Maslova", "Məhkəmə", "Vicdan"]
+  },
+  {
+    "mainWord": "İvan İlyiçin Ölümü",
+    "forbiddenWords": ["Tolstoy", "Məmur", "Həyatın Mənası", "Ölüm", "Fəlsəfi Povest"]
+  },
+  {
+    "mainWord": "Hacı Murad",
+    "forbiddenWords": ["Tolstoy", "Qafqaz", "Dağlı Lideri", "Rusiya İmperiyası", "Tarixi Povest"]
+  },
+  {
+    "mainWord": "İlk Aşk",
+    "forbiddenWords": ["Turgenyev", "Vladimir", "Zinaida", "Gənclik", "Romantik Povest"]
+  },
+  {
+    "mainWord": "Mumu",
+    "forbiddenWords": ["Turgenyev", "Gerasim", "Lal", "İt", "Kəndli Həyatı"]
+  },
+  {
+    "mainWord": "Oblomov",
+    "forbiddenWords": ["Qonçarov", "Tənbəllik", "Divan", "Apatiya", "Rusiya"]
+  },
+  {
+    "mainWord": "Nə Etməli?",
+    "forbiddenWords": ["Çernışevski", "Vera Pavlovna", "Yeni İnsanlar", "Sosializm", "Utopiya"]
+  },
+  {
+    "mainWord": "Biz",
+    "forbiddenWords": ["Zamyatin", "Distopiya", "Vahid Dövlət", "Nömrələr", "Elmi Fantastika"]
+  },
+  {
+    "mainWord": "Usta və Marqarita",
+    "forbiddenWords": ["Bulqakov", "Voland", "Pontiy Pilat", "Sevgi", "Moskva"]
+  },
+  {
+    "mainWord": "İt Ürəyi",
+    "forbiddenWords": ["Bulqakov", "Professor Preobrajenski", "Şarikov", "Satira", "Elmi Eksperiment"]
+  },
+  {
+    "mainWord": "Doktor Jivaqo",
+    "forbiddenWords": ["Pasternak", "Rusiya İnqilabı", "Şair", "Lara", "Sevgi"]
+  },
+  {
+    "mainWord": "QULAQ Arxipelaqı",
+    "forbiddenWords": ["Soljenitsın", "Sovet Həbs Düşərgələri", "Repressiya", "Tarixi Araşdırma", "Şahidlik"]
+  },
+  {
+    "mainWord": "İvan Denisoviçin Bir Günü",
+    "forbiddenWords": ["Soljenitsın", "Həbs Düşərgəsi", "Şuxov", "Sovet Sistemi", "Bir Gün"]
+  },
+  {
+    "mainWord": "Qızılgülün Adı",
+    "forbiddenWords": ["Umberto Eko", "Orta Əsrlər", "Monastır", "Cinayət", "Semiоtika"]
+  },
+  {
+    "mainWord": "Fuko Sarkaçı",
+    "forbiddenWords": ["Umberto Eko", "Gizli Cəmiyyətlər", "Tarix", "Konspirasiya", "Semiоtika"]
+  },
+  {
+    "mainWord": "Əgər Qış Gecəsi Bir Səyyah",
+    "forbiddenWords": ["İtalo Kalvino", "Postmodernizm", "Oxucu", "Roman İçində Roman", "Labirint"]
+  },
+  {
+    "mainWord": "Görünməz Şəhərlər",
+    "forbiddenWords": ["İtalo Kalvino", "Marko Polo", "Kubilay Xan", "Xəyali Şəhərlər", "Fəlsəfi"]
+  },
+  {
+    "mainWord": "Gepard",
+    "forbiddenWords": ["Lampedusa", "Siciliya", "Aristokratiya", "Dəyişiklik", "Tarixi Roman"]
+  },
+  {
+    "mainWord": "Dekameron",
+    "forbiddenWords": ["Bokkaççio", "Vəba", "Florensiya", "Hekayələr", "İntibah"]
+  },
+  {
+    "mainWord": "İlahi Komediya",
+    "forbiddenWords": ["Dante Aligyeri", "Cəhənnəm", "Araf", "Cənnət", "Beatris"]
+  },
+  {
+    "mainWord": "Hökmdar",
+    "forbiddenWords": ["Makiavelli", "Siyasət", "Güc", "Florensiya", "Realizm"]
+  },
+  {
+    "mainWord": "Kenterberi Hekayələri",
+    "forbiddenWords": ["Çoser", "Zəvvarlar", "İngiltərə", "Orta Əsrlər", "Hekayələr Çərçivəsi"]
+  },
+  {
+    "mainWord": "İtirilmiş Cənnət",
+    "forbiddenWords": ["Milton", "Adəm və Həvva", "Şeytan", "Düşüş", "Epik Poema"]
+  },
+  {
+    "mainWord": "Qorio Ata",
+    "forbiddenWords": ["Balzak", "İnsan Komediyası", "Paris", "Rastinyak", "Ata Sevgisi"]
+  },
+  {
+    "mainWord": "Vadidəki Zambaq",
+    "forbiddenWords": ["Balzak", "Henrietta", "Feliks", "Platonik Sevgi", "Fransız Əyaləti"]
+  },
+  {
+    "mainWord": "Qırmızı və Qara",
+    "forbiddenWords": ["Stendal", "Jülyen Sorel", "Hırs", "Sevgi", "Fransa"]
+  },
+  {
+    "mainWord": "Parma Monastırı",
+    "forbiddenWords": ["Stendal", "Fabritsio del Donqo", "İtaliya", "Macəra", "Siyasi İntriqa"]
+  },
+  {
+    "mainWord": "Nana",
+    "forbiddenWords": ["Emil Zolya", "Kurtizan", "Paris", "Naturalizm", "Cazibə"]
+  },
+  {
+    "mainWord": "Jerminal",
+    "forbiddenWords": ["Emil Zolya", "Mədənçilər", "Tətil", "Fransa", "Sosial Roman"]
+  },
+  {
+    "mainWord": "Müharibənin Qadın Olmayan Üzü",
+    "forbiddenWords": ["Svetlana Aleksiyeviç", "II Dünya Müharibəsi", "Qadınların Hekayələri", "Sənədli Nəsr", "Nobel"]
+  },
+  {
+    "mainWord": "Zen və Motosiklet Baxımı Sənəti",
+    "forbiddenWords": ["Pirsig", "Fəlsəfə", "Motosiklet Səyahəti", "Keyfiyyət", "Ata-Oğul"]
+  },
+  {
+    "mainWord": "Ot Yarpaqları",
+    "forbiddenWords": ["Volt Vitmen", "Amerika Poeziyası", "Sərbəst Şeir", "Demokratiya", "Təbiət"]
+  },
+  {
+    "mainWord": "Milad Nəğməsi",
+    "forbiddenWords": ["Dikkens", "Ebenezer Skruc", "Hayaletlər", "Noel", "Dəyişim"]
+  },
+  {
+    "mainWord": "Aslan, Cadugər və Dolab",
+    "forbiddenWords": ["K. S. Luis", "Narniya", "Fantastika", "Uşaqlar", "Ağ Cadugər"]
+  },
+  {
+    "mainWord": "Polkovnikə Heç Kim Yazmır",
+    "forbiddenWords": ["Qarsia Markes", "Gözləmək", "Təqaüd", "Xoruz Döyüşü", "Latın Amerikası"]
+  },
+  {
+    "mainWord": "Vəba Zamanı Sevgi",
+    "forbiddenWords": ["Qarsia Markes", "Fermina Daza", "Florentino Ariza", "Gözləmək", "Kolumbiya"]
+  },
+  {
+    "mainWord": "Kimyagər",
+    "forbiddenWords": ["Paulo Koelyo", "Santyaqo", "Xəzinə Axtarışı", "Səhra", "Fəlsəfi Roman"]
+  },
+  {
+    "mainWord": "Veronika Ölməyə Qərar Verir",
+    "forbiddenWords": ["Paulo Koelyo", "İntihar Cəhdi", "Psixiatriya Klinikası", "Həyatın Mənası", "Sloveniya"]
+  },
+  {
+    "mainWord": "On Bir Dəqiqə",
+    "forbiddenWords": ["Paulo Koelyo", "Mariya", "Fahişəlik", "Sevgi", "Cinsəllik"]
+  },
+  {
+    "mainWord": "Atlas Çiyinlərini Atdı",
+    "forbiddenWords": ["Ayn Rand", "Obyektivizm", "Fəlsəfi Roman", "Con Qolt", "Sənayeçilər"]
+  },
+  {
+    "mainWord": "Həyat Bulağı",
+    "forbiddenWords": ["Ayn Rand", "Hovard Roark", "Memarlıq", "Fərdiyyətçilik", "Obyektivizm"]
+  },
+  {
+    "mainWord": "İpək",
+    "forbiddenWords": ["Alessandro Barikko", "Fransa", "Yaponiya", "İpək Böcəyi Yumurtası", "Sevgi"]
+  },
+  {
+    "mainWord": "Okean Dəniz",
+    "forbiddenWords": ["Alessandro Barikko", "Otel", "Dəniz", "Qəribə Personajlar", "Poetik Nəsr"]
+  },
+  {
+    "mainWord": "Rüzgarın Adı",
+    "forbiddenWords": ["Patrik Rotfuss", "Kvot", "Fantastika", "Sehr", "Universitet"]
+  },
+  {
+    "mainWord": "Norveç Meşəsi",
+    "forbiddenWords": ["Haruki Murakami", "Tokio", "Toru Vatanabe", "Naoko", "Nostalji"]
+  },
+  {
+    "mainWord": "Kafka Sahildə",
+    "forbiddenWords": ["Haruki Murakami", "Kafka Tamura", "Nakata", "Sehrli Realizm", "Pişiklər"]
+  },
+  {
+    "mainWord": "1Q84",
+    "forbiddenWords": ["Haruki Murakami", "Aomame", "Tenqo", "Alternativ Reallıq", "İki Ay"]
+  },
+  {
+    "mainWord": "Görünməz Adam",
+    "forbiddenWords": ["Ralf Ellison", "İrqçilik", "Kimlik Axtarışı", "ABŞ", "Afroamerikan"]
+  },
+  {
+    "mainWord": "Sevgili",
+    "forbiddenWords": ["Toni Morrison", "Sete", "Kölelik Sonrası", "Hayalet", "Travma"]
+  },
+  {
+    "mainWord": "Damızlık Kızın Öyküsü",
+    "forbiddenWords": ["Marqaret Etvud", "Gilead", "Distopiya", "Qadınlar", "Doğurqanlıq"]
+  },
+  {
+    "mainWord": "Körlük",
+    "forbiddenWords": ["Joze Saramaqo", "Epidemiya", "Görmə Qabiliyyətini İtirmək", "Alleqoriya", "Portuqaliya"]
+  },
+  {
+    "mainWord": "Ölüm Bir Varmış Bir Yokmuş",
+    "forbiddenWords": ["Joze Saramaqo", "Ölümün Tətili", "Fəlsəfi", "Məcaz", "Portuqaliya"]
+  },
+  {
+    "mainWord": "Gecəyarısı Uşaqları",
+    "forbiddenWords": ["Salman Rüşdi", "Hindistanın Bağımsızlığı", "Səlim Sinay", "Sehrli Realizm", "Buker"]
+  },
+  {
+    "mainWord": "Şeytan Ayələri",
+    "forbiddenWords": ["Salman Rüşdi", "Mübahisəli", "İslam", "Mühacirət", "Fetva"]
+  },
+  {
+    "mainWord": "Varolmanın Dayanılmaz Hafifliği",
+    "forbiddenWords": ["Milan Kundera", "Praqa Baharı", "Tereza", "Tomaş", "Sevgi"]
+  },
+  {
+    "mainWord": "Zarafat",
+    "forbiddenWords": ["Milan Kundera", "Çexoslovakiya", "Kommunizm", "Məktub", "Siyasi Satira"]
+  },
+  {
+    "mainWord": "Vegas'ta Korku ve Nefret",
+    "forbiddenWords": ["Hanter S. Tompson", "Qonzo Jurnalistika", "Las Veqas", "Uyuşturucu", "Amerika Rüyası"]
+  },
+  {
+    "mainWord": "Otostopçunun Galaksi Rehberi",
+    "forbiddenWords": ["Duqlas Adams", "Artur Dent", "Bilim Kurgu Komedi", "42", "Dəsmal"]
+  },
+  {
+    "mainWord": "Androidler Elektrikli Koyun Düşler mi?",
+    "forbiddenWords": ["Filip K. Dik", "Bıçaq Sırtı Əsası", "Replikantlar", "Empatiya Testi", "Bilim Kurgu"]
+  },
+  {
+    "mainWord": "Yüksek Şatodaki Adam",
+    "forbiddenWords": ["Filip K. Dik", "Alternativ Tarix", "Nasist Qalibiyyəti", "I Ching", "Bilim Kurgu"]
+  },
+  {
+    "mainWord": "Çocukluğun Sonu",
+    "forbiddenWords": ["Artur C. Klark", "Uzaylılar", "İnsanlığın Evrimi", "Qızıl Çağ", "Bilim Kurgu"]
+  },
+  {
+    "mainWord": "2010: Uzay Efsanesi",
+    "forbiddenWords": ["Artur C. Klark", "HAL 9000", "Yupiter", "Monolit", "Devam Filmi"]
+  },
+  {
+    "mainWord": "Ben Efsaneyim",
+    "forbiddenWords": ["Riçard Metison", "Vampirlər", "Son İnsan", "Tənhalıq", "Post-apokaliptik"]
+  },
+  {
+    "mainWord": "Cthulhu'nun Çağrısı",
+    "forbiddenWords": ["H.P. Lavkraft", "Kosmik Dəhşət", "Qədim Tanrılar", "Kult", "Manyaklık"]
+  },
+  {
+    "mainWord": "O",
+    "forbiddenWords": ["Stiven Kinq", "Pennivayz", "Kloun", "Uşaqlıq Travması", "Deri"]
+  },
+  {
+    "mainWord": "Hayvan Mezarlığı",
+    "forbiddenWords": ["Stiven Kinq", "Dirilmə", "Qəbiristanlıq", "Kədər", "Korku"]
+  },
+  {
+    "mainWord": "Mahşer",
+    "forbiddenWords": ["Stiven Kinq", "Virus", "Qiyamət Sonrası", "Yaxşı və Pis", "Epick Roman"]
+  },
+  {
+    "mainWord": "Kujo",
+    "forbiddenWords": ["Stiven Kinq", "İt", "Quduzluq", "Qapalı Məkan", "Korku"]
+  },
+  {
+    "mainWord": "On Kiçik Zənci",
+    "forbiddenWords": ["Aqata Kristi", "Ada", "Cinayət", "Say Azalması", "Gizem"]
+  },
+  {
+    "mainWord": "Şərq Ekspresində Qətl",
+    "forbiddenWords": ["Aqata Kristi", "Herkül Puaro", "Qatar", "Cinayət", "Şübhəlilər"]
+  },
+  {
+    "mainWord": "Rocer Ekroydun Qətli",
+    "forbiddenWords": ["Aqata Kristi", "Herkül Puaro", "Nəqledici", "Sürpriz Son", "Gizem"]
+  },
+  {
+    "mainWord": "Nildə Ölüm",
+    "forbiddenWords": ["Aqata Kristi", "Herkül Puaro", "Gəmi", "Mısır", "Cinayət"]
+  },
+  {
+    "mainWord": "Da Vinçi Şifrəsi",
+    "forbiddenWords": ["Den Braun", "Robert Lenqdon", "Simvoloqiya", "Gizli Cəmiyyət", "Luvr"]
+  },
+  {
+    "mainWord": "Mələklər və Şeytanlar",
+    "forbiddenWords": ["Den Braun", "Robert Lenqdon", "İlluminati", "Vatikan", "Antimaddə"]
+  },
+  {
+    "mainWord": "Cəhənnəm",
+    "forbiddenWords": ["Den Braun", "Robert Lenqdon", "Dante", "Florensiya", "Virus"]
+  },
+  {
+    "mainWord": "Ejderha Dövmeli Kız",
+    "forbiddenWords": ["Stiq Larsson", "Lizbet Salander", "Mikael Blumkvist", "İsveç", "Hakker"]
+  },
+  {
+    "mainWord": "Uçurtma Ovçusu",
+    "forbiddenWords": ["Xalid Hüseyni", "Əfqanıstan", "Amir", "Həsən", "Dostluq"]
+  },
+  {
+    "mainWord": "Min Möhtəşəm Günəş",
+    "forbiddenWords": ["Xalid Hüseyni", "Əfqanıstan", "Məryəm", "Leyla", "Qadınlar"]
+  },
+  {
+    "mainWord": "Pi'nin Yaşamı",
+    "forbiddenWords": ["Yann Martel", "Hindistanlı Oğlan", "Pələng", "Okean", "Hayatta Kalma"]
+  },
+  {
+    "mainWord": "Kitab Oğrusu",
+    "forbiddenWords": ["Markus Zusak", "Lizel Meminger", "Nasist Almaniyası", "Ölüm Nəqledici", "Kitablar"]
+  },
+  {
+    "mainWord": "Arıların Gizli Yaşamı",
+    "forbiddenWords": ["Sue Monk Kidd", "Cənubi Karolina", "Arıçılıq", "Qız Qardaşlar", "Irqçılık"]
+  },
+  {
+    "mainWord": "Mor Rəng",
+    "forbiddenWords": ["Elis Volker", "Seli", "Cənub", "Məktublar", "Qadınlar"]
+  },
+  {
+    "mainWord": "Yaban",
+    "forbiddenWords": ["Çeril Streyd", "Təbiət Yürüyüşü", "Pasifik Sırt Yolu", "Özünü Kəşf", "Anı"]
+  },
+  {
+    "mainWord": "Ye, Dua Et, Sev",
+    "forbiddenWords": ["Elizabet Gilbert", "Səyahət", "İtalya", "Hindistan", "Bali"]
+  },
+  {
+    "mainWord": "Marslı",
+    "forbiddenWords": ["Endi Vir", "Mars", "Astronavt", "Hayatta Kalma", "Bilim Kurgu"]
+  },
+  {
+    "mainWord": "Percy Jackson və Şimşək Oğrusu",
+    "forbiddenWords": ["Rik Riordan", "Yunan Mitolojiyası", "Yarı Tanrı", "Kamp", "Macəra"]
+  },
+  {
+    "mainWord": "Qızıl Kompas",
+    "forbiddenWords": ["Filip Pullman", "Lyra Belakva", "Daemon", "Paralel Dünyalar", "Fantastika"]
+  },
+  {
+    "mainWord": "Anna Frankın Gündəliyi",
+    "forbiddenWords": ["Anna Frank", "Gündəlik", "Nasist", "Gizlənmə", "II Dünya Müharibəsi"]
+  },
+  {
+    "mainWord": "Siddhartha",
+    "forbiddenWords": ["Herman Hesse", "Budda", "Axtarış", "Mənəviyyat", "Hindistan"]
+  },
+  {
+    "mainWord": "Bozqır Qurdu",
+    "forbiddenWords": ["Herman Hesse", "Harri Haller", "İkili Şəxsiyyət", "Yalnızlıq", "Magik Teatr"]
+  },
+  {
+    "mainWord": "Şüşə Qəsr",
+    "forbiddenWords": ["Canett Uolls", "Anı", "Yoxsulluq", "Ailə", "Köçəri Həyat"]
+  },
+  {
+    "mainWord": "Suçluluk",
+    "forbiddenWords": ["Jussi Adler-Olsen", "Departament Q", "Detektiv", "Soyuq Dosya", "Danimarka"]
+  },
+  {
+    "mainWord": "İnsan Qəlbinin Xəritəsi",
+    "forbiddenWords": ["Süzanna Kaysen", "Psixiatriya Klinikası", "Anı", "Depressiya", "1960-lar"]
+  },
+  {
+    "mainWord": "Saatlar",
+    "forbiddenWords": ["Maykl Kanningem", "Virciniya Vulf", "Üç Qadın", "Mrs. Dalloway", "Pulitzer"]
+  },
+  {
+    "mainWord": "Səhra Çiçəyi",
+    "forbiddenWords": ["Varis Diriye", "Avtobioqrafiya", "Somali", "Qadın Sünnəti", "Model"]
+  },
+  {
+    "mainWord": "Ağ Zənci",
+    "forbiddenWords": ["Mark Tven", "Cüdo", "Qanun", "Satira", "Amerika"]
+  },
+  {
+    "mainWord": "Qara Lalə",
+    "forbiddenWords": ["Aleksandr Düma", "Hollandiya", "Lalə", "Məhbus", "Sevgi"]
+  },
+  {
+    "mainWord": "Monte Kristo Qrafı",
+    "forbiddenWords": ["Aleksandr Düma", "Edmon Dantes", "İntiqam", "Həbsxana", "Xəzinə"]
+  },
+  {
+    "mainWord": "Suç və İtiraflar",
+    "forbiddenWords": ["Sofokl", "Edip", "Kahin Tiresiy", "Korluq", "Tragediya"]
+  },
+  {
+    "mainWord": "Odysseya",
+    "forbiddenWords": ["Homer", "Odissey", "Troyadan Qayıdış", "Səyahət", "Epik Poema"]
+  },
+  {
+    "mainWord": "İliada",
+    "forbiddenWords": ["Homer", "Troya Müharibəsi", "Axilles", "Hektor", "Epik Poema"]
+  },
+  {
+    "mainWord": "Antiqona",
+    "forbiddenWords": ["Sofokl", "Kreon", "Qardaşının Dəfni", "Qanun", "Tragediya"]
+  },
+  {
+    "mainWord": "Medeya",
+    "forbiddenWords": ["Evripid", "Yason", "İntiqam", "Uşaqlarını Öldürmək", "Tragediya"]
+  },
+  {
+    "mainWord": "Faust",
+    "forbiddenWords": ["Göte", "Mefistofel", "Pakt", "Marqarita", "Alman Ədəbiyyatı"]
+  },
+  {
+    "mainWord": "Gənc Verterin İzdirabları",
+    "forbiddenWords": ["Göte", "Məktub Roman", "Lotte", "İntihar", "Romantizm"]
+  },
+  {
+    "mainWord": "Nibelunqlar Nəğməsi",
+    "forbiddenWords": ["Orta Əsr Alman Eposu", "Zigfrid", "Krimhilda", "Əjdaha", "Xəzinə"]
+  },
+  {
+    "mainWord": "Tristan və İzolda",
+    "forbiddenWords": ["Orta Əsr Romantizmi", "Kelt Əfsanəsi", "Sevgi İksiri", "Qadağan Olunmuş Eşq", "Faciə"]
+  },
+  {
+    "mainWord": "Robin Hud",
+    "forbiddenWords": ["İngilis Xalq Əfsanəsi", "Şervud Meşəsi", "Zəngindən Alıb Kasıba Vermək", "Oxçu", "Nottingem Şerifi"]
+  },
+  {
+    "mainWord": "Artur Əfsanələri",
+    "forbiddenWords": ["Kral Artur", "Kamelo", "Dəyirmi Masa Şövalyələri", "Mərlın", "Ekskalibur"]
+  },
+  {
+    "mainWord": "Min Bir Gecə",
+    "forbiddenWords": ["Şəhrizad", "Şəhriyar", "Nağıllar Çərçivəsi", "Ərəb Ədəbiyyatı", "Şərq"]
+  },
+  {
+    "mainWord": "Şahnamə",
+    "forbiddenWords": ["Firdovsi", "Fars Eposu", "Rüstəm", "İran Tarixi", "Qəhrəmanlıq"]
+  },
+  {
+    "mainWord": "Gülşən-i Raz",
+    "forbiddenWords": ["Şəbüstəri", "Sufi", "Fəlsəfi Poema", "Sual-Cavab", "Mənəviyyat"]
+  },
+  {
+    "mainWord": "Məntiq üt-Teyr",
+    "forbiddenWords": ["Fəridəddin Əttar", "Quşların Dili", "Simurq", "Sufi", "Alleqorik Poema"]
+  },
+  {
+    "mainWord": "Divan-i Kəbir",
+    "forbiddenWords": ["Mövlana Cəlaləddin Rumi", "Sufi", "Şeirlər", "Eşq", "Fars"]
+  },
+  {
+    "mainWord": "Məsnəviyi-Mənəvi",
+    "forbiddenWords": ["Mövlana Cəlaləddin Rumi", "Sufi", "Didaktik Poema", "Hekayələr", "Əxlaq"]
+  },
+  {
+    "mainWord": "Səfərnamə",
+    "forbiddenWords": ["Nasir Xosrov", "Səyahət Qeydləri", "Orta Əsrlər", "Yeddi İllik Səfər", "İsmaili"]
+  },
+  {
+    "mainWord": "Qabusnamə",
+    "forbiddenWords": ["Keykavus", "Oğula Nəsihət", "Əxlaq", "Dövlət İdarəçiliyi", "Fars"]
+  },
+  {
+    "mainWord": "Mahabharata",
+    "forbiddenWords": ["Hind Eposu", "Pandavalar", "Kurukşetra Müharibəsi", "Krişna", "Bhagavad Gita"]
+  },
+  {
+    "mainWord": "Ramayana",
+    "forbiddenWords": ["Hind Eposu", "Rama", "Sita", "Hanuman", "Ravana"]
+  },
+  {
+    "mainWord": "Tao Te Çinq",
+    "forbiddenWords": ["Lao Tzu", "Taoizm", "Fəlsəfi Mətn", "Yol", "Çin"]
+  },
+  {
+    "mainWord": "Konfusinin Söhbətləri",
+    "forbiddenWords": ["Konfusi", "Analektlər", "Fəlsəfə", "Əxlaq", "Çin"]
+  },
+  {
+    "mainWord": "Müharibə Sənəti",
+    "forbiddenWords": ["Sun Tzu", "Strategiya", "Hərbi", "Taktika", "Çin"]
+  },
+  {
+    "mainWord": "Yuxuda Görülmüş Yuxu",
+    "forbiddenWords": ["Cao Xueqin", "Qırmızı Otaq Yuxusu", "Çin Romanı", "Ailə Saqası", "Klassik"]
+  },
+  {
+    "mainWord": "Su Marjı",
+    "forbiddenWords": ["Çin Romanı", "108 Qanundankənar", "Üsyan", "Liangşan Bataklığı", "Klassik"]
+  },
+  {
+    "mainWord": "Üç Krallığın Romanı",
+    "forbiddenWords": ["Çin Romanı", "Tarixi", "Han Xanədanının Sonu", "Liu Bei", "Cao Cao"]
+  },
+  {
+    "mainWord": "Genji Hekayəsi",
+    "forbiddenWords": ["Murasaki Şikibu", "Yapon Romanı", "Heian Dövrü", "Şahzadə", "İlk Roman"]
+  },
+  {
+    "mainWord": "Sakınanın Divarı",
+    "forbiddenWords": ["Çingiz Aytmatov", "Qırğızıstan", "Canavarlar", "İnsan və Təbiət", "Sovet"]
+  },
+  {
+    "mainWord": "Əsrə Bərabər Gün",
+    "forbiddenWords": ["Çingiz Aytmatov", "Yedigey", "Kosmos", "Mankurt", "Sovet"]
+  },
+  {
+    "mainWord": "Cəmilə",
+    "forbiddenWords": ["Çingiz Aytmatov", "Qırğızıstan", "Sevgi", "Müharibə", "Povest"]
+  },
+  {
+    "mainWord": "Ağ Gəmi",
+    "forbiddenWords": ["Çingiz Aytmatov", "Uşaq", "Baba", "Maral Ana", "Mifologiya"]
+  },
+  {
+    "mainWord": "Martin İden",
+    "forbiddenWords": ["Cek London", "Yazıçı Olmaq", "Sevgi", "Sinfi Fərq", "Avtobioqrafik"]
+  },
+  {
+    "mainWord": "Dəmir Daban",
+    "forbiddenWords": ["Cek London", "Distopiya", "Sosializm", "Oliqraxiya", "ABŞ"]
+  },
+  {
+    "mainWord": "Məhəbbət Həyatdır",
+    "forbiddenWords": ["Cek London", "Qısa Hekayələr Toplusu", "Sevgi", "Macəra", "Şimal"]
+  },
+  {
+    "mainWord": "Görünməz Adam (H.G. Wells)",
+    "forbiddenWords": ["H. G. Wells", "Elm Adamı", "Görünməzlik", "Dəlilik", "Elmi Fantastika"]
+  },
+  {
+    "mainWord": "Dünyaların Müharibəsi",
+    "forbiddenWords": ["H. G. Wells", "Marslılar", "İstila", "London", "Elmi Fantastika"]
+  },
+  {
+    "mainWord": "Zaman Maşını",
+    "forbiddenWords": ["H. G. Wells", "Gələcəyə Səyahət", "Eloylar", "Morloklar", "Elmi Fantastika"]
+  },
+  {
+    "mainWord": "Doktor Moronun Adası",
+    "forbiddenWords": ["H. G. Wells", "Heyvanları İnsana Çevirmək", "Elmi Eksperiment", "Ada", "Elmi Fantastika"]
+  },
+  {
+    "mainWord": "Qar Kraliçası",
+    "forbiddenWords": ["Hans Xristian Andersen", "Kay", "Gerda", "Sehrli Güzgü", "Nağıl"]
+  },
+  {
+    "mainWord": "Su Pərisi",
+    "forbiddenWords": ["Hans Xristian Andersen", "Dəniz Qızı", "Şahzadə", "Ayaqlar", "Nağıl"]
+  },
+  {
+    "mainWord": "Çirkin Ördək Balası",
+    "forbiddenWords": ["Hans Xristian Andersen", "Fərqlilik", "Qəbul Edilməmək", "Qu Quşu", "Nağıl"]
+  },
+  {
+    "mainWord": "Kralın Yeni Paltarı",
+    "forbiddenWords": ["Hans Xristian Andersen", "Dərzi", "Görünməz Parça", "Yalan", "Nağıl"]
+  },
+  {
+    "mainWord": "Qrimm Qardaşlarının Nağılları",
+    "forbiddenWords": ["Alman Xalq Nağılları", "Qırmızı Papaq", "Hansel və Qretel", "Yatmış Gözəl", "Nağıllar Toplusu"]
+  },
+  {
+    "mainWord": "Pinokkionun Macəraları",
+    "forbiddenWords": ["Karlo Kollodi", "Taxta Kukla", "Uzanan Burun", "Mavi Pəri", "İtalyan Nağılı"]
+  },
+  {
+    "mainWord": "Qalaktikada Avtostopla Səyahət",
+    "forbiddenWords": ["Duqlas Adams", "Artur Dent", "Komik Elm Fantastika", "42", "Dəsmal"]
+  },
+  {
+    "mainWord": "Səmada Piknik",
+    "forbiddenWords": ["Struqatski Qardaşları", "Zona", "Stalker", "Artefakt", "Sovet Elm Fantastikası"]
+  },
+  {
+    "mainWord": "İnsanın Taleyi",
+    "forbiddenWords": ["Mixail Şoloxov", "Andrey Sokolov", "II Dünya Müharibəsi", "Həbs Düşərgəsi", "Sovet Ədəbiyyatı"]
+  },
+  {
+    "mainWord": "Sakit Don",
+    "forbiddenWords": ["Mixail Şoloxov", "Kazaklar", "Rusiya İnqilabı", "Qriqori Melexov", "Epik Roman"]
+  },
+  {
+    "mainWord": "Qırmızı Gül",
+    "forbiddenWords": ["Nataniel Hotorn", "Hester Prin", "Puritan Cəmiyyəti", "Günah", "Amerika Ədəbiyyatı"]
+  },
+  {
+    "mainWord": "Dönüş",
+    "forbiddenWords": ["Kafka", "Qreqor Zamza", "Böcək", "Absurd", "Ailə"]
+  },
+  {
+    "mainWord": "Məhkəmə (Kafka)",
+    "forbiddenWords": ["Kafka", "Yozef K.", "Bürokratiya", "Günahsızlıq", "Absurd"]
+  },
+  {
+    "mainWord": "Qəsr",
+    "forbiddenWords": ["Kafka", "K.", "Kənd Ölçən", "Bürokratiya", "Bitməmiş Roman"]
+  },
+  {
+    "mainWord": "Uğultulu Təpələr",
+    "forbiddenWords": ["Emili Bronte", "Hitklif", "Katerina", "Sevgi", "İntiqam"]
+  },
+  {
+    "mainWord": "Ceyn Eyr",
+    "forbiddenWords": ["Şarlotta Bronte", "Roçester", "Qubernant", "Sevgi", "Yetim"]
+  },
+  {
+    "mainWord": "Emma",
+    "forbiddenWords": ["Ceyn Ostin", "Elçi", "Evlilik", "Yanlış Anlaşılmalar", "İngiltərə"]
+  },
+  {
+    "mainWord": "Ağıl və Hiss",
+    "forbiddenWords": ["Ceyn Ostin", "Deşvud Bacıları", "Sevgi", "Məntiq", "Duyğu"]
+  },
+  {
+    "mainWord": "Menfild Parkı",
+    "forbiddenWords": ["Ceyn Ostin", "Fanni Prays", "Qohumlar", "Sosial Tənqid", "Əxlaq"]
+  },
+  {
+    "mainWord": "Şimal Monastırı",
+    "forbiddenWords": ["Ceyn Ostin", "Katerina Morland", "Qotik Roman Parodiyası", "Xəyal Gücü", "Bat"]
+  },
+  {
+    "mainWord": "İnam",
+    "forbiddenWords": ["Ceyn Ostin", "Enn Elliot", "İkinci Şans", "Sevgi", "Dənizçi"]
+  },
+  {
+    "mainWord": "Tom Conşun Hekayəsi",
+    "forbiddenWords": ["Henri Fildinq", "Macəra Romanı", "XVIII əsr İngiltərəsi", "Nikahdan Kənar Uşaq", "Komik"]
+  },
+  {
+    "mainWord": "Pamela",
+    "forbiddenWords": ["Samuel Riçardson", "Məktub Roman", "Xidmətçi Qız", "Əxlaq", "Namus"]
+  },
+  {
+    "mainWord": "Klarissa",
+    "forbiddenWords": ["Samuel Riçardson", "Məktub Roman", "Faciəvi Sevgi", "Zorakılıq", "Uzun Roman"]
+  },
+  {
+    "mainWord": "Moll Flanders",
+    "forbiddenWords": ["Daniel Defo", "Fahişə", "Oğru", "Macəra", "XVIII əsr İngiltərəsi"]
+  },
+  {
+    "mainWord": "Veba İli Gündəliyi",
+    "forbiddenWords": ["Daniel Defo", "London", "Vəba Epidemiyası", "Tarixi Roman", "Jurnalistika"]
+  },
+  {
+    "mainWord": "Candide",
+    "forbiddenWords": ["Volter", "Optimist Fəlsəfə", "Satira", "Macəra", "Pangloss"]
+  },
+  {
+    "mainWord": "İctimai Müqavilə",
+    "forbiddenWords": ["Jan-Jak Russo", "Fəlsəfə", "Siyasət", "Xalq Hakimiyyəti", "Maarifçilik"]
+  },
+  {
+    "mainWord": "Emil və ya Tərbiyə Haqqında",
+    "forbiddenWords": ["Jan-Jak Russo", "Pedaqogika", "Tərbiyə", "Uşaq", "Fəlsəfə"]
+  },
+  {
+    "mainWord": "Qanunların Ruhu",
+    "forbiddenWords": ["Monteskye", "Siyasi Fəlsəfə", "Hakimiyyət Bölgüsü", "Maarifçilik", "Respublika"]
+  },
+  {
+    "mainWord": "Ensiklopedia",
+    "forbiddenWords": ["Didro", "D'Alamber", "Maarifçilik", "Bilik Toplusu", "Fransa"]
+  },
+  {
+    "mainWord": "Utilitarizm",
+    "forbiddenWords": ["Con Stüart Mill", "Fəlsəfə", "Əxlaq", "Maksimum Fayda", "Bentam"]
+  },
+  {
+    "mainWord": "Kapital",
+    "forbiddenWords": ["Karl Marks", "İqtisadiyyat", "Siyasi Fəlsəfə", "Kommunizm", "Sinif Mübarizəsi"]
+  },
+  {
+    "mainWord": "Kommunist Partiyasının Manifesti",
+    "forbiddenWords": ["Karl Marks", "Fridrix Engels", "Kommunizm", "Sinif Mübarizəsi", "Proletariat"]
+  },
+  {
+    "mainWord": "Növlərin Mənşəyi",
+    "forbiddenWords": ["Çarlz Darvin", "Biologiya", "Təkamül", "Təbii Seçmə", "Elm"]
+  },
+  {
+    "mainWord": "Yuxuların Təfsiri",
+    "forbiddenWords": ["Ziqmund Freyd", "Psixoanaliz", "Şüuraltı", "Yuxu", "Psixologiya"]
+  },
+  {
+    "mainWord": "İkinci Cins",
+    "forbiddenWords": ["Simona de Bovuar", "Feminizm", "Qadın", "Ekzistensializm", "Fəlsəfə"]
+  },
+  {
+    "mainWord": "Malone Ölür",
+    "forbiddenWords": ["Samuel Bekket", "Absurd Teatrı", "Trilogiya", "Yataq", "Monoloq"]
+  },
+  {
+    "mainWord": "Qodonu Gözlərkən",
+    "forbiddenWords": ["Samuel Bekket", "Absurd Teatrı", "Vladimir", "Estraqon", "Gözləmək"]
+  },
+  {
+    "mainWord": "Oyunun Sonu",
+    "forbiddenWords": ["Samuel Bekket", "Absurd Teatrı", "Hamm", "Klov", "Səhra"]
+  },
+  {
+    "mainWord": "Kəllər Müğənni",
+    "forbiddenWords": ["Ejen İonesko", "Absurd Teatrı", "Dil Oyunu", "Mənasızlıq", "Pyes"]
+  },
+  {
+    "mainWord": "Kərgədanlar",
+    "forbiddenWords": ["Ejen İonesko", "Absurd Teatrı", "Konformizm", "Totalitarizm", "Pyes"]
+  }
+]
