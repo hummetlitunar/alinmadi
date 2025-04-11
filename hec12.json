@@ -1,0 +1,963 @@
+[
+  {
+    "mainWord": "Atilla",
+    "forbiddenWords": ["Hun", "Hökmdar", "Avropa", "Köçəri", "İmperiya"]
+  },
+  {
+    "mainWord": "Mete Xan",
+    "forbiddenWords": ["Böyük Hun İmperiyası", "Tanhu", "Asiya", "Ordu", "Türk"]
+  },
+  {
+    "mainWord": "Bilgə Xaqan",
+    "forbiddenWords": ["Göytürk", "Xaqan", "Orxon Yazıları", "Kültigin", "Dövlət"]
+  },
+  {
+    "mainWord": "Kültigin",
+    "forbiddenWords": ["Göytürk", "Sərkərdə", "Orxon Yazıları", "Abidə", "Bilgə Xaqan"]
+  },
+  {
+    "mainWord": "Alp Ər Tonqa",
+    "forbiddenWords": ["Əfsanəvi Hökmdar", "Sak", "Turan", "Firudin", "Şahnamə"]
+  },
+  {
+    "mainWord": "Oğuz Xaqan",
+    "forbiddenWords": ["Əfsanəvi Hökmdar", "Türk", "Boylar", "Dastan", "Mete Xan"]
+  },
+  {
+    "mainWord": "Şirvanşah I Mənuçöhr",
+    "forbiddenWords": ["Şirvanşah", "Hökmdar", "Şamaxı", "Səlcuqlar", "Orta Əsrlər"]
+  },
+  {
+    "mainWord": "Şirvanşah I Axsitan",
+    "forbiddenWords": ["Şirvanşah", "Hökmdar", "Nizami Gəncəvi", "Müdrik", "Dərbənd"]
+  },
+  {
+    "mainWord": "Şirvanşah I Fəribürz",
+    "forbiddenWords": ["Şirvanşah", "Hökmdar", "Səlcuqlar", "Qız Qalası", "Mədəniyyət"]
+  },
+  {
+    "mainWord": "Şirvanşah I Xəlilullah",
+    "forbiddenWords": ["Şirvanşah", "Hökmdar", "Bakı", "Saray", "Qaraqoyunlu"]
+  },
+  {
+    "mainWord": "Əbu Bəkr (Atabəy)",
+    "forbiddenWords": ["Eldənizlər", "Atabəy", "Hökmdar", "Məhəmməd Cahan Pəhləvan Oğlu", "Naxçıvan"]
+  },
+  {
+    "mainWord": "Məhəmməd Cahan Pəhləvan",
+    "forbiddenWords": ["Eldənizlər", "Atabəy", "Hökmdar", "Qüdrətli", "Şəmsəddin Oğlu"]
+  },
+  {
+    "mainWord": "Özbək (Atabəy)",
+    "forbiddenWords": ["Eldənizlər", "Son Atabəy", "Cəlaləddin Məngüberdi", "Monqollar", "Süqut"]
+  },
+  {
+    "mainWord": "Sultan Cəlaləddin Məngüberdi",
+    "forbiddenWords": ["Xarəzmşah", "Sərkərdə", "Monqollar", "Müqavimət", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Sultan Səncər",
+    "forbiddenWords": ["Böyük Səlcuq İmperiyası", "Sultan", "Hökmdar", "Katvan Döyüşü", "Oğuzlar"]
+  },
+  {
+    "mainWord": "Sultan Məlikşah",
+    "forbiddenWords": ["Böyük Səlcuq İmperiyası", "Sultan", "Nizamülmülk", "İsfahan", "Qüdrət"]
+  },
+  {
+    "mainWord": "Sultan Alp Arslan",
+    "forbiddenWords": ["Böyük Səlcuq İmperiyası", "Sultan", "Malazgird", "Bizans", "Fateh"]
+  },
+  {
+    "mainWord": "Toğrul Bəy",
+    "forbiddenWords": ["Böyük Səlcuq İmperiyası", "Qurucu", "Sultan", "Rey", "Bağdad"]
+  },
+  {
+    "mainWord": "Qara Yusif",
+    "forbiddenWords": ["Qaraqoyunlu", "Hökmdar", "Teymurilər", "Cəlairilər", "Təbriz"]
+  },
+  {
+    "mainWord": "Cahanşah Həqiqi",
+    "forbiddenWords": ["Qaraqoyunlu", "Hökmdar", "Şair", "Ağqoyunlu", "Təbriz"]
+  },
+  {
+    "mainWord": "Hülaku Xan",
+    "forbiddenWords": ["Elxanilər", "Monqol", "Bağdadın Alınması", "Çingiz Xan Nəvəsi", "Marağa"]
+  },
+  {
+    "mainWord": "Sultan Əhməd Cəlayır",
+    "forbiddenWords": ["Cəlairilər", "Hökmdar", "Bağdad", "Teymur", "Qara Yusif"]
+  },
+  {
+    "mainWord": "Hacı Davud Müşkürlü",
+    "forbiddenWords": ["Ləzgi Üsyanı", "Şirvan", "Osmanlı", "Rusiya", "XVIII əsr"]
+  },
+  {
+    "mainWord": "Surxay Xan Qazıqumuxlu",
+    "forbiddenWords": ["Lak Xanlığı", "Şirvan", "Nadir Şah", "Müqavimət", "Dağıstan"]
+  },
+  {
+    "mainWord": "Pənahəli Xan Cavanşir",
+    "forbiddenWords": ["Qarabağ Xanlığı", "Qurucu", "Şuşa Qalası", "Bayat", "Cavanşir"]
+  },
+  {
+    "mainWord": "Hüseynqulu Xan Sərdar",
+    "forbiddenWords": ["İrəvan Xanlığı", "Son Xan", "Rusiya", "Qacarlar", "Sərdari-İrəvani"]
+  },
+  {
+    "mainWord": "Mustafa Xan Şirvanlı",
+    "forbiddenWords": ["Şirvan Xanlığı", "Xan", "Rusiya", "Ağa Məhəmməd Şah", "Şamaxı"]
+  },
+  {
+    "mainWord": "Mir Mustafa Xan Talışlı",
+    "forbiddenWords": ["Talış Xanlığı", "Xan", "Lənkəran", "Rusiya", "Qacarlar"]
+  },
+  {
+    "mainWord": "Hacı Çələbi Xan",
+    "forbiddenWords": ["Şəki Xanlığı", "Qurucu", "Nadir Şaha Qarşı", "Müstəqillik", "Gələrsən-Görərsən"]
+  },
+  {
+    "mainWord": "Hüseyn Xan Naxçıvanlı",
+    "forbiddenWords": ["Naxçıvan Xanlığı", "Xan", "General", "Çar Rusiyası Ordusu", "Süvari"]
+  },
+  {
+    "mainWord": "Abbas Mirzə Qacar",
+    "forbiddenWords": ["Qacar Şahzadəsi", "Vəliəhd", "Rusiya Müharibələri", "Orduda İslahat", "Təbriz"]
+  },
+  {
+    "mainWord": "Pavel Sisianov",
+    "forbiddenWords": ["Rus Generalı", "Qafqaz Baş Komandanı", "Gəncə İşğalı", "Bakının Alınması", "Öldürülmə"]
+  },
+  {
+    "mainWord": "Aslan Sultan Buduqski",
+    "forbiddenWords": ["Quba Üsyanı (1837)", "Rəhbər", "Çar Rusiyası", "Dağlılar", "Müqavimət"]
+  },
+  {
+    "mainWord": "İsmayıl bəy Qutqaşınlı",
+    "forbiddenWords": ["Çar Rusiyası Ordusu", "General-leytenant", "Qutqaşen", "Hərbçi", "Yazıçı"]
+  },
+  {
+    "mainWord": "Stepan Şaumyan",
+    "forbiddenWords": ["Bakı Komissarı", "Bolşevik", "26-lar", "Erməni", "İnqilabçı"]
+  },
+  {
+    "mainWord": "Qaraqoyunlu-Ağqoyunlu Müharibələri",
+    "forbiddenWords": ["Dövlətlər", "Azərbaycan", "Mübarizə", "Hakimiyyət", "Orta Əsrlər"]
+  },
+  {
+    "mainWord": "Şamxor Döyüşü (1195)",
+    "forbiddenWords": ["Eldənizlər", "Gürcüstan", "Əbu Bəkr", "Tamara", "Qələbə"]
+  },
+  {
+    "mainWord": "Şamxor Döyüşü (1803)",
+    "forbiddenWords": ["Rusiya", "Qacar", "Gəncə Yürüşü", "Qafqaz Müharibələri", "Çar"]
+  },
+  {
+    "mainWord": "Əlincə Qalasının Müdafiəsi",
+    "forbiddenWords": ["Cəlairilər", "Teymurilər", "Naxçıvan", "Qala", "Müqavimət"]
+  },
+  {
+    "mainWord": "Səfəvi-Osmanlı Müharibələri",
+    "forbiddenWords": ["İmperiyalar", "Anadolu", "Qafqaz", "Çaldıran", "Mübarizə"]
+  },
+  {
+    "mainWord": "Səfəvi-Şeybani Müharibələri",
+    "forbiddenWords": ["Şah İsmayıl", "Məhəmməd Şeybani", "Orta Asiya", "Xorasan", "Mərv Döyüşü"]
+  },
+  {
+    "mainWord": "Gəncə üsyanı (1920)",
+    "forbiddenWords": ["Sovet Hakimiyyətinə Qarşı", "ADR Ordusu Qalıqları", "Bolşeviklər", "Yatırılma", "Müqavimət"]
+  },
+  {
+    "mainWord": "Tovuz Döyüşləri (2020)",
+    "forbiddenWords": ["Azərbaycan", "Ermənistan", "Sərhəd", "General Polad Həşimov", "Gərginlik"]
+  },
+  {
+    "mainWord": "Laçın Dəhlizi",
+    "forbiddenWords": ["Qarabağ", "Ermənistan", "Azərbaycan", "Yol", "Nəzarət"]
+  },
+  {
+    "mainWord": "Kürəkçay Müqaviləsi",
+    "forbiddenWords": ["Qarabağ Xanlığı", "Rusiya İmperiyası", "1805", "Asılılıq", "Traktat"]
+  },
+  {
+    "mainWord": "Ədirnə Sülhü (1829)",
+    "forbiddenWords": ["Rusiya", "Osmanlı", "Qara Dəniz Sahili", "Balkanlar", "Müqavilə"]
+  },
+  {
+    "mainWord": "San-Stefano Sülhü",
+    "forbiddenWords": ["Rusiya", "Osmanlı", "1878", "Balkanlar", "Berlin Konqresi"]
+  },
+  {
+    "mainWord": "Berlin Konqresi",
+    "forbiddenWords": ["1878", "Böyük Dövlətlər", "San-Stefano Sülhünün Yenidən Baxılması", "Osmanlı", "Balkanlar"]
+  },
+  {
+    "mainWord": "Qars Müqaviləsi",
+    "forbiddenWords": ["Türkiyə", "Sovet Respublikaları", "1921", "Sərhəd", "Naxçıvan"]
+  },
+  {
+    "mainWord": "Moskva Müqaviləsi (1921)",
+    "forbiddenWords": ["Türkiyə", "Sovet Rusiyası", "Sərhəd", "Dostluq", "Qars Müqaviləsi Əsası"]
+  },
+  {
+    "mainWord": "Məhəmməd Cahan Pəhləvan",
+    "forbiddenWords": ["Atabəy", "Eldəniz", "Şəmsəddin oğlu", "Hakimiyyət", "Azərbaycan"]
+  },
+  {
+    "mainWord": "Özbək (Atabəy)",
+    "forbiddenWords": ["Atabəy", "Eldəniz", "Son hökmdar", "Cəlaləddin", "Monqol"]
+  },
+  {
+    "mainWord": "Mirzə Qədim İrəvani",
+    "forbiddenWords": ["Rəssam", "Azərbaycan", "İrəvan", "Ornament", "Portret"]
+  },
+  {
+    "mainWord": "Bəhmən Mirzə Qacar",
+    "forbiddenWords": ["Qacar şahzadəsi", "Azərbaycan", "Tarixçi", "Rusiya", "Mühacirət"]
+  },
+  {
+    "mainWord": "Əliyar bəy Haşımbəyov",
+    "forbiddenWords": ["ADR", "General-mayor", "Hərbçi", "Qarabağ", "Müdafiə"]
+  },
+  {
+    "mainWord": "Cümşüd Naxçıvanski",
+    "forbiddenWords": ["Sovet hərbi xadimi", "General-leytenant", "Naxçıvan", "Diviziya komandiri", "Repressiya"]
+  },
+  {
+    "mainWord": "Firudin bəy Köçərli",
+    "forbiddenWords": ["Maarifçi", "Ədəbiyyatşünas", "Pedaqoq", "Qori Seminariyası", "Azərbaycan ədəbiyyatı tarixi"]
+  },
+  {
+    "mainWord": "Rəşid bəy Əfəndiyev",
+    "forbiddenWords": ["Maarifçi", "Yazıçı", "Pedaqoq", "Şəki", "Teatr"]
+  },
+  {
+    "mainWord": "Mir Möhsün Nəvvab",
+    "forbiddenWords": ["Şair", "Rəssam", "Musiqişünas", "Şuşa", "Təzkireyi-Nəvvab"]
+  },
+  {
+    "mainWord": "Həsənəli xan Qaradaği",
+    "forbiddenWords": ["Tarixçi", "Şair", "Qarabağ", "Xanəndə", "Təzkirə"]
+  },
+  {
+    "mainWord": "Fəzlullah Nəimi",
+    "forbiddenWords": ["Hürufizm banisi", "Filosof", "Şair", "Ələncə qalası", "Edam"]
+  },
+  {
+    "mainWord": "Fətəli şah Qacar",
+    "forbiddenWords": ["Qacar hökmdarı", "Şah", "Rusiya müharibələri", "Türkmənçay", "Tehran"]
+  },
+  {
+    "mainWord": "Məhəmməd Əli şah Qacar",
+    "forbiddenWords": ["Qacar hökmdarı", "Şah", "Məşrutə inqilabı", "Parlamentin bombalanması", "Devrilmə"]
+  },
+  {
+    "mainWord": "Səttarxan",
+    "forbiddenWords": ["Məşrutə inqilabı rəhbəri", "Təbriz", "Sərdari-milli", "Müqavimət", "İran"]
+  },
+  {
+    "mainWord": "Bağırxan",
+    "forbiddenWords": ["Məşrutə inqilabı rəhbəri", "Təbriz", "Salari-milli", "Səttarxanla birlikdə", "İran"]
+  },
+  {
+    "mainWord": "Şeyx Məhəmməd Xiyabani",
+    "forbiddenWords": ["Azadistan hökuməti", "Təbriz", "Demokrat", "Üsyan", "İran"]
+  },
+  {
+    "mainWord": "Seyid Cəfər Pişəvəri",
+    "forbiddenWords": ["Azərbaycan Milli Hökuməti", "Baş nazir", "Təbriz", "Demokrat", "SSRİ"]
+  },
+  {
+    "mainWord": "Əhməd Kəsrəvi",
+    "forbiddenWords": ["Tarixçi", "Yazıçı", "Dilçi", "İran azərbaycanlısı", "Millətçilik tənqidi"]
+  },
+  {
+    "mainWord": "Şah Təhmasib",
+    "forbiddenWords": ["Səfəvi", "Şah", "Uzun Hökmranlıq", "Osmanlı Müharibələri", "Şah İsmayıl Oğlu"]
+  },
+  {
+    "mainWord": "Aslandüz Döyüşü",
+    "forbiddenWords": ["Rusiya", "Qacar", "1812", "Abbas Mirzə", "Qafqaz Müharibəsi"]
+  },
+  {
+    "mainWord": "Mərv Döyüşü",
+    "forbiddenWords": ["Səfəvi", "Şeybani", "1510", "Şah İsmayıl", "Orta Asiya"]
+  },
+  {
+    "mainWord": "Katvan Döyüşü",
+    "forbiddenWords": ["Səlcuq", "Qara-Xitay", "1141", "Sultan Səncər", "Məğlubiyyət"]
+  },
+  {
+    "mainWord": "Səttarxan",
+    "forbiddenWords": ["Məşrutə İnqilabı", "Sərdari-milli", "Təbriz", "Bağırxan", "İran"]
+  },
+  {
+    "mainWord": "Bağırxan",
+    "forbiddenWords": ["Məşrutə İnqilabı", "Salari-milli", "Təbriz", "Səttarxan", "İran"]
+  },
+  {
+    "mainWord": "Şeyx Məhəmməd Xiyabani",
+    "forbiddenWords": ["Azadistan Hökuməti", "Təbriz", "1920", "Demokrat", "Üsyan"]
+  },
+  {
+    "mainWord": "Seyid Cəfər Pişəvəri",
+    "forbiddenWords": ["Azərbaycan Milli Hökuməti", "1945-1946", "Baş Nazir", "Təbriz", "Demokrat"]
+  },
+  {
+    "mainWord": "I İbrahim Şirvanşah",
+    "forbiddenWords": ["Şirvanşah", "Dərbəndi", "Əmir Teymur", "Diplomatiya", "Hökmdar"]
+  },
+  {
+    "mainWord": "Məhəmməd Əliyev (General)",
+    "forbiddenWords": ["Çar Ordusu", "General-leytenant", "Artilleriya", "Port-Artur", "Hərbçi"]
+  },
+  {
+    "mainWord": "Səfəvi Dövləti",
+    "forbiddenWords": ["Şah İsmayıl", "Qızılbaş", "Şah Abbas", "İsfahan", "Türkman"]
+  },
+  {
+    "mainWord": "Ağqoyunlu Dövləti",
+    "forbiddenWords": ["Uzun Həsən", "Bayandur", "Təbriz", "Qaraqoyunlu", "Osmanlı"]
+  },
+  {
+    "mainWord": "Qaraqoyunlu Dövləti",
+    "forbiddenWords": ["Qara Yusif", "Cahanşah", "Təbriz", "Ağqoyunlu", "Türkman"]
+  },
+  {
+    "mainWord": "Eldənizlər Dövləti",
+    "forbiddenWords": ["Atabəylər", "Şəmsəddin Eldəniz", "Azərbaycan", "Paytaxtlar", "Orta Əsrlər"]
+  },
+  {
+    "mainWord": "Şirvanşahlar Dövləti",
+    "forbiddenWords": ["Şirvan", "Şamaxı", "Bakı", "Uzunömürlü", "Orta Əsrlər"]
+  },
+  {
+    "mainWord": "Sacilər Dövləti",
+    "forbiddenWords": ["Yusif ibn Əbu Sac", "Ərəb Xilafəti", "Azərbaycan", "Marağa", "IX-X əsrlər"]
+  },
+  {
+    "mainWord": "Salarilər Dövləti",
+    "forbiddenWords": ["Mərzban ibn Məhəmməd", "Deyləm", "Azərbaycan", "Ərdəbil", "X əsr"]
+  },
+  {
+    "mainWord": "Rəvvadilər Dövləti",
+    "forbiddenWords": ["Təbriz", "Azərbaycan", "Ərəb mənşəli", "X-XI əsrlər", "Səlcuqlar"]
+  },
+  {
+    "mainWord": "Şəddadilər Dövləti",
+    "forbiddenWords": ["Gəncə", "Arran", "Kürd mənşəli", "Fəzl ibn Məhəmməd", "X-XI əsrlər"]
+  },
+  {
+    "mainWord": "Albanlar",
+    "forbiddenWords": ["Qafqaz Albaniyası", "Qədim Dövlət", "Xalq", "Paytaxt Qəbələ", "Xristianlıq"]
+  },
+  {
+    "mainWord": "Atropatena",
+    "forbiddenWords": ["Qədim Dövlət", "Atropat", "Midiya", "Cənubi Azərbaycan", "Ellinizm"]
+  },
+  {
+    "mainWord": "Manna Dövləti",
+    "forbiddenWords": ["Qədim Dövlət", "Assuriya", "Urartu", "İranzu", "Urmiya Gölü"]
+  },
+  {
+    "mainWord": "Əhmədli-Cavanşir üsyanı (1930)",
+    "forbiddenWords": ["Sovet Hakimiyyətinə qarşı", "Kollektivləşmə", "Kəndli", "Şəki-Zaqatala", "Yatırılma"]
+  },
+  {
+    "mainWord": "1905-1907-ci il İnqilabı",
+    "forbiddenWords": ["Çar Rusiyası", "Bakı", "Fəhlə Hərəkatı", "Erməni-Müsəlman Davası", "Neft"]
+  },
+  {
+    "mainWord": "Mart Soyqırımı (1918)",
+    "forbiddenWords": ["Bakı", "Daşnaklar", "Bolşeviklər", "Mülki Əhali", "Faciə"]
+  },
+  {
+    "mainWord": "20 Yanvar Faciəsi",
+    "forbiddenWords": ["1990", "Bakı", "Sovet Ordusu", "Qırğın", "Milli Azadlıq Hərəkatı"]
+  },
+  {
+    "mainWord": "Əsrin Müqaviləsi",
+    "forbiddenWords": ["Neft", "Xəzər Dənizi", "Beynəlxalq Şirkətlər", "1994", "Heydər Əliyev"]
+  },
+  {
+    "mainWord": "Naxçıvan Muxtar Respublikası",
+    "forbiddenWords": ["Azərbaycan", "Blokada", "Qars Müqaviləsi", "Muxtariyyət", "Eksklav"]
+  },
+  {
+    "mainWord": "Dağlıq Qarabağ Muxtar Vilayəti",
+    "forbiddenWords": ["Sovet Dövrü", "Muxtariyyət", "Erməni Əhali", "Münaqişə", "Ləğv edildi"]
+  },
+  {
+    "mainWord": "Azərbaycan Xalq Cümhuriyyəti (ADR)",
+    "forbiddenWords": ["1918-1920", "İlk Respublika", "Müsəlman Şərqi", "İstiqlal Bəyannaməsi", "Rəsulzadə"]
+  },
+
+
+
+
+[
+  {
+    "mainWord": "Çaldıran Döyüşü",
+    "forbiddenWords": ["1514", "Səfəvi", "Osmanlı", "Şah İsmayıl", "Sultan Səlim"]
+  },
+  {
+    "mainWord": "Şah İsmayıl Xətai",
+    "forbiddenWords": ["Səfəvi", "Şair", "Hökmdar", "Xətai", "Qızılbaş"]
+  },
+  {
+    "mainWord": "Qaraqoyunlular",
+    "forbiddenWords": ["Teymurilər", "Azərbaycan", "Türk", "Bayram Xoca", "Dövlət"]
+  },
+  {
+    "mainWord": "Ağqoyunlular",
+    "forbiddenWords": ["Uzun Həsən", "Qaraqoyunlu", "Azərbaycan", "Türk", "İmperiya"]
+  },
+  {
+    "mainWord": "Uzun Həsən",
+    "forbiddenWords": ["Ağqoyunlu", "Hökmdar", "Osmanlı", "İran", "Siyasət"]
+  },
+  {
+    "mainWord": "Kürəkçay Müqaviləsi",
+    "forbiddenWords": ["1805", "Rusiya", "Qarabağ", "İbrahimxəlil", "İmzalama"]
+  },
+  {
+    "mainWord": "Gülüstan Müqaviləsi",
+    "forbiddenWords": ["1813", "İran", "Rusiya", "Qafqaz", "Sülh"]
+  },
+  {
+    "mainWord": "Türkmənçay Müqaviləsi",
+    "forbiddenWords": ["1828", "Azərbaycan", "Rus", "İran", "Ərazilər"]
+  },
+  {
+    "mainWord": "Babək",
+    "forbiddenWords": ["Xürrəmi", "Ərəb", "Üsyan", "Əhəmiyyətsiz", "Bəzz"]
+  },
+  {
+    "mainWord": "Atabəylər Dövləti",
+    "forbiddenWords": ["Eldənizlər", "Azərbaycan", "Hökmdar", "Şirvan", "Orta əsr"]
+  },
+  {
+    "mainWord": "Cavad Xan",
+    "forbiddenWords": ["Gəncə", "Rusiya", "Qəhrəman", "Qala", "İşğal"]
+  },
+  {
+    "mainWord": "Xocalı Soyqırımı",
+    "forbiddenWords": ["1992", "Erməni", "Qətliam", "Fevral", "Mülki"]
+  },
+  {
+    "mainWord": "Aprel Döyüşləri",
+    "forbiddenWords": ["2016", "Qarabağ", "Ordu", "Şəhid", "Tərtər"]
+  },
+  {
+    "mainWord": "İrəvan Xanlığı",
+    "forbiddenWords": ["Qərbi", "Azərbaycan", "Xanlıq", "Rusiya", "Ermənistan"]
+  },
+  {
+    "mainWord": "Əmir Teymur",
+    "forbiddenWords": ["Səmərqənd", "Orta Asiya", "Hökmdar", "Teymuri", "Savaş"]
+  },
+  {
+    "mainWord": "Nadir Şah",
+    "forbiddenWords": ["Əfşar", "İran", "Savaş", "Tac", "Güclü"]
+  },
+  {
+    "mainWord": "Bərdə Döyüşü",
+    "forbiddenWords": ["Xəzər", "Ərəb", "Tarix", "Qafqaz", "Müqavimət"]
+  },
+  {
+    "mainWord": "Göyçay Üsyanı",
+    "forbiddenWords": ["1918", "Qiyam", "Azərbaycan", "Erməni", "İran"]
+  },
+  {
+    "mainWord": "Şəki Xanlığı",
+    "forbiddenWords": ["Azərbaycan", "Əlimərdan", "Xanlıq", "Şimal", "Tarixi"]
+  },
+  {
+    "mainWord": "Azərbaycan Xalq Cümhuriyyəti",
+    "forbiddenWords": ["1918", "İstiqlal", "Respublika", "Müsavat", "Milli"]
+  },
+  {
+    "mainWord": "Məhəmməd Əmin Rəsulzadə",
+    "forbiddenWords": ["Cümhuriyyət", "Lider", "1918", "Müsavat", "Şüar"]
+  },
+  {
+    "mainWord": "Topxana Meşəsi",
+    "forbiddenWords": ["1988", "Erməni", "Qarabağ", "Etiraz", "İşğal"]
+  },
+  {
+    "mainWord": "Qarabağ Döyüşləri",
+    "forbiddenWords": ["1990", "Şuşa", "Laçın", "Münaqişə", "Sülh"]
+  },
+  {
+    "mainWord": "44 Günlük Müharibə",
+    "forbiddenWords": ["2020", "Qarabağ", "Azərbaycan", "Ermənistan", "Zəfər"]
+  },
+  {
+    "mainWord": "Şuşa Qələbəsi",
+    "forbiddenWords": ["Qarabağ", "2020", "Zəfər", "Dağlıq", "Ordu"]
+  },
+  {
+    "mainWord": "Zəngəzur",
+    "forbiddenWords": ["Dəhliz", "Azərbaycan", "Naxçıvan", "Sərhəd", "Tunel"]
+  },
+  {
+    "mainWord": "İstiqlaliyyət",
+    "forbiddenWords": ["Azadlıq", "Müstəqil", "Millət", "Bayraq", "Milli"]
+  },
+  {
+    "mainWord": "Milli Ordunun Yaranması",
+    "forbiddenWords": ["1918", "Ordu", "Cümhuriyyət", "Əsgər", "Quruluş"]
+  },
+  {
+    "mainWord": "Gəncə Üsyanı",
+    "forbiddenWords": ["1920", "Sovet", "Qiyam", "Bolşevik", "Repressiya"]
+  },
+  {
+    "mainWord": "20 Yanvar",
+    "forbiddenWords": ["1990", "Şəhid", "Sovet", "Bakıda", "Qətliam"]
+  },
+  {
+    "mainWord": "Səfəvilər Dövləti",
+    "forbiddenWords": ["Şah", "Qızılbaş", "İran", "Azərbaycan", "Təbriz"]
+  },
+  {
+    "mainWord": "Təbriz",
+    "forbiddenWords": ["İran", "Azərbaycan", "Səfəvi", "Paytaxt", "Şəhər"]
+  },
+  {
+    "mainWord": "Quba Xanlığı",
+    "forbiddenWords": ["Fətəli Xan", "Azərbaycan", "Şimal", "Xan", "Tarixi"]
+  },
+  {
+    "mainWord": "Fətəli Xan",
+    "forbiddenWords": ["Quba", "Xan", "Azərbaycan", "Rusiya", "Təslim"]
+  },
+  {
+    "mainWord": "Qarabağ Xanlığı",
+    "forbiddenWords": ["İbrahimxəlil", "Şuşa", "Xanlıq", "Qarabağ", "Tarix"]
+  },
+  {
+    "mainWord": "İbrahimxəlil Xan",
+    "forbiddenWords": ["Qarabağ", "Kürəkçay", "Rusiya", "Xan", "Şuşa"]
+  },
+  {
+    "mainWord": "Gəncəli Nadir",
+    "forbiddenWords": ["Şair", "Əsgər", "Qarabağ", "Şuşa", "Xalq"]
+  },
+  {
+    "mainWord": "Xudafərin Körpüsü",
+    "forbiddenWords": ["Körpü", "Araz", "İran", "Tarixi", "Qarabağ"]
+  },
+  {
+    "mainWord": "Ələsgər",
+    "forbiddenWords": ["Aşıq", "Şair", "Xalq", "Saz", "Şeirlər"]
+  },
+  {
+    "mainWord": "Teymurilər",
+    "forbiddenWords": ["Əmir", "Səmərqənd", "İmperiya", "Orta Asiya", "Varis"]
+  },
+  {
+    "mainWord": "Məlik Məmməd",
+    "forbiddenWords": ["Nağıl", "Qəhrəman", "Tarix", "Dastan", "Simvol"]
+  },
+  {
+    "mainWord": "Dədə Qorqud",
+    "forbiddenWords": ["Kitab", "Oğuz", "Boy", "Əfsanə", "Qəhrəman"]
+  },
+  {
+    "mainWord": "Albanlar",
+    "forbiddenWords": ["Qafqaz", "Xristian", "Tarix", "Kilsə", "Şimal"]
+  },
+  {
+    "mainWord": "Sasanilər",
+    "forbiddenWords": ["İran", "Dövlət", "Ərəb", "Qafqaz", "Əhəmənilər"]
+  },
+  {
+    "mainWord": "Aran",
+    "forbiddenWords": ["Tarixi", "Şəki", "Gəncə", "Albaniya", "Vilayət"]
+  },
+  {
+    "mainWord": "Şah Abbas",
+    "forbiddenWords": ["Səfəvi", "Paytaxt", "Təbriz", "Siyasət", "Hökmdar"]
+  },
+  {
+    "mainWord": "Qızılbaşlar",
+    "forbiddenWords": ["Səfəvi", "Ordu", "Tayfa", "İran", "Şah"]
+  },
+  {
+    "mainWord": "Əmirlik",
+    "forbiddenWords": ["Dövlət", "Orta əsr", "Hakimiyyət", "Müsəlman", "Ərəb"]
+  },
+  {
+    "mainWord": "Naxçıvan",
+    "forbiddenWords": ["Muxtar", "Azərbaycan", "Zəngəzur", "Culfa", "İran"]
+  },
+  {
+    "mainWord": "Dərbənd",
+    "forbiddenWords": ["Qapı", "Qala", "Qafqaz", "Şimal", "Tarix"]
+  },
+  {
+    "mainWord": "İkinci Qarabağ Müharibəsi",
+    "forbiddenWords": ["2020", "Qələbə", "Azərbaycan", "Şuşa", "44 Gün"]
+  },
+  {
+    "mainWord": "I Qarabağ Müharibəsi",
+    "forbiddenWords": ["1990", "Ermənistan", "Qarabağ", "Şəhid", "İşğal"]
+  },
+  {
+    "mainWord": "İstiqlal Bəyannaməsi",
+    "forbiddenWords": ["1918", "Azərbaycan", "Müstəqillik", "Tiflisdə", "Milli"]
+  },
+  {
+    "mainWord": "Əli bəy Hüseynzadə",
+    "forbiddenWords": ["Türkçülük", "İdeoloq", "Üçrəngli", "Cümhuriyyət", "Milli"]
+  },
+  {
+    "mainWord": "Ziya Göyalp",
+    "forbiddenWords": ["Türkçü", "Osmanlı", "Fikir", "İdeologiya", "Milli"]
+  },
+  {
+    "mainWord": "Səməd bəy Mehmandarov",
+    "forbiddenWords": ["General", "Azərbaycan", "Qarabağ", "Ordu", "Rusiya"]
+  },
+  {
+    "mainWord": "Nuru Paşa",
+    "forbiddenWords": ["Türkiyə", "Qafqaz İslam Ordusu", "Bakı", "1918", "Qardaşlıq"]
+  },
+  {
+    "mainWord": "Qafqaz İslam Ordusu",
+    "forbiddenWords": ["Türkiyə", "Nuru", "1918", "Bakı", "Qurtuluş"]
+  },
+  {
+    "mainWord": "Cümhuriyyətin süqutu",
+    "forbiddenWords": ["1920", "Sovet", "İşğal", "Bakı", "Moskva"]
+  },
+  {
+    "mainWord": "Naxçıvan Muxtar Respublikası",
+    "forbiddenWords": ["Muxtar", "Azərbaycan", "Sərhəd", "İran", "Ərazi"]
+  },
+  {
+    "mainWord": "Sərkərdə",
+    "forbiddenWords": ["Ordu", "Başçı", "Hərb", "Komandan", "Qələbə"]
+  },
+  {
+    "mainWord": "Qurtuluş Günü",
+    "forbiddenWords": ["15 iyun", "Heydər Əliyev", "1993", "Milli", "Xilas"]
+  },
+  {
+    "mainWord": "Heydər Əliyev",
+    "forbiddenWords": ["Lider", "Ulu öndər", "Prezident", "1993", "Milli"]
+  },
+  {
+    "mainWord": "Məmməd Hadi",
+    "forbiddenWords": ["Şair", "Maarifçi", "Ədəbi", "Xalq", "Cümhuriyyət"]
+  },
+  {
+    "mainWord": "1920-ci il üsyanları",
+    "forbiddenWords": ["Qiyam", "Əsgəran", "Sovet", "Əleyhinə", "Millət"]
+  },
+  {
+    "mainWord": "Şuşa",
+    "forbiddenWords": ["Qarabağ", "Qala", "Mədəniyyət", "Zəfər", "İşğal"]
+  },
+  {
+    "mainWord": "Laçın",
+    "forbiddenWords": ["Qarabağ", "Dəhliz", "İşğal", "Kənd", "2020"]
+  },
+  {
+    "mainWord": "Kəlbəcər",
+    "forbiddenWords": ["Qarabağ", "İşğal", "Azad", "2020", "Şimal-Qərb"]
+  },
+  {
+    "mainWord": "Xankəndi",
+    "forbiddenWords": ["Qarabağ", "Mərkəz", "İşğal", "Separatçı", "Şəhər"]
+  },
+  {
+    "mainWord": "Zəngilan",
+    "forbiddenWords": ["İşğal", "2020", "Azad", "Cənub", "Qarabağ"]
+  },
+  {
+    "mainWord": "Füzuli",
+    "forbiddenWords": ["Qarabağ", "Azad", "Cəbhə", "Şəhər", "2020"]
+  },
+  {
+    "mainWord": "Cəbrayıl",
+    "forbiddenWords": ["Qarabağ", "İşğal", "Azad", "2020", "Cənub"]
+  },
+  {
+    "mainWord": "Tərtər",
+    "forbiddenWords": ["Cəbhə", "Qarabağ", "Bombardman", "Müdafiə", "Şimal"]
+  },
+  {
+    "mainWord": "Beyləqan",
+    "forbiddenWords": ["Rayon", "Sovet", "Cəbhə", "İqtisadiyyat", "İran"]
+  },
+  {
+    "mainWord": "Ələsgər bəy",
+    "forbiddenWords": ["Cümhuriyyət", "Siyasətçi", "Deputat", "Milli", "1918"]
+  },
+  {
+    "mainWord": "Üçrəngli Bayraq",
+    "forbiddenWords": ["Mavi", "Yaşıl", "Qırmızı", "Ulduz", "Hilal"]
+  },
+  {
+    "mainWord": "Batum Konfransı",
+    "forbiddenWords": ["Gürcüstan", "1918", "Azərbaycan", "Müzakirə", "Cümhuriyyət"]
+  },
+  {
+    "mainWord": "Moskva Müqaviləsi",
+    "forbiddenWords": ["1921", "Sovet", "Türkiyə", "Sərhəd", "Razılaşma"]
+  },
+  {
+    "mainWord": "Qars Müqaviləsi",
+    "forbiddenWords": ["Türkiyə", "Azərbaycan", "1921", "Naxçıvan", "Tərəf"]
+  },
+  {
+    "mainWord": "Bakı Soveti",
+    "forbiddenWords": ["1918", "Bolshevik", "Qanlı", "Komissarlar", "Bakı"]
+  },
+  {
+    "mainWord": "26 Bakı Komissarı",
+    "forbiddenWords": ["Bolshevik", "1918", "Sovet", "Qətl", "Qırmızı"]
+  },
+  {
+    "mainWord": "Naxçıvan müqaviləsi",
+    "forbiddenWords": ["1921", "Sərhəd", "Muxtar", "Razılaşma", "SSRİ"]
+  },
+  {
+    "mainWord": "Bakı nefti",
+    "forbiddenWords": ["Sənaye", "İkinci Dünya", "Resurs", "Strategiya", "SSRİ"]
+  },
+  {
+    "mainWord": "Tiflisdə elan",
+    "forbiddenWords": ["1918", "Cümhuriyyət", "İstiqlal", "Bəyannamə", "Gürcüstan"]
+  },
+  {
+    "mainWord": "Azərbaycan SSR",
+    "forbiddenWords": ["Sovet", "1920", "Rejim", "İttifaq", "Qırmızı"]
+  },
+  {
+    "mainWord": "Kirovabad",
+    "forbiddenWords": ["Gəncə", "SSRİ", "Ad dəyişməsi", "Sovet", "Şəhər"]
+  },
+  {
+    "mainWord": "Əhməd bəy Ağayev",
+    "forbiddenWords": ["Publisist", "Müsavat", "Maarif", "Cümhuriyyət", "1918"]
+  },
+  {
+    "mainWord": "Parlament binası",
+    "forbiddenWords": ["Bakı", "Milli Məclis", "Cümhuriyyət", "1920", "Toplantı"]
+  },
+  {
+    "mainWord": "Sovet İttifaqı",
+    "forbiddenWords": ["SSRİ", "Moskva", "Rejim", "Kommunizm", "Blok"]
+  },
+  {
+    "mainWord": "Qars vilayəti",
+    "forbiddenWords": ["Türkiyə", "Ərazi", "Azərbaycan", "Mübahisə", "Tarix"]
+  },
+  {
+    "mainWord": "Kirov",
+    "forbiddenWords": ["Sovet", "Gəncə", "Ad", "Şəhər", "İdeologiya"]
+  },
+  {
+    "mainWord": "Repressiyalar",
+    "forbiddenWords": ["Sovet", "1937", "Əsgər", "Qətl", "İdeologiya"]
+  },
+  {
+    "mainWord": "Ağdam",
+    "forbiddenWords": ["Qarabağ", "İşğal", "Şəhər", "2020", "Azad"]
+  },
+  {
+    "mainWord": "Şahbulaq qalası",
+    "forbiddenWords": ["Qarabağ", "Tarixi", "İbrahimxəlil", "Abidə", "Qala"]
+  },
+  {
+    "mainWord": "Ərtoğrul Qazi",
+    "forbiddenWords": ["Osmanlı", "Ata", "Türk", "Tayfa", "Əcdad"]
+  },
+  {
+    "mainWord": "Göyçə gölü",
+    "forbiddenWords": ["Ermənistan", "Azərbaycan", "SSRİ", "Sərhəd", "Su"]
+  },
+  {
+    "mainWord": "İrəvan şəhəri",
+    "forbiddenWords": ["Paytaxt", "Ermənistan", "Qərbi Azərbaycan", "Tarix", "Qala"]
+  },
+  {
+    "mainWord": "Çaldıran Döyüşü",
+    "forbiddenWords": ["1514", "Səfəvi", "Osmanlı", "Şah İsmayıl", "Yavuz"]
+  },
+  {
+    "mainWord": "Dövlətlərarası Müharibə",
+    "forbiddenWords": ["İki", "Ölkə", "Silah", "Ordu", "Qarşıdurma"]
+  },
+  {
+    "mainWord": "Gülüstan Müqaviləsi",
+    "forbiddenWords": ["1813", "Rusiya", "İran", "Qarabağ", "Sülh"]
+  },
+  {
+    "mainWord": "Türkmənçay Müqaviləsi",
+    "forbiddenWords": ["1828", "İran", "Rusiya", "Azərbaycan", "Naxçıvan"]
+  },
+  {
+    "mainWord": "Ərdəbil Sülhü",
+    "forbiddenWords": ["Səfəvi", "Sülh", "Dövlət", "İran", "Razılaşma"]
+  },
+  {
+    "mainWord": "Ələtən Döyüşü",
+    "forbiddenWords": ["Qızıl Orda", "Xəzər", "Azərbaycan", "XII əsr", "Savaş"]
+  },
+  {
+    "mainWord": "Göyçay Döyüşü",
+    "forbiddenWords": ["1918", "Qafqaz İslam Ordusu", "Azərbaycan", "Türkiyə", "Bolshevik"]
+  },
+  {
+    "mainWord": "Əlincəqala Mühasirəsi",
+    "forbiddenWords": ["Qala", "Mühasirə", "Naxçıvan", "Xanlıq", "Döyüş"]
+  },
+  {
+    "mainWord": "Osmanlı-Səfəvi Müharibəsi",
+    "forbiddenWords": ["Şah", "Sultan", "İran", "Türk", "Mübahisə"]
+  },
+  {
+    "mainWord": "Kürəkçay Müqaviləsi",
+    "forbiddenWords": ["1805", "Rusiya", "Qarabağ", "İbrahimxəlil", "General"]
+  },
+  {
+    "mainWord": "Babək Üsyanı",
+    "forbiddenWords": ["Ərəb", "Xürrəmilər", "Azadlıq", "İslam", "Əleyhinə"]
+  },
+  {
+    "mainWord": "Şirvanşahlar Dövləti",
+    "forbiddenWords": ["Şirvan", "Müstəqil", "Hökmdar", "Azərbaycan", "Paytaxt"]
+  },
+  {
+    "mainWord": "Çıraqqala Döyüşü",
+    "forbiddenWords": ["Qala", "Müdafiə", "Səfəvi", "Rus", "XVI əsr"]
+  },
+  {
+    "mainWord": "Dərbənd Savaşı",
+    "forbiddenWords": ["Qala", "Xəzər", "Sərhəd", "Şimal", "İşgala qarşı"]
+  },
+  {
+    "mainWord": "Dibistan Barışığı",
+    "forbiddenWords": ["Sülh", "Səfəvi", "Osmanlı", "Şərq", "XVI əsr"]
+  },
+  {
+    "mainWord": "Qazax Sülhü",
+    "forbiddenWords": ["Osmanlı", "Rus", "XVIII əsr", "Gürcüstan", "Razılaşma"]
+  },
+  {
+    "mainWord": "Əmir Teymurun Yürüşü",
+    "forbiddenWords": ["Ordu", "Azərbaycan", "XIV əsr", "İşğal", "Hökmdar"]
+  },
+  {
+    "mainWord": "Səfəvilərin Yüksəlişi",
+    "forbiddenWords": ["Şah İsmayıl", "İmperiya", "XVI əsr", "Qızılbaş", "Türk"]
+  },
+  {
+    "mainWord": "Xocalı Soyqırımı",
+    "forbiddenWords": ["1992", "Ermənilər", "Qətliam", "Dinc", "Xatirə"]
+  },
+  {
+    "mainWord": "Aprel Döyüşləri",
+    "forbiddenWords": ["2016", "Talış", "Tərtər", "Əks-hücum", "Qələbə"]
+  },
+  {
+    "mainWord": "İkinci Şuşa Döyüşü",
+    "forbiddenWords": ["Zəfər", "Xüsusi təyinatlı", "2020", "Dağlıq", "Qarabağ"]
+  },
+  {
+    "mainWord": "Cavanşirin Mübarizəsi",
+    "forbiddenWords": ["Ərəb", "Qafqaz", "Sərkərdə", "Albaniya", "Əleyhinə"]
+  },
+  {
+    "mainWord": "Qazaxlılar və Gürcülər Müharibəsi",
+    "forbiddenWords": ["Sərhəd", "Ərazi", "XVIII əsr", "Qafqaz", "Döyüş"]
+  },
+  {
+    "mainWord": "Şəki Üsyanı",
+    "forbiddenWords": ["Xanlıq", "Sovet", "1920", "Əleyhinə", "Qiyam"]
+  },
+  {
+    "mainWord": "Zəngəzur Döyüşləri",
+    "forbiddenWords": ["1920", "Ərazi", "Erməni", "Azərbaycan", "Ordu"]
+  },
+  {
+    "mainWord": "Talış Uğrunda Döyüş",
+    "forbiddenWords": ["2016", "Cəbhə", "İtkilər", "Ordu", "Əməliyyat"]
+  },
+  {
+    "mainWord": "Laçın Dəhlizi",
+    "forbiddenWords": ["Qarabağ", "Yol", "Nəqliyyat", "Ərazi", "Ermənistan"]
+  },
+  {
+    "mainWord": "Brüssel Görüşləri",
+    "forbiddenWords": ["Avropa", "Sülh", "Liderlər", "Danışıqlar", "Mübahisə"]
+  },
+  {
+    "mainWord": "Praqa Bəyanatı",
+    "forbiddenWords": ["Sülh", "Qərb", "Azərbaycan", "Ermənistan", "Bəyanat"]
+  },
+  {
+    "mainWord": "Münhen Tədbiri",
+    "forbiddenWords": ["Prezident", "Almaniya", "Danışıq", "Təhlükəsizlik", "Ermənistan"]
+  },
+  {
+    "mainWord": "Vaşinqton Dialoqu",
+    "forbiddenWords": ["ABŞ", "Sülh", "Diplomatiya", "Tərəf", "İrəliləyiş"]
+  },
+  {
+    "mainWord": "Almatı Bəyannaməsi",
+    "forbiddenWords": ["1991", "Müstəqil", "Sovet", "Birlik", "MDB"]
+  },
+  {
+    "mainWord": "Kazan Formulu",
+    "forbiddenWords": ["Sülh", "Rusiya", "Qarabağ", "Təklif", "Dialoq"]
+  },
+  {
+    "mainWord": "Qarabağ Sazişi",
+    "forbiddenWords": ["Ermənistan", "Azərbaycan", "Sülh", "2023", "Razılaşma"]
+  },
+  {
+    "mainWord": "Tovuz Döyüşləri",
+    "forbiddenWords": ["2020", "Sərhəd", "Şəhid", "Qazax", "Hərbi"]
+  },
+  {
+    "mainWord": "Xarici Müdaxilə",
+    "forbiddenWords": ["Başqa", "Dövlət", "Qarışma", "Əməliyyat", "Təzyiq"]
+  },
+  {
+    "mainWord": "Ənver Paşa",
+    "forbiddenWords": ["Türkiyə", "Ordu", "İslam", "1918", "Komandan"]
+  },
+  {
+    "mainWord": "Naxçıvan Döyüşü",
+    "forbiddenWords": ["1920", "Sovet", "Ərazi", "Qorumaq", "Təhlükə"]
+  },
+  {
+    "mainWord": "İrəvan Müqaviləsi",
+    "forbiddenWords": ["Rusiya", "Qafqaz", "Azərbaycan", "Sərhəd", "İran"]
+  },
+  {
+    "mainWord": "Əlincə Qalası",
+    "forbiddenWords": ["Tarixi", "Qala", "Babək", "Naxçıvan", "Mühasirə"]
+  },
+  {
+    "mainWord": "Tarixi Silahlanma",
+    "forbiddenWords": ["Ordu", "Silah", "Mühafizə", "Hərb", "Əsr"]
+  },
+  {
+    "mainWord": "Sülh Bərqərar Edilməsi",
+    "forbiddenWords": ["Barışıq", "Qarabağ", "Azərbaycan", "Ermənistan", "Diplomatiya"]
+  },
+  {
+    "mainWord": "Zəngəzur Dəhlizi",
+    "forbiddenWords": ["Ərazi", "Laçın", "Naxçıvan", "Yol", "Mübahisə"]
+  },
+  {
+    "mainWord": "Rusiya Sülhməramlıları",
+    "forbiddenWords": ["2020", "Ordu", "Sülh", "Qarabağ", "Nəzarət"]
+  }
+]
