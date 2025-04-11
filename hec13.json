@@ -1,0 +1,669 @@
+[
+  {
+    "mainWord": "Tom və Jerry",
+    "forbiddenWords": ["Pişik", "Siçan", "Təqib", "Döyüş", "Klassik"]
+  },
+  {
+    "mainWord": "Scooby-Doo",
+    "forbiddenWords": ["İt", "Qorxu", "Sirli", "Cizgi", "Şaqqıltı"]
+  },
+  {
+    "mainWord": "Mickey Mouse",
+    "forbiddenWords": ["Siçan", "Disney", "Klassik", "Minnie", "Qulaq"]
+  },
+  {
+    "mainWord": "Ben 10",
+    "forbiddenWords": ["Saat", "Obmnitrix", "Canavar", "Uşaq", "Dəyişmək"]
+  },
+  {
+    "mainWord": "Phineas and Ferb",
+    "forbiddenWords": ["Qardaş", "Yay", "İxtira", "Candace", "Agent P"]
+  },
+  {
+    "mainWord": "Looney Tunes",
+    "forbiddenWords": ["Bugs Bunny", "Cizgi", "Daffy", "Yumurta", "Animasiya"]
+  },
+  {
+    "mainWord": "Powerpuff Girls",
+    "forbiddenWords": ["Qızlar", "Professor", "Super güc", "Bəlalı", "Kartoon"]
+  },
+  {
+    "mainWord": "Dexter’s Laboratory",
+    "forbiddenWords": ["Elm", "Laboratoriya", "Bacı", "Zəka", "Kostyum"]
+  },
+  {
+    "mainWord": "Adventure Time",
+    "forbiddenWords": ["Finn", "Jake", "Macəra", "Əfsanəvi", "Dünya"]
+  },
+  {
+    "mainWord": "Regular Show",
+    "forbiddenWords": ["Mordecai", "Rigby", "Park", "Qəribə", "Macəra"]
+  },
+  {
+    "mainWord": "Kim Possible",
+    "forbiddenWords": ["Casus", "Qız", "Missiya", "Disney", "Ron"]
+  },
+  {
+    "mainWord": "Recess",
+    "forbiddenWords": ["Məktəb", "Fasilə", "Uşaqlar", "Disney", "Dəstə"]
+  },
+  {
+    "mainWord": "Totally Spies!",
+    "forbiddenWords": ["Casus", "Qızlar", "Missiya", "Gizli", "Geyim"]
+  },
+  {
+    "mainWord": "Johnny Bravo",
+    "forbiddenWords": ["Əzələli", "Güzgü", "Qızlar", "Maço", "Eynək"]
+  },
+  {
+    "mainWord": "Lilo və Stitch",
+    "forbiddenWords": ["Uşaq", "Canavar", "Havay", "Disney", "Təhlükə"]
+  },
+  {
+    "mainWord": "The Fairly OddParents",
+    "forbiddenWords": ["Sehr", "Uşaq", "Fada", "Qayda", "Timmy"]
+  },
+  {
+    "mainWord": "The Flintstones",
+    "forbiddenWords": ["Tarix", "Dinozavr", "Fred", "Mədən", "Köhnə"]
+  },
+  {
+    "mainWord": "SpongeBob SquarePants",
+    "forbiddenWords": ["Dəniz", "Ananas", "Sarı", "Krəvetka", "Patrik"]
+  },
+  {
+    "mainWord": "Teen Titans",
+    "forbiddenWords": ["Robin", "Super qəhrəman", "Gənclər", "Qüvvə", "Animasiya"]
+  },
+  {
+    "mainWord": "Dora the Explorer",
+    "forbiddenWords": ["Xəritə", "Mağara", "Səyahət", "Çanta", "Uşaq"]
+  },
+  {
+    "mainWord": "Garfield",
+    "forbiddenWords": ["Pişik", "Lazanya", "Yatmaq", "Tənbəl", "Jon"]
+  },
+  {
+    "mainWord": "Inspector Gadget",
+    "forbiddenWords": ["Casus", "Maşın", "Əl", "Təhlükə", "Ağıllı"]
+  },
+  {
+    "mainWord": "The Simpsons",
+    "forbiddenWords": ["Homer", "Sarı", "Amerika", "Komediya", "Lisa"]
+  },
+  {
+    "mainWord": "Foster's Home for Imaginary Friends",
+    "forbiddenWords": ["Uşaq", "Xəyal", "Dost", "Evin", "Cizgi"]
+  },
+  {
+    "mainWord": "Gumball",
+    "forbiddenWords": ["Mavi", "Qardaş", "Dünya", "Darwin", "Qəribə"]
+  },
+  {
+    "mainWord": "Clarence",
+    "forbiddenWords": ["Uşaq", "Əyləncə", "Dostlar", "Komik", "Kartoon"]
+  },
+  {
+    "mainWord": "El Tigre",
+    "forbiddenWords": ["Meksika", "Qəhrəman", "Maska", "Uşaq", "Əjdaha"]
+  },
+  {
+    "mainWord": "The Owl House",
+    "forbiddenWords": ["Sehr", "Cadugər", "Disney", "Luz", "Fantaziya"]
+  },
+  {
+    "mainWord": "Amphibia",
+    "forbiddenWords": ["Qurbağa", "Macəra", "Disney", "Anna", "Kənd"]
+  },
+  {
+    "mainWord": "Big City Greens",
+    "forbiddenWords": ["Şəhər", "Yaşıl", "Disney", "Kəndli", "Komik"]
+  },
+  {
+    "mainWord": "Bluey",
+    "forbiddenWords": ["Avstraliya", "İt", "Ailə", "Uşaq", "Disney"]
+  },
+  {
+    "mainWord": "PJ Masks",
+    "forbiddenWords": ["Gecə", "Qəhrəman", "Uşaq", "Maska", "Disney"]
+  },
+  {
+    "mainWord": "Dragon Tales",
+    "forbiddenWords": ["Əjdaha", "Sehrli", "Uşaq", "Fantastik", "Uçmaq"]
+  },
+  {
+    "mainWord": "Caillou",
+    "forbiddenWords": ["Uşaq", "Keçəl", "Kanada", "Ailə", "Tərbiyə"]
+  },
+  {
+    "mainWord": "Peppa Pig",
+    "forbiddenWords": ["Donuz", "Ailə", "Uşaq", "Cizgi", "Köhnə"]
+  },
+  {
+    "mainWord": "Maya the Bee",
+    "forbiddenWords": ["Arı", "Bal", "Təbiət", "Dost", "Uçmaq"]
+  },
+  {
+    "mainWord": "Babar",
+    "forbiddenWords": ["Fil", "Kral", "Afrika", "Ailə", "Uşaq"]
+  },
+  {
+    "mainWord": "VeggieTales",
+    "forbiddenWords": ["Tərəvəz", "Cizgi", "Uşaq", "Xristian", "Disney"]
+  },
+  {
+    "mainWord": "Paw Patrol",
+    "forbiddenWords": ["İtlər", "Qəhrəman", "Köhnə", "Uşaq", "Xilas"]
+  },
+  {
+    "mainWord": "Masha and the Bear",
+    "forbiddenWords": ["Meşə", "Qız", "Ayı", "Rusiya", "Uşaq"]
+  },
+  {
+    "mainWord": "Pocoyo",
+    "forbiddenWords": ["Uşaq", "Mavi", "Sadə", "Əyləncə", "Animasiya"]
+  },
+  {
+    "mainWord": "Rusty Rivets",
+    "forbiddenWords": ["İxtira", "Robot", "Uşaq", "Elm", "Maşın"]
+  },
+  {
+    "mainWord": "Oggy and the Cockroaches",
+    "forbiddenWords": ["Pişik", "Qarışqa", "Komediya", "Ziyan", "Təqib"]
+  },
+  {
+    "mainWord": "Booba",
+    "forbiddenWords": ["Əyləncə", "Sözsüz", "Uşaq", "Komik", "Təəccüb"]
+  },
+  {
+    "mainWord": "Miraculous Ladybug",
+    "forbiddenWords": ["Paris", "Qəhrəman", "Qız", "Qara pişik", "Maska"]
+  },
+  {
+    "mainWord": "Shimmer and Shine",
+    "forbiddenWords": ["Sehr", "Cin", "Qız", "Uşaq", "Arzu"]
+  },
+  {
+    "mainWord": "My Little Pony",
+    "forbiddenWords": ["At", "Dostluq", "Sehr", "Qız", "Tələsik"]
+  },
+  {
+    "mainWord": "The Backyardigans",
+    "forbiddenWords": ["Uşaq", "Macəra", "Musiqi", "Xəyal", "Heyvan"]
+  },
+  {
+    "mainWord": "Oswald",
+    "forbiddenWords": ["Ahtapot", "Göy", "Uşaq", "Cizgi", "Dost"]
+  },
+  {
+    "mainWord": "LazyTown",
+    "forbiddenWords": ["İdman", "Tənbəl", "Qız", "Zəka", "Tərəvəz"]
+  },
+  {
+    "mainWord": "Team Umizoomi",
+    "forbiddenWords": ["Riyaziyyat", "Komanda", "Mini", "Geo", "Rəqəmlər"]
+  },
+  {
+    "mainWord": "Wonder Pets",
+    "forbiddenWords": ["Xilas", "Heyvan", "Uşaq", "Komanda", "Cizgi"]
+  },
+  {
+    "mainWord": "WordWorld",
+    "forbiddenWords": ["Hərf", "Söz", "Əlifba", "Təhsil", "Uşaq"]
+  },
+  {
+    "mainWord": "Franklin",
+    "forbiddenWords": ["Tısbağa", "Məktəb", "Dost", "Ailə", "Əxlaq"]
+  },
+  {
+    "mainWord": "Arthur",
+    "forbiddenWords": ["Eyquana", "Oxumaq", "Dərs", "Qardaş", "DW"]
+  },
+  {
+    "mainWord": "Curious George",
+    "forbiddenWords": ["Meymun", "Macəra", "Sarı", "Uşaq", "Kitab"]
+  },
+  {
+    "mainWord": "The Magic School Bus",
+    "forbiddenWords": ["Elm", "Avtobus", "Sehr", "Məktəb", "Uşaq"]
+  },
+  {
+    "mainWord": "He-Man",
+    "forbiddenWords": ["Güc", "Qılınc", "Əfsanə", "Skeletor", "Kral"]
+  },
+  {
+    "mainWord": "Voltron",
+    "forbiddenWords": ["Robot", "Qəhrəman", "Lövhə", "Kosmos", "Birlik"]
+  },
+  {
+    "mainWord": "Captain Planet",
+    "forbiddenWords": ["Ekologiya", "Güc", "Qəhrəman", "Element", "Təbiət"]
+  },
+  {
+    "mainWord": "The Jetsons",
+    "forbiddenWords": ["Gələcək", "Robot", "Kosmos", "Ailə", "Texnologiya"]
+  },
+  {
+    "mainWord": "Yogi Bear",
+    "forbiddenWords": ["Ayı", "Piknik", "Park", "Komediya", "Ranger"]
+  },
+  {
+    "mainWord": "Animaniacs",
+    "forbiddenWords": ["Warner", "Komediya", "Çılğın", "Uşaq", "Qardaş"]
+  },
+  {
+    "mainWord": "Pinky and the Brain",
+    "forbiddenWords": ["Zəka", "Dünyanı", "Siçan", "Laboratoriya", "Axmaq"]
+  },
+  {
+    "mainWord": "Digimon",
+    "forbiddenWords": ["Canavar", "Dijital", "Oyun", "Təlim", "Mübarizə"]
+  },
+  {
+    "mainWord": "Beyblade",
+    "forbiddenWords": ["Döndürmək", "Turnir", "Arena", "Top", "Qalib"]
+  },
+  {
+    "mainWord": "Bakugan",
+    "forbiddenWords": ["Top", "Qəhrəman", "Mübarizə", "Heyvan", "Oyun"]
+  },
+  {
+    "mainWord": "Naruto",
+    "forbiddenWords": ["Ninja", "Konoha", "Jutsu", "Komanda", "Əfsanə"]
+  },
+  {
+    "mainWord": "One Piece",
+    "forbiddenWords": ["Luffy", "Dəniz", "Qəhrəman", "Xəzinə", "Şapka"]
+  },
+  {
+    "mainWord": "Pokémon",
+    "forbiddenWords": ["Pikachu", "Top", "Məşqçi", "Oyun", "Ash"]
+  },
+  {
+    "mainWord": "Avatar: The Last Airbender",
+    "forbiddenWords": ["Element", "Aang", "Su", "Od", "Hava"]
+  },
+  {
+    "mainWord": "Totoro",
+    "forbiddenWords": ["Studio Ghibli", "Meşə", "Qız", "Fantaziya", "Yapon"]
+  },
+  {
+    "mainWord": "Pororo",
+    "forbiddenWords": ["Pingvin", "Uşaq", "Qış", "Koreya", "Dost"]
+  },
+  {
+    "mainWord": "Robocar Poli",
+    "forbiddenWords": ["Polis", "Maşın", "Uşaq", "Xilas", "Koreya"]
+  },
+  {
+    "mainWord": "Kral Şakir",
+    "forbiddenWords": ["Şir", "Türk", "Macəra", "Ailə", "Komik"]
+  },
+  {
+    "mainWord": "Niloya",
+    "forbiddenWords": ["Qız", "Türk", "Ailə", "Uşaq", "Sadə"]
+  },
+  {
+    "mainWord": "Pepee",
+    "forbiddenWords": ["Türkiyə", "Uşaq", "Əyləncə", "Qardaş", "Şəkil"]
+  },
+  {
+    "mainWord": "Canım Kardeşim",
+    "forbiddenWords": ["Türk", "Qardaş", "Ailə", "Uşaq", "Əyləncə"]
+  },
+  {
+    "mainWord": "Heidi",
+    "forbiddenWords": ["Qız", "Dağ", "Baba", "Kənd", "Klassik"]
+  },
+  {
+    "mainWord": "The Smurfs",
+    "forbiddenWords": ["Mavi", "Qəsəbə", "Papa", "Qargamel", "Sehr"]
+  },
+  {
+    "mainWord": "Moomin",
+    "forbiddenWords": ["Ailə", "Fantaziya", "Ağ", "Uşaq", "Avropa"]
+  },
+  {
+    "mainWord": "Barney & Friends",
+    "forbiddenWords": ["Dinozavr", "Uşaq", "Təhsil", "Sevgi", "Mağaza"]
+  },
+  {
+    "mainWord": "Charlie and Lola",
+    "forbiddenWords": ["Bacı", "Qardaş", "İngiltərə", "Uşaq", "Komik"]
+  },
+  {
+    "mainWord": "Pingu",
+    "forbiddenWords": ["Pingvin", "Buz", "Cizgi", "Qış", "Sözsüz"]
+  },
+  {
+    "mainWord": "Teletubbies",
+    "forbiddenWords": ["Uşaq", "Rəng", "Televiziya", "Günəş", "Köhnə"]
+  },
+  {
+    "mainWord": "Rugrats",
+    "forbiddenWords": ["Körpə", "Macəra", "Cizgi", "Tommy", "Angelica"]
+  },
+  {
+    "mainWord": "Hey Arnold!",
+    "forbiddenWords": ["Futbol", "Baş", "Şəhər", "Uşaq", "Helga"]
+  },
+  {
+    "mainWord": "CatDog",
+    "forbiddenWords": ["Heyvan", "Qəribə", "Siçan", "İki", "Bədən"]
+  },
+  {
+    "mainWord": "Ed, Edd n Eddy",
+    "forbiddenWords": ["Şirniyyat", "Komediya", "Uşaq", "Qonşuluq", "Zəka"]
+  },
+  {
+    "mainWord": "Rocket Power",
+    "forbiddenWords": ["İdman", "Skate", "Macəra", "Qrup", "Uşaq"]
+  },
+  {
+    "mainWord": "ChalkZone",
+    "forbiddenWords": ["Təbəssüm", "Lövhə", "Sehr", "Uşaq", "Rudy"]
+  },
+  {
+    "mainWord": "The Wild Thornberrys",
+    "forbiddenWords": ["Səyahət", "Təbiət", "Ailə", "Danışmaq", "Heyvan"]
+  },
+  {
+    "mainWord": "Camp Lazlo",
+    "forbiddenWords": ["Düşərgə", "Meymun", "Macəra", "Uşaq", "Yay"]
+  },
+  {
+    "mainWord": "Chhota Bheem",
+    "forbiddenWords": ["Hindistan", "Qəhrəman", "Uşaq", "Enerji", "Komik"]
+  },
+  {
+    "mainWord": "Doraemon",
+    "forbiddenWords": ["Robot", "Pişik", "Gələcək", "Cib", "Sehr"]
+  },
+  {
+    "mainWord": "Shin Chan",
+    "forbiddenWords": ["Uşaq", "Komik", "Yapon", "Ailə", "Əxlaq"]
+  },
+  {
+    "mainWord": "Crayon Shin-chan",
+    "forbiddenWords": ["Rəsm", "Qırmızı", "Komik", "Əxlaq", "Yapon"]
+  },
+  {
+    "mainWord": "Noddy",
+    "forbiddenWords": ["Maşın", "Oyun", "Polis", "Şəhər", "Uşaq"]
+  },
+  {
+    "mainWord": "Kral Şakir",
+    "forbiddenWords": ["Şir", "Grafi2000", "Macəra", "Necati", "Karikatür"]
+  },
+  {
+    "mainWord": "Pepee",
+    "forbiddenWords": ["Zeezee", "Dede", "Uşaq", "Qardaş", "Türkiyə"]
+  },
+  {
+    "mainWord": "Niloya",
+    "forbiddenWords": ["Qız", "Tosbik", "Uşaq", "Ailə", "Macəra"]
+  },
+  {
+    "mainWord": "Canım Kardeşim",
+    "forbiddenWords": ["Bacı", "Qardaş", "Türkiyə", "Sadə", "Əyləncə"]
+  },
+  {
+    "mainWord": "Pisi",
+    "forbiddenWords": ["Pişik", "Komanda", "Macəra", "Cizgi", "Uşaq"]
+  },
+  {
+    "mainWord": "Ayas",
+    "forbiddenWords": ["İstanbul", "Məktəb", "Uşaq", "Günlük", "Türkiyə"]
+  },
+  {
+    "mainWord": "Elif ve Arkadaşları",
+    "forbiddenWords": ["Qız", "Məktəb", "Dost", "Türkiyə", "Uşaq"]
+  },
+  {
+    "mainWord": "Leliko",
+    "forbiddenWords": ["Pepee", "Zeezee", "Cizgi", "Uşaq", "Macəra"]
+  },
+  {
+    "mainWord": "Ege ile Gaga",
+    "forbiddenWords": ["Quş", "Uşaq", "Təbiət", "Macəra", "Türk"]
+  },
+  {
+    "mainWord": "Hapşuu",
+    "forbiddenWords": ["Asqırmaq", "Balaca", "Uşaq", "Dost", "Komik"]
+  },
+  {
+    "mainWord": "Doru",
+    "forbiddenWords": ["At", "Macəra", "Kənd", "Türkiyə", "Heyvan"]
+  },
+  {
+    "mainWord": "Rafadan Tayfa",
+    "forbiddenWords": ["Məhlə", "İstanbul", "Uşaq", "Komanda", "Dostluq"]
+  },
+  {
+    "mainWord": "Harika Kanatlar (Türk versiyası)",
+    "forbiddenWords": ["Təyyarə", "Macəra", "Uşaq", "Çin", "Türk"]
+  },
+  {
+    "mainWord": "Nasreddin Hoca Zaman Yolcusu",
+    "forbiddenWords": ["Zəka", "Fikir", "Keçmiş", "Əhvalat", "Türkiyə"]
+  },
+  {
+    "mainWord": "İbi",
+    "forbiddenWords": ["Macəra", "Trix", "Uşaq", "Zoq", "Bilmək"]
+  },
+  {
+    "mainWord": "Bugünün Saraylısı (Cizgi Versiyası)",
+    "forbiddenWords": ["Saray", "Qız", "Ədəbiyyat", "Türk", "Cizgi"]
+  },
+  {
+    "mainWord": "Çılgın Orman",
+    "forbiddenWords": ["Meşə", "Heyvan", "Macəra", "Komik", "Türk"]
+  },
+  {
+    "mainWord": "Yaramazlar",
+    "forbiddenWords": ["Yaramaz", "Uşaq", "Komik", "Macəra", "Qrup"]
+  },
+  {
+    "mainWord": "Minika Çocuk Original Serisi",
+    "forbiddenWords": ["Minika", "Türkiyə", "Uşaq", "Cizgi", "TV"]
+  },
+  {
+    "mainWord": "Z Takımı",
+    "forbiddenWords": ["Komanda", "Macəra", "Gizli", "Qəhrəman", "Türk"]
+  },
+  {
+    "mainWord": "Aslan",
+    "forbiddenWords": ["TRT", "Mucit", "Uşaq", "Kəşf", "Robot"]
+  },
+  {
+    "mainWord": "Köstebekgiller",
+    "forbiddenWords": ["Köstebek", "Tünel", "Uşaq", "Ailə", "Macəra"]
+  },
+  {
+    "mainWord": "Prensesin Uykusu",
+    "forbiddenWords": ["Prenses", "Uşaq", "Yuxu", "Macəra", "Fantastik"]
+  },
+  {
+    "mainWord": "Hızlı Ayaklar",
+    "forbiddenWords": ["Qaçmaq", "Macəra", "Uşaq", "TRT", "Yarış"]
+  },
+  {
+    "mainWord": "Göbeklitepe Çocukları",
+    "forbiddenWords": ["Qədim", "Macəra", "Uşaq", "Tarix", "TRT"]
+  },
+  {
+    "mainWord": "Maceracı Yüzgeçler",
+    "forbiddenWords": ["Balıq", "Dəniz", "Macəra", "Komik", "Uşaq"]
+  },
+  {
+    "mainWord": "Afacanlar İş Başında",
+    "forbiddenWords": ["Uşaq", "Yaramaz", "Komik", "Əyləncə", "Qrup"]
+  },
+  {
+    "mainWord": "Liko ile Miko",
+    "forbiddenWords": ["Leliko", "Uşaq", "Qardaş", "Öyrənmək", "Türk"]
+  },
+  {
+    "mainWord": "Gezgin İbi",
+    "forbiddenWords": ["Macəra", "Xəritə", "Uşaq", "Zoq", "Səyahət"]
+  },
+  {
+    "mainWord": "Fındık ile Fıstık",
+    "forbiddenWords": ["Komik", "Qoz", "Dost", "Cizgi", "Türkiyə"]
+  },
+  {
+    "mainWord": "Gökkuşağı Takımı",
+    "forbiddenWords": ["Rəng", "Komanda", "Göy", "Uşaq", "Macəra"]
+  },
+  {
+    "mainWord": "Uçan Fil",
+    "forbiddenWords": ["Fil", "Uçmaq", "Macəra", "Komik", "Uşaq"]
+  },
+  {
+    "mainWord": "Maceracı Ayı",
+    "forbiddenWords": ["Ayı", "Macəra", "Orman", "Komik", "Cizgi"]
+  },
+  {
+    "mainWord": "Gizemli Orman",
+    "forbiddenWords": ["Meşə", "Sirli", "Macəra", "Heyvan", "Uşaq"]
+  },
+  {
+    "mainWord": "Şimşek Tayfa",
+    "forbiddenWords": ["Yarış", "Maşın", "Sürətli", "Komanda", "Uşaq"]
+  },
+  {
+    "mainWord": "Kartopu Tayfa",
+    "forbiddenWords": ["Qar", "Oyun", "Uşaq", "Komanda", "Əyləncə"]
+  },
+  {
+    "mainWord": "Sevimli Canavarlar",
+    "forbiddenWords": ["Canavar", "Dostluq", "Macəra", "Cizgi", "Uşaq"]
+  },
+  {
+    "mainWord": "Masal Diyarı",
+    "forbiddenWords": ["Nağıl", "Sehr", "Uşaq", "Diyar", "Macəra"]
+  },
+  {
+    "mainWord": "Kaptan Pengu",
+    "forbiddenWords": ["Penguin", "Buz", "TRT", "Macəra", "Uşaq"]
+  },
+  {
+    "mainWord": "Tay Tay",
+    "forbiddenWords": ["Komik", "Macəra", "Uşaq", "Cizgi", "Türkiyə"]
+  },
+  {
+    "mainWord": "Z Takımı: Görev Başında",
+    "forbiddenWords": ["Komanda", "Qəhrəman", "Uşaq", "Türkiyə", "Macəra"]
+  },
+  {
+    "mainWord": "Patik ve Pati",
+    "forbiddenWords": ["İt", "Pişik", "Dostluq", "Uşaq", "Macəra"]
+  },
+  {
+    "mainWord": "Vız Vız Arı",
+    "forbiddenWords": ["Arı", "Bal", "Uşaq", "Çiçək", "Komik"]
+  },
+  {
+    "mainWord": "Meraklı Minik",
+    "forbiddenWords": ["Uşaq", "Öyrənmək", "Maraqlı", "Cizgi", "TRT"]
+  },
+  {
+    "mainWord": "Çizgi Dedektif",
+    "forbiddenWords": ["Detektiv", "İpucu", "Sirli", "Macəra", "Uşaq"]
+  },
+  {
+    "mainWord": "Tozkoparan",
+    "forbiddenWords": ["Ox", "Qəhrəman", "Macəra", "Uşaq", "Fantastik"]
+  },
+  {
+    "mainWord": "Tozkoparan İskender",
+    "forbiddenWords": ["Ox", "Dəqiqlik", "Qəhrəman", "Macəra", "Tarix"]
+  },
+  {
+    "mainWord": "Keloğlan",
+    "forbiddenWords": ["Nağıl", "Zəka", "Əyləncə", "Türk", "Cizgi"]
+  },
+  {
+    "mainWord": "Nasreddin Hoca",
+    "forbiddenWords": ["Fikir", "Zəka", "Əhvalat", "Türk", "Komik"]
+  },
+  {
+    "mainWord": "Hayri ve Arkadaşları",
+    "forbiddenWords": ["Uşaq", "Dost", "Macəra", "Cizgi", "TRT"]
+  },
+  {
+    "mainWord": "Canım Kardeşim 2",
+    "forbiddenWords": ["Qardaş", "Uşaq", "Türkiyə", "Əyləncə", "Cizgi"]
+  },
+  {
+    "mainWord": "Çuf Çuf Treni",
+    "forbiddenWords": ["Qatar", "Uşaq", "Səfər", "Macəra", "Əyləncə"]
+  },
+  {
+    "mainWord": "Bal Arısı Maya (Türk versiyası)",
+    "forbiddenWords": ["Arı", "Macəra", "Uşaq", "Çiçək", "Komik"]
+  },
+  {
+    "mainWord": "Trafik Tayfa",
+    "forbiddenWords": ["Qaydalar", "Avtomobil", "Təhlükəsizlik", "Uşaq", "TRT"]
+  },
+  {
+    "mainWord": "Afacan Mucitler",
+    "forbiddenWords": ["İxtira", "Uşaq", "Zəka", "Komik", "Macəra"]
+  },
+  {
+    "mainWord": "Hayatın Renkleri",
+    "forbiddenWords": ["Rəng", "Həyat", "Uşaq", "Öyrənmək", "Əyləncə"]
+  },
+  {
+    "mainWord": "Tonton Aile",
+    "forbiddenWords": ["Ailə", "Komik", "Uşaq", "Macəra", "Türkiyə"]
+  },
+  {
+    "mainWord": "Kuki ile Puki",
+    "forbiddenWords": ["Uşaq", "Komik", "Dost", "Macəra", "Cizgi"]
+  },
+  {
+    "mainWord": "Kaptan Çevik",
+    "forbiddenWords": ["Qəhrəman", "Uşaq", "Macəra", "Cəsarət", "Türkiyə"]
+  },
+  {
+    "mainWord": "Minik Can",
+    "forbiddenWords": ["Balaca", "Uşaq", "Komik", "Öyrənmək", "Cizgi"]
+  },
+  {
+    "mainWord": "İzci Çocuklar",
+    "forbiddenWords": ["Təbiət", "Macəra", "İz", "Kəşf", "Uşaq"]
+  },
+  {
+    "mainWord": "Zıp Zıp Tavşan",
+    "forbiddenWords": ["Dovşan", "Tullanmaq", "Komik", "Uşaq", "Çizgi"]
+  },
+  {
+    "mainWord": "Doğa Dostları",
+    "forbiddenWords": ["Təbiət", "Uşaq", "Ətraf", "Dostluq", "Macəra"]
+  },
+  {
+    "mainWord": "Gökyüzü Maceracıları",
+    "forbiddenWords": ["Uçmaq", "Təyyarə", "Uşaq", "Macəra", "Cəsarət"]
+  },
+  {
+    "mainWord": "Fırfır Dönenler",
+    "forbiddenWords": ["Oyuncaq", "Uşaq", "Döndürmək", "Əyləncə", "TRT"]
+  },
+  {
+    "mainWord": "Neşeli Balıklar",
+    "forbiddenWords": ["Balıq", "Komik", "Dəniz", "Uşaq", "Macəra"]
+  },
+  {
+    "mainWord": "Küçük Bilginler",
+    "forbiddenWords": ["Zəka", "Uşaq", "Öyrənmək", "Elm", "Türkiyə"]
+  },
+  {
+    "mainWord": "Yıldız Takımı",
+    "forbiddenWords": ["Komanda", "Ulduz", "Uşaq", "Macəra", "Qəhrəman"]
+  },
+  {
+    "mainWord": "Pamuk Şehir",
+    "forbiddenWords": ["Şəhər", "Komik", "Uşaq", "Yumşaq", "Cizgi"]
+  }]
