@@ -1,0 +1,2442 @@
+[
+  {
+    "mainWord": "Nike",
+    "forbiddenWords": ["Ayaqqabı", "İdman", "Yumruq", "Rəqabət", "Futbol"]
+  },
+  {
+    "mainWord": "Adidas",
+    "forbiddenWords": ["Ayaqqabı", "İdman", "Rəqabət", "Futbol", "Rahat"]
+  },
+  {
+    "mainWord": "Gucci",
+    "forbiddenWords": ["Geyim", "Lüks", "Moda", "İtaliya", "Aksesuar"]
+  },
+  {
+    "mainWord": "Louis Vuitton",
+    "forbiddenWords": ["Çanta", "Lüks", "Modaya uyğun", "Səyahət", "İtaliya"]
+  },
+  {
+    "mainWord": "Coca-Cola",
+    "forbiddenWords": ["İçki", "Qazlı içki", "Soda", "Limonad", "Qida"]
+  },
+  {
+    "mainWord": "Pepsi",
+    "forbiddenWords": ["İçki", "Qazlı içki", "Soda", "Qida", "Coca-Cola"]
+  },
+  {
+    "mainWord": "Apple",
+    "forbiddenWords": ["Telefon", "Kompüter", "İphone", "Yumşaq proqram", "Elektronika"]
+  },
+  {
+    "mainWord": "Samsung",
+    "forbiddenWords": ["Telefon", "Kompüter", "Elektronika", "Ekran", "Android"]
+  },
+  {
+    "mainWord": "Rolex",
+    "forbiddenWords": ["Saat", "Lüks", "Qızıl", "İsveçrə", "Zaman"]
+  },
+  {
+    "mainWord": "Cartier",
+    "forbiddenWords": ["Saat", "Lüks", "İsveçrə", "Zərgərlik", "Aksesuar"]
+  },
+  {
+    "mainWord": "BMW",
+    "forbiddenWords": ["Avtomobil", "Lüks", "Almaniya", "Yol", "Sürət"]
+  },
+  {
+    "mainWord": "Mercedes-Benz",
+    "forbiddenWords": ["Avtomobil", "Lüks", "Yol", "Almaniya", "Sürət"]
+  },
+  {
+    "mainWord": "Toyota",
+    "forbiddenWords": ["Avtomobil", "Asiya", "Yol", "Japonya", "Ailə"]
+  },
+  {
+    "mainWord": "Ford",
+    "forbiddenWords": ["Avtomobil", "Amerika", "Yol", "Alət", "Sürət"]
+  },
+  {
+    "mainWord": "Audi",
+    "forbiddenWords": ["Avtomobil", "Almaniya", "Sürət", "Lüks", "Yol"]
+  },
+  {
+    "mainWord": "Chanel",
+    "forbiddenWords": ["Moda", "Geyim", "Lüks", "Parfüm", "Fransa"]
+  },
+  {
+    "mainWord": "Hermès",
+    "forbiddenWords": ["Çanta", "Lüks", "Geyim", "Fransa", "Moda"]
+  },
+  {
+    "mainWord": "H&M",
+    "forbiddenWords": ["Geyim", "Büdcə", "Moda", "Şəbəkə", "İsveç"]
+  },
+  {
+    "mainWord": "Zara",
+    "forbiddenWords": ["Geyim", "Moda", "İspaniya", "Sürətli", "Büdcə"]
+  },
+  {
+    "mainWord": "Unilever",
+    "forbiddenWords": ["Kosmetika", "Qida", "İstehsal", "Şirkət", "Ev məhsulları"]
+  },
+  {
+    "mainWord": "Nestlé",
+    "forbiddenWords": ["Qida", "İçki", "Şirniyyat", "Biskvit", "Korporasiya"]
+  },
+  {
+    "mainWord": "L’Oréal",
+    "forbiddenWords": ["Kosmetika", "Dəri", "Makiyaj", "Fransa", "Məşhurlar"]
+  },
+  {
+    "mainWord": "Maybelline",
+    "forbiddenWords": ["Makiyaj", "Kosmetika", "Aksesuar", "Dəri", "L’Oréal"]
+  },
+  {
+    "mainWord": "Chanel",
+    "forbiddenWords": ["Parfüm", "Moda", "Lüks", "Geyim", "Fransa"]
+  },
+  {
+    "mainWord": "Dove",
+    "forbiddenWords": ["Şampun", "Bədən", "Dəri", "Təmizləyici", "Kosmetika"]
+  },
+  {
+    "mainWord": "Nivea",
+    "forbiddenWords": ["Dəri", "Kosmetika", "Şampun", "Bədən", "Günəş"]
+  },
+  {
+    "mainWord": "Colgate",
+    "forbiddenWords": ["Diş pastası", "Higiyena", "Şirkət", "Diş", "Ağız"]
+  },
+  {
+    "mainWord": "Gillette",
+    "forbiddenWords": ["Qılınç", "Tıraş", "Üz", "Kişilər", "Higiyena"]
+  },
+  {
+    "mainWord": "Ariel",
+    "forbiddenWords": ["Toz", "Paltar", "Yuma", "Ev", "Təmizləyici"]
+  },
+  {
+    "mainWord": "Tide",
+    "forbiddenWords": ["Yuma", "Toz", "Paltar", "Ağartıcı", "Ev"]
+  },
+  {
+    "mainWord": "Levi’s",
+    "forbiddenWords": ["Geyim", "Cins", "Moda", "Rahat", "Amerika"]
+  },
+  {
+    "mainWord": "Peugeot",
+    "forbiddenWords": ["Avtomobil", "Fransa", "Yol", "Sürət", "Almaniya"]
+  },
+  {
+    "mainWord": "Coca-Cola",
+    "forbiddenWords": ["İçki", "Soda", "Qazlı içki", "Qida", "Buz"]
+  },
+  {
+    "mainWord": "Sprite",
+    "forbiddenWords": ["İçki", "Qazlı içki", "Soda", "Qida", "Limon"]
+  },
+  {
+    "mainWord": "Starbucks",
+    "forbiddenWords": ["Kafe", "Kahve", "Amerika", "İçki", "Şəbəkə"]
+  },
+  {
+    "mainWord": "KFC",
+    "forbiddenWords": ["Qida", "Fast food", "Toyuq", "Restoran", "Yemək"]
+  },
+  {
+    "mainWord": "McDonald’s",
+    "forbiddenWords": ["Fast food", "Qida", "Restoran", "Hamburger", "Toyuq"]
+  },
+  {
+    "mainWord": "Ikea",
+    "forbiddenWords": ["Mebel", "Ev", "Şəbəkə", "Dizayn", "İsveç"]
+  },
+  {
+    "mainWord": "Sony",
+    "forbiddenWords": ["Elektronika", "Kamera", "PlayStation", "Kompüter", "Japonya"]
+  },
+  {
+    "mainWord": "Microsoft",
+    "forbiddenWords": ["Kompüter", "Proqram", "Windows", "Texnologiya", "Şirkət"]
+  },
+  {
+    "mainWord": "Dell",
+    "forbiddenWords": ["Kompüter", "Laptop", "Texnologiya", "Proqram", "Elektronika"]
+  },
+  {
+    "mainWord": "Lenovo",
+    "forbiddenWords": ["Kompüter", "Laptop", "Elektronika", "Proqram", "İnnovasiya"]
+  },
+  {
+    "mainWord": "Intel",
+    "forbiddenWords": ["Prosesor", "Kompüter", "Texnologiya", "Elektronika", "Şirkət"]
+  },
+  {
+    "mainWord": "Tesla",
+    "forbiddenWords": ["Avtomobil", "Elektrik", "Yol", "Sürət", "İnnovasiya"]
+  },
+  {
+    "mainWord": "Bose",
+    "forbiddenWords": ["Səs", "Səsucaldıcı", "Elektronika", "Musqi", "Texnologiya"]
+  },
+  {
+    "mainWord": "Logitech",
+    "forbiddenWords": ["Aksesuar", "Kompyuter", "Siçan", "Texnologiya", "Elektronika"]
+  },
+  {
+    "mainWord": "GoPro",
+    "forbiddenWords": ["Kamera", "Video", "Çəkiliş", "Aksessuar", "Yüksək"]
+  },
+  {
+    "mainWord": "Canon",
+    "forbiddenWords": ["Kamera", "Foto", "Texnologiya", "Lente", "Elektronika"]
+  },
+  {
+    "mainWord": "Nikon",
+    "forbiddenWords": ["Kamera", "Foto", "Lente", "Elektronika", "Texnologiya"]
+  },
+  {
+    "mainWord": "Fujifilm",
+    "forbiddenWords": ["Kamera", "Foto", "Lente", "Texnologiya", "Elektronika"]
+  },
+  {
+    "mainWord": "Panasonic",
+    "forbiddenWords": ["Elektronika", "Kamera", "Texnologiya", "Avadanlıq", "Japonya"]
+  },
+  {
+    "mainWord": "Apple",
+    "forbiddenWords": ["Telefon", "Kompüter", "iPhone", "Steve Jobs", "Texnologiya"]
+  },
+  {
+    "mainWord": "Nike",
+    "forbiddenWords": ["Ayaqqabı", "İdman", "Swoosh", "Geyim", "Just Do It"]
+  },
+  {
+    "mainWord": "Coca-Cola",
+    "forbiddenWords": ["İçki", "Qazlı", "Qırmızı", "Şəkərli", "Sərinləşdirici"]
+  },
+  {
+    "mainWord": "Samsung",
+    "forbiddenWords": ["Telefon", "Televizor", "Galaxy", "Koreya", "Elektronika"]
+  },
+  {
+    "mainWord": "Google",
+    "forbiddenWords": ["Axtarış", "İnternet", "Android", "Alphabet", "Kaliforniya"]
+  },
+  {
+    "mainWord": "McDonald's",
+    "forbiddenWords": ["Fast Food", "Burger", "Big Mac", "Qızardılmış Kartof", "Restoran"]
+  },
+  {
+    "mainWord": "Toyota",
+    "forbiddenWords": ["Maşın", "Avtomobil", "Yaponiya", "Hibrid", "Corolla"]
+  },
+  {
+    "mainWord": "Mercedes-Benz",
+    "forbiddenWords": ["Maşın", "Avtomobil", "Almaniya", "Lüks", "Ulduz"]
+  },
+  {
+    "mainWord": "Louis Vuitton",
+    "forbiddenWords": ["Çanta", "Dəb", "Lüks", "Monogram", "Fransa"]
+  },
+  {
+    "mainWord": "Adidas",
+    "forbiddenWords": ["Ayaqqabı", "İdman", "Üç Zolaq", "Geyim", "Almaniya"]
+  },
+  {
+    "mainWord": "Amazon",
+    "forbiddenWords": ["Onlayn Alış-veriş", "Kitab", "Jeff Bezos", "Çatdırılma", "Pərakəndə"]
+  },
+  {
+    "mainWord": "Facebook",
+    "forbiddenWords": ["Sosial Şəbəkə", "Meta", "Mark Zuckerberg", "Paylaşmaq", "Dostlar"]
+  },
+  {
+    "mainWord": "Microsoft",
+    "forbiddenWords": ["Windows", "Proqram", "Bill Gates", "Kompüter", "Office"]
+  },
+  {
+    "mainWord": "Disney",
+    "forbiddenWords": ["Animasiya", "Cizgi Film", "Park", "Mickey Mouse", "Əyləncə"]
+  },
+  {
+    "mainWord": "BMW",
+    "forbiddenWords": ["Maşın", "Avtomobil", "Almaniya", "Lüks", "Sürət"]
+  },
+  {
+    "mainWord": "Chanel",
+    "forbiddenWords": ["Dəb", "Ətir", "Coco", "No. 5", "Lüks"]
+  },
+  {
+    "mainWord": "Gucci",
+    "forbiddenWords": ["Dəb", "Çanta", "İtaliya", "Lüks", "Geyim"]
+  },
+  {
+    "mainWord": "Starbucks",
+    "forbiddenWords": ["Qəhvə", "Kafe", "Yaşıl", "Siren", "Frappuccino"]
+  },
+  {
+    "mainWord": "Pepsi",
+    "forbiddenWords": ["İçki", "Qazlı", "Mavi", "Kola", "Rəqib"]
+  },
+  {
+    "mainWord": "Intel",
+    "forbiddenWords": ["Prosessor", "Çip", "Kompüter", "Texnologiya", "Inside"]
+  },
+  {
+    "mainWord": "IBM",
+    "forbiddenWords": ["Kompüter", "Texnologiya", "Biznes", "Server", "Mavi Dev"]
+  },
+  {
+    "mainWord": "Honda",
+    "forbiddenWords": ["Maşın", "Motosiklet", "Yaponiya", "Civic", "Mühərrik"]
+  },
+  {
+    "mainWord": "Ford",
+    "forbiddenWords": ["Maşın", "Avtomobil", "ABŞ", "Mustang", "Model T"]
+  },
+  {
+    "mainWord": "Sony",
+    "forbiddenWords": ["Elektronika", "PlayStation", "Televizor", "Yaponiya", "Kamera"]
+  },
+  {
+    "mainWord": "Nestlé",
+    "forbiddenWords": ["Qida", "Şokolad", "İsveçrə", "Nescafé", "Körpə Maması"]
+  },
+  {
+    "mainWord": "L'Oréal",
+    "forbiddenWords": ["Kosmetika", "Şampun", "Gözəllik", "Fransa", "Makiyaj"]
+  },
+  {
+    "mainWord": "Zara",
+    "forbiddenWords": ["Geyim", "Dəb", "İspaniya", "Mağaza", "Tez Dəb"]
+  },
+  {
+    "mainWord": "H&M",
+    "forbiddenWords": ["Geyim", "Dəb", "İsveç", "Mağaza", "Tez Dəb"]
+  },
+  {
+    "mainWord": "IKEA",
+    "forbiddenWords": ["Mebel", "Ev Əşyaları", "İsveç", "Yığma", "Dizayn"]
+  },
+  {
+    "mainWord": "Rolex",
+    "forbiddenWords": ["Saat", "Lüks", "İsveçrə", "Qızıl", "Kronometr"]
+  },
+  {
+    "mainWord": "LEGO",
+    "forbiddenWords": ["Oyuncaq", "Kərpic", "Konstruktor", "Danimarka", "Uşaq"]
+  },
+  {
+    "mainWord": "Red Bull",
+    "forbiddenWords": ["Enerji İçkisi", "Avstriya", "Qanadlar", "Ekstremal İdman", "Kafein"]
+  },
+  {
+    "mainWord": "Ferrari",
+    "forbiddenWords": ["Maşın", "İdman", "İtaliya", "Qırmızı", "Lüks"]
+  },
+  {
+    "mainWord": "Porsche",
+    "forbiddenWords": ["Maşın", "İdman", "Almaniya", "911", "Lüks"]
+  },
+  {
+    "mainWord": "Netflix",
+    "forbiddenWords": ["Film", "Serial", "Axın", "Abunəlik", "Onlayn"]
+  },
+  {
+    "mainWord": "YouTube",
+    "forbiddenWords": ["Video", "Onlayn", "Google", "Kanal", "Paylaşmaq"]
+  },
+  {
+    "mainWord": "Visa",
+    "forbiddenWords": ["Kredit Kartı", "Ödəniş", "Bank", "Pul", "Maliyyə"]
+  },
+  {
+    "mainWord": "Mastercard",
+    "forbiddenWords": ["Kredit Kartı", "Ödəniş", "Bank", "Pul", "Maliyyə"]
+  },
+  {
+    "mainWord": "Shell",
+    "forbiddenWords": ["Yanacaq", "Neft", "Benzin", "Enerji", "Qırmızı Qabıq"]
+  },
+  {
+    "mainWord": "BP",
+    "forbiddenWords": ["Yanacaq", "Neft", "Benzin", "Enerji", "İngiltərə"]
+  },
+  {
+    "mainWord": "Siemens",
+    "forbiddenWords": ["Elektronika", "Mühəndislik", "Almaniya", "Məişət Texnikası", "Enerji"]
+  },
+  {
+    "mainWord": "Philips",
+    "forbiddenWords": ["Elektronika", "Lampa", "Televizor", "Niderland", "Məişət Texnikası"]
+  },
+  {
+    "mainWord": "Canon",
+    "forbiddenWords": ["Kamera", "Fotoaparat", "Yaponiya", "Printer", "Lens"]
+  },
+  {
+    "mainWord": "Nikon",
+    "forbiddenWords": ["Kamera", "Fotoaparat", "Yaponiya", "Lens", "Rəqib"]
+  },
+  {
+    "mainWord": "HP (Hewlett-Packard)",
+    "forbiddenWords": ["Kompüter", "Printer", "Noutbuk", "Texnologiya", "ABŞ"]
+  },
+  {
+    "mainWord": "Dell",
+    "forbiddenWords": ["Kompüter", "Noutbuk", "Monitor", "Texnologiya", "ABŞ"]
+  },
+  {
+    "mainWord": "Oracle",
+    "forbiddenWords": ["Proqram", "Verilənlər Bazası", "Biznes", "Texnologiya", "Larry Ellison"]
+  },
+  {
+    "mainWord": "SAP",
+    "forbiddenWords": ["Proqram", "Biznes", "ERP", "Almaniya", "Korporativ"]
+  },
+  {
+    "mainWord": "Cisco",
+    "forbiddenWords": ["Şəbəkə", "Router", "İnternet", "Texnologiya", "ABŞ"]
+  },
+  {
+    "mainWord": "Johnson & Johnson",
+    "forbiddenWords": ["Tibbi", "Şampun", "Körpə", "Sağlamlıq", "ABŞ"]
+  },
+  {
+    "mainWord": "Pfizer",
+    "forbiddenWords": ["Əczaçılıq", "Dərman", "Peyvənd", "Sağlamlıq", "ABŞ"]
+  },
+  {
+    "mainWord": "Colgate",
+    "forbiddenWords": ["Diş Məcunu", "Fırça", "Ağız Sağlamlığı", "Şəxsi Baxım", "ABŞ"]
+  },
+  {
+    "mainWord": "Gillette",
+    "forbiddenWords": ["Ülgüc", "Təraş", "Kişi Baxımı", "ProGlide", "ABŞ"]
+  },
+  {
+    "mainWord": "Nivea",
+    "forbiddenWords": ["Krem", "Dəri Baxımı", "Almaniya", "Mavi", "Şəxsi Baxım"]
+  },
+  {
+    "mainWord": "Dove",
+    "forbiddenWords": ["Sabun", "Şampun", "Nəmləndirici", "Gözəllik", "Unilever"]
+  },
+  {
+    "mainWord": "KFC",
+    "forbiddenWords": ["Toyuq", "Fast Food", "Polkovnik Sanders", "Qızardılmış", "Restoran"]
+  },
+  {
+    "mainWord": "Burger King",
+    "forbiddenWords": ["Burger", "Fast Food", "Whopper", "Rəqib", "Restoran"]
+  },
+  {
+    "mainWord": "Pizza Hut",
+    "forbiddenWords": ["Pizza", "Restoran", "Çatdırılma", "Qırmızı Dam", "ABŞ"]
+  },
+  {
+    "mainWord": "Domino's Pizza",
+    "forbiddenWords": ["Pizza", "Çatdırılma", "Restoran", "Domino", "ABŞ"]
+  },
+  {
+    "mainWord": "Subway",
+    "forbiddenWords": ["Sandviç", "Fast Food", "Sağlam", "Tərəvəz", "Restoran"]
+  },
+  {
+    "mainWord": "Audi",
+    "forbiddenWords": ["Maşın", "Avtomobil", "Almaniya", "Lüks", "Dörd Həlqə"]
+  },
+  {
+    "mainWord": "Volkswagen",
+    "forbiddenWords": ["Maşın", "Avtomobil", "Almaniya", "Beetle", "Golf"]
+  },
+  {
+    "mainWord": "Chevrolet",
+    "forbiddenWords": ["Maşın", "Avtomobil", "ABŞ", "Camaro", "GM"]
+  },
+  {
+    "mainWord": "Hyundai",
+    "forbiddenWords": ["Maşın", "Avtomobil", "Koreya", "Sonata", "Kia"]
+  },
+  {
+    "mainWord": "Kia",
+    "forbiddenWords": ["Maşın", "Avtomobil", "Koreya", "Sportage", "Hyundai"]
+  },
+  {
+    "mainWord": "Nissan",
+    "forbiddenWords": ["Maşın", "Avtomobil", "Yaponiya", "Altima", "Renault"]
+  },
+  {
+    "mainWord": "Mitsubishi",
+    "forbiddenWords": ["Maşın", "Elektronika", "Yaponiya", "Lancer", "Üç Romb"]
+  },
+  {
+    "mainWord": "Puma",
+    "forbiddenWords": ["Ayaqqabı", "İdman", "Geyim", "Almaniya", "Pişik"]
+  },
+  {
+    "mainWord": "Reebok",
+    "forbiddenWords": ["Ayaqqabı", "İdman", "Geyim", "Fitness", "İngiltərə/ABŞ"]
+  },
+  {
+    "mainWord": "Under Armour",
+    "forbiddenWords": ["İdman", "Geyim", "Fitness", "ABŞ", "Performans"]
+  },
+  {
+    "mainWord": "The North Face",
+    "forbiddenWords": ["Geyim", "Outdoor", "Dağ", "Soyuq", "ABŞ"]
+  },
+  {
+    "mainWord": "Patagonia",
+    "forbiddenWords": ["Geyim", "Outdoor", "Ekologiya", "Aktivizm", "ABŞ"]
+  },
+  {
+    "mainWord": "Levi's",
+    "forbiddenWords": ["Cins", "Geyim", "ABŞ", "501", "Denim"]
+  },
+  {
+    "mainWord": "Calvin Klein",
+    "forbiddenWords": ["Alt Paltarı", "Geyim", "Ətir", "ABŞ", "Minimalist"]
+  },
+  {
+    "mainWord": "Ralph Lauren",
+    "forbiddenWords": ["Geyim", "Polo", "At", "ABŞ", "Klassik"]
+  },
+  {
+    "mainWord": "Tommy Hilfiger",
+    "forbiddenWords": ["Geyim", "ABŞ", "Bayraq Rəngləri", "Klassik", "Dəb"]
+  },
+  {
+    "mainWord": "Prada",
+    "forbiddenWords": ["Dəb", "Çanta", "İtaliya", "Lüks", "Miuccia"]
+  },
+  {
+    "mainWord": "Hermès",
+    "forbiddenWords": ["Dəb", "Çanta", "İpək Şarf", "Fransa", "Lüks"]
+  },
+  {
+    "mainWord": "Burberry",
+    "forbiddenWords": ["Dəb", "Plaş", "İngiltərə", "Dama", "Lüks"]
+  },
+  {
+    "mainWord": "Tiffany & Co.",
+    "forbiddenWords": ["Zərgərlik", "Mavi Qutu", "Nişan Üzüyü", "ABŞ", "Lüks"]
+  },
+  {
+    "mainWord": "Cartier",
+    "forbiddenWords": ["Zərgərlik", "Saat", "Fransa", "Lüks", "Panter"]
+  },
+  {
+    "mainWord": "Omega",
+    "forbiddenWords": ["Saat", "İsveçrə", "Lüks", "Speedmaster", "James Bond"]
+  },
+  {
+    "mainWord": "TAG Heuer",
+    "forbiddenWords": ["Saat", "İsveçrə", "Lüks", "Xronoqraf", "Yarış"]
+  },
+  {
+    "mainWord": "Casio",
+    "forbiddenWords": ["Saat", "Elektron", "Yaponiya", "G-Shock", "Kalkulyator"]
+  },
+  {
+    "mainWord": "Seiko",
+    "forbiddenWords": ["Saat", "Yaponiya", "Kvars", "Mexaniki", "Grand Seiko"]
+  },
+  {
+    "mainWord": "Nintendo",
+    "forbiddenWords": ["Oyun", "Konsol", "Yaponiya", "Mario", "Switch"]
+  },
+  {
+    "mainWord": "PlayStation",
+    "forbiddenWords": ["Oyun", "Konsol", "Sony", "DualShock", "Eksklüziv"]
+  },
+  {
+    "mainWord": "Xbox",
+    "forbiddenWords": ["Oyun", "Konsol", "Microsoft", "Game Pass", "Halo"]
+  },
+  {
+    "mainWord": "Barbie (Brand)",
+    "forbiddenWords": ["Oyuncaq", "Gəlinciq", "Mattel", "Pembe", "Ken"]
+  },
+  {
+    "mainWord": "Hot Wheels",
+    "forbiddenWords": ["Oyuncaq", "Maşın", "Mattel", "Kolleksiya", "Metal"]
+  },
+  {
+    "mainWord": "Hasbro",
+    "forbiddenWords": ["Oyuncaq", "Monopoly", "Transformers", "NERF", "Şirkət"]
+  },
+  {
+    "mainWord": "Mattel",
+    "forbiddenWords": ["Oyuncaq", "Barbie", "Hot Wheels", "Fisher-Price", "Şirkət"]
+  },
+  {
+    "mainWord": "Fisher-Price",
+    "forbiddenWords": ["Oyuncaq", "Körpə", "Uşaq", "İnkişaf", "Mattel"]
+  },
+  {
+    "mainWord": "Pampers",
+    "forbiddenWords": ["Bezlər", "Körpə", "Uşaq", "Procter & Gamble", "Gigiyena"]
+  },
+  {
+    "mainWord": "Huggies",
+    "forbiddenWords": ["Bezlər", "Körpə", "Uşaq", "Kimberly-Clark", "Gigiyena"]
+  },
+  {
+    "mainWord": "Gerber",
+    "forbiddenWords": ["Körpə Maması", "Qida", "Püre", "Nestlé", "Uşaq"]
+  },
+  {
+    "mainWord": "Heinz",
+    "forbiddenWords": ["Ketçup", "Sous", "Qida", "ABŞ", "57 Çeşid"]
+  },
+  {
+    "mainWord": "Kellogg's",
+    "forbiddenWords": ["Səhər Yeməyi", "Yulaf", "Corn Flakes", "ABŞ", "Taxıl"]
+  },
+  {
+    "mainWord": "Danone",
+    "forbiddenWords": ["Qatıq", "Süd Məhsulları", "Fransa", "Activia", "Sağlamlıq"]
+  },
+  {
+    "mainWord": "Mars",
+    "forbiddenWords": ["Şokolad", "Konfet", "Snickers", "M&M's", "ABŞ"]
+  },
+  {
+    "mainWord": "Cadbury",
+    "forbiddenWords": ["Şokolad", "İngiltərə", "Bənövşəyi", "Dairy Milk", "Konfet"]
+  },
+  {
+    "mainWord": "Reebok",
+    "forbiddenWords": ["Ayaqqabı", "İdman", "Geyim", "Rəqabət", "Fitness"]
+  },
+  {
+    "mainWord": "Puma",
+    "forbiddenWords": ["Ayaqqabı", "İdman", "Geyim", "Rəqabət", "Yumruq"]
+  },
+  {
+    "mainWord": "Converse",
+    "forbiddenWords": ["Ayaqqabı", "Geyim", "Rahat", "Moda", "Tərz"]
+  },
+  {
+    "mainWord": "Vans",
+    "forbiddenWords": ["Ayaqqabı", "Sərbəst", "Skateboard", "Rahat", "Moda"]
+  },
+  {
+    "mainWord": "Under Armour",
+    "forbiddenWords": ["İdman", "Geyim", "Ayaqqabı", "Rəqabət", "Fitness"]
+  },
+  {
+    "mainWord": "Hugo Boss",
+    "forbiddenWords": ["Geyim", "Lüks", "Moda", "Almaniya", "Kostyum"]
+  },
+  {
+    "mainWord": "Tommy Hilfiger",
+    "forbiddenWords": ["Geyim", "Moda", "Lüks", "Amerika", "Kostyum"]
+  },
+  {
+    "mainWord": "Calvin Klein",
+    "forbiddenWords": ["Geyim", "Moda", "Lüks", "Brend", "Amerika"]
+  },
+  {
+    "mainWord": "Lacoste",
+    "forbiddenWords": ["Geyim", "Moda", "Lüks", "İsveçrə", "Polo"]
+  },
+  {
+    "mainWord": "Chanel",
+    "forbiddenWords": ["Moda", "Geyim", "Parfüm", "Lüks", "Fransa"]
+  },
+  {
+    "mainWord": "Fendi",
+    "forbiddenWords": ["Moda", "Geyim", "Lüks", "Aksesuar", "Fransa"]
+  },
+  {
+    "mainWord": "Prada",
+    "forbiddenWords": ["Moda", "Geyim", "Lüks", "Aksesuar", "Fransa"]
+  },
+  {
+    "mainWord": "Saint Laurent",
+    "forbiddenWords": ["Moda", "Geyim", "Fransa", "Lüks", "Şəhər"]
+  },
+  {
+    "mainWord": "Balenciaga",
+    "forbiddenWords": ["Moda", "Lüks", "Geyim", "Aksesuar", "Fransa"]
+  },
+  {
+    "mainWord": "Dior",
+    "forbiddenWords": ["Moda", "Lüks", "Parfüm", "Fransa", "Geyim"]
+  },
+  {
+    "mainWord": "Tiffany & Co.",
+    "forbiddenWords": ["Zərgərlik", "Lüks", "Fransa", "Brend", "Aksesuar"]
+  },
+  {
+    "mainWord": "Burberry",
+    "forbiddenWords": ["Geyim", "Moda", "Lüks", "Aksesuar", "İngiltərə"]
+  },
+  {
+    "mainWord": "Gucci",
+    "forbiddenWords": ["Geyim", "Moda", "Lüks", "Aksesuar", "İtaliya"]
+  },
+  {
+    "mainWord": "Versace",
+    "forbiddenWords": ["Moda", "Lüks", "Geyim", "Aksesuar", "İtaliya"]
+  },
+  {
+    "mainWord": "Moncler",
+    "forbiddenWords": ["Moda", "Geyim", "Lüks", "Fransa", "Kəpənək"]
+  },
+  {
+    "mainWord": "Audemars Piguet",
+    "forbiddenWords": ["Saat", "Lüks", "Zərgərlik", "İsveçrə", "Aksesuar"]
+  },
+  {
+    "mainWord": "Omega",
+    "forbiddenWords": ["Saat", "Lüks", "İsveçrə", "Aksesuar", "Zərgərlik"]
+  },
+  {
+    "mainWord": "Tag Heuer",
+    "forbiddenWords": ["Saat", "Lüks", "İsveçrə", "Zərgərlik", "Aksesuar"]
+  },
+  {
+    "mainWord": "Patek Philippe",
+    "forbiddenWords": ["Saat", "Lüks", "İsveçrə", "Zərgərlik", "Aksesuar"]
+  },
+  {
+    "mainWord": "Bentley",
+    "forbiddenWords": ["Avtomobil", "Lüks", "Sürət", "İngiltərə", "Almaniya"]
+  },
+  {
+    "mainWord": "Rolls-Royce",
+    "forbiddenWords": ["Avtomobil", "Lüks", "Sürət", "Almaniya", "İngiltərə"]
+  },
+  {
+    "mainWord": "Maserati",
+    "forbiddenWords": ["Avtomobil", "Lüks", "Sürət", "İtaliya", "Yol"]
+  },
+  {
+    "mainWord": "Ferrari",
+    "forbiddenWords": ["Avtomobil", "Lüks", "Sürət", "İtaliya", "Yol"]
+  },
+  {
+    "mainWord": "Lamborghini",
+    "forbiddenWords": ["Avtomobil", "Lüks", "Sürət", "Yol", "İtaliya"]
+  },
+  {
+    "mainWord": "Aston Martin",
+    "forbiddenWords": ["Avtomobil", "Lüks", "Sürət", "İngiltərə", "Yol"]
+  },
+  {
+    "mainWord": "Jaguar",
+    "forbiddenWords": ["Avtomobil", "Lüks", "Sürət", "Almaniya", "İngiltərə"]
+  },
+  {
+    "mainWord": "Tesla",
+    "forbiddenWords": ["Avtomobil", "Elektrik", "Yol", "Sürət", "İnnovasiya"]
+  },
+  {
+    "mainWord": "Honda",
+    "forbiddenWords": ["Avtomobil", "Asiya", "Yol", "Japonya", "Motorsiklet"]
+  },
+  {
+    "mainWord": "Kawasaki",
+    "forbiddenWords": ["Motorsiklet", "Sürət", "Asiya", "Japonya", "Yol"]
+  },
+  {
+    "mainWord": "Harley-Davidson",
+    "forbiddenWords": ["Motorsiklet", "Amerika", "Sürət", "Yol", "Stil"]
+  },
+  {
+    "mainWord": "Yamaha",
+    "forbiddenWords": ["Motorsiklet", "Sürət", "Asiya", "Yol", "Japonya"]
+  },
+  {
+    "mainWord": "Suzuki",
+    "forbiddenWords": ["Motorsiklet", "Sürət", "Asiya", "Japonya", "Yol"]
+  },
+  {
+    "mainWord": "BMW",
+    "forbiddenWords": ["Avtomobil", "Lüks", "Sürət", "Almaniya", "Yol"]
+  },
+  {
+    "mainWord": "Mercedes-Benz",
+    "forbiddenWords": ["Avtomobil", "Lüks", "Yol", "Almaniya", "Sürət"]
+  },
+  {
+    "mainWord": "Audi",
+    "forbiddenWords": ["Avtomobil", "Almaniya", "Lüks", "Yol", "Sürət"]
+  },
+  {
+    "mainWord": "Volkswagen",
+    "forbiddenWords": ["Avtomobil", "Almaniya", "Yol", "Sürət", "Lüks"]
+  },
+  {
+    "mainWord": "Ford",
+    "forbiddenWords": ["Avtomobil", "Amerika", "Yol", "Sürət", "Texnologiya"]
+  },
+  {
+    "mainWord": "Chevrolet",
+    "forbiddenWords": ["Avtomobil", "Amerika", "Yol", "Sürət", "Texnologiya"]
+  },
+  {
+    "mainWord": "Cadillac",
+    "forbiddenWords": ["Avtomobil", "Amerika", "Lüks", "Yol", "Sürət"]
+  },
+  {
+    "mainWord": "Toyota",
+    "forbiddenWords": ["Avtomobil", "Yol", "Asiya", "Japonya", "Sürət"]
+  },
+  {
+    "mainWord": "Nissan",
+    "forbiddenWords": ["Avtomobil", "Japonya", "Yol", "Sürət", "Asiya"]
+  },
+  {
+    "mainWord": "Hyundai",
+    "forbiddenWords": ["Avtomobil", "Yol", "Asiya", "Cənubi Koreya", "Sürət"]
+  },
+  {
+    "mainWord": "Kia",
+    "forbiddenWords": ["Avtomobil", "Asiya", "Yol", "Cənubi Koreya", "Sürət"]
+  },
+  {
+    "mainWord": "Mazda",
+    "forbiddenWords": ["Avtomobil", "Yol", "Japonya", "Sürət", "Asiya"]
+  },
+  {
+    "mainWord": "Subaru",
+    "forbiddenWords": ["Avtomobil", "Japonya", "Yol", "Sürət", "Asiya"]
+  },
+  {
+    "mainWord": "Peugeot",
+    "forbiddenWords": ["Avtomobil", "Fransa", "Yol", "Sürət", "Lüks"]
+  },
+  {
+    "mainWord": "Renault",
+    "forbiddenWords": ["Avtomobil", "Fransa", "Yol", "Sürət", "Lüks"]
+  },
+  {
+    "mainWord": "Fiat",
+    "forbiddenWords": ["Avtomobil", "İtaliya", "Yol", "Sürət", "Asiya"]
+  },
+  {
+    "mainWord": "Alfa Romeo",
+    "forbiddenWords": ["Avtomobil", "İtaliya", "Lüks", "Yol", "Sürət"]
+  },
+  {
+    "mainWord": "Ferrari",
+    "forbiddenWords": ["Avtomobil", "Lüks", "Yol", "Sürət", "İtaliya"]
+  },
+  {
+    "mainWord": "LG",
+    "forbiddenWords": ["Elektronika", "Televizor", "Telefon", "Soyuducu", "Cənubi Koreya"]
+  },
+  {
+    "mainWord": "Panasonic",
+    "forbiddenWords": ["Elektronika", "Televizor", "Kamera", "Yaponiya", "Batareya"]
+  },
+  {
+    "mainWord": "Xiaomi",
+    "forbiddenWords": ["Telefon", "Smartfon", "Çin", "Mi", "Büdcəli"]
+  },
+  {
+    "mainWord": "Huawei",
+    "forbiddenWords": ["Telefon", "Smartfon", "Çin", "Şəbəkə", "Texnologiya"]
+  },
+  {
+    "mainWord": "Lenovo",
+    "forbiddenWords": ["Kompüter", "Noutbuk", "ThinkPad", "Çin", "Texnologiya"]
+  },
+  {
+    "mainWord": "Acer",
+    "forbiddenWords": ["Kompüter", "Noutbuk", "Tayvan", "Predator", "Texnologiya"]
+  },
+  {
+    "mainWord": "Asus",
+    "forbiddenWords": ["Kompüter", "Noutbuk", "Ana plata", "Tayvan", "ROG"]
+  },
+  {
+    "mainWord": "AMD",
+    "forbiddenWords": ["Prosessor", "Çip", "Ryzen", "Qrafika kartı", "Rəqib"]
+  },
+  {
+    "mainWord": "Nvidia",
+    "forbiddenWords": ["Qrafika kartı", "Çip", "GeForce", "Oyun", "Süni zəka"]
+  },
+  {
+    "mainWord": "Bose",
+    "forbiddenWords": ["Səs sistemi", "Qulaqlıq", "Dinamik", "Səsucaldıcı", "Səs keyfiyyəti"]
+  },
+  {
+    "mainWord": "Sonos",
+    "forbiddenWords": ["Səs sistemi", "Dinamik", "Simsiz", "Ev", "Multiroom"]
+  },
+  {
+    "mainWord": "JBL",
+    "forbiddenWords": ["Səs sistemi", "Dinamik", "Qulaqlıq", "Portativ", "Səsucaldıcı"]
+  },
+  {
+    "mainWord": "Garmin",
+    "forbiddenWords": ["GPS", "Saat", "Naviqasiya", "Fitness", "Ağıllı saat"]
+  },
+  {
+    "mainWord": "Fitbit",
+    "forbiddenWords": ["Fitness izləyici", "Ağıllı saat", "Addım sayar", "Sağlamlıq", "Google"]
+  },
+  {
+    "mainWord": "GoPro",
+    "forbiddenWords": ["Kamera", "Ekşn", "Video", "Su keçirməz", "İdman"]
+  },
+  {
+    "mainWord": "Tesla",
+    "forbiddenWords": ["Elektrikli avtomobil", "Elon Musk", "Model S", "Avtopilot", "Batareya"]
+  },
+  {
+    "mainWord": "Volvo",
+    "forbiddenWords": ["Maşın", "İsveç", "Təhlükəsizlik", "Avtomobil", "SUV"]
+  },
+  {
+    "mainWord": "Jaguar",
+    "forbiddenWords": ["Maşın", "Lüks", "İngiltərə", "Pişik", "İdman avtomobili"]
+  },
+  {
+    "mainWord": "Land Rover",
+    "forbiddenWords": ["Maşın", "SUV", "İngiltərə", "Off-road", "Range Rover"]
+  },
+  {
+    "mainWord": "Jeep",
+    "forbiddenWords": ["Maşın", "SUV", "ABŞ", "Off-road", "Wrangler"]
+  },
+  {
+    "mainWord": "Subaru",
+    "forbiddenWords": ["Maşın", "Yaponiya", "AWD", "Ralli", "Boxer mühərrik"]
+  },
+  {
+    "mainWord": "Mazda",
+    "forbiddenWords": ["Maşın", "Yaponiya", "Zoom-Zoom", "Rotary mühərrik", "MX-5"]
+  },
+  {
+    "mainWord": "Fiat",
+    "forbiddenWords": ["Maşın", "İtaliya", "500", "Kiçik", "Avtomobil"]
+  },
+  {
+    "mainWord": "Renault",
+    "forbiddenWords": ["Maşın", "Fransa", "Clio", "Avtomobil", "Nissan ilə ittifaq"]
+  },
+  {
+    "mainWord": "Peugeot",
+    "forbiddenWords": ["Maşın", "Fransa", "Aslan", "Avtomobil", "Citroën ilə qrup"]
+  },
+  {
+    "mainWord": "Citroën",
+    "forbiddenWords": ["Maşın", "Fransa", "Komfort", "Avtomobil", "Dizayn"]
+  },
+  {
+    "mainWord": "Gap",
+    "forbiddenWords": ["Geyim", "ABŞ", "Cins", "Köynək", "Mağaza"]
+  },
+  {
+    "mainWord": "Old Navy",
+    "forbiddenWords": ["Geyim", "ABŞ", "Gap Inc.", "Ailə", "Büdcəli"]
+  },
+  {
+    "mainWord": "Banana Republic",
+    "forbiddenWords": ["Geyim", "ABŞ", "Gap Inc.", "Ofis", "Klassik"]
+  },
+  {
+    "mainWord": "Uniqlo",
+    "forbiddenWords": ["Geyim", "Yaponiya", "Sadə", "Keyfiyyətli", "Mağaza"]
+  },
+  {
+    "mainWord": "ASOS",
+    "forbiddenWords": ["Onlayn Geyim", "Dəb", "İngiltərə", "Mağaza", "Brendlər"]
+  },
+  {
+    "mainWord": "Shein",
+    "forbiddenWords": ["Onlayn Geyim", "Tez Dəb", "Çin", "Ucuz", "Trend"]
+  },
+  {
+    "mainWord": "Mango",
+    "forbiddenWords": ["Geyim", "İspaniya", "Dəb", "Mağaza", "Qadın"]
+  },
+  {
+    "mainWord": "Massimo Dutti",
+    "forbiddenWords": ["Geyim", "İspaniya", "Inditex", "Klassik", "Zərif"]
+  },
+  {
+    "mainWord": "Bershka",
+    "forbiddenWords": ["Geyim", "İspaniya", "Inditex", "Gənc", "Trend"]
+  },
+  {
+    "mainWord": "Pull&Bear",
+    "forbiddenWords": ["Geyim", "İspaniya", "Inditex", "Gənc", "Küçə tərzi"]
+  },
+  {
+    "mainWord": "Stradivarius",
+    "forbiddenWords": ["Geyim", "İspaniya", "Inditex", "Qadın", "Trend"]
+  },
+  {
+    "mainWord": "Oysho",
+    "forbiddenWords": ["Alt Paltarı", "Gecəlik", "İspaniya", "Inditex", "Komfort"]
+  },
+  {
+    "mainWord": "Victoria's Secret",
+    "forbiddenWords": ["Alt Paltarı", "Mələklər", "ABŞ", "Çəhrayı", "Şou"]
+  },
+  {
+    "mainWord": "Hugo Boss",
+    "forbiddenWords": ["Geyim", "Ətir", "Almaniya", "Kostyum", "Lüks"]
+  },
+  {
+    "mainWord": "Armani",
+    "forbiddenWords": ["Dəb", "İtaliya", "Lüks", "Giorgio", "Kostyum"]
+  },
+  {
+    "mainWord": "Versace",
+    "forbiddenWords": ["Dəb", "İtaliya", "Lüks", "Meduza", "Gianni"]
+  },
+  {
+    "mainWord": "Dior",
+    "forbiddenWords": ["Dəb", "Ətir", "Fransa", "Lüks", "Christian"]
+  },
+  {
+    "mainWord": "Saint Laurent",
+    "forbiddenWords": ["Dəb", "Fransa", "Lüks", "Yves", "Çanta"]
+  },
+  {
+    "mainWord": "Givenchy",
+    "forbiddenWords": ["Dəb", "Fransa", "Lüks", "Hubert", "Kosmetika"]
+  },
+  {
+    "mainWord": "Balenciaga",
+    "forbiddenWords": ["Dəb", "İspaniya/Fransa", "Lüks", "Küçə tərzi", "Demna"]
+  },
+  {
+    "mainWord": "Fendi",
+    "forbiddenWords": ["Dəb", "İtaliya", "Lüks", "Çanta", "Kürk"]
+  },
+  {
+    "mainWord": "Swarovski",
+    "forbiddenWords": ["Kristal", "Zərgərlik", "Avstriya", "Parıltı", "Qu quşu"]
+  },
+  {
+    "mainWord": "Montblanc",
+    "forbiddenWords": ["Qələm", "Saat", "Dəri məmulatları", "Lüks", "Almaniya"]
+  },
+  {
+    "mainWord": "Moët & Chandon",
+    "forbiddenWords": ["Şampan", "Fransa", "Lüks", "İçki", "Qeyd etmə"]
+  },
+  {
+    "mainWord": "Dom Pérignon",
+    "forbiddenWords": ["Şampan", "Fransa", "Lüks", "Vintage", "Moët & Chandon"]
+  },
+  {
+    "mainWord": "Kraft",
+    "forbiddenWords": ["Qida", "Pendir", "Makaron", "ABŞ", "Şirkət"]
+  },
+  {
+    "mainWord": "General Mills",
+    "forbiddenWords": ["Qida", "Səhər yeməyi", "Taxıl", "ABŞ", "Cheerios"]
+  },
+  {
+    "mainWord": "Unilever",
+    "forbiddenWords": ["Məhsullar", "İngiltərə/Niderland", "Dove", "Lipton", "Knorr"]
+  },
+  {
+    "mainWord": "Procter & Gamble (P&G)",
+    "forbiddenWords": ["Məhsullar", "ABŞ", "Pampers", "Gillette", "Ariel"]
+  },
+  {
+    "mainWord": "Fanta",
+    "forbiddenWords": ["İçki", "Portağal", "Qazlı", "Coca-Cola", "Meyvəli"]
+  },
+  {
+    "mainWord": "Sprite",
+    "forbiddenWords": ["İçki", "Limon-Lyme", "Qazlı", "Coca-Cola", "Şəffaf"]
+  },
+  {
+    "mainWord": "Schweppes",
+    "forbiddenWords": ["İçki", "Tonik", "Qazlı", "Zəncəfil", "Mixer"]
+  },
+  {
+    "mainWord": "Lipton",
+    "forbiddenWords": ["Çay", "Paket", "İngiltərə", "Sarı", "Unilever"]
+  },
+  {
+    "mainWord": "Twinings",
+    "forbiddenWords": ["Çay", "İngiltərə", "Klassik", "Earl Grey", "Paket"]
+  },
+  {
+    "mainWord": "Lavazza",
+    "forbiddenWords": ["Qəhvə", "İtaliya", "Espresso", "Dənəli", "Mavi"]
+  },
+  {
+    "mainWord": "Illy",
+    "forbiddenWords": ["Qəhvə", "İtaliya", "Espresso", "Qırmızı", "Kapsul"]
+  },
+  {
+    "mainWord": "Ferrero Rocher",
+    "forbiddenWords": ["Şokolad", "Fındıq", "İtaliya", "Qızılı", "Hədiyyə"]
+  },
+  {
+    "mainWord": "Lindt",
+    "forbiddenWords": ["Şokolad", "İsveçrə", "Lüks", "Lindor", "Top"]
+  },
+  {
+    "mainWord": "Toblerone",
+    "forbiddenWords": ["Şokolad", "Üçbucaq", "İsveçrə", "Bal", "Nougat"]
+  },
+  {
+    "mainWord": "Haribo",
+    "forbiddenWords": ["Şəkərli konfet", "Ayı", "Almaniya", "Rəngli", "Yumşaq"]
+  },
+  {
+    "mainWord": "Lay's",
+    "forbiddenWords": ["Çips", "Kartof", "ABŞ", "Sarı", "Qıvrım"]
+  },
+  {
+    "mainWord": "Pringles",
+    "forbiddenWords": ["Çips", "Kartof", "Qutu", "ABŞ", "Bığ"]
+  },
+  {
+    "mainWord": "Doritos",
+    "forbiddenWords": ["Çips", "Misir", "Üçbucaq", "ABŞ", "Nacho"]
+  },
+  {
+    "mainWord": "Cheetos",
+    "forbiddenWords": ["Çips", "Misir", "Pəncə", "ABŞ", "Pendirli"]
+  },
+  {
+    "mainWord": "Knorr",
+    "forbiddenWords": ["Ədviyyat", "Sup", "Unilever", "Qida", "Kub"]
+  },
+  {
+    "mainWord": "Maggi",
+    "forbiddenWords": ["Ədviyyat", "Sup", "Nestlé", "Qida", "Sarı-Qırmızı"]
+  },
+  {
+    "mainWord": "Walmart",
+    "forbiddenWords": ["Pərakəndə", "Supermarket", "ABŞ", "Ucuz", "Böyük"]
+  },
+  {
+    "mainWord": "Target",
+    "forbiddenWords": ["Pərakəndə", "Mağaza", "ABŞ", "Qırmızı Hədəf", "Dizayn"]
+  },
+  {
+    "mainWord": "Costco",
+    "forbiddenWords": ["Pərakəndə", "Anbar Klubu", "ABŞ", "Üzvlük", "Topdan Satış"]
+  },
+  {
+    "mainWord": "Carrefour",
+    "forbiddenWords": ["Pərakəndə", "Supermarket", "Fransa", "Beynəlxalq", "Mavi-Qırmızı"]
+  },
+  {
+    "mainWord": "Tesco",
+    "forbiddenWords": ["Pərakəndə", "Supermarket", "İngiltərə", "Klub kartı", "Mağaza"]
+  },
+  {
+    "mainWord": "Aldi",
+    "forbiddenWords": ["Pərakəndə", "Diskont", "Almaniya", "Ucuz", "Supermarket"]
+  },
+  {
+    "mainWord": "Lidl",
+    "forbiddenWords": ["Pərakəndə", "Diskont", "Almaniya", "Ucuz", "Supermarket"]
+  },
+  {
+    "mainWord": "7-Eleven",
+    "forbiddenWords": ["Market", "ABŞ/Yaponiya", "24 Saat", "Slurpee", "Qəlyanaltı"]
+  },
+  {
+    "mainWord": "Maybelline",
+    "forbiddenWords": ["Kosmetika", "Makiyaj", "ABŞ", "Tuş", "Büdcəli"]
+  },
+  {
+    "mainWord": "Revlon",
+    "forbiddenWords": ["Kosmetika", "Makiyaj", "ABŞ", "Dodaq boyası", "Klassik"]
+  },
+  {
+    "mainWord": "MAC",
+    "forbiddenWords": ["Kosmetika", "Makiyaj", "Professional", "Kanada/ABŞ", "Mağaza"]
+  },
+  {
+    "mainWord": "Estée Lauder",
+    "forbiddenWords": ["Kosmetika", "Dəri baxımı", "Lüks", "ABŞ", "Serum"]
+  },
+  {
+    "mainWord": "Clinique",
+    "forbiddenWords": ["Kosmetika", "Dəri baxımı", "Hipoallergen", "ABŞ", "3 Adım"]
+  },
+  {
+    "mainWord": "Lancôme",
+    "forbiddenWords": ["Kosmetika", "Ətir", "Dəri baxımı", "Lüks", "Fransa"]
+  },
+  {
+    "mainWord": "Kiehl's",
+    "forbiddenWords": ["Dəri baxımı", "ABŞ", "Aptek", "Təbii", "Kremlər"]
+  },
+  {
+    "mainWord": "Head & Shoulders",
+    "forbiddenWords": ["Şampun", "Kəpək", "P&G", "Mavi", "Saç baxımı"]
+  },
+  {
+    "mainWord": "Pantene",
+    "forbiddenWords": ["Şampun", "Saç baxımı", "P&G", "Pro-V", "Parlaqlıq"]
+  },
+  {
+    "mainWord": "Garnier",
+    "forbiddenWords": ["Şampun", "Saç boyası", "Dəri baxımı", "L'Oréal", "Fransa"]
+  },
+  {
+    "mainWord": "Axe/Lynx",
+    "forbiddenWords": ["Deodorant", "Kişi baxımı", "Unilever", "Sprey", "Ətir"]
+  },
+  {
+    "mainWord": "Old Spice",
+    "forbiddenWords": ["Deodorant", "Kişi baxımı", "P&G", "Qırmızı", "Ətir"]
+  },
+  {
+    "mainWord": "Whirlpool",
+    "forbiddenWords": ["Məişət texnikası", "Paltaryuyan", "Soyuducu", "ABŞ", "Ağ"]
+  },
+  {
+    "mainWord": "Bosch",
+    "forbiddenWords": ["Məişət texnikası", "Alətlər", "Almaniya", "Keyfiyyət", "Mühəndislik"]
+  },
+  {
+    "mainWord": "Dyson",
+    "forbiddenWords": ["Məişət texnikası", "Tozsoran", "Hava təmizləyici", "İngiltərə", "Dizayn"]
+  },
+  {
+    "mainWord": "Tefal",
+    "forbiddenWords": ["Mətbəx əşyaları", "Tava", "Yapışmaz", "Fransa", "Groupe SEB"]
+  },
+  {
+    "mainWord": "Krups",
+    "forbiddenWords": ["Mətbəx əşyaları", "Qəhvə maşını", "Almaniya", "Groupe SEB", "Kiçik texnika"]
+  },
+  {
+    "mainWord": "Braun",
+    "forbiddenWords": ["Məişət texnikası", "Ülgüc", "Blender", "Almaniya", "Dizayn"]
+  },
+  {
+    "mainWord": "Kenwood",
+    "forbiddenWords": ["Mətbəx əşyaları", "Mikser", "İngiltərə", "Aşpazlıq", "De'Longhi"]
+  },
+  {
+    "mainWord": "De'Longhi",
+    "forbiddenWords": ["Mətbəx əşyaları", "Qəhvə maşını", "İtaliya", "İsitmə", "Kiçik texnika"]
+  },
+  {
+    "mainWord": "Nike",
+    "forbiddenWords": ["İdman", "Ayaqqabı", "Geyim", "Sürət", "Rəqabət"]
+  },
+  {
+    "mainWord": "Adidas",
+    "forbiddenWords": ["İdman", "Ayaqqabı", "Geyim", "Rəqabət", "Fitness"]
+  },
+  {
+    "mainWord": "Samsung",
+    "forbiddenWords": ["Telefon", "Elektronika", "Texnologiya", "Ekran", "İnnovasiya"]
+  },
+  {
+    "mainWord": "Apple",
+    "forbiddenWords": ["Telefon", "Kompüter", "Elektronika", "İphone", "MacBook"]
+  },
+  {
+    "mainWord": "Sony",
+    "forbiddenWords": ["Elektronika", "Televizor", "Kamera", "Musiqi", "Konsol"]
+  },
+  {
+    "mainWord": "LG",
+    "forbiddenWords": ["Elektronika", "Televizor", "Kamera", "Cihaz", "Texnologiya"]
+  },
+  {
+    "mainWord": "Huawei",
+    "forbiddenWords": ["Telefon", "Elektronika", "Texnologiya", "İnternet", "Çin"]
+  },
+  {
+    "mainWord": "Google",
+    "forbiddenWords": ["Axtarış", "İnternet", "Texnologiya", "E-poçt", "Android"]
+  },
+  {
+    "mainWord": "Microsoft",
+    "forbiddenWords": ["Kompüter", "Windows", "Texnologiya", "Office", "İnternet"]
+  },
+  {
+    "mainWord": "Intel",
+    "forbiddenWords": ["Prosesor", "Kompüter", "Texnologiya", "Elektronika", "İnnovasiya"]
+  },
+  {
+    "mainWord": "AMD",
+    "forbiddenWords": ["Prosesor", "Kompüter", "Texnologiya", "Elektronika", "Çip"]
+  },
+  {
+    "mainWord": "Dell",
+    "forbiddenWords": ["Kompüter", "Elektronika", "Texnologiya", "PC", "Laptop"]
+  },
+  {
+    "mainWord": "HP",
+    "forbiddenWords": ["Kompüter", "Laptop", "Elektronika", "Texnologiya", "İş"]
+  },
+  {
+    "mainWord": "Lenovo",
+    "forbiddenWords": ["Kompüter", "Laptop", "Elektronika", "Texnologiya", "Çin"]
+  },
+  {
+    "mainWord": "Acer",
+    "forbiddenWords": ["Kompüter", "Laptop", "Elektronika", "Texnologiya", "Ekran"]
+  },
+  {
+    "mainWord": "Asus",
+    "forbiddenWords": ["Kompüter", "Laptop", "Elektronika", "Ekran", "Çin"]
+  },
+  {
+    "mainWord": "Tesla",
+    "forbiddenWords": ["Avtomobil", "Elektrik", "İnnovasiya", "Yol", "Sürət"]
+  },
+  {
+    "mainWord": "Toyota",
+    "forbiddenWords": ["Avtomobil", "Yol", "Japonya", "Sürət", "Asiya"]
+  },
+  {
+    "mainWord": "BMW",
+    "forbiddenWords": ["Avtomobil", "Lüks", "Yol", "Sürət", "Almaniya"]
+  },
+  {
+    "mainWord": "Mercedes-Benz",
+    "forbiddenWords": ["Avtomobil", "Lüks", "Yol", "Almaniya", "Sürət"]
+  },
+  {
+    "mainWord": "Audi",
+    "forbiddenWords": ["Avtomobil", "Lüks", "Yol", "Sürət", "Almaniya"]
+  },
+  {
+    "mainWord": "Volkswagen",
+    "forbiddenWords": ["Avtomobil", "Almaniya", "Yol", "Sürət", "Lüks"]
+  },
+  {
+    "mainWord": "Ferrari",
+    "forbiddenWords": ["Avtomobil", "Lüks", "Yol", "Sürət", "İtaliya"]
+  },
+  {
+    "mainWord": "Lamborghini",
+    "forbiddenWords": ["Avtomobil", "Lüks", "Yol", "Sürət", "İtaliya"]
+  },
+  {
+    "mainWord": "Porsche",
+    "forbiddenWords": ["Avtomobil", "Lüks", "Sürət", "Yol", "Almaniya"]
+  },
+  {
+    "mainWord": "Honda",
+    "forbiddenWords": ["Avtomobil", "Motorsiklet", "Yol", "Japonya", "Asiya"]
+  },
+  {
+    "mainWord": "Kawasaki",
+    "forbiddenWords": ["Motorsiklet", "Yol", "Sürət", "Asiya", "Japonya"]
+  },
+  {
+    "mainWord": "Harley-Davidson",
+    "forbiddenWords": ["Motorsiklet", "Amerika", "Sürət", "Yol", "Stil"]
+  },
+  {
+    "mainWord": "Yamaha",
+    "forbiddenWords": ["Motorsiklet", "Sürət", "Asiya", "Yol", "Japonya"]
+  },
+  {
+    "mainWord": "Suzuki",
+    "forbiddenWords": ["Motorsiklet", "Sürət", "Asiya", "Yol", "Japonya"]
+  },
+  {
+    "mainWord": "BMW",
+    "forbiddenWords": ["Avtomobil", "Almaniya", "Yol", "Lüks", "Sürət"]
+  },
+  {
+    "mainWord": "Peugeot",
+    "forbiddenWords": ["Avtomobil", "Fransa", "Yol", "Lüks", "Sürət"]
+  },
+  {
+    "mainWord": "Citroën",
+    "forbiddenWords": ["Avtomobil", "Fransa", "Yol", "Sürət", "Lüks"]
+  },
+  {
+    "mainWord": "Fiat",
+    "forbiddenWords": ["Avtomobil", "İtaliya", "Yol", "Sürət", "Lüks"]
+  },
+  {
+    "mainWord": "Chrysler",
+    "forbiddenWords": ["Avtomobil", "Amerika", "Yol", "Sürət", "Lüks"]
+  },
+  {
+    "mainWord": "Mitsubishi",
+    "forbiddenWords": ["Avtomobil", "Asiya", "Yol", "Sürət", "Japonya"]
+  },
+  {
+    "mainWord": "Land Rover",
+    "forbiddenWords": ["Avtomobil", "Lüks", "Yol", "Sürət", "İngiltərə"]
+  },
+  {
+    "mainWord": "Jaguar",
+    "forbiddenWords": ["Avtomobil", "İngiltərə", "Lüks", "Yol", "Sürət"]
+  },
+  {
+    "mainWord": "Ralph Lauren",
+    "forbiddenWords": ["Geyim", "Lüks", "Moda", "Aksesuar", "Amerika"]
+  },
+  {
+    "mainWord": "Tommy Hilfiger",
+    "forbiddenWords": ["Geyim", "Moda", "Lüks", "Amerika", "Kostyum"]
+  },
+  {
+    "mainWord": "Calvin Klein",
+    "forbiddenWords": ["Geyim", "Moda", "Lüks", "Amerika", "Kostyum"]
+  },
+  {
+    "mainWord": "Lacoste",
+    "forbiddenWords": ["Geyim", "Moda", "Lüks", "İsveçrə", "Polo"]
+  },
+  {
+    "mainWord": "Chanel",
+    "forbiddenWords": ["Moda", "Geyim", "Parfüm", "Lüks", "Fransa"]
+  },
+  {
+    "mainWord": "Fendi",
+    "forbiddenWords": ["Moda", "Geyim", "Lüks", "Aksesuar", "Fransa"]
+  },
+  {
+    "mainWord": "Prada",
+    "forbiddenWords": ["Moda", "Geyim", "Lüks", "Aksesuar", "Fransa"]
+  },
+  {
+    "mainWord": "Saint Laurent",
+    "forbiddenWords": ["Moda", "Geyim", "Fransa", "Lüks", "Şəhər"]
+  },
+  {
+    "mainWord": "Balenciaga",
+    "forbiddenWords": ["Moda", "Lüks", "Geyim", "Aksesuar", "Fransa"]
+  },
+  {
+    "mainWord": "Dior",
+    "forbiddenWords": ["Moda", "Lüks", "Parfüm", "Fransa", "Geyim"]
+  },
+  {
+    "mainWord": "Tiffany & Co.",
+    "forbiddenWords": ["Zərgərlik", "Lüks", "Fransa", "Brend", "Aksesuar"]
+  },
+  {
+    "mainWord": "Burberry",
+    "forbiddenWords": ["Geyim", "Moda", "Lüks", "Aksesuar", "İngiltərə"]
+  },
+  {
+    "mainWord": "Gucci",
+    "forbiddenWords": ["Geyim", "Moda", "Lüks", "Aksesuar", "İtaliya"]
+  },
+  {
+    "mainWord": "Versace",
+    "forbiddenWords": ["Moda", "Lüks", "Geyim", "Aksesuar", "İtaliya"]
+  },
+  {
+    "mainWord": "LG",
+    "forbiddenWords": ["Elektronika", "Televizor", "Telefon", "Soyuducu", "Cənubi Koreya"]
+  },
+  {
+    "mainWord": "Panasonic",
+    "forbiddenWords": ["Elektronika", "Televizor", "Kamera", "Yaponiya", "Batareya"]
+  },
+  {
+    "mainWord": "Xiaomi",
+    "forbiddenWords": ["Telefon", "Smartfon", "Çin", "Mi", "Büdcəli"]
+  },
+  {
+    "mainWord": "Huawei",
+    "forbiddenWords": ["Telefon", "Smartfon", "Çin", "Şəbəkə", "Texnologiya"]
+  },
+  {
+    "mainWord": "Lenovo",
+    "forbiddenWords": ["Kompüter", "Noutbuk", "ThinkPad", "Çin", "Texnologiya"]
+  },
+  {
+    "mainWord": "Acer",
+    "forbiddenWords": ["Kompüter", "Noutbuk", "Tayvan", "Predator", "Texnologiya"]
+  },
+  {
+    "mainWord": "Asus",
+    "forbiddenWords": ["Kompüter", "Noutbuk", "Ana plata", "Tayvan", "ROG"]
+  },
+  {
+    "mainWord": "AMD",
+    "forbiddenWords": ["Prosessor", "Çip", "Ryzen", "Qrafika kartı", "Rəqib"]
+  },
+  {
+    "mainWord": "Nvidia",
+    "forbiddenWords": ["Qrafika kartı", "Çip", "GeForce", "Oyun", "Süni zəka"]
+  },
+  {
+    "mainWord": "Bose",
+    "forbiddenWords": ["Səs sistemi", "Qulaqlıq", "Dinamik", "Səsucaldıcı", "Səs keyfiyyəti"]
+  },
+  {
+    "mainWord": "Sonos",
+    "forbiddenWords": ["Səs sistemi", "Dinamik", "Simsiz", "Ev", "Multiroom"]
+  },
+  {
+    "mainWord": "JBL",
+    "forbiddenWords": ["Səs sistemi", "Dinamik", "Qulaqlıq", "Portativ", "Səsucaldıcı"]
+  },
+  {
+    "mainWord": "Garmin",
+    "forbiddenWords": ["GPS", "Saat", "Naviqasiya", "Fitness", "Ağıllı saat"]
+  },
+  {
+    "mainWord": "Fitbit",
+    "forbiddenWords": ["Fitness izləyici", "Ağıllı saat", "Addım sayar", "Sağlamlıq", "Google"]
+  },
+  {
+    "mainWord": "GoPro",
+    "forbiddenWords": ["Kamera", "Ekşn", "Video", "Su keçirməz", "İdman"]
+  },
+  {
+    "mainWord": "Tesla",
+    "forbiddenWords": ["Elektrikli avtomobil", "Elon Musk", "Model S", "Avtopilot", "Batareya"]
+  },
+  {
+    "mainWord": "Volvo",
+    "forbiddenWords": ["Maşın", "İsveç", "Təhlükəsizlik", "Avtomobil", "SUV"]
+  },
+  {
+    "mainWord": "Jaguar",
+    "forbiddenWords": ["Maşın", "Lüks", "İngiltərə", "Pişik", "İdman avtomobili"]
+  },
+  {
+    "mainWord": "Land Rover",
+    "forbiddenWords": ["Maşın", "SUV", "İngiltərə", "Off-road", "Range Rover"]
+  },
+  {
+    "mainWord": "Jeep",
+    "forbiddenWords": ["Maşın", "SUV", "ABŞ", "Off-road", "Wrangler"]
+  },
+  {
+    "mainWord": "Subaru",
+    "forbiddenWords": ["Maşın", "Yaponiya", "AWD", "Ralli", "Boxer mühərrik"]
+  },
+  {
+    "mainWord": "Mazda",
+    "forbiddenWords": ["Maşın", "Yaponiya", "Zoom-Zoom", "Rotary mühərrik", "MX-5"]
+  },
+  {
+    "mainWord": "Fiat",
+    "forbiddenWords": ["Maşın", "İtaliya", "500", "Kiçik", "Avtomobil"]
+  },
+  {
+    "mainWord": "Renault",
+    "forbiddenWords": ["Maşın", "Fransa", "Clio", "Avtomobil", "Nissan ilə ittifaq"]
+  },
+  {
+    "mainWord": "Peugeot",
+    "forbiddenWords": ["Maşın", "Fransa", "Aslan", "Avtomobil", "Citroën ilə qrup"]
+  },
+  {
+    "mainWord": "Citroën",
+    "forbiddenWords": ["Maşın", "Fransa", "Komfort", "Avtomobil", "Dizayn"]
+  },
+  {
+    "mainWord": "Gap",
+    "forbiddenWords": ["Geyim", "ABŞ", "Cins", "Köynək", "Mağaza"]
+  },
+  {
+    "mainWord": "Old Navy",
+    "forbiddenWords": ["Geyim", "ABŞ", "Gap Inc.", "Ailə", "Büdcəli"]
+  },
+  {
+    "mainWord": "Banana Republic",
+    "forbiddenWords": ["Geyim", "ABŞ", "Gap Inc.", "Ofis", "Klassik"]
+  },
+  {
+    "mainWord": "Uniqlo",
+    "forbiddenWords": ["Geyim", "Yaponiya", "Sadə", "Keyfiyyətli", "Mağaza"]
+  },
+  {
+    "mainWord": "ASOS",
+    "forbiddenWords": ["Onlayn Geyim", "Dəb", "İngiltərə", "Mağaza", "Brendlər"]
+  },
+  {
+    "mainWord": "Shein",
+    "forbiddenWords": ["Onlayn Geyim", "Tez Dəb", "Çin", "Ucuz", "Trend"]
+  },
+  {
+    "mainWord": "Mango",
+    "forbiddenWords": ["Geyim", "İspaniya", "Dəb", "Mağaza", "Qadın"]
+  },
+  {
+    "mainWord": "Massimo Dutti",
+    "forbiddenWords": ["Geyim", "İspaniya", "Inditex", "Klassik", "Zərif"]
+  },
+  {
+    "mainWord": "Bershka",
+    "forbiddenWords": ["Geyim", "İspaniya", "Inditex", "Gənc", "Trend"]
+  },
+  {
+    "mainWord": "Pull&Bear",
+    "forbiddenWords": ["Geyim", "İspaniya", "Inditex", "Gənc", "Küçə tərzi"]
+  },
+  {
+    "mainWord": "Stradivarius",
+    "forbiddenWords": ["Geyim", "İspaniya", "Inditex", "Qadın", "Trend"]
+  },
+  {
+    "mainWord": "Oysho",
+    "forbiddenWords": ["Alt Paltarı", "Gecəlik", "İspaniya", "Inditex", "Komfort"]
+  },
+  {
+    "mainWord": "Victoria's Secret",
+    "forbiddenWords": ["Alt Paltarı", "Mələklər", "ABŞ", "Çəhrayı", "Şou"]
+  },
+  {
+    "mainWord": "Hugo Boss",
+    "forbiddenWords": ["Geyim", "Ətir", "Almaniya", "Kostyum", "Lüks"]
+  },
+  {
+    "mainWord": "Armani",
+    "forbiddenWords": ["Dəb", "İtaliya", "Lüks", "Giorgio", "Kostyum"]
+  },
+  {
+    "mainWord": "Versace",
+    "forbiddenWords": ["Dəb", "İtaliya", "Lüks", "Meduza", "Gianni"]
+  },
+  {
+    "mainWord": "Dior",
+    "forbiddenWords": ["Dəb", "Ətir", "Fransa", "Lüks", "Christian"]
+  },
+  {
+    "mainWord": "Saint Laurent",
+    "forbiddenWords": ["Dəb", "Fransa", "Lüks", "Yves", "Çanta"]
+  },
+  {
+    "mainWord": "Givenchy",
+    "forbiddenWords": ["Dəb", "Fransa", "Lüks", "Hubert", "Kosmetika"]
+  },
+  {
+    "mainWord": "Balenciaga",
+    "forbiddenWords": ["Dəb", "İspaniya/Fransa", "Lüks", "Küçə tərzi", "Demna"]
+  },
+  {
+    "mainWord": "Fendi",
+    "forbiddenWords": ["Dəb", "İtaliya", "Lüks", "Çanta", "Kürk"]
+  },
+  {
+    "mainWord": "Swarovski",
+    "forbiddenWords": ["Kristal", "Zərgərlik", "Avstriya", "Parıltı", "Qu quşu"]
+  },
+  {
+    "mainWord": "Montblanc",
+    "forbiddenWords": ["Qələm", "Saat", "Dəri məmulatları", "Lüks", "Almaniya"]
+  },
+  {
+    "mainWord": "Moët & Chandon",
+    "forbiddenWords": ["Şampan", "Fransa", "Lüks", "İçki", "Qeyd etmə"]
+  },
+  {
+    "mainWord": "Dom Pérignon",
+    "forbiddenWords": ["Şampan", "Fransa", "Lüks", "Vintage", "Moët & Chandon"]
+  },
+  {
+    "mainWord": "Kraft",
+    "forbiddenWords": ["Qida", "Pendir", "Makaron", "ABŞ", "Şirkət"]
+  },
+  {
+    "mainWord": "General Mills",
+    "forbiddenWords": ["Qida", "Səhər yeməyi", "Taxıl", "ABŞ", "Cheerios"]
+  },
+  {
+    "mainWord": "Unilever",
+    "forbiddenWords": ["Məhsullar", "İngiltərə/Niderland", "Dove", "Lipton", "Knorr"]
+  },
+  {
+    "mainWord": "Procter & Gamble (P&G)",
+    "forbiddenWords": ["Məhsullar", "ABŞ", "Pampers", "Gillette", "Ariel"]
+  },
+  {
+    "mainWord": "Fanta",
+    "forbiddenWords": ["İçki", "Portağal", "Qazlı", "Coca-Cola", "Meyvəli"]
+  },
+  {
+    "mainWord": "Sprite",
+    "forbiddenWords": ["İçki", "Limon-Lyme", "Qazlı", "Coca-Cola", "Şəffaf"]
+  },
+  {
+    "mainWord": "Schweppes",
+    "forbiddenWords": ["İçki", "Tonik", "Qazlı", "Zəncəfil", "Mixer"]
+  },
+  {
+    "mainWord": "Lipton",
+    "forbiddenWords": ["Çay", "Paket", "İngiltərə", "Sarı", "Unilever"]
+  },
+  {
+    "mainWord": "Twinings",
+    "forbiddenWords": ["Çay", "İngiltərə", "Klassik", "Earl Grey", "Paket"]
+  },
+  {
+    "mainWord": "Lavazza",
+    "forbiddenWords": ["Qəhvə", "İtaliya", "Espresso", "Dənəli", "Mavi"]
+  },
+  {
+    "mainWord": "Illy",
+    "forbiddenWords": ["Qəhvə", "İtaliya", "Espresso", "Qırmızı", "Kapsul"]
+  },
+  {
+    "mainWord": "Ferrero Rocher",
+    "forbiddenWords": ["Şokolad", "Fındıq", "İtaliya", "Qızılı", "Hədiyyə"]
+  },
+  {
+    "mainWord": "Lindt",
+    "forbiddenWords": ["Şokolad", "İsveçrə", "Lüks", "Lindor", "Top"]
+  },
+  {
+    "mainWord": "Toblerone",
+    "forbiddenWords": ["Şokolad", "Üçbucaq", "İsveçrə", "Bal", "Nougat"]
+  },
+  {
+    "mainWord": "Haribo",
+    "forbiddenWords": ["Şəkərli konfet", "Ayı", "Almaniya", "Rəngli", "Yumşaq"]
+  },
+  {
+    "mainWord": "Lay's",
+    "forbiddenWords": ["Çips", "Kartof", "ABŞ", "Sarı", "Qıvrım"]
+  },
+  {
+    "mainWord": "Pringles",
+    "forbiddenWords": ["Çips", "Kartof", "Qutu", "ABŞ", "Bığ"]
+  },
+  {
+    "mainWord": "Doritos",
+    "forbiddenWords": ["Çips", "Misir", "Üçbucaq", "ABŞ", "Nacho"]
+  },
+  {
+    "mainWord": "Cheetos",
+    "forbiddenWords": ["Çips", "Misir", "Pəncə", "ABŞ", "Pendirli"]
+  },
+  {
+    "mainWord": "Knorr",
+    "forbiddenWords": ["Ədviyyat", "Sup", "Unilever", "Qida", "Kub"]
+  },
+  {
+    "mainWord": "Maggi",
+    "forbiddenWords": ["Ədviyyat", "Sup", "Nestlé", "Qida", "Sarı-Qırmızı"]
+  },
+  {
+    "mainWord": "Walmart",
+    "forbiddenWords": ["Pərakəndə", "Supermarket", "ABŞ", "Ucuz", "Böyük"]
+  },
+  {
+    "mainWord": "Target",
+    "forbiddenWords": ["Pərakəndə", "Mağaza", "ABŞ", "Qırmızı Hədəf", "Dizayn"]
+  },
+  {
+    "mainWord": "Costco",
+    "forbiddenWords": ["Pərakəndə", "Anbar Klubu", "ABŞ", "Üzvlük", "Topdan Satış"]
+  },
+  {
+    "mainWord": "Carrefour",
+    "forbiddenWords": ["Pərakəndə", "Supermarket", "Fransa", "Beynəlxalq", "Mavi-Qırmızı"]
+  },
+  {
+    "mainWord": "Tesco",
+    "forbiddenWords": ["Pərakəndə", "Supermarket", "İngiltərə", "Klub kartı", "Mağaza"]
+  },
+  {
+    "mainWord": "Aldi",
+    "forbiddenWords": ["Pərakəndə", "Diskont", "Almaniya", "Ucuz", "Supermarket"]
+  },
+  {
+    "mainWord": "Lidl",
+    "forbiddenWords": ["Pərakəndə", "Diskont", "Almaniya", "Ucuz", "Supermarket"]
+  },
+  {
+    "mainWord": "7-Eleven",
+    "forbiddenWords": ["Market", "ABŞ/Yaponiya", "24 Saat", "Slurpee", "Qəlyanaltı"]
+  },
+  {
+    "mainWord": "Maybelline",
+    "forbiddenWords": ["Kosmetika", "Makiyaj", "ABŞ", "Tuş", "Büdcəli"]
+  },
+  {
+    "mainWord": "Revlon",
+    "forbiddenWords": ["Kosmetika", "Makiyaj", "ABŞ", "Dodaq boyası", "Klassik"]
+  },
+  {
+    "mainWord": "MAC",
+    "forbiddenWords": ["Kosmetika", "Makiyaj", "Professional", "Kanada/ABŞ", "Mağaza"]
+  },
+  {
+    "mainWord": "Estée Lauder",
+    "forbiddenWords": ["Kosmetika", "Dəri baxımı", "Lüks", "ABŞ", "Serum"]
+  },
+  {
+    "mainWord": "Clinique",
+    "forbiddenWords": ["Kosmetika", "Dəri baxımı", "Hipoallergen", "ABŞ", "3 Adım"]
+  },
+  {
+    "mainWord": "Lancôme",
+    "forbiddenWords": ["Kosmetika", "Ətir", "Dəri baxımı", "Lüks", "Fransa"]
+  },
+  {
+    "mainWord": "Kiehl's",
+    "forbiddenWords": ["Dəri baxımı", "ABŞ", "Aptek", "Təbii", "Kremlər"]
+  },
+  {
+    "mainWord": "Head & Shoulders",
+    "forbiddenWords": ["Şampun", "Kəpək", "P&G", "Mavi", "Saç baxımı"]
+  },
+  {
+    "mainWord": "Pantene",
+    "forbiddenWords": ["Şampun", "Saç baxımı", "P&G", "Pro-V", "Parlaqlıq"]
+  },
+  {
+    "mainWord": "Garnier",
+    "forbiddenWords": ["Şampun", "Saç boyası", "Dəri baxımı", "L'Oréal", "Fransa"]
+  },
+  {
+    "mainWord": "Axe/Lynx",
+    "forbiddenWords": ["Deodorant", "Kişi baxımı", "Unilever", "Sprey", "Ətir"]
+  },
+  {
+    "mainWord": "Old Spice",
+    "forbiddenWords": ["Deodorant", "Kişi baxımı", "P&G", "Qırmızı", "Ətir"]
+  },
+  {
+    "mainWord": "Whirlpool",
+    "forbiddenWords": ["Məişət texnikası", "Paltaryuyan", "Soyuducu", "ABŞ", "Ağ"]
+  },
+  {
+    "mainWord": "Bosch",
+    "forbiddenWords": ["Məişət texnikası", "Alətlər", "Almaniya", "Keyfiyyət", "Mühəndislik"]
+  },
+  {
+    "mainWord": "Dyson",
+    "forbiddenWords": ["Məişət texnikası", "Tozsoran", "Hava təmizləyici", "İngiltərə", "Dizayn"]
+  },
+  {
+    "mainWord": "Tefal",
+    "forbiddenWords": ["Mətbəx əşyaları", "Tava", "Yapışmaz", "Fransa", "Groupe SEB"]
+  },
+  {
+    "mainWord": "Krups",
+    "forbiddenWords": ["Mətbəx əşyaları", "Qəhvə maşını", "Almaniya", "Groupe SEB", "Kiçik texnika"]
+  },
+  {
+    "mainWord": "Braun",
+    "forbiddenWords": ["Məişət texnikası", "Ülgüc", "Blender", "Almaniya", "Dizayn"]
+  },
+  {
+    "mainWord": "Kenwood",
+    "forbiddenWords": ["Mətbəx əşyaları", "Mikser", "İngiltərə", "Aşpazlıq", "De'Longhi"]
+  },
+  {
+    "mainWord": "De'Longhi",
+    "forbiddenWords": ["Mətbəx əşyaları", "Qəhvə maşını", "İtaliya", "İsitmə", "Kiçik texnika"]
+  },
+  {
+    "mainWord": "H&M",
+    "forbiddenWords": ["Moda", "Geyim", "İsveç", "Aksesuar", "Lüks"]
+  },
+  {
+    "mainWord": "Zara",
+    "forbiddenWords": ["Moda", "Geyim", "İspaniya", "Aksesuar", "Lüks"]
+  },
+  {
+    "mainWord": "Mango",
+    "forbiddenWords": ["Moda", "Geyim", "İspaniya", "Aksesuar", "Lüks"]
+  },
+  {
+    "mainWord": "Uniqlo",
+    "forbiddenWords": ["Moda", "Geyim", "Japonya", "Aksesuar", "Klassik"]
+  },
+  {
+    "mainWord": "Levi's",
+    "forbiddenWords": ["Geyim", "Jeans", "Moda", "Amerika", "Lüks"]
+  },
+  {
+    "mainWord": "Wrangler",
+    "forbiddenWords": ["Jeans", "Geyim", "Moda", "Amerika", "Sərt"]
+  },
+  {
+    "mainWord": "Carhartt",
+    "forbiddenWords": ["Geyim", "Amerika", "Moda", "İş", "Sərt"]
+  },
+  {
+    "mainWord": "Diesel",
+    "forbiddenWords": ["Geyim", "Jeans", "Moda", "Lüks", "İtaliya"]
+  },
+  {
+    "mainWord": "American Eagle",
+    "forbiddenWords": ["Geyim", "Jeans", "Moda", "Amerika", "Aksesuar"]
+  },
+  {
+    "mainWord": "Puma",
+    "forbiddenWords": ["İdman", "Ayaqqabı", "Geyim", "Aksesuar", "Almaniya"]
+  },
+  {
+    "mainWord": "Reebok",
+    "forbiddenWords": ["İdman", "Ayaqqabı", "Geyim", "Aksesuar", "Amerika"]
+  },
+  {
+    "mainWord": "Converse",
+    "forbiddenWords": ["İdman", "Ayaqqabı", "Geyim", "Aksesuar", "Amerika"]
+  },
+  {
+    "mainWord": "Vans",
+    "forbiddenWords": ["İdman", "Ayaqqabı", "Geyim", "Aksesuar", "Amerika"]
+  },
+  {
+    "mainWord": "New Balance",
+    "forbiddenWords": ["İdman", "Ayaqqabı", "Geyim", "Aksesuar", "Amerika"]
+  },
+  {
+    "mainWord": "Skechers",
+    "forbiddenWords": ["İdman", "Ayaqqabı", "Geyim", "Aksesuar", "Amerika"]
+  },
+  {
+    "mainWord": "Crocs",
+    "forbiddenWords": ["Ayaqqabı", "Geyim", "İdman", "Amerika", "Komfort"]
+  },
+  {
+    "mainWord": "Fossil",
+    "forbiddenWords": ["Saat", "Aksesuar", "Moda", "Amerika", "Lüks"]
+  },
+  {
+    "mainWord": "Rolex",
+    "forbiddenWords": ["Saat", "Lüks", "Moda", "İsveçrə", "Zərgərlik"]
+  },
+  {
+    "mainWord": "Omega",
+    "forbiddenWords": ["Saat", "Lüks", "Moda", "İsveçrə", "Zərgərlik"]
+  },
+  {
+    "mainWord": "Tag Heuer",
+    "forbiddenWords": ["Saat", "Lüks", "Moda", "İsveçrə", "Zərgərlik"]
+  },
+  {
+    "mainWord": "Patek Philippe",
+    "forbiddenWords": ["Saat", "Lüks", "Moda", "İsveçrə", "Zərgərlik"]
+  },
+  {
+    "mainWord": "Breitling",
+    "forbiddenWords": ["Saat", "Lüks", "Moda", "İsveçrə", "Zərgərlik"]
+  },
+  {
+    "mainWord": "Audemars Piguet",
+    "forbiddenWords": ["Saat", "Lüks", "Moda", "İsveçrə", "Zərgərlik"]
+  },
+  {
+    "mainWord": "Cartier",
+    "forbiddenWords": ["Saat", "Zərgərlik", "Lüks", "Fransa", "Moda"]
+  },
+  {
+    "mainWord": "Tissot",
+    "forbiddenWords": ["Saat", "Lüks", "İsveçrə", "Moda", "Zərgərlik"]
+  },
+  {
+    "mainWord": "Casio",
+    "forbiddenWords": ["Saat", "Elektronika", "Moda", "Texnologiya", "Əl saatı"]
+  },
+  {
+    "mainWord": "Seiko",
+    "forbiddenWords": ["Saat", "Moda", "İsveçrə", "Texnologiya", "Elektronika"]
+  },
+  {
+    "mainWord": "Fujifilm",
+    "forbiddenWords": ["Kamera", "Elektronika", "Texnologiya", "Şəkil", "Yaponiya"]
+  },
+  {
+    "mainWord": "Canon",
+    "forbiddenWords": ["Kamera", "Elektronika", "Texnologiya", "Şəkil", "Yaponiya"]
+  },
+  {
+    "mainWord": "Nikon",
+    "forbiddenWords": ["Kamera", "Elektronika", "Texnologiya", "Şəkil", "Yaponiya"]
+  },
+  {
+    "mainWord": "Panasonic",
+    "forbiddenWords": ["Kamera", "Elektronika", "Texnologiya", "Cihaz", "Yaponiya"]
+  },
+  {
+    "mainWord": "Sony",
+    "forbiddenWords": ["Kamera", "Elektronika", "Texnologiya", "Musiqi", "Konsol"]
+  },
+  {
+    "mainWord": "GoPro",
+    "forbiddenWords": ["Kamera", "Elektronika", "Şəkil", "Video", "Texnologiya"]
+  },
+  {
+    "mainWord": "Logitech",
+    "forbiddenWords": ["Elektronika", "Texnologiya", "Klavye", "Mouse", "Cihaz"]
+  },
+  {
+    "mainWord": "Razer",
+    "forbiddenWords": ["Elektronika", "Oyun", "Klavye", "Kompüter", "Texnologiya"]
+  },
+  {
+    "mainWord": "Corsair",
+    "forbiddenWords": ["Elektronika", "Klavye", "Oyun", "Kompüter", "Texnologiya"]
+  },
+  {
+    "mainWord": "SteelSeries",
+    "forbiddenWords": ["Elektronika", "Klavye", "Oyun", "Kompüter", "Texnologiya"]
+  },
+  {
+    "mainWord": "Alienware",
+    "forbiddenWords": ["Kompüter", "Oyun", "Texnologiya", "Laptop", "Elektronika"]
+  },
+  {
+    "mainWord": "Dell",
+    "forbiddenWords": ["Kompüter", "Elektronika", "Laptop", "Texnologiya", "İş"]
+  },
+  {
+    "mainWord": "Acer",
+    "forbiddenWords": ["Kompüter", "Elektronika", "Laptop", "Ekran", "Texnologiya"]
+  },
+  {
+    "mainWord": "MSI",
+    "forbiddenWords": ["Kompüter", "Elektronika", "Laptop", "Ekran", "Oyun"]
+  },
+  {
+    "mainWord": "Asus",
+    "forbiddenWords": ["Kompüter", "Elektronika", "Laptop", "Ekran", "Texnologiya"]
+  },
+  {
+    "mainWord": "Lenovo",
+    "forbiddenWords": ["Kompüter", "Elektronika", "Laptop", "Ekran", "Çin"]
+  },
+  {
+    "mainWord": "Huawei",
+    "forbiddenWords": ["Telefon", "Elektronika", "Çin", "Ekran", "Texnologiya"]
+  },
+  {
+    "mainWord": "Xiaomi",
+    "forbiddenWords": ["Telefon", "Elektronika", "Çin", "Ekran", "Texnologiya"]
+  },
+  {
+    "mainWord": "Oppo",
+    "forbiddenWords": ["Telefon", "Elektronika", "Çin", "Ekran", "Texnologiya"]
+  },
+  {
+    "mainWord": "OnePlus",
+    "forbiddenWords": ["Telefon", "Elektronika", "Çin", "Ekran", "Texnologiya"]
+  },
+  {
+    "mainWord": "Realme",
+    "forbiddenWords": ["Telefon", "Elektronika", "Çin", "Ekran", "Texnologiya"]
+  },
+  {
+    "mainWord": "Vivo",
+    "forbiddenWords": ["Telefon", "Elektronika", "Çin", "Ekran", "Texnologiya"]
+  },
+  {
+    "mainWord": "Samsung",
+    "forbiddenWords": ["Telefon", "Elektronika", "Ekran", "Texnologiya", "Galaxy"]
+  },
+  {
+    "mainWord": "Apple",
+    "forbiddenWords": ["Telefon", "Elektronika", "İphone", "Ekran", "Texnologiya"]
+  },
+  {
+    "mainWord": "Lamborghini",
+    "forbiddenWords": ["Maşın", "İtaliya", "Lüks", "İdman", "Aventador"]
+  },
+  {
+    "mainWord": "Maserati",
+    "forbiddenWords": ["Maşın", "İtaliya", "Lüks", "İdman", "Üç dişli"]
+  },
+  {
+    "mainWord": "Aston Martin",
+    "forbiddenWords": ["Maşın", "İngiltərə", "Lüks", "James Bond", "DB"]
+  },
+  {
+    "mainWord": "McLaren",
+    "forbiddenWords": ["Maşın", "İngiltərə", "Superkar", "Formula 1", "Sürət"]
+  },
+  {
+    "mainWord": "Bugatti",
+    "forbiddenWords": ["Maşın", "Fransa", "Hiperkar", "Veyron", "Chiron"]
+  },
+  {
+    "mainWord": "Rolls-Royce",
+    "forbiddenWords": ["Maşın", "İngiltərə", "Lüks", "Phantom", "Spirit of Ecstasy"]
+  },
+  {
+    "mainWord": "Bentley",
+    "forbiddenWords": ["Maşın", "İngiltərə", "Lüks", "Continental GT", "Volkswagen Qrupu"]
+  },
+  {
+    "mainWord": "Harley-Davidson",
+    "forbiddenWords": ["Motosiklet", "ABŞ", "Kruizer", "V-Twin", "Dəri"]
+  },
+  {
+    "mainWord": "Ducati",
+    "forbiddenWords": ["Motosiklet", "İtaliya", "İdman", "Qırmızı", "Sürət"]
+  },
+  {
+    "mainWord": "Kawasaki",
+    "forbiddenWords": ["Motosiklet", "Yaponiya", "Ninja", "Yaşıl", "İdman"]
+  },
+  {
+    "mainWord": "Yamaha",
+    "forbiddenWords": ["Motosiklet", "Piano", "Səs Sistemi", "Yaponiya", "Musiqi Aləti"]
+  },
+  {
+    "mainWord": "Qualcomm",
+    "forbiddenWords": ["Çip", "Mobil Prosessor", "Snapdragon", "Texnologiya", "ABŞ"]
+  },
+  {
+    "mainWord": "Logitech",
+    "forbiddenWords": ["Klaviatura", "Mouse", "Vebkamera", "İsveçrə", "Kompüter Aksesuarı"]
+  },
+  {
+    "mainWord": "Razer",
+    "forbiddenWords": ["Oyun Aksesuarı", "Mouse", "Klaviatura", "Noutbuk", "Yaşıl İlan"]
+  },
+  {
+    "mainWord": "Corsair",
+    "forbiddenWords": ["Kompüter Komponentləri", "RAM", "Klaviatura", "Oyun", "ABŞ"]
+  },
+  {
+    "mainWord": "Western Digital",
+    "forbiddenWords": ["Hard Disk", "Yaddaş", "SSD", "Kompüter", "Məlumat Saxlama"]
+  },
+  {
+    "mainWord": "Seagate",
+    "forbiddenWords": ["Hard Disk", "Yaddaş", "SSD", "Kompüter", "Məlumat Saxlama"]
+  },
+  {
+    "mainWord": "SanDisk",
+    "forbiddenWords": ["Yaddaş Kartı", "USB", "SSD", "Western Digital", "Məlumat Saxlama"]
+  },
+  {
+    "mainWord": "Toshiba",
+    "forbiddenWords": ["Elektronika", "Noutbuk", "Televizor", "Yaponiya", "Yaddaş"]
+  },
+  {
+    "mainWord": "Sharp",
+    "forbiddenWords": ["Elektronika", "Televizor", "Ekran", "Hesablayıcı", "Yaponiya"]
+  },
+  {
+    "mainWord": "Motorola",
+    "forbiddenWords": ["Telefon", "Mobil", "ABŞ/Çin", "Razr", "Lenovo"]
+  },
+  {
+    "mainWord": "Nokia",
+    "forbiddenWords": ["Telefon", "Mobil", "Finlandiya", "3310", "HMD Global"]
+  },
+  {
+    "mainWord": "Ericsson",
+    "forbiddenWords": ["Telekommunikasiya", "Şəbəkə", "İsveç", "5G", "Mobil Rabitə"]
+  },
+  {
+    "mainWord": "BlackBerry",
+    "forbiddenWords": ["Telefon", "Smartfon", "Kanada", "Klaviatura", "Biznes"]
+  },
+  {
+    "mainWord": "Beats by Dre",
+    "forbiddenWords": ["Qulaqlıq", "Səs", "Dr. Dre", "Apple", "Musiqi"]
+  },
+  {
+    "mainWord": "Sennheiser",
+    "forbiddenWords": ["Qulaqlıq", "Mikrofon", "Səs", "Almaniya", "Audio"]
+  },
+  {
+    "mainWord": "Marshall",
+    "forbiddenWords": ["Səs Sistemi", "Dinamik", "Qulaqlıq", "Gitara Amp", "İngiltərə"]
+  },
+  {
+    "mainWord": "Pioneer DJ",
+    "forbiddenWords": ["DJ Avadanlığı", "Mikser", "Player", "Yaponiya", "Musiqi"]
+  },
+  {
+    "mainWord": "Denon",
+    "forbiddenWords": ["Səs Sistemi", "Ev Kinoteatrı", "Yaponiya", "Audio", "Hi-Fi"]
+  },
+  {
+    "mainWord": "Marantz",
+    "forbiddenWords": ["Səs Sistemi", "Ev Kinoteatrı", "Yaponiya/ABŞ", "Audio", "Hi-Fi"]
+  },
+  {
+    "mainWord": "Roku",
+    "forbiddenWords": ["Axın Cihazı", "Televizor", "Streaming", "Kanal", "ABŞ"]
+  },
+  {
+    "mainWord": "Amazon Echo",
+    "forbiddenWords": ["Ağıllı Dinamik", "Alexa", "Səsli Köməkçi", "Amazon", "Smarthome"]
+  },
+  {
+    "mainWord": "Google Nest",
+    "forbiddenWords": ["Ağıllı Ev", "Termostat", "Dinamik", "Google", "Smarthome"]
+  },
+  {
+    "mainWord": "Ring",
+    "forbiddenWords": ["Ağıllı Qapı Zəngi", "Kamera", "Təhlükəsizlik", "Amazon", "Smarthome"]
+  },
+  {
+    "mainWord": "Valentino",
+    "forbiddenWords": ["Dəb", "İtaliya", "Lüks", "Qırmızı", "Geyim"]
+  },
+  {
+    "mainWord": "Dolce & Gabbana",
+    "forbiddenWords": ["Dəb", "İtaliya", "Lüks", "Siciliya", "Geyim"]
+  },
+  {
+    "mainWord": "Bottega Veneta",
+    "forbiddenWords": ["Dəb", "İtaliya", "Lüks", "Dəri Hörgü", "Çanta"]
+  },
+  {
+    "mainWord": "Balmain",
+    "forbiddenWords": ["Dəb", "Fransa", "Lüks", "Çiyin Vatkalı", "Geyim"]
+  },
+  {
+    "mainWord": "Off-White",
+    "forbiddenWords": ["Dəb", "Küçə Tərzi", "Lüks", "Virgil Abloh", "İtaliya"]
+  },
+  {
+    "mainWord": "Supreme",
+    "forbiddenWords": ["Dəb", "Küçə Tərzi", "ABŞ", "Qırmızı Loqo", "Kaykay"]
+  },
+  {
+    "mainWord": "Alexander McQueen",
+    "forbiddenWords": ["Dəb", "İngiltərə", "Lüks", "Kəllə", "Dizayner"]
+  },
+  {
+    "mainWord": "Stella McCartney",
+    "forbiddenWords": ["Dəb", "İngiltərə", "Vegan", "Davamlı", "Paul"]
+  },
+  {
+    "mainWord": "Vivienne Westwood",
+    "forbiddenWords": ["Dəb", "İngiltərə", "Punk", "Dizayner", "Aktivist"]
+  },
+  {
+    "mainWord": "Moncler",
+    "forbiddenWords": ["Geyim", "Gödəkçə", "İtaliya/Fransa", "Lüks", "Qış"]
+  },
+  {
+    "mainWord": "Canada Goose",
+    "forbiddenWords": ["Geyim", "Gödəkçə", "Kanada", "Soyuq", "Qütb"]
+  },
+  {
+    "mainWord": "Michael Kors",
+    "forbiddenWords": ["Çanta", "Saat", "Geyim", "ABŞ", "Lüks"]
+  },
+  {
+    "mainWord": "Coach",
+    "forbiddenWords": ["Çanta", "Dəri məmulatları", "ABŞ", "Lüks", "At Arabası"]
+  },
+  {
+    "mainWord": "Kate Spade",
+    "forbiddenWords": ["Çanta", "Aksesuar", "ABŞ", "Rəngli", "Dəb"]
+  },
+  {
+    "mainWord": "Tory Burch",
+    "forbiddenWords": ["Ayaqqabı", "Çanta", "ABŞ", "Loqo", "Dəb"]
+  },
+  {
+    "mainWord": "Jimmy Choo",
+    "forbiddenWords": ["Ayaqqabı", "İngiltərə/Malayziya", "Lüks", "Hündürdaban", "Çanta"]
+  },
+  {
+    "mainWord": "Christian Louboutin",
+    "forbiddenWords": ["Ayaqqabı", "Fransa", "Lüks", "Qırmızı Taban", "Hündürdaban"]
+  },
+  {
+    "mainWord": "Manolo Blahnik",
+    "forbiddenWords": ["Ayaqqabı", "İspaniya/İngiltərə", "Lüks", "Hündürdaban", "Sex and the City"]
+  },
+  {
+    "mainWord": "Skechers",
+    "forbiddenWords": ["Ayaqqabı", "Rahat", "ABŞ", "İdman", "Gündəlik"]
+  },
+  {
+    "mainWord": "New Balance",
+    "forbiddenWords": ["Ayaqqabı", "İdman", "ABŞ", "Qaçış", "Klassik"]
+  },
+  {
+    "mainWord": "ASICS",
+    "forbiddenWords": ["Ayaqqabı", "İdman", "Yaponiya", "Qaçış", "Voleybol"]
+  },
+  {
+    "mainWord": "Timberland",
+    "forbiddenWords": ["Ayaqqabı", "Bot", "ABŞ", "Sarı", "Outdoor"]
+  },
+  {
+    "mainWord": "Dr. Martens",
+    "forbiddenWords": ["Ayaqqabı", "Bot", "İngiltərə", "Sarı Tikiş", "Punk"]
+  },
+  {
+    "mainWord": "Birkenstock",
+    "forbiddenWords": ["Sandal", "Almaniya", "Rahat", "Mantar Taban", "Yay"]
+  },
+  {
+    "mainWord": "Crocs",
+    "forbiddenWords": ["Ayaqqabı", "Plastik", "ABŞ", "Rahat", "Deşiklər"]
+  },
+  {
+    "mainWord": "Vans",
+    "forbiddenWords": ["Ayaqqabı", "Kaykay", "ABŞ", "Off The Wall", "Klassik"]
+  },
+  {
+    "mainWord": "Converse",
+    "forbiddenWords": ["Ayaqqabı", "Keta", "ABŞ", "All Star", "Basketbol"]
+  },
+  {
+    "mainWord": "Ray-Ban",
+    "forbiddenWords": ["Eynək", "Günəş Eynəyi", "ABŞ/İtaliya", "Aviator", "Wayfarer"]
+  },
+  {
+    "mainWord": "Oakley",
+    "forbiddenWords": ["Eynək", "Günəş Eynəyi", "İdman", "ABŞ", "Performans"]
+  },
+  {
+    "mainWord": "Fossil",
+    "forbiddenWords": ["Saat", "Çanta", "Dəri məmulatları", "ABŞ", "Vintage"]
+  },
+  {
+    "mainWord": "Swatch",
+    "forbiddenWords": ["Saat", "İsveçrə", "Rəngli", "Plastik", "Dəbli"]
+  },
+  {
+    "mainWord": "Mondelez",
+    "forbiddenWords": ["Qida", "Oreo", "Cadbury", "Toblerone", "Şirkət"]
+  },
+  {
+    "mainWord": "Heineken",
+    "forbiddenWords": ["Pivə", "Niderland", "Yaşıl Şüşə", "Ulduz", "Alkoqol"]
+  },
+  {
+    "mainWord": "Budweiser",
+    "forbiddenWords": ["Pivə", "ABŞ", "King of Beers", "Atlar", "Alkoqol"]
+  },
+  {
+    "mainWord": "Carlsberg",
+    "forbiddenWords": ["Pivə", "Danimarka", "Yəqin ki, Dünyanın Ən Yaxşısı", "Yaşıl", "Alkoqol"]
+  },
+  {
+    "mainWord": "Guinness",
+    "forbiddenWords": ["Pivə", "İrlandiya", "Tünd", "Stout", "Arfa"]
+  },
+  {
+    "mainWord": "Corona",
+    "forbiddenWords": ["Pivə", "Meksika", "Limon", "Açıq rəngli", "Yay"]
+  },
+  {
+    "mainWord": "Jack Daniel's",
+    "forbiddenWords": ["Viski", "Tennessi", "ABŞ", "Old No. 7", "Alkoqol"]
+  },
+  {
+    "mainWord": "Johnnie Walker",
+    "forbiddenWords": ["Viski", "Şotlandiya", "Qarışıq", "Gəzən Adam", "Alkoqol"]
+  },
+  {
+    "mainWord": "Smirnoff",
+    "forbiddenWords": ["Araq", "Rusiya/ABŞ", "Qırmızı", "Kokteyl", "Alkoqol"]
+  },
+  {
+    "mainWord": "Absolut",
+    "forbiddenWords": ["Araq", "İsveç", "Şüşə Dizaynı", "Dadlandırılmış", "Alkoqol"]
+  },
+  {
+    "mainWord": "Bacardi",
+    "forbiddenWords": ["Rom", "Kuba/Puerto Riko", "Yarasa", "Kokteyl", "Alkoqol"]
+  },
+  {
+    "mainWord": "Dunkin'",
+    "forbiddenWords": ["Qəhvə", "Donut", "ABŞ", "Səhər Yeməyi", "Kafe"]
+  },
+  {
+    "mainWord": "Nespresso",
+    "forbiddenWords": ["Qəhvə", "Kapsul", "Nestlé", "İsveçrə", "Espresso Maşını"]
+  },
+  {
+    "mainWord": "Keurig",
+    "forbiddenWords": ["Qəhvə", "K-Cup", "ABŞ", "Tək Porsiya", "Maşın"]
+  },
+  {
+    "mainWord": "Ben & Jerry's",
+    "forbiddenWords": ["Dondurma", "ABŞ", "Qeyri-adi Dadlar", "Vermont", "Unilever"]
+  },
+  {
+    "mainWord": "Häagen-Dazs",
+    "forbiddenWords": ["Dondurma", "ABŞ", "Lüks", "Keyfiyyət", "General Mills/Nestlé"]
+  },
+  {
+    "mainWord": "Magnum",
+    "forbiddenWords": ["Dondurma", "Çubuqda", "Şokolad Qabıqlı", "Unilever", "Lüks"]
+  },
+  {
+    "mainWord": "Kinder",
+    "forbiddenWords": ["Şokolad", "Sürpriz Yumurta", "Ferrero", "İtaliya", "Uşaq"]
+  },
+  {
+    "mainWord": "Milka",
+    "forbiddenWords": ["Şokolad", "Bənövşəyi", "Alp Südü", "Almaniya/İsveçrə", "Mondelez"]
+  },
+  {
+    "mainWord": "Walgreens",
+    "forbiddenWords": ["Aptek", "Pərakəndə", "ABŞ", "Sağlamlıq", "Mağaza"]
+  },
+  {
+    "mainWord": "CVS Pharmacy",
+    "forbiddenWords": ["Aptek", "Pərakəndə", "ABŞ", "Sağlamlıq", "Recept"]
+  },
+  {
+    "mainWord": "The Home Depot",
+    "forbiddenWords": ["Ev Təmiri", "Tikinti Materialları", "ABŞ", "Narıncı", "Mağaza"]
+  },
+  {
+    "mainWord": "Lowe's",
+    "forbiddenWords": ["Ev Təmiri", "Tikinti Materialları", "ABŞ", "Mavi", "Rəqib"]
+  },
+  {
+    "mainWord": "Best Buy",
+    "forbiddenWords": ["Elektronika Mağazası", "ABŞ", "Televizor", "Kompüter", "Sarı Etiket"]
+  },
+  {
+    "mainWord": "Sephora",
+    "forbiddenWords": ["Kosmetika Mağazası", "Lüks", "Fransa", "Makiyaj", "Qara-Ağ"]
+  },
+  {
+    "mainWord": "Ulta Beauty",
+    "forbiddenWords": ["Kosmetika Mağazası", "ABŞ", "Salon", "Gözəllik", "Pərakəndə"]
+  },
+  {
+    "mainWord": "Airbnb",
+    "forbiddenWords": ["Ev Kirayəsi", "Səyahət", "Onlayn Platforma", "Qalma", "Qısa Müddətli"]
+  },
+  {
+    "mainWord": "Uber",
+    "forbiddenWords": ["Taksi Alternativi", "Sürücü", "Tətbiq", "Nəqliyyat", "Paylaşım"]
+  },
+  {
+    "mainWord": "FedEx",
+    "forbiddenWords": ["Çatdırılma", "Kuryer", "ABŞ", "Express", "Loqodakı Ox"]
+  },
+  {
+    "mainWord": "UPS",
+    "forbiddenWords": ["Çatdırılma", "Kuryer", "ABŞ", "Qəhvəyi", "Logistika"]
+  },
+  {
+    "mainWord": "DHL",
+    "forbiddenWords": ["Çatdırılma", "Kuryer", "Almaniya", "Beynəlxalq", "Sarı-Qırmızı"]
+  },
+  {
+    "mainWord": "Shiseido",
+    "forbiddenWords": ["Kosmetika", "Dəri baxımı", "Yaponiya", "Lüks", "Yaşlanma əleyhinə"]
+  },
+  {
+    "mainWord": "Neutrogena",
+    "forbiddenWords": ["Dəri baxımı", "ABŞ", "Aptek", "Sızanaq", "J&J"]
+  },
+  {
+    "mainWord": "Olay",
+    "forbiddenWords": ["Dəri baxımı", "ABŞ", "Yaşlanma əleyhinə", "Kremlər", "P&G"]
+  },
+  {
+    "mainWord": "La Roche-Posay",
+    "forbiddenWords": ["Dəri baxımı", "Fransa", "Termal Su", "Həssas Dəri", "L'Oréal"]
+  }
+]
