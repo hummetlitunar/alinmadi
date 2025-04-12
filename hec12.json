@@ -391,11 +391,6 @@
     "mainWord": "Azərbaycan Xalq Cümhuriyyəti (ADR)",
     "forbiddenWords": ["1918-1920", "İlk Respublika", "Müsəlman Şərqi", "İstiqlal Bəyannaməsi", "Rəsulzadə"]
   },
-
-
-
-
-[
   {
     "mainWord": "Çaldıran Döyüşü",
     "forbiddenWords": ["1514", "Səfəvi", "Osmanlı", "Şah İsmayıl", "Sultan Səlim"]
