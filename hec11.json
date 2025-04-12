@@ -859,10 +859,6 @@
     "mainWord": "Məcəllə",
     "forbiddenWords": ["Qanun", "Hüquq", "Qaydalar", "Norma", "Qanunvericilik"]
   },
-
-
-
-  [
   {
     "mainWord": "Təqsirləndirilən",
     "forbiddenWords": ["Cinayət", "Məhkəmə", "Cəza", "İttiham", "İstintaq"]
